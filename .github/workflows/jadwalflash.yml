@@ -1,0 +1,111 @@
+name: Run jadwalflash.py
+
+on:
+  schedule:
+    - cron: '0 17 * * *'  # Setiap hari jam 00:00 WIB (17:00 UTC)
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Jakarta
+  LC_ALL: C.UTF-8
+  LANG: C.UTF-8
+
+jobs:
+  run-jadwalflash:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Set WIB Timezone
+      uses: szenius/set-timezone@v2.0
+      with:
+        timezoneLinux: "Asia/Jakarta"
+    
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+    
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@users.noreply.github.com'
+    
+    - name: Set up Chrome options
+      run: |
+        echo "CHROME_BIN=/usr/bin/chromium-browser" >> $GITHUB_ENV
+        echo "CHROMEDRIVER_PATH=/usr/lib/chromium-browser/chromedriver" >> $GITHUB_ENV
+    
+    - name: Run jadwalflash.py
+      id: run_script
+      env:
+        CHROME_BIN: /usr/bin/chromium-browser
+        CHROMEDRIVER_PATH: /usr/lib/chromium-browser/chromedriver
+        TZ: Asia/Jakarta
+      run: |
+        set -e
+        TIMESTAMP=$(TZ='Asia/Jakarta' date +"%Y%m%d_%H%M%S")
+        LOG_FILE="logs/jadwalflash_${TIMESTAMP}.log"
+        
+        mkdir -p logs
+        echo "Menjalankan jadwalflash.py..."
+        
+        if python jadwalflash.py 2>&1 | tee "$LOG_FILE"; then
+          echo "jadwalflash.py selesai dengan sukses"
+          echo "SCRIPT_STATUS=success" >> $GITHUB_OUTPUT
+        else
+          echo "Error saat menjalankan jadwalflash.py"
+          echo "SCRIPT_STATUS=failed" >> $GITHUB_OUTPUT
+          exit 1
+        fi
+        
+        # Backup file JSON
+        mkdir -p backup_json
+        find . -name "*.json" -type f -exec cp --parents {} backup_json/ \;
+    
+    - name: Commit and push changes
+      if: steps.run_script.outputs.SCRIPT_STATUS == 'success'
+      run: |
+        git add *.json sch/*.json translate/*.json
+        COMMIT_MSG="Auto-update: jadwalflash.py $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S %Z')"
+        git commit -m "$COMMIT_MSG" --date="$(TZ='Asia/Jakarta' date)" || echo "Tidak ada perubahan yang perlu di-commit"
+        git push || echo "Tidak ada perubahan yang perlu di-push"
+    
+    - name: Upload artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: jadwalflash-outputs-${{ github.run_id }}
+        path: |
+          *.json
+          sch/*.json
+          translate/*.json
+          logs/
+          backup_json/
+        retention-days: 7
+    
+    - name: Notify on failure
+      if: failure()
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const { data } = await github.rest.issues.createComment({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+            body: `❌ jadwalflash.py gagal dijalankan (Waktu Jakarta: ${new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })}).\nSilakan periksa log untuk detail lebih lanjut.`
+          })
