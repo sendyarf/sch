@@ -6,12 +6,19 @@ from fuzzywuzzy import fuzz
 from datetime import datetime, timedelta
 import logging
 
-# Set up logging
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+# Set up logging to console and file
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('merge.log'),
+        logging.StreamHandler()
+    ]
+)
 
 # Function to normalize names
 def normalize_name(name: str) -> str:
-    name = re.sub(r'\s*\([^)]*\)', '', name)  # Remove parentheses
+    name = re.sub(r'\s*\([^)]*\)', '', name)
     name = name.lower().strip()
     accents = {'ñ': 'n', 'é': 'e', 'í': 'i', 'ó': 'o', 'á': 'a', 'ú': 'u'}
     for acc, repl in accents.items():
@@ -55,6 +62,7 @@ def strict_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any
              (sch_norm_team1 == norm_team2 and sch_norm_team2 == norm_team1)) and
             sch['kickoff_date'] == date and
             sch['kickoff_time'] == time):
+            logging.debug(f"Strict match found for {item['id']} with {sch['id']}")
             return idx
     return -1
 
@@ -69,6 +77,7 @@ def strict_match_inplaynet(schedule: List[Dict[str, Any]], item: Dict[str, Any])
         if (sch_norm_league == norm_league and
             ((sch_norm_team1 == norm_team1 and sch_norm_team2 == norm_team2) or
              (sch_norm_team1 == norm_team2 and sch_norm_team2 == norm_team1))):
+            logging.debug(f"Strict match found for {item['id']} with {sch['id']}")
             return idx
     return -1
 
@@ -82,11 +91,12 @@ def strict_match_sportsonline(schedule: List[Dict[str, Any]], item: Dict[str, An
         if (((sch_norm_team1 == norm_team1 and sch_norm_team2 == norm_team2) or
              (sch_norm_team1 == norm_team2 and sch_norm_team2 == norm_team1)) and
             sch['kickoff_time'] == time):
+            logging.debug(f"Strict match found for {item['id']} with {sch['id']}")
             return idx
     return -1
 
 # Function for fuzzy matching (rere.json and manual.json)
-def find_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.65) -> int:
+def find_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.8) -> int:
     best_match_idx = -1
     best_score = 0.0
     norm_league = normalize_name(item['league'])
@@ -113,7 +123,7 @@ def find_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any],
         time_diff = time_difference(time, sch['kickoff_time'], date, sch['kickoff_date'])
         time_score = 1.0 if time_diff <= 30 else max(0.0, 1.0 - time_diff / 120.0)
 
-        total_score = (0.1 * league_score + 0.5 * team_score + 0.2 * date_score + 0.2 * time_score)
+        total_score = (0.2 * league_score + 0.7 * team_score + 0.05 * date_score + 0.05 * time_score)
         
         logging.debug(
             f"Comparing {item['id']} with {sch['id']}: league_score={league_score:.2f}, team_score={team_score:.2f}, "
@@ -134,7 +144,7 @@ def find_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any],
     return best_match_idx
 
 # Function for fuzzy matching (inplaynet.json)
-def find_match_inplaynet(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.65) -> int:
+def find_match_inplaynet(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.8) -> int:
     best_match_idx = -1
     best_score = 0.0
     norm_league = normalize_name(item['league'])
@@ -176,7 +186,7 @@ def find_match_inplaynet(schedule: List[Dict[str, Any]], item: Dict[str, Any], t
     return best_match_idx
 
 # Function for fuzzy matching (sportsonline.json)
-def find_match_sportsonline(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.65) -> int:
+def find_match_sportsonline(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.8) -> int:
     best_match_idx = -1
     best_score = 0.0
     norm_team1 = normalize_name(item['team1']['name'])
@@ -225,34 +235,66 @@ trans_dict = {}
 if os.path.exists(trans_file):
     with open(trans_file, 'r', encoding='utf-8') as f:
         trans_dict = json.load(f)
+    logging.info(f"Loaded translation dictionary with {len(trans_dict)} entries")
+else:
+    logging.warning("Translation file 'translate/en.json' not found")
 
 # Load all JSON files
-with open('event.json', 'r', encoding='utf-8') as f:
-    event_data = json.load(f)
-event_data = translate_data(event_data, trans_dict)
+try:
+    with open('event.json', 'r', encoding='utf-8') as f:
+        event_data = json.load(f)
+    event_data = translate_data(event_data, trans_dict)
+    logging.info(f"Loaded {len(event_data)} entries from event.json")
+except FileNotFoundError:
+    logging.error("File 'event.json' not found")
+    event_data = []
 
-with open('rere.json', 'r', encoding='utf-8') as f:
-    rere_data = json.load(f)
-rere_data = translate_data(rere_data, trans_dict)
+try:
+    with open('rere.json', 'r', encoding='utf-8') as f:
+        rere_data = json.load(f)
+    rere_data = translate_data(rere_data, trans_dict)
+    logging.info(f"Loaded {len(rere_data)} entries from rere.json")
+except FileNotFoundError:
+    logging.warning("File 'rere.json' not found")
+    rere_data = []
 
-with open('inplaynet.json', 'r', encoding='utf-8') as f:
-    inplaynet_data = json.load(f)
-inplaynet_data = translate_data(inplaynet_data, trans_dict)
+try:
+    with open('inplaynet.json', 'r', encoding='utf-8') as f:
+        inplaynet_data = json.load(f)
+    inplaynet_data = translate_data(inplaynet_data, trans_dict)
+    logging.info(f"Loaded {len(inplaynet_data)} entries from inplaynet.json")
+except FileNotFoundError:
+    logging.warning("File 'inplaynet.json' not found")
+    inplaynet_data = []
 
-with open('sportsonline.json', 'r', encoding='utf-8') as f:
-    sportsonline_data = json.load(f)
-sportsonline_data = translate_data(sportsonline_data, trans_dict)
+try:
+    with open('sportsonline.json', 'r', encoding='utf-8') as f:
+        sportsonline_data = json.load(f)
+    sportsonline_data = translate_data(sportsonline_data, trans_dict)
+    logging.info(f"Loaded {len(sportsonline_data)} entries from sportsonline.json")
+except FileNotFoundError:
+    logging.warning("File 'sportsonline.json' not found")
+    sportsonline_data = []
 
-with open('manual.json', 'r', encoding='utf-8') as f:
-    manual_data = json.load(f)
-manual_data = translate_data(manual_data, trans_dict)
+try:
+    with open('manual.json', 'r', encoding='utf-8') as f:
+        manual_data = json.load(f)
+    manual_data = translate_data(manual_data, trans_dict)
+    logging.info(f"Loaded {len(manual_data)} entries from manual.json")
+except FileNotFoundError:
+    logging.error("File 'manual.json' not found")
+    manual_data = []
 
 # Initialize schedule with event.json
 schedule: List[Dict[str, Any]] = event_data.copy()
+logging.info(f"Initialized schedule with {len(schedule)} entries from event.json")
+
+# Log initial schedule for debugging
+logging.debug(f"Initial schedule content: {json.dumps(schedule, indent=2)}")
 
 # Process rere.json
 for item in rere_data:
-    match_idx = find_match_rere_manual(schedule, item, threshold=0.65)
+    match_idx = find_match_rere_manual(schedule, item, threshold=0.8)
     if match_idx != -1:
         schedule[match_idx]['servers'].extend(item['servers'])
         logging.info(f"Merged servers for {item['id']} from rere.json")
@@ -262,7 +304,7 @@ for item in rere_data:
 
 # Process inplaynet.json
 for item in inplaynet_data:
-    match_idx = find_match_inplaynet(schedule, item, threshold=0.65)
+    match_idx = find_match_inplaynet(schedule, item, threshold=0.8)
     if match_idx != -1:
         schedule[match_idx]['servers'].extend(item['servers'])
         logging.info(f"Merged servers for {item['id']} from inplaynet.json")
@@ -272,7 +314,7 @@ for item in inplaynet_data:
 
 # Process sportsonline.json
 for item in sportsonline_data:
-    match_idx = find_match_sportsonline(schedule, item, threshold=0.65)
+    match_idx = find_match_sportsonline(schedule, item, threshold=0.8)
     if match_idx != -1:
         schedule[match_idx]['servers'].extend(item['servers'])
         logging.info(f"Merged servers for {item['id']} from sportsonline.json")
@@ -281,7 +323,11 @@ for item in sportsonline_data:
 
 # Process manual.json
 for item in manual_data:
-    match_idx = find_match_rere_manual(schedule, item, threshold=0.65)
+    if item['id'].startswith('tes'):  # Force entries with 'tes' in id to be added as new
+        schedule.append(item)
+        logging.info(f"Force added new entry {item['id']} from manual.json")
+        continue
+    match_idx = find_match_rere_manual(schedule, item, threshold=0.8)
     if match_idx != -1:
         schedule[match_idx]['servers'].extend(item['servers'])
         logging.info(f"Merged servers for {item['id']} from manual.json")
@@ -289,7 +335,18 @@ for item in manual_data:
         schedule.append(item)
         logging.info(f"Added new entry {item['id']} from manual.json")
 
+# Log final schedule for debugging
+logging.debug(f"Final schedule content: {json.dumps(schedule, indent=2)}")
+
+# Ensure output directory exists
+output_dir = 'sch'
+os.makedirs(output_dir, exist_ok=True)
+
 # Save to schedule.json
-with open('sch/schedule.json', 'w', encoding='utf-8') as f:
-    json.dump(schedule, f, indent=2, ensure_ascii=False)
-logging.info("Saved output to schedule.json")
+output_path = os.path.join(output_dir, 'schedule.json')
+try:
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(schedule, f, indent=2, ensure_ascii=False)
+    logging.info(f"Saved output to {output_path}")
+except Exception as e:
+    logging.error(f"Failed to save schedule.json: {str(e)}")

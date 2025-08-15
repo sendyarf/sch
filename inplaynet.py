@@ -648,7 +648,7 @@ def scrape_inplaynet_improved():
                     "kickoff_time": "live",
                     "match_date": "live",
                     "match_time": "live",
-                    "duration": "3.5",
+                    "duration": "live",
                     "servers": [
                         {
                             "url": new_stream_url,
