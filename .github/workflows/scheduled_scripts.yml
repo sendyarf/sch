@@ -19,14 +19,14 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.10'  # Menggunakan Python 3.10 untuk kompatibilitas yang lebih baik
+        python-version: '3.10'
     
     - name: Set timezone to Jakarta
       run: |
@@ -61,7 +61,7 @@ jobs:
       env:
         CHROME_BIN: /usr/bin/chromium-browser
         CHROMEDRIVER_PATH: /usr/lib/chromium-browser/chromedriver
-        TZ: Asia/Jakarta  # Pastikan script Python menggunakan zona waktu yang benar
+        TZ: Asia/Jakarta
       run: |
         set -e
         
@@ -124,7 +124,7 @@ jobs:
     
     - name: Upload artifacts
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: scraping-outputs
         path: |
