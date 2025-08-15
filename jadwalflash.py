@@ -28,9 +28,11 @@ print("Starting to scrape football schedules from Flashscore...")
 driver = webdriver.Chrome(options=chrome_options)
 
 data = []
-# Get current date dynamically and calculate the end date (5 days from now)
-current_date = datetime.now()  # Use actual current date
+# Get current date dynamically and calculate the end date (3 days from now)
+current_date = datetime.now()
 end_date = current_date + timedelta(days=3)
+# Set current_date to start of day for accurate date comparison
+current_date = current_date.replace(hour=0, minute=0, second=0, microsecond=0)
 current_year = current_date.year
 current_month = current_date.month
 
@@ -97,7 +99,7 @@ for league_info in urls:
             # Validate and filter date
             try:
                 match_date = datetime.strptime(kickoff_date, "%Y-%m-%d")
-                # Only include matches within the next 5 days
+                # Include today's matches and next 3 days
                 if current_date <= match_date <= end_date:
                     # Adjust match_time by subtracting 10 minutes
                     try:
