@@ -25,6 +25,20 @@ def normalize_name(name: str) -> str:
         name = name.replace(acc, repl)
     return name
 
+# Function to remove duplicate servers
+def remove_duplicate_servers(existing_servers: List[Dict[str, str]], new_servers: List[Dict[str, str]]) -> List[Dict[str, str]]:
+    seen = set()
+    result = existing_servers.copy()
+    for server in new_servers:
+        server_tuple = (server['url'], server['label'])
+        if server_tuple not in seen:
+            seen.add(server_tuple)
+            result.append(server)
+            logging.debug(f"Added server {server['url']} ({server['label']})")
+        else:
+            logging.debug(f"Skipped duplicate server {server['url']} ({server['label']})")
+    return result
+
 # Function to translate data
 def translate_data(data: List[Dict[str, Any]], trans_dict: Dict[str, str]) -> List[Dict[str, Any]]:
     translated = []
@@ -110,7 +124,11 @@ def find_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any],
         sch_norm_team1 = normalize_name(sch['team1']['name'])
         sch_norm_team2 = normalize_name(sch['team2']['name'])
         
-        league_score = max(fuzz.token_sort_ratio(norm_league, sch_norm_league), fuzz.partial_ratio(norm_league, sch_norm_league)) / 100.0
+        league_score = fuzz.token_sort_ratio(norm_league, sch_norm_league) / 100.0
+        if league_score < 0.9:
+            logging.debug(f"Skipping {item['id']} vs {sch['id']} due to low league_score={league_score:.2f}")
+            continue
+        
         team1_score = max(fuzz.token_sort_ratio(norm_team1, sch_norm_team1), fuzz.partial_ratio(norm_team1, sch_norm_team1)) / 100.0
         team2_score = max(fuzz.token_sort_ratio(norm_team2, sch_norm_team2), fuzz.partial_ratio(norm_team2, sch_norm_team2)) / 100.0
         team_score = max(
@@ -123,7 +141,7 @@ def find_match_rere_manual(schedule: List[Dict[str, Any]], item: Dict[str, Any],
         time_diff = time_difference(time, sch['kickoff_time'], date, sch['kickoff_date'])
         time_score = 1.0 if time_diff <= 30 else max(0.0, 1.0 - time_diff / 120.0)
 
-        total_score = (0.2 * league_score + 0.7 * team_score + 0.05 * date_score + 0.05 * time_score)
+        total_score = (0.3 * league_score + 0.6 * team_score + 0.05 * date_score + 0.05 * time_score)
         
         logging.debug(
             f"Comparing {item['id']} with {sch['id']}: league_score={league_score:.2f}, team_score={team_score:.2f}, "
@@ -156,7 +174,11 @@ def find_match_inplaynet(schedule: List[Dict[str, Any]], item: Dict[str, Any], t
         sch_norm_team1 = normalize_name(sch['team1']['name'])
         sch_norm_team2 = normalize_name(sch['team2']['name'])
         
-        league_score = max(fuzz.token_sort_ratio(norm_league, sch_norm_league), fuzz.partial_ratio(norm_league, sch_norm_league)) / 100.0
+        league_score = fuzz.token_sort_ratio(norm_league, sch_norm_league) / 100.0
+        if league_score < 0.9:
+            logging.debug(f"Skipping {item['id']} vs {sch['id']} due to low league_score={league_score:.2f}")
+            continue
+        
         team1_score = max(fuzz.token_sort_ratio(norm_team1, sch_norm_team1), fuzz.partial_ratio(norm_team1, sch_norm_team1)) / 100.0
         team2_score = max(fuzz.token_sort_ratio(norm_team2, sch_norm_team2), fuzz.partial_ratio(norm_team2, sch_norm_team2)) / 100.0
         team_score = max(
@@ -296,7 +318,7 @@ logging.debug(f"Initial schedule content: {json.dumps(schedule, indent=2)}")
 for item in rere_data:
     match_idx = find_match_rere_manual(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'].extend(item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
         logging.info(f"Merged servers for {item['id']} from rere.json")
     else:
         schedule.append(item)
@@ -306,7 +328,7 @@ for item in rere_data:
 for item in inplaynet_data:
     match_idx = find_match_inplaynet(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'].extend(item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
         logging.info(f"Merged servers for {item['id']} from inplaynet.json")
     else:
         schedule.append(item)
@@ -316,7 +338,7 @@ for item in inplaynet_data:
 for item in sportsonline_data:
     match_idx = find_match_sportsonline(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'].extend(item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
         logging.info(f"Merged servers for {item['id']} from sportsonline.json")
     else:
         logging.info(f"Skipped {item['id']} from sportsonline.json (no match)")
@@ -329,7 +351,7 @@ for item in manual_data:
         continue
     match_idx = find_match_rere_manual(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'].extend(item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
         logging.info(f"Merged servers for {item['id']} from manual.json")
     else:
         schedule.append(item)
