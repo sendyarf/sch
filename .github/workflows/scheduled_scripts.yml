@@ -62,9 +62,6 @@ jobs:
       run: |
         set -e
         
-        # Tampilkan waktu saat ini di Jakarta
-        echo "Waktu saat ini di Jakarta: $(TZ='Asia/Jakarta' date)"
-        
         # Buat direktori untuk log
         mkdir -p logs
         
@@ -84,6 +81,9 @@ jobs:
           fi
         }
         
+        # Simpan timestamp untuk commit
+        echo "TIMESTAMP=$(TZ='Asia/Jakarta' date +"%Y%m%d_%H%M%S")" >> $GITHUB_ENV
+        
         # Jalankan script sesuai jadwal
         if [[ "${{ github.event.schedule }}" == "0 17 * * *" ]]; then
           run_script "jadwalflash.py"
@@ -99,36 +99,43 @@ jobs:
           run_script "sch.py"
         fi
         
-        # Periksa perubahan pada file JSON
-        echo "File yang berubah:"
-        git status -s
+        # Tampilkan status file JSON
+        echo "Daftar file JSON yang ada:"
+        find . -name "*.json" -type f -exec ls -la {} \;
+        
+        # Buat direktori backup jika belum ada
+        mkdir -p backup_json
+        
+        # Backup semua file JSON
+        echo "Membackup file JSON..."
+        find . -name "*.json" -type f -exec cp --parents {} backup_json/ \;
     
-    - name: Commit and push changes
+    - name: Commit and push all JSON files
       if: success() && steps.scrape.outcome == 'success'
       run: |
-        # Atur zona waktu untuk commit
-        git config --global log.date local
-        # Tambahkan semua file JSON yang berubah
-        git add *.json sch/*.json translate/*.json
+        # Tambahkan semua file JSON
+        git add *.json
+        git add sch/*.json
+        git add translate/*.json
         
-        # Commit hanya jika ada perubahan
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update: Data scraping terbaru [skip ci]" --date="$(TZ='Asia/Jakarta' date)"
-          git push
-        else
-          echo "Tidak ada perubahan pada file JSON"
-        fi
+        # Buat commit dengan timestamp
+        COMMIT_MSG="Auto-update: Update data scraping $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S %Z')"
+        
+        # Commit dan push
+        git commit -m "$COMMIT_MSG" --date="$(TZ='Asia/Jakarta' date)" || echo "Tidak ada perubahan yang perlu di-commit"
+        git push || echo "Tidak ada perubahan yang perlu di-push"
     
     - name: Upload artifacts
       if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: scraping-outputs
+        name: scraping-outputs-${{ env.TIMESTAMP || 'unknown' }}
         path: |
           *.json
           sch/*.json
           translate/*.json
           logs/
+          backup_json/
         retention-days: 7
     
     - name: Notify on failure
