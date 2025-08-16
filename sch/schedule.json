@@ -590,80 +590,6 @@
     ]
   },
   {
-    "id": "MotoGP-GrandPrixAutricheEssaisqualificatifs1et2desMotoGP",
-    "league": "MotoGP",
-    "team1": {
-      "name": "Grand Prix Autriche Essais qualificatifs 1 et 2 des Moto GP"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-08-16",
-    "kickoff_time": "15:50",
-    "match_date": "2025-08-16",
-    "match_time": "15:40",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Moto3-GrandPrixAutricheLacoursedesMoto3",
-    "league": "Moto3",
-    "team1": {
-      "name": "Grand Prix Autriche La course des Moto 3"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-08-16",
-    "kickoff_time": "16:00",
-    "match_date": "2025-08-16",
-    "match_time": "15:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Moto2-GrandPrixAutricheLacoursedesMoto2",
     "league": "Moto2",
     "team1": {
@@ -688,6 +614,39 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-GrandPrixAutricheEssaisqualificatifs1et2desMoto3",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Grand Prix Autriche Essais qualificatifs 1 et 2 des Moto 3"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-16",
+    "kickoff_time": "17:50",
+    "match_date": "2025-08-16",
+    "match_time": "17:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
         "label": "CH-FR"
       },
       {
@@ -735,6 +694,31 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=112",
         "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Moto3-GrandPrixAutricheEssaisqualificatifs1et2desMoto2",
+    "league": "Moto3",
+    "team1": {
+      "name": "Grand Prix Autriche Essais qualificatifs 1 et 2 des Moto 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-16",
+    "kickoff_time": "18:45",
+    "match_date": "2025-08-16",
+    "match_time": "18:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
       }
     ]
   },
