@@ -382,7 +382,7 @@ def main():
     seen_match_ids = set()
     with ThreadPoolExecutor(max_workers=4) as executor:
         futures = [
-            executor.submit(process_match, match_id, base_url, cookies, ["Abigail", "Coyin", "Lia", "Ekin", "Icel", "Ecrag"][i % 6])
+            executor.submit(process_match, match_id, base_url, cookies, ["Aralie", "Oline", "Lia", "Ekin", "Icel"][i % 5])
             for i, match_id in enumerate(match_ids)
         ]
         for future in as_completed(futures):
@@ -407,9 +407,9 @@ def main():
     main_logger.info(output_json)
 
     # Simpan ke file
-    with open("inplaynet.json", "w") as f:
+    with open("output.json", "w") as f:
         f.write(output_json)
-        main_logger.info("Output disimpan ke inplaynet.json")
+        main_logger.info("Output disimpan ke output.json")
 
 if __name__ == "__main__":
     main()
