@@ -1,3 +1,4 @@
+
 name: Run inplaynet.py
 
 on:
@@ -34,6 +35,8 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y chromium-browser chromium-chromedriver
+        # Pastikan ChromeDriver ada di PATH
+        sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver
     
     - name: Install Python dependencies
       run: |
@@ -45,15 +48,10 @@ jobs:
         git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'actions@users.noreply.github.com'
     
-    - name: Set up Chrome options
-      run: |
-        echo "CHROME_BIN=/usr/bin/chromium-browser" >> $GITHUB_ENV
-        echo "CHROMEDRIVER_PATH=/usr/lib/chromium-browser/chromedriver" >> $GITHUB_ENV
-    
     - name: Run inplaynet.py
       id: run_script
       env:
-        CHROME_BIN: /usr/bin/chromium-browser
+        CHROME_BIN: /usr/lib/chromium-browser/chromium-browser
         CHROMEDRIVER_PATH: /usr/lib/chromium-browser/chromedriver
         TZ: Asia/Jakarta
       run: |
@@ -64,7 +62,8 @@ jobs:
         mkdir -p logs
         echo "Menjalankan inplaynet.py..."
         
-        if python inplaynet.py 2>&1 | tee "$LOG_FILE"; then
+        python inplaynet.py 2>&1 | tee "$LOG_FILE"
+        if [ $? -eq 0 ]; then
           echo "inplaynet.py selesai dengan sukses"
           echo "SCRIPT_STATUS=success" >> $GITHUB_OUTPUT
         else

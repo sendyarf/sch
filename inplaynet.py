@@ -1,8 +1,11 @@
+
 import time
 import json
 import base64
 import logging
 import re
+import os
+import random
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -18,6 +21,9 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()]
 )
 
+# Cache untuk menyimpan hasil match
+cache = {}
+
 # Fungsi untuk encode URL
 def encode_url(original_url):
     encoded = base64.b64encode(original_url.encode('utf-8')).decode('utf-8')
@@ -27,10 +33,16 @@ def encode_url(original_url):
 def setup_browser(headless=True):
     chrome_options = Options()
     if headless:
-        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--headless=new")  # Headless mode baru untuk GitHub Actions
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-cache")
+    chrome_options.add_argument("--window-size=1920,1080")
+    # Tambahkan user-agent acak untuk menghindari deteksi
+    chrome_options.add_argument(f"--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/{random.randint(500, 600)}.36 (KHTML, like Gecko) Chrome/{random.randint(90, 120)}.0.0.0 Safari/537.36")
+    # Tentukan lokasi binary Chromium
+    chrome_options.binary_location = os.getenv("CHROME_BIN", "/usr/lib/chromium-browser/chromium-browser")
     return webdriver.Chrome(options=chrome_options)
 
 # Fungsi untuk login dan menyimpan cookies
@@ -80,10 +92,11 @@ def login(driver, login_url, logger):
         )
         password_input = driver.find_element(By.NAME, "password")
         submit_button = driver.find_element(By.CSS_SELECTOR, "button[type='submit']")
-        username_input.send_keys("greezeal")
-        password_input.send_keys("dont4skme")
+        # Gunakan environment variables untuk kredensial
+        username_input.send_keys(os.getenv("USERNAME", "greezeal"))
+        password_input.send_keys(os.getenv("PASSWORD", "dont4skme"))
         submit_button.click()
-        time.sleep(5)
+        time.sleep(3)  # Dikurangi dari 5 detik
         logger.info("Login berhasil")
         return True
     except Exception as e:
@@ -99,20 +112,25 @@ def load_cookies(driver, cookies, logger):
 # Fungsi untuk memproses satu pertandingan
 def process_match(match_id, base_url, cookies, logger_name):
     logger = logging.getLogger(logger_name)
+    # Cek cache
+    if match_id in cache:
+        logger.info(f"Menggunakan cache untuk match {match_id}")
+        return cache[match_id]
+
     driver = setup_browser(headless=True)
     try:
         logger.info(f"Memproses match {match_id}")
         driver.get(base_url)
         load_cookies(driver, cookies, logger)
-        time.sleep(1)
+        time.sleep(0.5)  # Delay kecil untuk stabilitas
 
         # Navigasi ke halaman event view
         event_view_url = f"{base_url}sportsbook/live#/live/eventview/{match_id}"
-        retries = 3
+        retries = 2  # Dikurangi dari 3
         for attempt in range(retries):
             try:
                 driver.get(event_view_url)
-                time.sleep(5)
+                WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.content")))
                 break
             except Exception as e:
                 logger.error(f"Gagal memuat halaman untuk match {match_id} pada percobaan {attempt + 1}: {e}")
@@ -129,13 +147,13 @@ def process_match(match_id, base_url, cookies, logger_name):
                         "duration": "live",
                         "servers": []
                     }
-                time.sleep(2)
+                time.sleep(1)
 
         # Switch ke iframe sportsbook
         try:
             driver.switch_to.frame("sportsbook_iframe")
             logger.info(f"Berhasil switch ke iframe untuk match {match_id}")
-            time.sleep(2)
+            time.sleep(1)  # Dikurangi dari 2 detik
         except Exception as e:
             logger.error(f"Iframe tidak ditemukan untuk match {match_id}: {e}")
             return {
@@ -158,7 +176,7 @@ def process_match(match_id, base_url, cookies, logger_name):
         sport_type = "unknown"
         for attempt in range(2):
             try:
-                content_elem = WebDriverWait(driver, 15).until(
+                content_elem = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, "div.content div.match-info"))
                 )
                 # Ambil jenis olahraga
@@ -170,7 +188,7 @@ def process_match(match_id, base_url, cookies, logger_name):
 
                 # Ambil nama liga
                 try:
-                    league_elem = WebDriverWait(driver, 10).until(
+                    league_elem = WebDriverWait(driver, 5).until(
                         EC.presence_of_element_located((By.CSS_SELECTOR, "div.champ-name span"))
                     )
                     league = league_elem.text.strip() if league_elem else "Unknown League"
@@ -186,12 +204,10 @@ def process_match(match_id, base_url, cookies, logger_name):
 
                 # Ambil nama tim/pemain
                 try:
-                    # Tunggu hingga div.main-score atau div.line2 tersedia
-                    WebDriverWait(driver, 10).until(
+                    WebDriverWait(driver, 5).until(
                         EC.presence_of_element_located((By.CSS_SELECTOR, "div.main-score, div.line2"))
                     )
                     if sport_type in ["tennis", "baseball"] or "Challenger" in league or "KBO League" in league or "CPBL" in league:
-                        # Untuk tenis dan baseball
                         try:
                             team1_elem = content_elem.find_element(By.CSS_SELECTOR, "div.main-score div.team.team1")
                             team1 = team1_elem.text.strip() if team1_elem else "Unknown Team"
@@ -220,7 +236,6 @@ def process_match(match_id, base_url, cookies, logger_name):
                                 logger.debug(f"Page source untuk match {match_id}:\n{driver.page_source}")
                                 team2 = "Player 2" if sport_type == "tennis" else "Team 2"
                     else:
-                        # Untuk olahraga lain (sepak bola, dll.)
                         try:
                             team1_elem = content_elem.find_element(By.CSS_SELECTOR, "div.line2 div.team.team1, div.main-score div.team.team1")
                             team1 = team1_elem.text.strip() if team1_elem else "Unknown Team"
@@ -262,7 +277,7 @@ def process_match(match_id, base_url, cookies, logger_name):
                         "duration": "live",
                         "servers": []
                     }
-                time.sleep(2)
+                time.sleep(1)
 
         # Cek dan aktifkan live stream
         servers = []
@@ -274,11 +289,11 @@ def process_match(match_id, base_url, cookies, logger_name):
                 )
                 driver.execute_script("arguments[0].click();", live_stream_button)
                 logger.info(f"Tombol live stream diklik untuk match {match_id}")
-                time.sleep(7)
+                time.sleep(5)  # Dikurangi dari 7 detik
             else:
                 logger.info(f"Live stream sudah aktif untuk match {match_id}")
 
-            stream_iframe = WebDriverWait(driver, 10).until(
+            stream_iframe = WebDriverWait(driver, 5).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "#live-stream iframe"))
             )
             original_url = stream_iframe.get_attribute("src")
@@ -291,7 +306,8 @@ def process_match(match_id, base_url, cookies, logger_name):
         except Exception as e:
             logger.error(f"Error saat mencari live stream untuk match {match_id}: {e}")
 
-        return {
+        # Simpan ke cache
+        result = {
             "id": match_id,
             "league": league,
             "team1": {"name": team1},
@@ -303,6 +319,8 @@ def process_match(match_id, base_url, cookies, logger_name):
             "duration": "live",
             "servers": servers
         }
+        cache[match_id] = result
+        return result
     finally:
         driver.quit()
 
@@ -325,7 +343,7 @@ def main():
 
         # Akses halaman eventview
         driver.get(sportsbook_url)
-        time.sleep(5)
+        time.sleep(3)  # Dikurangi dari 5 detik
 
         # Switch ke iframe sportsbook
         try:
@@ -337,12 +355,12 @@ def main():
 
         # Klik icon video untuk filter live streaming
         try:
-            video_filter_button = WebDriverWait(driver, 10).until(
+            video_filter_button = WebDriverWait(driver, 5).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, "div.stream"))
             )
             driver.execute_script("arguments[0].click();", video_filter_button)
             main_logger.info("Tombol filter live streaming berhasil diklik")
-            time.sleep(5)
+            time.sleep(3)  # Dikurangi dari 5 detik
         except TimeoutException:
             main_logger.error("Tombol filter live streaming tidak ditemukan")
             main_logger.debug(f"Page source dalam iframe:\n{driver.page_source}")
@@ -350,10 +368,10 @@ def main():
 
         # Ambil list match IDs
         match_ids = []
-        retries = 3
+        retries = 2  # Dikurangi dari 3
         for attempt in range(retries):
             try:
-                match_elements = WebDriverWait(driver, 10).until(
+                match_elements = WebDriverWait(driver, 5).until(
                     EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".live-tree-match"))
                 )
                 for match_elem in match_elements:
@@ -364,7 +382,7 @@ def main():
                 break
             except StaleElementReferenceException:
                 main_logger.warning(f"Stale element reference pada percobaan {attempt + 1}, mencoba lagi")
-                time.sleep(2)
+                time.sleep(1)
                 if attempt == retries - 1:
                     main_logger.error("Gagal mengambil daftar match IDs setelah beberapa percobaan")
                     main_logger.debug(f"Page source:\n{driver.page_source}")
@@ -382,7 +400,7 @@ def main():
     seen_match_ids = set()
     with ThreadPoolExecutor(max_workers=4) as executor:
         futures = [
-            executor.submit(process_match, match_id, base_url, cookies, ["Abigail", "Coyin", "Lia", "Ekin", "Icel", "Ecrag"][i % 6])
+            executor.submit(process_match, match_id, base_url, cookies, ["Abigail", "Coyin", "Lia", "Ekin"][i % 4])
             for i, match_id in enumerate(match_ids)
         ]
         for future in as_completed(futures):
