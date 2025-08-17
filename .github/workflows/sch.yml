@@ -2,7 +2,7 @@ name: Run sch.py
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Setiap 15 menit
+    - cron: '*/5 * * * *'  # Setiap 15 menit
   workflow_dispatch:
 
 env:
