@@ -2,7 +2,7 @@ name: Run rereyano.py
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Setiap 30 menit
+    - cron: '*/15 * * * *'  # Setiap 30 menit
   workflow_dispatch:
 
 env:
