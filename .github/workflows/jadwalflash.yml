@@ -35,13 +35,14 @@ jobs:
         # Hapus chromedriver lama jika ada untuk menghindari konflik
         sudo rm -f /usr/bin/chromedriver
         
-        # Install Chrome
+        # Install Chrome dengan cara yang lebih andal
+        sudo apt-get clean
         sudo apt-get update
-        sudo apt-get install -y wget unzip
+        sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends wget unzip
         wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
         echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
         sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
+        sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends -o Dpkg::Options::="--force-confold" google-chrome-stable
 
         # Install ChromeDriver
         CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d. -f1-3)
