@@ -1,12 +1,15 @@
 import json
 import time
 from datetime import datetime, timedelta
+from dateutil.parser import parse
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
 # List of URLs to scrape
 urls = [
@@ -24,12 +27,13 @@ chrome_options.add_argument("--headless=new")  # Run in headless mode
 chrome_options.add_argument("--disable-gpu")  # Disable GPU for compatibility
 chrome_options.add_argument("--no-sandbox")  # Bypass OS security model
 chrome_options.add_argument("--disable-dev-shm-usage")  # Overcome limited resource problems
+chrome_options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36")
 
 # Print initial notification
 print("Starting to scrape football schedules from Flashscore...")
 
 # Initialize the WebDriver with headless options
-driver = webdriver.Chrome(options=chrome_options)
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
 data = []
 # Get current date dynamically and calculate the end date (3 days from now)
@@ -49,20 +53,26 @@ for league_info in urls:
     # Navigate to the URL
     driver.get(url)
 
-    # Wait for the page to load
+    # Wait for the page to load with reduced timeout
     print(f"Waiting for {league_name} page to load...")
-    time.sleep(5)  # Basic wait; can be improved with WebDriverWait
+    try:
+        WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, ".event__match--twoLine, .event__match--static"))
+        )
+    except TimeoutException:
+        print(f"Timeout waiting for {league_name} page to load. Skipping.")
+        continue
 
-    # Handle "Show more matches" if present
+    # Handle "Show more matches" if present with reduced sleep
     print(f"Checking for 'Show more matches' button for {league_name}...")
     while True:
         try:
-            show_more = WebDriverWait(driver, 5).until(
+            show_more = WebDriverWait(driver, 3).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, "a.wclButtonLink"))
             )
             print(f"Clicking 'Show more matches' to load additional {league_name} fixtures...")
             show_more.click()
-            time.sleep(2)  # Wait for more content to load
+            time.sleep(1)  # Reduced from 2 seconds
         except:
             print(f"No more matches to load for {league_name}.")
             break
@@ -84,10 +94,24 @@ for league_info in urls:
             # Time and date
             time_div = match.find_element(By.CLASS_NAME, "event__time")
             time_text = time_div.text.split("\n")[0]  # Get the time line, ignore preview if present
-            date_parts = time_text.split(" ")[0].rstrip(".").split(".")
-            day = date_parts[0].zfill(2)
-            month = date_parts[1].zfill(2)
-            kickoff_time = time_text.split(" ")[1]
+
+            # Robust date parsing with fallback
+            date_time_part = time_text.split(" ")[0].rstrip(".")
+            try:
+                if "." in date_time_part:
+                    date_parts = date_time_part.split(".")
+                    day = date_parts[0].zfill(2)
+                    month = date_parts[1].zfill(2)
+                else:
+                    parsed_date = parse(date_time_part, dayfirst=True)
+                    day = str(parsed_date.day).zfill(2)
+                    month = str(parsed_date.month).zfill(2)
+            except (IndexError, ValueError):
+                day = current_date.day.zfill(2)
+                month = current_date.month.zfill(2)
+                print(f"Warning: Invalid date format for {league_name} match {home_name} vs {away_name}, using current date: {time_text}")
+
+            kickoff_time = time_text.split(" ")[1] if len(time_text.split(" ")) > 1 else time_text
 
             # Determine the year dynamically
             match_month = int(month)
