@@ -11,7 +11,11 @@ from selenium.common.exceptions import NoSuchElementException
 # List of URLs to scrape
 urls = [
     {"url": "https://www.flashscore.com/football/england/premier-league/fixtures/", "league": "Premier League"},
-    {"url": "https://www.flashscore.com/football/england/championship/fixtures/", "league": "Championship"}
+    {"url": "https://www.flashscore.com/football/netherlands/eredivisie/fixtures/", "league": "Eredivisie"},
+    {"url": "https://www.flashscore.com/football/france/ligue-1/fixtures/", "league": "Ligue 1"},
+    {"url": "https://www.flashscore.com/football/germany/bundesliga/fixtures/", "league": "Bundesliga"},
+    {"url": "https://www.flashscore.com/football/italy/serie-a/fixtures/", "league": "Serie A"},
+    {"url": "https://www.flashscore.com/football/spain/laliga/fixtures/", "league": "LaLiga"}
 ]
 
 # Set up Chrome options for headless mode
