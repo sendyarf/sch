@@ -237,7 +237,12 @@
     "match_date": "2025-08-24",
     "match_time": "17:05",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Eredivisie-Nijmegen-NACBreda",
@@ -285,7 +290,12 @@
     "match_date": "2025-08-24",
     "match_time": "21:35",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Ligue1-PSG-Angers",
@@ -383,7 +393,16 @@
     "match_date": "2025-08-24",
     "match_time": "19:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Ligue1-LeHavre-Lens",
@@ -415,7 +434,12 @@
     "match_date": "2025-08-24",
     "match_time": "22:05",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Ligue1-Toulouse-Brest",
@@ -712,7 +736,12 @@
     "match_date": "2025-08-24",
     "match_time": "23:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "SerieA-Como-Lazio",
@@ -728,7 +757,16 @@
     "match_date": "2025-08-24",
     "match_time": "23:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "LaLiga-Betis-Alaves",
@@ -847,66 +885,9 @@
     "match_date": "2025-08-24",
     "match_time": "21:50",
     "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LeaguesCup-InterMiami-Tigres",
-    "league": "Leagues Cup",
-    "team1": {
-      "name": "Inter Miami"
-    },
-    "team2": {
-      "name": "Tigres UANL"
-    },
-    "kickoff_date": "2025-08-21",
-    "kickoff_time": "07:00",
-    "match_date": "2025-08-21",
-    "match_time": "06:50",
-    "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=68",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "CopaLibertadores-Internacional(Bra)-Flamengo(Bra)",
-    "league": "Copa Libertadores",
-    "team1": {
-      "name": "Internacional"
-    },
-    "team2": {
-      "name": "Flamengo RJ"
-    },
-    "kickoff_date": "2025-08-21",
-    "kickoff_time": "07:30",
-    "match_date": "2025-08-21",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
       {
@@ -914,75 +895,8 @@
         "label": "CH-2"
       },
       {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "CopaSudamericana-Independiente(Arg)-U.DeChile(Chi)",
-    "league": "Copa Sudamericana",
-    "team1": {
-      "name": "Independiente (Arg)"
-    },
-    "team2": {
-      "name": "U. De Chile (Chi)"
-    },
-    "kickoff_date": "2025-08-21",
-    "kickoff_time": "07:30",
-    "match_date": "2025-08-21",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CopaSudamericana-U.Catolica(Ecu)-A.Lima(Per)",
-    "league": "Copa Sudamericana",
-    "team1": {
-      "name": "U. Catolica (Ecu)"
-    },
-    "team2": {
-      "name": "A. Lima (Per)"
-    },
-    "kickoff_date": "2025-08-21",
-    "kickoff_time": "07:30",
-    "match_date": "2025-08-21",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaBetplayDimayor-Millonarios-U.Magdalena",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Millonarios"
-    },
-    "team2": {
-      "name": "U. Magdalena"
-    },
-    "kickoff_date": "2025-08-21",
-    "kickoff_time": "07:30",
-    "match_date": "2025-08-21",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
       }
     ]
   },
@@ -1643,13 +1557,13 @@
     ]
   },
   {
-    "id": "51603679",
+    "id": "51603672",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Jozala, Waldemar"
+      "name": "Wrobel, Dariusz"
     },
     "team2": {
-      "name": "Skotniczny, Rafal"
+      "name": "Iwasyszyn, Wojciech"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1658,19 +1572,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekV5T1Rnek9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekV5T1RrNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "51603657",
-    "league": "International - TT Elite Series",
+    "id": "51618815",
+    "league": "Japan - Farmleague",
     "team1": {
-      "name": "Daniel, Artur"
+      "name": "Fukuoka Hawks Reserve"
     },
     "team2": {
-      "name": "Wloczko, Krzysztof"
+      "name": "Hanshin Tigers Reserves"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1679,10 +1593,26 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekV6TURBek55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekV6TURVd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
+  },
+  {
+    "id": "51630591",
+    "league": "Unknown League",
+    "team1": {
+      "name": "Unknown Team"
+    },
+    "team2": {
+      "name": "Unknown Team"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": []
   },
   {
     "id": "PremierLeague-Liverpool-Bournemouth",
