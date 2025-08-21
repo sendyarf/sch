@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 from pytz import timezone
 
 def convert_paris_to_jakarta(date_str, time_str):
@@ -22,21 +22,6 @@ def convert_paris_to_jakarta(date_str, time_str):
     jakarta_time_str = jakarta_time.strftime("%H:%M")
     
     return jakarta_date, jakarta_time_str
-
-def parse_time_minus_10(time_str, date_str):
-    # Parse the input time
-    paris_tz = timezone('Europe/Paris')
-    datetime_str = f"{date_str} {time_str}"
-    paris_time = paris_tz.localize(datetime.strptime(datetime_str, "%Y-%m-%d %H:%M"))
-    
-    # Subtract 10 minutes
-    paris_time_minus_10 = paris_time - timedelta(minutes=10)
-    
-    # Convert to Jakarta time
-    jakarta_tz = timezone('Asia/Jakarta')
-    jakarta_time = paris_time_minus_10.astimezone(jakarta_tz)
-    
-    return jakarta_time.strftime("%H:%M")
 
 def scrape_rereyano():
     url = "https://rereyano.ru/"
@@ -86,9 +71,9 @@ def scrape_rereyano():
         # Convert kickoff time to Jakarta time
         kickoff_date_jakarta, kickoff_time_jakarta = convert_paris_to_jakarta(kickoff_date, time_str)
         
-        # Calculate match_time (10 minutes before kickoff) in Jakarta time
-        match_time_jakarta = parse_time_minus_10(time_str, kickoff_date)
+        # Set match_time to be the same as kickoff_time
         match_date_jakarta = kickoff_date_jakarta
+        match_time_jakarta = kickoff_time_jakarta
         
         # Create ID
         id_str = league.replace(" ", "") + "-" + team_or1.replace(" ", "")
