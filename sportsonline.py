@@ -140,7 +140,7 @@ def scrape_sportsonline():
         
         # Convert times to Jakarta time
         kickoff_time_jakarta = convert_london_to_jakarta(time_str, event_date)
-        match_time_jakarta = parse_time_minus_10(time_str, event_date)
+        match_time_jakarta = convert_london_to_jakarta(time_str, event_date)  # Use the same function as kickoff_time
         
         # Create ID
         id_str = team_or1.replace(" ", "").replace(":", "-")
