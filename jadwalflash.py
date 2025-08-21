@@ -129,16 +129,6 @@ for league_info in urls:
                 match_date = datetime.strptime(kickoff_date, "%Y-%m-%d")
                 # Include today's matches and next 3 days
                 if current_date <= match_date <= end_date:
-                    # Adjust match_time by subtracting 10 minutes
-                    try:
-                        time_obj = datetime.strptime(kickoff_time, "%H:%M")
-                        adjusted_time = time_obj - timedelta(minutes=10)
-                        adjusted_time_str = adjusted_time.strftime("%H:%M")
-                    except ValueError:
-                        # If time format is invalid, keep original time
-                        adjusted_time_str = kickoff_time
-                        print(f"Warning: Invalid time format for {league_name} match {home_name} vs {away_name}, using original time: {kickoff_time}")
-
                     # ID without spaces
                     match_id = f"{league_name.replace(' ', '')}-{home_name.replace(' ', '')}-{away_name.replace(' ', '')}"
 
@@ -155,7 +145,7 @@ for league_info in urls:
                         "kickoff_date": kickoff_date,
                         "kickoff_time": kickoff_time,
                         "match_date": kickoff_date,  # Same format as kickoff_date (YYYY-MM-DD)
-                        "match_time": adjusted_time_str,  # Adjusted time (-10 min)
+                        "match_time": kickoff_time,  # Use the same time as kickoff_time
                         "duration": "3.5",
                         "servers": []
                     }
