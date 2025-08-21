@@ -16,6 +16,18 @@ logging.basicConfig(
     ]
 )
 
+# Function to subtract 10 minutes from a time, adjusting date if necessary
+def subtract_ten_minutes(date_str: str, time_str: str) -> tuple[str, str]:
+    try:
+        dt = datetime.strptime(f"{date_str} {time_str}", "%Y-%m-%d %H:%M")
+        dt = dt - timedelta(minutes=10)
+        new_date = dt.strftime("%Y-%m-%d")
+        new_time = dt.strftime("%H:%M")
+        return new_date, new_time
+    except ValueError as e:
+        logging.error(f"Error processing date/time {date_str} {time_str}: {str(e)}")
+        return date_str, time_str  # Return original values in case of error
+
 # Function to normalize names
 def normalize_name(name: str) -> str:
     name = re.sub(r'\s*\([^)]*\)', '', name)
@@ -214,7 +226,7 @@ def find_match_sportsonline(schedule: List[Dict[str, Any]], item: Dict[str, Any]
     norm_team1 = normalize_name(item['team1']['name'])
     norm_team2 = normalize_name(item['team2']['name'])
     time = item['kickoff_time']
-    date = item['kickoff_date'] if item['kickoff_date'] else "1970-01-01"
+    date = item['kickoff_date'] if 'kickoff_date' in item else "1970-01-01"
 
     for idx, sch in enumerate(schedule):
         sch_norm_team1 = normalize_name(sch['team1']['name'])
@@ -356,6 +368,11 @@ for item in manual_data:
     else:
         schedule.append(item)
         logging.info(f"Added new entry {item['id']} from manual.json")
+
+# Adjust match_time to be 10 minutes earlier than kickoff_time
+for item in schedule:
+    item['match_date'], item['match_time'] = subtract_ten_minutes(item['kickoff_date'], item['kickoff_time'])
+    logging.debug(f"Adjusted {item['id']}: match_date={item['match_date']}, match_time={item['match_time']}")
 
 # Log final schedule for debugging
 logging.debug(f"Final schedule content: {json.dumps(schedule, indent=2)}")
