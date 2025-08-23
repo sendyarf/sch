@@ -121,7 +121,7 @@ def scrape_sportsonline():
             continue
         
         # Match the pattern for an event line
-        match_pattern = re.match(r'(\d{2}:\d{2})\s+(.+?)(?:\s+x\s+(.+?))?\s+\|\s+(https://sportzonline\.si/channels/(?:hd|pt|bra)/[^/]+\.php)$', line)
+        match_pattern = re.match(r'(\d{2}:\d{2})\s+(.+?)(?:\s+x\s+(.+?))?\s+\|\s+(https://sportzonline\.site/channels/(?:hd|pt|bra)/[^/]+\.php)$', line)
         if not match_pattern:
             logging.debug(f"Line skipped, no match: {line}")
             continue
