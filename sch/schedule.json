@@ -1156,39 +1156,6 @@
     ]
   },
   {
-    "id": "Moto2-Essaisqualificatifs1et2desMoto2",
-    "league": "Moto2",
-    "team1": {
-      "name": "Essais qualificatifs 1 et 2 des Moto 2"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-08-23",
-    "kickoff_time": "18:45",
-    "match_date": "2025-08-23",
-    "match_time": "18:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=31",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Ligue2-Guingamp-RedStar",
     "league": "Ligue 2",
     "team1": {
@@ -1231,6 +1198,39 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=124",
         "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Moto2-EssaisdesMoto2",
+    "league": "Moto2",
+    "team1": {
+      "name": "Essais des Moto 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "19:00",
+    "match_date": "2025-08-23",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=31",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
       }
     ]
   },
@@ -3325,31 +3325,6 @@
     "kickoff_time": "16:00",
     "match_date": "2025-08-24",
     "match_time": "15:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Moto2-LacoursedesMoto2",
-    "league": "Moto2",
-    "team1": {
-      "name": "La course des Moto 2"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-08-24",
-    "kickoff_time": "17:15",
-    "match_date": "2025-08-24",
-    "match_time": "17:05",
     "duration": "3.5",
     "servers": [
       {
