@@ -400,7 +400,7 @@ def main():
     seen_match_ids = set()
     with ThreadPoolExecutor(max_workers=4) as executor:
         futures = [
-            executor.submit(process_match, match_id, base_url, cookies, ["Abigail", "Coyin", "Lia", "Ekin"][i % 4])
+            executor.submit(process_match, match_id, base_url, cookies, ["Abigail", "Coyin", "Lia", "Ekin", "Ecarg", "Icel"][i % 6])
             for i, match_id in enumerate(match_ids)
         ]
         for future in as_completed(futures):
