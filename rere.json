@@ -1,25 +1,321 @@
 [
   {
-    "id": "LigaMx-Juarez-SantosLaguna",
-    "league": "Liga Mx",
+    "id": "Moto3-Essaislibres2desMoto3",
+    "league": "Moto3",
     "team1": {
-      "name": "Juarez"
+      "name": "Essais libres 2 des Moto 3"
     },
     "team2": {
-      "name": "Santos Laguna"
+      "name": ""
     },
     "kickoff_date": "2025-08-23",
-    "kickoff_time": "08:00",
+    "kickoff_time": "13:40",
     "match_date": "2025-08-23",
-    "match_time": "08:00",
+    "match_time": "13:40",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=108",
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Moto2-Essaislibres2desMoto2",
+    "league": "Moto2",
+    "team1": {
+      "name": "Essais libres 2 des Moto 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "14:25",
+    "match_date": "2025-08-23",
+    "match_time": "14:25",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-Essaislibres2desMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Essais libres 2 des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "15:00",
+    "match_date": "2025-08-23",
+    "match_time": "15:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-Essaisqualificatifs1et2desMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Essais qualificatifs 1 et 2 des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "15:50",
+    "match_date": "2025-08-23",
+    "match_time": "15:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Moto3-Essaisqualificatifs1et2desMoto3",
+    "league": "Moto3",
+    "team1": {
+      "name": "Essais qualificatifs 1 et 2 des Moto 3"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "17:45",
+    "match_date": "2025-08-23",
+    "match_time": "17:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-bundesliga2konferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "bundesliga 2 konferenz"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:00",
+    "match_date": "2025-08-23",
+    "match_time": "18:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Hanovre-Magdeburg",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Hanovre"
+    },
+    "team2": {
+      "name": "Magdeburg"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:00",
+    "match_date": "2025-08-23",
+    "match_time": "18:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=115",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=79",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Karlsruher-Braunschweig",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Karlsruher"
+    },
+    "team2": {
+      "name": "Braunschweig"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:00",
+    "match_date": "2025-08-23",
+    "match_time": "18:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Paderborn-D\u00fcsseldorf",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Paderborn"
+    },
+    "team2": {
+      "name": "D\u00fcsseldorf"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:00",
+    "match_date": "2025-08-23",
+    "match_time": "18:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Moto3-EssaisdesMoto3",
+    "league": "Moto3",
+    "team1": {
+      "name": "Essais des Moto 3"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:15",
+    "match_date": "2025-08-23",
+    "match_time": "18:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Charlton-Leicester",
+    "league": "Championship",
+    "team1": {
+      "name": "Charlton"
+    },
+    "team2": {
+      "name": "Leicester"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-23",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=8",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Hull-Blackburn",
+    "league": "Championship",
+    "team1": {
+      "name": "Hull"
+    },
+    "team2": {
+      "name": "Blackburn"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-23",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-ManchesterCity-Tottenham",
+    "league": "Premier League",
+    "team1": {
+      "name": "Manchester City"
+    },
+    "team2": {
+      "name": "Tottenham"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-23",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=126",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=70",
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
         "label": "CH-ES"
       },
       {
@@ -29,43 +325,1402 @@
     ]
   },
   {
-    "id": "LigaMx-Queretaro-Atl.SanLuis",
-    "league": "Liga Mx",
+    "id": "Moto2-Essaisqualificatifs1et2desMoto2",
+    "league": "Moto2",
     "team1": {
-      "name": "Queretaro"
+      "name": "Essais qualificatifs 1 et 2 des Moto 2"
     },
     "team2": {
-      "name": "Atl. San Luis"
+      "name": ""
     },
     "kickoff_date": "2025-08-23",
-    "kickoff_time": "08:00",
+    "kickoff_time": "18:45",
     "match_date": "2025-08-23",
-    "match_time": "08:00",
+    "match_time": "18:45",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=156",
-        "label": "CH-ES"
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=68",
+        "url": "https://multi.govoet.my.id/?envivo=56",
         "label": "CH-ES"
       }
     ]
   },
   {
-    "id": "LigaBetplayDimayor-Llaneros-Pasto",
-    "league": "Liga Betplay Dimayor",
+    "id": "Ligue2-Guingamp-RedStar",
+    "league": "Ligue 2",
     "team1": {
-      "name": "Llaneros"
+      "name": "Guingamp"
     },
     "team2": {
-      "name": "Pasto"
+      "name": "Red Star"
     },
     "kickoff_date": "2025-08-23",
-    "kickoff_time": "08:10",
+    "kickoff_time": "19:00",
     "match_date": "2025-08-23",
-    "match_time": "08:10",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Ligue2-Troyes-Montpellier",
+    "league": "Ligue 2",
+    "team1": {
+      "name": "Troyes"
+    },
+    "team2": {
+      "name": "Montpellier"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "19:00",
+    "match_date": "2025-08-23",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Moto2-EssaisdesMoto2",
+    "league": "Moto2",
+    "team1": {
+      "name": "Essais des Moto 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "19:00",
+    "match_date": "2025-08-23",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=31",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SaudiSupercup-Al-Nassr-AlAhliSC",
+    "league": "Saudi Supercup",
+    "team1": {
+      "name": "Al-Nassr"
+    },
+    "team2": {
+      "name": "Al Ahli SC"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "19:00",
+    "match_date": "2025-08-23",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=55",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-SprintdesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Sprint des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-23",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-bundesligakonferenz",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "bundesliga konferenz"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-23",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-BayerLeverkusen-Hoffenheim",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Bayer Leverkusen"
+    },
+    "team2": {
+      "name": "Hoffenheim"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-23",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=3",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-EintrachtFrancfort-WerderBr\u00eame",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Eintracht Francfort"
+    },
+    "team2": {
+      "name": "Werder Br\u00eame"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-23",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-Fribourg-Augsburg",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Fribourg"
+    },
+    "team2": {
+      "name": "Augsburg"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-23",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=7",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-Heidenheim-Wolfsburg",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Heidenheim"
+    },
+    "team2": {
+      "name": "Wolfsburg"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-23",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=115",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-UnionBerlin-Stuttgart",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Union Berlin"
+    },
+    "team2": {
+      "name": "Stuttgart"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-23",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "CHAN-Ouganda-S\u00e9n\u00e9gal",
+    "league": "CHAN",
+    "team1": {
+      "name": "Ouganda"
+    },
+    "team2": {
+      "name": "S\u00e9n\u00e9gal"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=9",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Coventry-QPR",
+    "league": "Championship",
+    "team1": {
+      "name": "Coventry"
+    },
+    "team2": {
+      "name": "QPR"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=171",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Norwich-Middlesbrough",
+    "league": "Championship",
+    "team1": {
+      "name": "Norwich"
+    },
+    "team2": {
+      "name": "Middlesbrough"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=8",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Championship-SheffieldUtd-Millwall",
+    "league": "Championship",
+    "team1": {
+      "name": "Sheffield Utd"
+    },
+    "team2": {
+      "name": "Millwall"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=172",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Southampton-Stoke",
+    "league": "Championship",
+    "team1": {
+      "name": "Southampton"
+    },
+    "team2": {
+      "name": "Stoke"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=173",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Wrexham-SheffieldWed",
+    "league": "Championship",
+    "team1": {
+      "name": "Wrexham"
+    },
+    "team2": {
+      "name": "Sheffield Wed"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=174",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-MultiplexPremierLeague",
+    "league": "Premier League",
+    "team1": {
+      "name": "Multiplex Premier League"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Bournemouth-Wolves",
+    "league": "Premier League",
+    "team1": {
+      "name": "Bournemouth"
+    },
+    "team2": {
+      "name": "Wolves"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=33",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=58",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Brentford-AstonVilla",
+    "league": "Premier League",
+    "team1": {
+      "name": "Brentford"
+    },
+    "team2": {
+      "name": "Aston Villa"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=32",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Burnley-Sunderland",
+    "league": "Premier League",
+    "team1": {
+      "name": "Burnley"
+    },
+    "team2": {
+      "name": "Sunderland"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=34",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=131",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=59",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Premiership-Celtic-Livingston",
+    "league": "Premiership",
+    "team1": {
+      "name": "Celtic"
+    },
+    "team2": {
+      "name": "Livingston"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-23",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=135",
+        "label": "CH-GB"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-G.A.Eagles-SpartaRotterdam",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "G.A. Eagles"
+    },
+    "team2": {
+      "name": "Sparta Rotterdam"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "21:30",
+    "match_date": "2025-08-23",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Majorque-CeltaVigo",
+    "league": "Laliga",
+    "team1": {
+      "name": "Majorque"
+    },
+    "team2": {
+      "name": "Celta Vigo"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "22:00",
+    "match_date": "2025-08-23",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Mirandes-Huesca",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Mirandes"
+    },
+    "team2": {
+      "name": "Huesca"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "22:00",
+    "match_date": "2025-08-23",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Moreirense-Guimaraes",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Moreirense"
+    },
+    "team2": {
+      "name": "Guimaraes"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "22:00",
+    "match_date": "2025-08-23",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=146",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Marseille-ParisFC",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Marseille"
+    },
+    "team2": {
+      "name": "Paris FC"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "22:00",
+    "match_date": "2025-08-23",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-SportingCristal-Cajamarca",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Sporting Cristal"
+    },
+    "team2": {
+      "name": "Cajamarca"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:00",
+    "match_date": "2025-08-23",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "ProLeague-StandardLi\u00e8ge-CercleBruges",
+    "league": "Pro League",
+    "team1": {
+      "name": "Standard Li\u00e8ge"
+    },
+    "team2": {
+      "name": "Cercle Bruges"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:15",
+    "match_date": "2025-08-23",
+    "match_time": "23:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=153",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-St.Pauli-Dortmund",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "St. Pauli"
+    },
+    "team2": {
+      "name": "Dortmund"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-23",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=159",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Arsenal-Leeds",
+    "league": "Premier League",
+    "team1": {
+      "name": "Arsenal"
+    },
+    "team2": {
+      "name": "Leeds"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-23",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Genoa-Lecce",
+    "league": "Serie A",
+    "team1": {
+      "name": "Genoa"
+    },
+    "team2": {
+      "name": "Lecce"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-23",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=139",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=99",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Sassuolo-Naples",
+    "league": "Serie A",
+    "team1": {
+      "name": "Sassuolo"
+    },
+    "team2": {
+      "name": "Naples"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-23",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-PSV-Groningen",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "PSV"
+    },
+    "team2": {
+      "name": "Groningen"
+    },
+    "kickoff_date": "2025-08-23",
+    "kickoff_time": "23:45",
+    "match_date": "2025-08-23",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=100",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "BetfredSuperLeague-Aris-Volos",
+    "league": "Betfred Super League",
+    "team1": {
+      "name": "Aris"
+    },
+    "team2": {
+      "name": "Volos"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=148",
+        "label": "CH-GR"
+      }
+    ]
+  },
+  {
+    "id": "BetfredSuperLeague-Olympiakos-AsterasT.",
+    "league": "Betfred Super League",
+    "team1": {
+      "name": "Olympiakos"
+    },
+    "team2": {
+      "name": "Asteras T."
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=149",
+        "label": "CH-GR"
+      }
+    ]
+  },
+  {
+    "id": "CHAN-Soudan-Alg\u00e9rie",
+    "league": "CHAN",
+    "team1": {
+      "name": "Soudan"
+    },
+    "team2": {
+      "name": "Alg\u00e9rie"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=9",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Ceuta-Gijon",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Ceuta"
+    },
+    "team2": {
+      "name": "Gijon"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Nacional-Sporting",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Nacional"
+    },
+    "team2": {
+      "name": "Sporting"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Nice-Auxerre",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Nice"
+    },
+    "team2": {
+      "name": "Auxerre"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-24",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Atl.Madrid-Elche",
+    "league": "Laliga",
+    "team1": {
+      "name": "Atl. Madrid"
+    },
+    "team2": {
+      "name": "Elche"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-24",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=3",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-SanLorenzo-Instituto",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "San Lorenzo"
+    },
+    "team2": {
+      "name": "Instituto"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-24",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Ligue2-Boulogne-Saint-\u00c9tienne",
+    "league": "Ligue 2",
+    "team1": {
+      "name": "Boulogne"
+    },
+    "team2": {
+      "name": "Saint-\u00c9tienne"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-24",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-LosChankas-SportBoys",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Los Chankas"
+    },
+    "team2": {
+      "name": "Sport Boys"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:15",
+    "match_date": "2025-08-24",
+    "match_time": "01:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Schalke04-Bochum",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Schalke 04"
+    },
+    "team2": {
+      "name": "Bochum"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-24",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-DefensorSp.-PlazaColonia",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Defensor Sp."
+    },
+    "team2": {
+      "name": "Plaza Colonia"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-24",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SuperLig-Fenerbahce-Kocaelispor",
+    "league": "Super Lig",
+    "team1": {
+      "name": "Fenerbahce"
+    },
+    "team2": {
+      "name": "Kocaelispor"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-24",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=8",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=151",
+        "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "SuperLig-Gaziantep-Genclerbirligi",
+    "league": "Super Lig",
+    "team1": {
+      "name": "Gaziantep"
+    },
+    "team2": {
+      "name": "Genclerbirligi"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-24",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=152",
+        "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "ProLeague-Zulte-Waregem-Saint-Trond",
+    "league": "Pro League",
+    "team1": {
+      "name": "Zulte-Waregem"
+    },
+    "team2": {
+      "name": "Saint-Trond"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-24",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=153",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-ACMilan-Cremonese",
+    "league": "Serie A",
+    "team1": {
+      "name": "AC Milan"
+    },
+    "team2": {
+      "name": "Cremonese"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-24",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-ASRome-Bologne",
+    "league": "Serie A",
+    "team1": {
+      "name": "AS Rome"
+    },
+    "team2": {
+      "name": "Bologne"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-24",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=100",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "BetfredSuperLeague-Panetolikos-Atromitos",
+    "league": "Betfred Super League",
+    "team1": {
+      "name": "Panetolikos"
+    },
+    "team2": {
+      "name": "Atromitos"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=150",
+        "label": "CH-GR"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoIta\u00faChile-Cobresal-U.Calera",
+    "league": "Campeonato Ita\u00fa Chile",
+    "team1": {
+      "name": "Cobresal"
+    },
+    "team2": {
+      "name": "U. Calera"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-Macara-MushucRuna",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "Macara"
+    },
+    "team2": {
+      "name": "Mushuc Runa"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Telstar-FCVolendam",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Telstar"
+    },
+    "team2": {
+      "name": "FC Volendam"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-24",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Ind.Medellin-LaEquidad",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Ind. Medellin"
+    },
+    "team2": {
+      "name": "La Equidad"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-24",
+    "match_time": "02:00",
     "duration": "3.5",
     "servers": [
       {
@@ -75,18 +1730,638 @@
     ]
   },
   {
-    "id": "LigaDeExpansionMx-LeonesNegros-Tapatio",
-    "league": "Liga De Expansion Mx",
+    "id": "Ligue1-Lyon-Metz",
+    "league": "Ligue 1",
     "team1": {
-      "name": "Leones Negros"
+      "name": "Lyon"
     },
     "team2": {
-      "name": "Tapatio"
+      "name": "Metz"
     },
-    "kickoff_date": "2025-08-23",
-    "kickoff_time": "09:00",
-    "match_date": "2025-08-23",
-    "match_time": "09:00",
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:05",
+    "match_date": "2025-08-24",
+    "match_time": "02:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Levante-Barcelone",
+    "league": "Laliga",
+    "team1": {
+      "name": "Levante"
+    },
+    "team2": {
+      "name": "Barcelone"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-24",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Saragosse-Andorra",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Saragosse"
+    },
+    "team2": {
+      "name": "Andorra"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-24",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Arouca-RioAve",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Arouca"
+    },
+    "team2": {
+      "name": "Rio Ave"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-24",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=145",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Benfica-Tondela",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Benfica"
+    },
+    "team2": {
+      "name": "Tondela"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-24",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=147",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-ComerciantesUnidos-AlianzaHuanuco",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Comerciantes Unidos"
+    },
+    "team2": {
+      "name": "Alianza Huanuco"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "03:30",
+    "match_date": "2025-08-24",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Rosario-NewellsOldBoys",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Rosario"
+    },
+    "team2": {
+      "name": "Newells Old Boys"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "03:30",
+    "match_date": "2025-08-24",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-Nacional-BostonRiver",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Nacional"
+    },
+    "team2": {
+      "name": "Boston River"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "04:00",
+    "match_date": "2025-08-24",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Envigado-Pereira",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Envigado"
+    },
+    "team2": {
+      "name": "Pereira"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "04:10",
+    "match_date": "2025-08-24",
+    "match_time": "04:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoIta\u00faChile-A.Italiano-Coquimbo",
+    "league": "Campeonato Ita\u00fa Chile",
+    "team1": {
+      "name": "A. Italiano"
+    },
+    "team2": {
+      "name": "Coquimbo"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "04:30",
+    "match_date": "2025-08-24",
+    "match_time": "04:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-Manta-Dep.Cuenca",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "Manta"
+    },
+    "team2": {
+      "name": "Dep. Cuenca"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "04:30",
+    "match_date": "2025-08-24",
+    "match_time": "04:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-DeportivoGarcilaso-Huancayo",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Deportivo Garcilaso"
+    },
+    "team2": {
+      "name": "Huancayo"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-24",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-Leon-Pachuca",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Leon"
+    },
+    "team2": {
+      "name": "Pachuca"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-24",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=156",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Atl.Tucuman-TalleresCordoba",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Atl. Tucuman"
+    },
+    "team2": {
+      "name": "Talleres Cordoba"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-24",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-SanMartinS.J.-GimnasiaL.P.",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "San Martin S.J."
+    },
+    "team2": {
+      "name": "Gimnasia L.P."
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-24",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Fortaleza-SantaFe",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Fortaleza"
+    },
+    "team2": {
+      "name": "Santa Fe"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:20",
+    "match_date": "2025-08-24",
+    "match_time": "06:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-Miramar-CerroLargo",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Miramar"
+    },
+    "team2": {
+      "name": "Cerro Largo"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-24",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-CFMontreal-AustinFC",
+    "league": "MLS",
+    "team1": {
+      "name": "CF Montreal"
+    },
+    "team2": {
+      "name": "Austin FC"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-24",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-Cincinnati-NewYorkCity",
+    "league": "MLS",
+    "team1": {
+      "name": "Cincinnati"
+    },
+    "team2": {
+      "name": "New York City"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-24",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-ColumbusCrew-NewEnglandRevolution",
+    "league": "MLS",
+    "team1": {
+      "name": "Columbus Crew"
+    },
+    "team2": {
+      "name": "New England Revolution"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-24",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=182",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-DCUnited-InterMiami",
+    "league": "MLS",
+    "team1": {
+      "name": "DC United"
+    },
+    "team2": {
+      "name": "Inter Miami"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-24",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=183",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=184",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "MLS-PhiladelphiaUnion-ChicagoFire",
+    "league": "MLS",
+    "team1": {
+      "name": "Philadelphia Union"
+    },
+    "team2": {
+      "name": "Chicago Fire"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-24",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=185",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoIta\u00faChile-U.Catolica-U.Espanola",
+    "league": "Campeonato Ita\u00fa Chile",
+    "team1": {
+      "name": "U. Catolica"
+    },
+    "team2": {
+      "name": "U. Espanola"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "07:00",
+    "match_date": "2025-08-24",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-Vinotinto-BarceloneSC",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "Vinotinto"
+    },
+    "team2": {
+      "name": "Barcelone SC"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "07:00",
+    "match_date": "2025-08-24",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaDeExpansionMx-Atlante-Irapuato",
+    "league": "Liga De Expansion Mx",
+    "team1": {
+      "name": "Atlante"
+    },
+    "team2": {
+      "name": "Irapuato"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "07:00",
+    "match_date": "2025-08-24",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=157",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-FCDallas-LosAngelesFC",
+    "league": "MLS",
+    "team1": {
+      "name": "FC Dallas"
+    },
+    "team2": {
+      "name": "Los Angeles FC"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "07:30",
+    "match_date": "2025-08-24",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=186",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-HoustonDynamo-SanJoseEarthquakes",
+    "league": "MLS",
+    "team1": {
+      "name": "Houston Dynamo"
+    },
+    "team2": {
+      "name": "San Jose Earthquakes"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "07:30",
+    "match_date": "2025-08-24",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=187",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-NashvilleSC-OrlandoCity",
+    "league": "MLS",
+    "team1": {
+      "name": "Nashville SC"
+    },
+    "team2": {
+      "name": "Orlando City"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "07:30",
+    "match_date": "2025-08-24",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=188",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaDeExpansionMx-Cancun-Atl.Morelia",
+    "league": "Liga De Expansion Mx",
+    "team1": {
+      "name": "Cancun"
+    },
+    "team2": {
+      "name": "Atl. Morelia"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-08-24",
+    "match_time": "08:00",
     "duration": "3.5",
     "servers": [
       {
@@ -96,22 +2371,2462 @@
     ]
   },
   {
-    "id": "LigaMx-Tijuana-Guadalajara",
-    "league": "Liga Mx",
+    "id": "LigaDeExpansionMx-ZacatecasMineros-AlebrijesOaxaca",
+    "league": "Liga De Expansion Mx",
     "team1": {
-      "name": "Tijuana"
+      "name": "Zacatecas Mineros"
     },
     "team2": {
-      "name": "Guadalajara"
+      "name": "Alebrijes Oaxaca"
     },
-    "kickoff_date": "2025-08-23",
-    "kickoff_time": "10:00",
-    "match_date": "2025-08-23",
-    "match_time": "10:00",
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-08-24",
+    "match_time": "08:00",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=157",
+        "url": "https://multi.govoet.my.id/?envivo=159",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-MazatlanFC-Tigres",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Mazatlan FC"
+    },
+    "team2": {
+      "name": "Tigres"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-08-24",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=108",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-Monterrey-Necaxa",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Monterrey"
+    },
+    "team2": {
+      "name": "Necaxa"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-08-24",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=107",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=106",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Millonarios-Junior",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Millonarios"
+    },
+    "team2": {
+      "name": "Junior"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:30",
+    "match_date": "2025-08-24",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-RealSaltLake-Minnesota",
+    "league": "MLS",
+    "team1": {
+      "name": "Real Salt Lake"
+    },
+    "team2": {
+      "name": "Minnesota"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:30",
+    "match_date": "2025-08-24",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=189",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-VancouverWhitecaps-St.LouisCity",
+    "league": "MLS",
+    "team1": {
+      "name": "Vancouver Whitecaps"
+    },
+    "team2": {
+      "name": "St. Louis City"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "08:30",
+    "match_date": "2025-08-24",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=190",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-LosAngelesGalaxy-ColoradoRapids",
+    "league": "MLS",
+    "team1": {
+      "name": "Los Angeles Galaxy"
+    },
+    "team2": {
+      "name": "Colorado Rapids"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "09:30",
+    "match_date": "2025-08-24",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=191",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-SanDiegoFC-PortlandTimbers",
+    "league": "MLS",
+    "team1": {
+      "name": "San Diego FC"
+    },
+    "team2": {
+      "name": "Portland Timbers"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "09:30",
+    "match_date": "2025-08-24",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=192",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-CruzAzul-Toluca",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Cruz Azul"
+    },
+    "team2": {
+      "name": "Toluca"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "10:05",
+    "match_date": "2025-08-24",
+    "match_time": "10:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=107",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=106",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-WarmupdesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Warm up des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "14:40",
+    "match_date": "2025-08-24",
+    "match_time": "14:40",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-Laparadedespilotes",
+    "league": "MotoGP",
+    "team1": {
+      "name": "La parade des pilotes"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "15:00",
+    "match_date": "2025-08-24",
+    "match_time": "15:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Moto3-LacoursedesMoto3",
+    "league": "Moto3",
+    "team1": {
+      "name": "La course des Moto 3"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "16:00",
+    "match_date": "2025-08-24",
+    "match_time": "16:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Heerenveen-Twente",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Heerenveen"
+    },
+    "team2": {
+      "name": "Twente"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "17:15",
+    "match_date": "2025-08-24",
+    "match_time": "17:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "Moto2-LacoursedesMoto2",
+    "league": "Moto2",
+    "team1": {
+      "name": "La course des Moto 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "17:15",
+    "match_date": "2025-08-24",
+    "match_time": "17:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Premiership-St.Mirren-Rangers",
+    "league": "Premiership",
+    "team1": {
+      "name": "St. Mirren"
+    },
+    "team2": {
+      "name": "Rangers"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "18:00",
+    "match_date": "2025-08-24",
+    "match_time": "18:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=135",
+        "label": "CH-GB"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-bundesliga2konferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "bundesliga 2 konferenz"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-24",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-ArminiaBielefeld-DynamoDresde",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Arminia Bielefeld"
+    },
+    "team2": {
+      "name": "Dynamo Dresde"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-24",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Darmstadt-HerthaBerlin",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Darmstadt"
+    },
+    "team2": {
+      "name": "Hertha Berlin"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-24",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=78",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-GreutherF\u00fcrth-HolsteinKiel",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Greuther F\u00fcrth"
+    },
+    "team2": {
+      "name": "Holstein Kiel"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-24",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "ProLeague-Antwerp-Malines",
+    "league": "Pro League",
+    "team1": {
+      "name": "Antwerp"
+    },
+    "team2": {
+      "name": "Malines"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "18:30",
+    "match_date": "2025-08-24",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=153",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-LacoursedesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "La course des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "19:00",
+    "match_date": "2025-08-24",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Nijmegen-Breda",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Nijmegen"
+    },
+    "team2": {
+      "name": "Breda"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "19:30",
+    "match_date": "2025-08-24",
+    "match_time": "19:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Utrecht-Excelsior",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Utrecht"
+    },
+    "team2": {
+      "name": "Excelsior"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "19:30",
+    "match_date": "2025-08-24",
+    "match_time": "19:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=143",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Lorient-Rennes",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lorient"
+    },
+    "team2": {
+      "name": "Rennes"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-24",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-CrystalPalace-Nottingham",
+    "league": "Premier League",
+    "team1": {
+      "name": "Crystal Palace"
+    },
+    "team2": {
+      "name": "Nottingham"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-24",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Everton-Brighton",
+    "league": "Premier League",
+    "team1": {
+      "name": "Everton"
+    },
+    "team2": {
+      "name": "Brighton"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-24",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=32",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=58",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=73",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-Mayence-FCCologne",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Mayence"
+    },
+    "team2": {
+      "name": "FC Cologne"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-24",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-Progreso-Danubio",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Progreso"
+    },
+    "team2": {
+      "name": "Danubio"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "20:30",
+    "match_date": "2025-08-24",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Famalicao-GilVicente",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Famalicao"
+    },
+    "team2": {
+      "name": "Gil Vicente"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "21:30",
+    "match_date": "2025-08-24",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=145",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Ajax-Heracles",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Ajax"
+    },
+    "team2": {
+      "name": "Heracles"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "21:45",
+    "match_date": "2025-08-24",
+    "match_time": "21:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Osasuna-Valence",
+    "league": "Laliga",
+    "team1": {
+      "name": "Osasuna"
+    },
+    "team2": {
+      "name": "Valence"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:00",
+    "match_date": "2025-08-24",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-LaCorogne-BurgosCF",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "La Corogne"
+    },
+    "team2": {
+      "name": "Burgos CF"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:00",
+    "match_date": "2025-08-24",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-MultiplexLigue1",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Multiplex Ligue 1"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:15",
+    "match_date": "2025-08-24",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-LeHavre-Lens",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Le Havre"
+    },
+    "team2": {
+      "name": "Lens"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:15",
+    "match_date": "2025-08-24",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=40",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Strasbourg-Nantes",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Strasbourg"
+    },
+    "team2": {
+      "name": "Nantes"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:15",
+    "match_date": "2025-08-24",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=21",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Toulouse-Brest",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Toulouse"
+    },
+    "team2": {
+      "name": "Brest"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:15",
+    "match_date": "2025-08-24",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=22",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-B.Monchengladbach-HambourgSV",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "B. Monchengladbach"
+    },
+    "team2": {
+      "name": "Hambourg SV"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:30",
+    "match_date": "2025-08-24",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=3",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Fulham-ManchesterUtd",
+    "league": "Premier League",
+    "team1": {
+      "name": "Fulham"
+    },
+    "team2": {
+      "name": "Manchester Utd"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "22:30",
+    "match_date": "2025-08-24",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=73",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SuperLig-Trabzonspor-Antalyaspor",
+    "league": "Super Lig",
+    "team1": {
+      "name": "Trabzonspor"
+    },
+    "team2": {
+      "name": "Antalyaspor"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "23:00",
+    "match_date": "2025-08-24",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=151",
+        "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoIta\u00faChile-LaSerena-Huachipato",
+    "league": "Campeonato Ita\u00fa Chile",
+    "team1": {
+      "name": "La Serena"
+    },
+    "team2": {
+      "name": "Huachipato"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-24",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "ProLeague-RAALLaLouviere-RoyaleUnionSG",
+    "league": "Pro League",
+    "team1": {
+      "name": "RAAL La Louviere"
+    },
+    "team2": {
+      "name": "Royale Union SG"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-24",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=153",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Cagliari-Fiorentina",
+    "league": "Serie A",
+    "team1": {
+      "name": "Cagliari"
+    },
+    "team2": {
+      "name": "Fiorentina"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-24",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Como-Lazio",
+    "league": "Serie A",
+    "team1": {
+      "name": "Como"
+    },
+    "team2": {
+      "name": "Lazio"
+    },
+    "kickoff_date": "2025-08-24",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-24",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-FCPorto-CasaPia",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "FC Porto"
+    },
+    "team2": {
+      "name": "Casa Pia"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-25",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-UnionSantaFe-Huracan",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Union Santa Fe"
+    },
+    "team2": {
+      "name": "Huracan"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:00",
+    "match_date": "2025-08-25",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "BetfredSuperLeague-AEK-Panserraikos",
+    "league": "Betfred Super League",
+    "team1": {
+      "name": "AEK"
+    },
+    "team2": {
+      "name": "Panserraikos"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:15",
+    "match_date": "2025-08-25",
+    "match_time": "00:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=148",
+        "label": "CH-GR"
+      }
+    ]
+  },
+  {
+    "id": "ProLeague-Dender-Louvain",
+    "league": "Pro League",
+    "team1": {
+      "name": "Dender"
+    },
+    "team2": {
+      "name": "Louvain"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:15",
+    "match_date": "2025-08-25",
+    "match_time": "00:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=154",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-RealSociedad-Espanyol",
+    "league": "Laliga",
+    "team1": {
+      "name": "Real Sociedad"
+    },
+    "team2": {
+      "name": "Espanyol"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-25",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Villarreal-G\u00e9rone",
+    "league": "Laliga",
+    "team1": {
+      "name": "Villarreal"
+    },
+    "team2": {
+      "name": "G\u00e9rone"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-25",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=7",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=52",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-CulturalLeonesa-Almeria",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Cultural Leonesa"
+    },
+    "team2": {
+      "name": "Almeria"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-25",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "BetfredSuperLeague-PAOK-AELLarissa",
+    "league": "Betfred Super League",
+    "team1": {
+      "name": "PAOK"
+    },
+    "team2": {
+      "name": "AEL Larissa"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-25",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=149",
+        "label": "CH-GR"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-ElNacional-LDUQuito",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "El Nacional"
+    },
+    "team2": {
+      "name": "LDU Quito"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-25",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-ADTarma-Melgar",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "AD Tarma"
+    },
+    "team2": {
+      "name": "Melgar"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-25",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaDeExpansionMx-Tlaxcala-Correcaminos",
+    "league": "Liga De Expansion Mx",
+    "team1": {
+      "name": "Tlaxcala"
+    },
+    "team2": {
+      "name": "Correcaminos"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-25",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=158",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-CerroCA-LiverpoolM.",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Cerro CA"
+    },
+    "team2": {
+      "name": "Liverpool M."
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-25",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SuperLig-Kayserispor-Galatasaray",
+    "league": "Super Lig",
+    "team1": {
+      "name": "Kayserispor"
+    },
+    "team2": {
+      "name": "Galatasaray"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-25",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=3",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=151",
+        "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Lille-Monaco",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lille"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-25",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Atalanta-Pisa",
+    "league": "Serie A",
+    "team1": {
+      "name": "Atalanta"
+    },
+    "team2": {
+      "name": "Pisa"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-25",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=139",
+        "label": "CH-IT"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Juventus-Parme",
+    "league": "Serie A",
+    "team1": {
+      "name": "Juventus"
+    },
+    "team2": {
+      "name": "Parme"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-25",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoIta\u00faChile-U.DeChile-Everton",
+    "league": "Campeonato Ita\u00fa Chile",
+    "team1": {
+      "name": "U. De Chile"
+    },
+    "team2": {
+      "name": "Everton"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-25",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-OnceCaldas-Tolima",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Once Caldas"
+    },
+    "team2": {
+      "name": "Tolima"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-25",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieABresil-Bahia-Santos",
+    "league": "Serie A Bresil",
+    "team1": {
+      "name": "Bahia"
+    },
+    "team2": {
+      "name": "Santos"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-25",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=55",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-ArgentinosJrs-RacingClub",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Argentinos Jrs"
+    },
+    "team2": {
+      "name": "Racing Club"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:15",
+    "match_date": "2025-08-25",
+    "match_time": "02:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-R.Oviedo-RealMadrid",
+    "league": "Laliga",
+    "team1": {
+      "name": "R. Oviedo"
+    },
+    "team2": {
+      "name": "Real Madrid"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-25",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Malaga-RealSociedadB",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Malaga"
+    },
+    "team2": {
+      "name": "Real Sociedad B"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-25",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Braga-AFS",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Braga"
+    },
+    "team2": {
+      "name": "AFS"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-25",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=145",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-AtlantaUtd-TorontoFC",
+    "league": "MLS",
+    "team1": {
+      "name": "Atlanta Utd"
+    },
+    "team2": {
+      "name": "Toronto FC"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "03:00",
+    "match_date": "2025-08-25",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-Cienciano-Grau",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Cienciano"
+    },
+    "team2": {
+      "name": "Grau"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "03:15",
+    "match_date": "2025-08-25",
+    "match_time": "03:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-Emelec-Ind.delValle",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "Emelec"
+    },
+    "team2": {
+      "name": "Ind. del Valle"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "03:30",
+    "match_date": "2025-08-25",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-Penarol-RiverPlate",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Penarol"
+    },
+    "team2": {
+      "name": "River Plate"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "04:00",
+    "match_date": "2025-08-25",
+    "match_time": "04:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-U.Magdalena-Alianza",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "U. Magdalena"
+    },
+    "team2": {
+      "name": "Alianza"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "04:10",
+    "match_date": "2025-08-25",
+    "match_time": "04:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-BocaJuniors-Banfield",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Boca Juniors"
+    },
+    "team2": {
+      "name": "Banfield"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "04:15",
+    "match_date": "2025-08-25",
+    "match_time": "04:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoIta\u00faChile-DeportesIquique-Nublense",
+    "league": "Campeonato Ita\u00fa Chile",
+    "team1": {
+      "name": "Deportes Iquique"
+    },
+    "team2": {
+      "name": "Nublense"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "04:30",
+    "match_date": "2025-08-25",
+    "match_time": "04:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-U.deDeportes-A.Lima",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "U. de Deportes"
+    },
+    "team2": {
+      "name": "A. Lima"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "05:30",
+    "match_date": "2025-08-25",
+    "match_time": "05:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=95",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-U.Catolica-TecnicoU.",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "U. Catolica"
+    },
+    "team2": {
+      "name": "Tecnico U."
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-25",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-U.N.A.M.-Puebla",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "U.N.A.M."
+    },
+    "team2": {
+      "name": "Puebla"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-25",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=107",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=106",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-Charlotte-NewYorkRedBulls",
+    "league": "MLS",
+    "team1": {
+      "name": "Charlotte"
+    },
+    "team2": {
+      "name": "New York Red Bulls"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-25",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-AmericaDeCali-Atl.Nacional",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "America De Cali"
+    },
+    "team2": {
+      "name": "Atl. Nacional"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "06:20",
+    "match_date": "2025-08-25",
+    "match_time": "06:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaAUFUruguaya-MontevideoCity-RacingMontevideo",
+    "league": "Liga AUF Uruguaya",
+    "team1": {
+      "name": "Montevideo City"
+    },
+    "team2": {
+      "name": "Racing Montevideo"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-25",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=109",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Independiente-Platense",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Independiente"
+    },
+    "team2": {
+      "name": "Platense"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "06:30",
+    "match_date": "2025-08-25",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-Atlas-ClubAmerica",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Atlas"
+    },
+    "team2": {
+      "name": "Club America"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "08:05",
+    "match_date": "2025-08-25",
+    "match_time": "08:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=107",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=106",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-SeattleSounders-SportingKansasCity",
+    "league": "MLS",
+    "team1": {
+      "name": "Seattle Sounders"
+    },
+    "team2": {
+      "name": "Sporting Kansas City"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "08:15",
+    "match_date": "2025-08-25",
+    "match_time": "08:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=182",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Bucaramanga-Aguilas",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Bucaramanga"
+    },
+    "team2": {
+      "name": "Aguilas"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "08:30",
+    "match_date": "2025-08-25",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SuperLig-Eyupspor-Alanyaspor",
+    "league": "Super Lig",
+    "team1": {
+      "name": "Eyupspor"
+    },
+    "team2": {
+      "name": "Alanyaspor"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "23:00",
+    "match_date": "2025-08-25",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=151",
+        "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "BetfredSuperLeague-Levadiakos-Kifisia",
+    "league": "Betfred Super League",
+    "team1": {
+      "name": "Levadiakos"
+    },
+    "team2": {
+      "name": "Kifisia"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=150",
+        "label": "CH-GR"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Udinese-HellasV\u00e9rone",
+    "league": "Serie A",
+    "team1": {
+      "name": "Udinese"
+    },
+    "team2": {
+      "name": "Hellas V\u00e9rone"
+    },
+    "kickoff_date": "2025-08-25",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=100",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Ath.Bilbao-Vallecano",
+    "league": "Laliga",
+    "team1": {
+      "name": "Ath. Bilbao"
+    },
+    "team2": {
+      "name": "Vallecano"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-26",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=96",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Albacete-RacingSantander",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Albacete"
+    },
+    "team2": {
+      "name": "Racing Santander"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "00:30",
+    "match_date": "2025-08-26",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Dep.Riestra-SarmientoJunin",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Dep. Riestra"
+    },
+    "team2": {
+      "name": "Sarmiento Junin"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-26",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Ligue2-PauFC-Reims",
+    "league": "Ligue 2",
+    "team1": {
+      "name": "Pau FC"
+    },
+    "team2": {
+      "name": "Reims"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-26",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Inter-Torino",
+    "league": "Serie A",
+    "team1": {
+      "name": "Inter"
+    },
+    "team2": {
+      "name": "Torino"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "01:45",
+    "match_date": "2025-08-26",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=100",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Newcastle-Liverpool",
+    "league": "Premier League",
+    "team1": {
+      "name": "Newcastle"
+    },
+    "team2": {
+      "name": "Liverpool"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "02:00",
+    "match_date": "2025-08-26",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaPortugal-Estrela-Alverca",
+    "league": "Liga Portugal",
+    "team1": {
+      "name": "Estrela"
+    },
+    "team2": {
+      "name": "Alverca"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "02:15",
+    "match_date": "2025-08-26",
+    "match_time": "02:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=144",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-FCS\u00e9ville-Getafe",
+    "league": "Laliga",
+    "team1": {
+      "name": "FC S\u00e9ville"
+    },
+    "team2": {
+      "name": "Getafe"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-26",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=3",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Cordoba-LasPalmas",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Cordoba"
+    },
+    "team2": {
+      "name": "Las Palmas"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "02:30",
+    "match_date": "2025-08-26",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-GodoyCruz-VelezSarsfield",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Godoy Cruz"
+    },
+    "team2": {
+      "name": "Velez Sarsfield"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "03:00",
+    "match_date": "2025-08-26",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Belgrano-CentralCordoba",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Belgrano"
+    },
+    "team2": {
+      "name": "Central Cordoba"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "05:00",
+    "match_date": "2025-08-26",
+    "match_time": "05:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Estudiantes-Aldosivi",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Estudiantes"
+    },
+    "team2": {
+      "name": "Aldosivi"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "05:15",
+    "match_date": "2025-08-26",
+    "match_time": "05:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Chico-Dep.Cali",
+    "league": "Liga Betplay Dimayor",
+    "team1": {
+      "name": "Chico"
+    },
+    "team2": {
+      "name": "Dep. Cali"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "06:00",
+    "match_date": "2025-08-26",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-Orense-Delfin",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "Orense"
+    },
+    "team2": {
+      "name": "Delfin"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "07:00",
+    "match_date": "2025-08-26",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Lanus-RiverPlate",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Lanus"
+    },
+    "team2": {
+      "name": "River Plate"
+    },
+    "kickoff_date": "2025-08-26",
+    "kickoff_time": "07:15",
+    "match_date": "2025-08-26",
+    "match_time": "07:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
         "label": "CH-ES"
       }
     ]
