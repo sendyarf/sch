@@ -144,6 +144,22 @@
     "servers": []
   },
   {
+    "id": "PremierLeague-AstonVilla-CrystalPalace",
+    "league": "Premier League",
+    "team1": {
+      "name": "Aston Villa"
+    },
+    "team2": {
+      "name": "Crystal Palace"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "01:00",
+    "match_date": "2025-09-01",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-Groningen-Heracles",
     "league": "Eredivisie",
     "team1": {
@@ -416,6 +432,22 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Lyon-Marseille",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lyon"
+    },
+    "team2": {
+      "name": "Marseille"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-01",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-HamburgerSV-St.Pauli",
     "league": "Bundesliga",
     "team1": {
@@ -540,6 +572,22 @@
     "kickoff_time": "22:30",
     "match_date": "2025-08-31",
     "match_time": "22:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-FCKoln-Freiburg",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "FC Koln"
+    },
+    "team2": {
+      "name": "Freiburg"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "00:30",
+    "match_date": "2025-09-01",
+    "match_time": "00:30",
     "duration": "3.5",
     "servers": []
   },
@@ -672,18 +720,34 @@
     "servers": []
   },
   {
-    "id": "LaLiga-CeltaVigo-Betis",
-    "league": "LaLiga",
+    "id": "SerieA-Inter-Udinese",
+    "league": "Serie A",
     "team1": {
-      "name": "Celta Vigo"
+      "name": "Inter"
     },
     "team2": {
-      "name": "Betis"
+      "name": "Udinese"
     },
-    "kickoff_date": "2025-08-28",
-    "kickoff_time": "02:00",
-    "match_date": "2025-08-28",
-    "match_time": "02:00",
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-01",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Lazio-Verona",
+    "league": "Serie A",
+    "team1": {
+      "name": "Lazio"
+    },
+    "team2": {
+      "name": "Verona"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-01",
+    "match_time": "01:45",
     "duration": "3.5",
     "servers": []
   },
@@ -796,6 +860,54 @@
     "kickoff_time": "22:00",
     "match_date": "2025-08-31",
     "match_time": "22:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Betis-AthBilbao",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Betis"
+    },
+    "team2": {
+      "name": "Ath Bilbao"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "00:00",
+    "match_date": "2025-09-01",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Espanyol-Osasuna",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Espanyol"
+    },
+    "team2": {
+      "name": "Osasuna"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "00:30",
+    "match_date": "2025-09-01",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-RayoVallecano-Barcelona",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Rayo Vallecano"
+    },
+    "team2": {
+      "name": "Barcelona"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "02:30",
+    "match_date": "2025-09-01",
+    "match_time": "02:30",
     "duration": "3.5",
     "servers": []
   }
