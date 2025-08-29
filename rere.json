@@ -1240,7 +1240,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=10",
         "label": "CH-US"
       }
     ]
@@ -1304,7 +1304,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-XFR"
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=129",
@@ -1382,7 +1382,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=2",
         "label": "CH-FR"
       }
     ]
@@ -1403,7 +1403,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=1",
         "label": "CH-FR"
       }
     ]
@@ -1453,7 +1453,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
+        "url": "https://multi.govoet.my.id/?envivo=7",
         "label": "CH-FR"
       },
       {
@@ -1478,7 +1478,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
+        "url": "https://multi.govoet.my.id/?envivo=5",
         "label": "CH-FR"
       },
       {
@@ -1503,7 +1503,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
+        "url": "https://multi.govoet.my.id/?envivo=6",
         "label": "CH-FR"
       },
       {
@@ -1528,7 +1528,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
+        "url": "https://multi.govoet.my.id/?envivo=4",
         "label": "CH-FR"
       },
       {
@@ -1553,8 +1553,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=8",
+        "label": "CH-FR"
       }
     ]
   },
@@ -1742,8 +1742,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=35",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=129",
@@ -1779,8 +1779,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=36",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=129",
@@ -1816,8 +1816,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=32",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=129",
@@ -1853,8 +1853,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=34",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=129",
@@ -2017,13 +2017,13 @@
     ]
   },
   {
-    "id": "Ligue1-Lorient-Lille(CHxxfr)",
+    "id": "Ligue1-Lorient-Lille",
     "league": "Ligue 1",
     "team1": {
       "name": "Lorient"
     },
     "team2": {
-      "name": "Lille  (CHxxfr)"
+      "name": "Lille"
     },
     "kickoff_date": "2025-08-30",
     "kickoff_time": "22:00",
@@ -2031,6 +2031,10 @@
     "match_time": "22:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
         "label": "CH-ES"
@@ -5136,6 +5140,27 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=1",
         "label": "CH-XXES"
+      }
+    ]
+  },
+  {
+    "id": "Eurobasket-Su\u00e8de-Mont\u00e9n\u00e9gro",
+    "league": "Eurobasket",
+    "team1": {
+      "name": "Su\u00e8de"
+    },
+    "team2": {
+      "name": "Mont\u00e9n\u00e9gro"
+    },
+    "kickoff_date": "2025-09-01",
+    "kickoff_time": "17:30",
+    "match_date": "2025-09-01",
+    "match_time": "17:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
       }
     ]
   }
