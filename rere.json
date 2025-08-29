@@ -1,5 +1,55 @@
 [
   {
+    "id": "formula1-Essaislibres1",
+    "league": "formula 1",
+    "team1": {
+      "name": "Essais libres 1"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-29",
+    "kickoff_time": "17:30",
+    "match_date": "2025-08-29",
+    "match_time": "17:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "formula1-Essaislibres2",
+    "league": "formula 1",
+    "team1": {
+      "name": "Essais libres 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-29",
+    "kickoff_time": "21:00",
+    "match_date": "2025-08-29",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
     "id": "CHAN-Soudan-S\u00e9n\u00e9gal",
     "league": "CHAN",
     "team1": {
@@ -15,8 +65,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
       }
     ]
   },
@@ -36,8 +86,71 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-2.bundesligakonferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "2.bundesliga konferenz"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-29",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-29",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-HerthaBerlin-Elversberg",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Hertha Berlin"
+    },
+    "team2": {
+      "name": "Elversberg"
+    },
+    "kickoff_date": "2025-08-29",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-29",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-DE"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Nurnberg-Paderborn",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Nurnberg"
+    },
+    "team2": {
+      "name": "Paderborn"
+    },
+    "kickoff_date": "2025-08-29",
+    "kickoff_time": "23:30",
+    "match_date": "2025-08-29",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-DE"
       }
     ]
   },
@@ -58,15 +171,15 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-XIT"
+        "label": "CH-IT"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=124",
+        "url": "https://multi.govoet.my.id/?envivo=123",
         "label": "CH-DE"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
       }
     ]
   },
@@ -86,24 +199,20 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-XES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
+        "url": "https://multi.govoet.my.id/?envivo=124",
         "label": "CH-DE"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-XES"
+        "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=96",
+        "label": "CH-ES"
       }
     ]
   },
@@ -144,8 +253,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-XNL"
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
       }
     ]
   },
@@ -165,7 +274,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=1",
         "label": "CH-FR"
       }
     ]
@@ -186,7 +295,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=2",
         "label": "CH-FR"
       }
     ]
@@ -207,7 +316,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=4",
         "label": "CH-FR"
       }
     ]
@@ -228,7 +337,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=2",
         "label": "CH-FR"
       }
     ]
@@ -249,7 +358,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=8",
         "label": "CH-FR"
       }
     ]
@@ -270,7 +379,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=5",
         "label": "CH-FR"
       }
     ]
@@ -291,7 +400,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
+        "url": "https://multi.govoet.my.id/?envivo=7",
         "label": "CH-FR"
       }
     ]
@@ -312,8 +421,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
       }
     ]
   },
@@ -337,8 +446,12 @@
         "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=110",
-        "label": "CH-XDE"
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-ES"
       }
     ]
   },
@@ -359,18 +472,18 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=151",
-        "label": "CH-XTR"
+        "label": "CH-TR"
       }
     ]
   },
   {
-    "id": "Ligue1-Lens-Brest(CHxxfr)",
+    "id": "Ligue1-Lens-Brest",
     "league": "Ligue 1",
     "team1": {
       "name": "Lens"
     },
     "team2": {
-      "name": "Brest  (CHxxfr)"
+      "name": "Brest"
     },
     "kickoff_date": "2025-08-30",
     "kickoff_time": "01:45",
@@ -378,6 +491,10 @@
     "match_time": "01:45",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
         "label": "CH-ES"
@@ -421,16 +538,20 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-XIT"
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=124",
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
         "label": "CH-DE"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
       }
     ]
   },
@@ -450,8 +571,16 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=100",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=79",
+        "label": "CH-ES"
       }
     ]
   },
@@ -472,7 +601,11 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-XPT"
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
       }
     ]
   },
@@ -492,24 +625,24 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=9",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-XES"
+        "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=123",
+        "url": "https://multi.govoet.my.id/?envivo=124",
         "label": "CH-DE"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-XES"
+        "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
       }
     ]
   },
@@ -550,8 +683,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=75",
-        "label": "CH-XES"
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
       }
     ]
   },
@@ -572,7 +705,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=75",
-        "label": "CH-XES"
+        "label": "CH-ES"
       }
     ]
   },
@@ -619,27 +752,6 @@
     ]
   },
   {
-    "id": "LigaDeExpansionMx-Tapatio-Atlante",
-    "league": "Liga De Expansion Mx",
-    "team1": {
-      "name": "Tapatio"
-    },
-    "team2": {
-      "name": "Atlante"
-    },
-    "kickoff_date": "2025-08-30",
-    "kickoff_time": "06:00",
-    "match_date": "2025-08-30",
-    "match_time": "06:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XXES"
-      }
-    ]
-  },
-  {
     "id": "EcuadorLigapro-Vinotinto-ElNacional",
     "league": "Ecuador Ligapro",
     "team1": {
@@ -661,27 +773,6 @@
     ]
   },
   {
-    "id": "LigaMxWomen-MonterreyF-JuarezF",
-    "league": "Liga Mx Women",
-    "team1": {
-      "name": "Monterrey F"
-    },
-    "team2": {
-      "name": "Juarez F"
-    },
-    "kickoff_date": "2025-08-30",
-    "kickoff_time": "07:00",
-    "match_date": "2025-08-30",
-    "match_time": "07:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XXES"
-      }
-    ]
-  },
-  {
     "id": "TorneoLPF-Instituto-Independiente",
     "league": "Torneo LPF",
     "team1": {
@@ -698,18 +789,18 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=75",
-        "label": "CH-XES"
+        "label": "CH-ES"
       }
     ]
   },
   {
-    "id": "LigaDeExpansionMx-Correcaminos-TepatitlandeMorelos",
-    "league": "Liga De Expansion Mx",
+    "id": "LigaMx-Atl.SanLuis-Toluca",
+    "league": "Liga Mx",
     "team1": {
-      "name": "Correcaminos"
+      "name": "Atl. San Luis"
     },
     "team2": {
-      "name": "Tepatitlan de Morelos"
+      "name": "Toluca"
     },
     "kickoff_date": "2025-08-30",
     "kickoff_time": "08:00",
@@ -718,8 +809,41 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XXES"
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-Juarez-MazatlanFC",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Juarez"
+    },
+    "team2": {
+      "name": "Mazatlan FC"
+    },
+    "kickoff_date": "2025-08-30",
+    "kickoff_time": "08:00",
+    "match_date": "2025-08-30",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=108",
+        "label": "CH-ES"
       }
     ]
   },
@@ -745,23 +869,52 @@
     ]
   },
   {
-    "id": "LigaDeExpansionMx-AtleticoLaPaz-Dorados",
-    "league": "Liga De Expansion Mx",
+    "id": "LigaMx-Puebla-Monterrey",
+    "league": "Liga Mx",
     "team1": {
-      "name": "Atletico La Paz"
+      "name": "Puebla"
     },
     "team2": {
-      "name": "Dorados"
+      "name": "Monterrey"
     },
     "kickoff_date": "2025-08-30",
-    "kickoff_time": "10:00",
+    "kickoff_time": "10:05",
     "match_date": "2025-08-30",
-    "match_time": "10:00",
+    "match_time": "10:05",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XXES"
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=108",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "formula1-Essaislibres3",
+    "league": "formula 1",
+    "team1": {
+      "name": "Essais libres 3"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-30",
+    "kickoff_time": "16:30",
+    "match_date": "2025-08-30",
+    "match_time": "16:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
       }
     ]
   },
@@ -904,6 +1057,31 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=00",
         "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "formula1-Essaisqualificatifs",
+    "league": "formula 1",
+    "team1": {
+      "name": "Essais qualificatifs"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-30",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-30",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
       }
     ]
   },
@@ -2784,6 +2962,31 @@
     ]
   },
   {
+    "id": "formula1-LaGrille",
+    "league": "formula 1",
+    "team1": {
+      "name": "La Grille"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-31",
+    "kickoff_time": "19:00",
+    "match_date": "2025-08-31",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
     "id": "Eredivisie-SpartaRotterdam-Feyenoord",
     "league": "Eredivisie",
     "team1": {
@@ -2938,6 +3141,31 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=135",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "formula1-GrandPrixdesPays-Bas",
+    "league": "formula 1",
+    "team1": {
+      "name": "Grand Prix des Pays-Bas"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-08-31",
+    "kickoff_time": "20:00",
+    "match_date": "2025-08-31",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
       }
     ]
   },
