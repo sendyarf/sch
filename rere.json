@@ -1974,8 +1974,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=9",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=49",
@@ -2162,7 +2162,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
+        "url": "https://multi.govoet.my.id/?envivo=2",
         "label": "CH-FR"
       },
       {
@@ -2230,7 +2230,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-XFR"
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=129",
@@ -2345,8 +2345,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=49",
@@ -2430,13 +2430,13 @@
     ]
   },
   {
-    "id": "Ligue1-Nantes-Auxerre(CHxxfr)",
+    "id": "Ligue1-Nantes-Auxerre",
     "league": "Ligue 1",
     "team1": {
       "name": "Nantes"
     },
     "team2": {
-      "name": "Auxerre  (CHxxfr)"
+      "name": "Auxerre"
     },
     "kickoff_date": "2025-08-31",
     "kickoff_time": "00:00",
@@ -2444,6 +2444,10 @@
     "match_time": "00:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
         "label": "CH-ES"
@@ -2466,8 +2470,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=49",
@@ -2551,6 +2555,27 @@
     ]
   },
   {
+    "id": "Ligue2-Saint-\u00c9tienne-Grenoble",
+    "league": "Ligue 2",
+    "team1": {
+      "name": "Saint-\u00c9tienne"
+    },
+    "team2": {
+      "name": "Grenoble"
+    },
+    "kickoff_date": "2025-08-31",
+    "kickoff_time": "01:00",
+    "match_date": "2025-08-31",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
     "id": "SaudiProLeague-AlOkhdood-Al-IttihadFC",
     "league": "Saudi Pro League",
     "team1": {
@@ -2589,6 +2614,27 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=148",
         "label": "CH-XGR"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-D\u00fcsseldorf-Karlsruher(CH7fr)(CHxxde)",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "D\u00fcsseldorf"
+    },
+    "team2": {
+      "name": "Karlsruher  (CH7fr) (CHxxde)"
+    },
+    "kickoff_date": "2025-08-31",
+    "kickoff_time": "01:30",
+    "match_date": "2025-08-31",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=7",
+        "label": "CH-FR"
       }
     ]
   },
@@ -2670,6 +2716,10 @@
     "match_time": "01:30",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=9",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=151",
         "label": "CH-XTR"
@@ -2882,13 +2932,13 @@
     ]
   },
   {
-    "id": "Ligue1-Toulouse-PSG(CHxxfr)",
+    "id": "Ligue1-Toulouse-PSG",
     "league": "Ligue 1",
     "team1": {
       "name": "Toulouse"
     },
     "team2": {
-      "name": "PSG  (CHxxfr)"
+      "name": "PSG"
     },
     "kickoff_date": "2025-08-31",
     "kickoff_time": "02:05",
@@ -2896,6 +2946,10 @@
     "match_time": "02:05",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
         "label": "CH-ES"
@@ -2918,8 +2972,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-XFR"
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=49",
@@ -2975,6 +3029,10 @@
     "match_time": "02:30",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=144",
         "label": "CH-XPT"
