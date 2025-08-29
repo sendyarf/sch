@@ -895,18 +895,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=161",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
       },
@@ -1498,10 +1486,6 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekV6TnpVeE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
@@ -1868,27 +1852,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "SuperLig-Goztepe-Konyaspor",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Goztepe"
-    },
-    "team2": {
-      "name": "Konyaspor"
-    },
-    "kickoff_date": "2025-08-30",
-    "kickoff_time": "01:30",
-    "match_date": "2025-08-30",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=151",
-        "label": "CH-TR"
       }
     ]
   },
@@ -5040,6 +5003,27 @@
     ]
   },
   {
+    "id": "51948666",
+    "league": "Tournaments - LTA North",
+    "team1": {
+      "name": "CLoud9"
+    },
+    "team2": {
+      "name": "Disguised"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd4MFlXNXZjblJvSm5CaGNtVnVkRDFrWlcxdkxtbHVjR3hoZVc1bGRDNWpiMjA9",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "52228814",
     "league": "International - TT Cup",
     "team1": {
@@ -5056,48 +5040,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekUzTURNd015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "52172334",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Machelski, Michal"
-    },
-    "team2": {
-      "name": "Wozniczka, Marcin"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekUzTURRM015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "51304804",
-    "league": "Paraguay - Primera Division, Clausura",
-    "team1": {
-      "name": "Sportivo Ameliano"
-    },
-    "team2": {
-      "name": "Nacional Asuncion"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekUyT1RRNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -5124,13 +5066,13 @@
     ]
   },
   {
-    "id": "51948666",
-    "league": "Tournaments - LTA North",
+    "id": "51304804",
+    "league": "Paraguay - Primera Division, Clausura",
     "team1": {
-      "name": "CLoud9"
+      "name": "Sportivo Ameliano"
     },
     "team2": {
-      "name": "Disguised"
+      "name": "Nacional Asuncion"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -5139,7 +5081,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd4MFlXNXZjblJvSm5CaGNtVnVkRDFrWlcxdkxtbHVjR3hoZVc1bGRDNWpiMjA9",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekUyT1RRNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
