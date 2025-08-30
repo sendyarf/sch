@@ -205,12 +205,7 @@
     "match_date": "2025-08-31",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Sittard-Nijmegen",
@@ -323,14 +318,6 @@
     "match_time": "01:55",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -956,111 +943,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "CampeonatoItaúChile-O'Higgins-A.Italiano",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "O'Higgins"
-    },
-    "team2": {
-      "name": "A. Italiano"
-    },
-    "kickoff_date": "2025-08-31",
-    "kickoff_time": "02:00",
-    "match_date": "2025-08-31",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "EcuadorLigapro-Ind.delValle-TecnicoU.",
-    "league": "Ecuador Ligapro",
-    "team1": {
-      "name": "Ind. del Valle"
-    },
-    "team2": {
-      "name": "Tecnico U."
-    },
-    "kickoff_date": "2025-08-31",
-    "kickoff_time": "02:00",
-    "match_date": "2025-08-31",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaAUFUruguaya-RiverPlate-Nacional",
-    "league": "Liga AUF Uruguaya",
-    "team1": {
-      "name": "River Plate"
-    },
-    "team2": {
-      "name": "Nacional"
-    },
-    "kickoff_date": "2025-08-31",
-    "kickoff_time": "02:00",
-    "match_date": "2025-08-31",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=109",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaBetplayDimayor-Chico-U.Magdalena",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Chico"
-    },
-    "team2": {
-      "name": "U. Magdalena"
-    },
-    "kickoff_date": "2025-08-31",
-    "kickoff_time": "02:00",
-    "match_date": "2025-08-31",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ProD2-CABrive-RCVannes",
-    "league": "Pro D2",
-    "team1": {
-      "name": "CA Brive"
-    },
-    "team2": {
-      "name": "RC Vannes"
-    },
-    "kickoff_date": "2025-08-31",
-    "kickoff_time": "02:00",
-    "match_date": "2025-08-31",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
       }
     ]
   },
