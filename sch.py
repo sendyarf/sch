@@ -420,7 +420,7 @@ except Exception as e:
     logging.error(f"Gagal menyimpan schedule.json: {str(e)}")
 
 
-# --- LOGIKA BARU: MEMBUAT DAN MENYIMPAN schedulegvt.json DENGAN LOGO ---
+# --- LOGIKA BARU YANG DIMODIFIKASI: MEMBUAT DAN MENYIMPAN schedulegvt.json DENGAN LOGO ---
 logging.info("Memulai proses pembuatan schedulegvt.json dengan logo.")
 
 # 1. Panggil fungsi untuk mendapatkan mapping logo dari GitHub
@@ -430,29 +430,44 @@ logo_map = get_github_logos()
 if logo_map:
     schedule_with_logos = []
     for item in schedule:
-        # 2. Normalisasi nama tim agar cocok dengan key di logo_map
-        # Contoh: "AC Milan" -> "ac milan" -> "ac-milan"
-        norm_team1_key = normalize_name(item['team1']['name']).replace(' ', '-')
-        norm_team2_key = normalize_name(item['team2']['name']).replace(' ', '-')
+        # Variabel untuk menampung URL logo final
+        logo1_url = None
+        logo2_url = None
 
-        # 3. Cari logo di dalam map
-        logo1_url = logo_map.get(norm_team1_key)
-        logo2_url = logo_map.get(norm_team2_key)
+        # --- LOGIKA PENGECEKAN BARU ---
 
-        # 4. Jika KEDUA logo ditemukan, tambahkan ke daftar baru
+        # 2. Prioritaskan logo yang sudah ada di schedule.json untuk Tim 1
+        if 'logo' in item['team1'] and item['team1']['logo']:
+            logo1_url = item['team1']['logo']
+            logging.debug(f"Menggunakan logo yang sudah ada untuk tim 1: {item['team1']['name']}")
+        else:
+            # Jika tidak ada, baru cari logo berdasarkan nama
+            norm_team1_key = normalize_name(item['team1']['name']).replace(' ', '-')
+            logo1_url = logo_map.get(norm_team1_key)
+
+        # 3. Prioritaskan logo yang sudah ada di schedule.json untuk Tim 2
+        if 'logo' in item['team2'] and item['team2']['logo']:
+            logo2_url = item['team2']['logo']
+            logging.debug(f"Menggunakan logo yang sudah ada untuk tim 2: {item['team2']['name']}")
+        else:
+            # Jika tidak ada, baru cari logo berdasarkan nama
+            norm_team2_key = normalize_name(item['team2']['name']).replace(' ', '-')
+            logo2_url = logo_map.get(norm_team2_key)
+
+        # 4. Jika KEDUA logo (baik yang sudah ada maupun yang baru ditemukan) valid, tambahkan ke daftar baru
         if logo1_url and logo2_url:
             # Gunakan deepcopy untuk memastikan data asli tidak berubah
             new_item = copy.deepcopy(item)
             new_item['team1']['logo'] = logo1_url
             new_item['team2']['logo'] = logo2_url
             schedule_with_logos.append(new_item)
-            logging.debug(f"Logo ditemukan untuk '{item['id']}'. Menambahkan ke schedulegvt.json.")
+            logging.debug(f"Logo valid untuk '{item['id']}'. Menambahkan ke schedulegvt.json.")
         else:
-            logging.debug(f"Melewatkan '{item['id']}' untuk schedulegvt.json (logo tidak ditemukan).")
+            logging.debug(f"Melewatkan '{item['id']}' untuk schedulegvt.json (salah satu atau kedua logo tidak ditemukan).")
             if not logo1_url:
-                logging.debug(f"  - Logo tidak ditemukan untuk tim 1: {item['team1']['name']} (key: {norm_team1_key})")
+                logging.debug(f"  - Logo tidak ditemukan untuk tim 1: {item['team1']['name']}")
             if not logo2_url:
-                logging.debug(f"  - Logo tidak ditemukan untuk tim 2: {item['team2']['name']} (key: {norm_team2_key})")
+                logging.debug(f"  - Logo tidak ditemukan untuk tim 2: {item['team2']['name']}")
     
     # 5. Simpan daftar baru ke file schedulegvt.json
     output_gvt_path = os.path.join(output_dir, 'schedulegvt.json')
