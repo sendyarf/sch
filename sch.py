@@ -5,6 +5,8 @@ import re
 from fuzzywuzzy import fuzz
 from datetime import datetime, timedelta
 import logging
+import requests  # Ditambahkan untuk request ke GitHub API
+import copy      # Ditambahkan untuk menyalin data secara mendalam
 
 # Set up logging to console and file
 logging.basicConfig(
@@ -15,6 +17,39 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+# --- FUNGSI BARU UNTUK MENGAMBIL LOGO DARI GITHUB ---
+def get_github_logos() -> Dict[str, str]:
+    """
+    Mengambil daftar logo dari repositori GitHub dan membuat mapping.
+    Key: nama tim yang dinormalisasi (contoh: 'ac-milan')
+    Value: URL mentah ke gambar logo
+    """
+    owner = "sendyarf"
+    repo = "logos"
+    folder_path = "Logos"
+    api_url = f"https://api.github.com/repos/{owner}/{repo}/contents/{folder_path}"
+    logo_map = {}
+
+    logging.info(f"Mengambil daftar logo dari GitHub: {api_url}")
+    try:
+        response = requests.get(api_url, timeout=15)
+        response.raise_for_status()
+        files = response.json()
+        
+        for item in files:
+            if item['type'] == 'file' and item['name'].lower().endswith(('.png', '.jpg', '.svg')):
+                # Menggunakan nama file tanpa ekstensi sebagai key
+                # Contoh: 'ac-milan.png' -> 'ac-milan'
+                file_name_key = os.path.splitext(item['name'])[0].lower()
+                logo_map[file_name_key] = item['download_url']
+        
+        logging.info(f"Berhasil mengambil {len(logo_map)} logo dari GitHub.")
+        return logo_map
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Gagal mengambil logo dari GitHub: {e}")
+        return {} # Mengembalikan dictionary kosong jika gagal
+
 
 # Function to subtract 10 minutes from a time, adjusting date if necessary
 def subtract_ten_minutes(date_str: str, time_str: str) -> tuple[str, str]:
@@ -39,12 +74,11 @@ def normalize_name(name: str) -> str:
 
 # Function to remove duplicate servers
 def remove_duplicate_servers(existing_servers: List[Dict[str, str]], new_servers: List[Dict[str, str]]) -> List[Dict[str, str]]:
-    seen = set()
+    seen_urls = {server['url'] for server in existing_servers}
     result = existing_servers.copy()
     for server in new_servers:
-        server_tuple = (server['url'], server['label'])
-        if server_tuple not in seen:
-            seen.add(server_tuple)
+        if server['url'] not in seen_urls:
+            seen_urls.add(server['url'])
             result.append(server)
             logging.debug(f"Added server {server['url']} ({server['label']})")
         else:
@@ -263,6 +297,8 @@ def find_match_sportsonline(schedule: List[Dict[str, Any]], item: Dict[str, Any]
 
     return best_match_idx
 
+# --- BAGIAN UTAMA SCRIPT ---
+
 # Load translation dict
 trans_file = 'translate/en.json'
 trans_dict = {}
@@ -323,14 +359,11 @@ except FileNotFoundError:
 schedule: List[Dict[str, Any]] = event_data.copy()
 logging.info(f"Initialized schedule with {len(schedule)} entries from event.json")
 
-# Log initial schedule for debugging
-logging.debug(f"Initial schedule content: {json.dumps(schedule, indent=2)}")
-
 # Process rere.json
 for item in rere_data:
     match_idx = find_match_rere_manual(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx].get('servers', []), item.get('servers', []))
         logging.info(f"Merged servers for {item['id']} from rere.json")
     else:
         schedule.append(item)
@@ -340,7 +373,7 @@ for item in rere_data:
 for item in inplaynet_data:
     match_idx = find_match_inplaynet(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx].get('servers', []), item.get('servers', []))
         logging.info(f"Merged servers for {item['id']} from inplaynet.json")
     else:
         schedule.append(item)
@@ -350,20 +383,20 @@ for item in inplaynet_data:
 for item in sportsonline_data:
     match_idx = find_match_sportsonline(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx].get('servers', []), item.get('servers', []))
         logging.info(f"Merged servers for {item['id']} from sportsonline.json")
     else:
         logging.info(f"Skipped {item['id']} from sportsonline.json (no match)")
 
 # Process manual.json
 for item in manual_data:
-    if item['id'].startswith('tes'):  # Force entries with 'tes' in id to be added as new
+    if item['id'].startswith('tes'):
         schedule.append(item)
         logging.info(f"Force added new entry {item['id']} from manual.json")
         continue
     match_idx = find_match_rere_manual(schedule, item, threshold=0.8)
     if match_idx != -1:
-        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx]['servers'], item['servers'])
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx].get('servers', []), item.get('servers', []))
         logging.info(f"Merged servers for {item['id']} from manual.json")
     else:
         schedule.append(item)
@@ -372,20 +405,64 @@ for item in manual_data:
 # Adjust match_time to be 10 minutes earlier than kickoff_time
 for item in schedule:
     item['match_date'], item['match_time'] = subtract_ten_minutes(item['kickoff_date'], item['kickoff_time'])
-    logging.debug(f"Adjusted {item['id']}: match_date={item['match_date']}, match_time={item['match_time']}")
-
-# Log final schedule for debugging
-logging.debug(f"Final schedule content: {json.dumps(schedule, indent=2)}")
 
 # Ensure output directory exists
 output_dir = 'sch'
 os.makedirs(output_dir, exist_ok=True)
 
-# Save to schedule.json
+# --- MENYIMPAN FILE schedule.json (OUTPUT ASLI) ---
 output_path = os.path.join(output_dir, 'schedule.json')
 try:
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(schedule, f, indent=2, ensure_ascii=False)
-    logging.info(f"Saved output to {output_path}")
+    logging.info(f"Berhasil menyimpan output asli ke {output_path}")
 except Exception as e:
-    logging.error(f"Failed to save schedule.json: {str(e)}")
+    logging.error(f"Gagal menyimpan schedule.json: {str(e)}")
+
+
+# --- LOGIKA BARU: MEMBUAT DAN MENYIMPAN schedulegvt.json DENGAN LOGO ---
+logging.info("Memulai proses pembuatan schedulegvt.json dengan logo.")
+
+# 1. Panggil fungsi untuk mendapatkan mapping logo dari GitHub
+logo_map = get_github_logos()
+
+# Lanjutkan hanya jika berhasil mendapatkan logo
+if logo_map:
+    schedule_with_logos = []
+    for item in schedule:
+        # 2. Normalisasi nama tim agar cocok dengan key di logo_map
+        # Contoh: "AC Milan" -> "ac milan" -> "ac-milan"
+        norm_team1_key = normalize_name(item['team1']['name']).replace(' ', '-')
+        norm_team2_key = normalize_name(item['team2']['name']).replace(' ', '-')
+
+        # 3. Cari logo di dalam map
+        logo1_url = logo_map.get(norm_team1_key)
+        logo2_url = logo_map.get(norm_team2_key)
+
+        # 4. Jika KEDUA logo ditemukan, tambahkan ke daftar baru
+        if logo1_url and logo2_url:
+            # Gunakan deepcopy untuk memastikan data asli tidak berubah
+            new_item = copy.deepcopy(item)
+            new_item['team1']['logo'] = logo1_url
+            new_item['team2']['logo'] = logo2_url
+            schedule_with_logos.append(new_item)
+            logging.debug(f"Logo ditemukan untuk '{item['id']}'. Menambahkan ke schedulegvt.json.")
+        else:
+            logging.debug(f"Melewatkan '{item['id']}' untuk schedulegvt.json (logo tidak ditemukan).")
+            if not logo1_url:
+                logging.debug(f"  - Logo tidak ditemukan untuk tim 1: {item['team1']['name']} (key: {norm_team1_key})")
+            if not logo2_url:
+                logging.debug(f"  - Logo tidak ditemukan untuk tim 2: {item['team2']['name']} (key: {norm_team2_key})")
+    
+    # 5. Simpan daftar baru ke file schedulegvt.json
+    output_gvt_path = os.path.join(output_dir, 'schedulegvt.json')
+    try:
+        with open(output_gvt_path, 'w', encoding='utf-8') as f:
+            json.dump(schedule_with_logos, f, indent=2, ensure_ascii=False)
+        logging.info(f"Berhasil menyimpan {len(schedule_with_logos)} pertandingan dengan logo ke {output_gvt_path}")
+    except Exception as e:
+        logging.error(f"Gagal menyimpan schedulegvt.json: {str(e)}")
+else:
+    logging.warning("Tidak dapat mengambil peta logo dari GitHub. Melewatkan pembuatan schedulegvt.json.")
+
+print("\nProses selesai.")
