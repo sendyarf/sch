@@ -69,6 +69,68 @@
     ]
   },
   {
+    "id": "Qualif.CmEurope-Lettonie-Serbie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Latvia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/latvia.png"
+    },
+    "team2": {
+      "name": "Serbia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/serbia.png"
+    },
+    "kickoff_date": "2025-09-06",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-06",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekUzTmpNeU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Eurobasket-Lituanie-Lettonie",
+    "league": "Eurobasket",
+    "team1": {
+      "name": "Lithuania",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lithuania.png"
+    },
+    "team2": {
+      "name": "Latvia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/latvia.png"
+    },
+    "kickoff_date": "2025-09-06",
+    "kickoff_time": "22:30",
+    "match_date": "2025-09-06",
+    "match_time": "22:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
     "id": "Qualif.CmAfrique-Nigéria-Rwanda",
     "league": "World Cup Qualification",
     "team1": {
@@ -104,25 +166,48 @@
     ]
   },
   {
-    "id": "50909852",
-    "league": "World Cup Qualification",
+    "id": "Eurobasket-Serbie-Finlande",
+    "league": "Eurobasket",
     "team1": {
-      "name": "Latvia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/latvia.png"
-    },
-    "team2": {
       "name": "Serbia",
       "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/serbia.png"
     },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
+    "team2": {
+      "name": "Finland",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/finland.png"
+    },
+    "kickoff_date": "2025-09-07",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-07",
+    "match_time": "01:35",
+    "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekUzTmpNeU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Egypte-Tunisie",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Egypt",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/egypt.png"
+    },
+    "team2": {
+      "name": "Tunisia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tunisia.png"
+    },
+    "kickoff_date": "2025-09-07",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-07",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-AR"
       }
     ]
   },
@@ -145,6 +230,29 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl3TkRRMU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52457459",
+    "league": "International - Europe Cup",
+    "team1": {
+      "name": "Germany (3x3)",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/germany.png"
+    },
+    "team2": {
+      "name": "Hungary (3x3)",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hungary.png"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl3T0RRMk9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
