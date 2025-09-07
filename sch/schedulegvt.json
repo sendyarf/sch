@@ -307,6 +307,33 @@
     ]
   },
   {
+    "id": "MLS-SportingKansasCity-AustinFC",
+    "league": "USA: MLS",
+    "team1": {
+      "name": "Sporting Kansas City",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sporting-kansas-city.png"
+    },
+    "team2": {
+      "name": "Austin FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/austin-fc.png"
+    },
+    "kickoff_date": "2025-09-08",
+    "kickoff_time": "06:00",
+    "match_date": "2025-09-08",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=117",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekU0TlRVMU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "Indonesia-Lebanon",
     "league": "Friendly International",
     "team1": {
