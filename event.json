@@ -1,1 +1,818 @@
-[]
+[
+  {
+    "id": "PremierLeague-Arsenal-Nottingham",
+    "league": "Premier League",
+    "team1": {
+      "name": "Arsenal"
+    },
+    "team2": {
+      "name": "Nottingham"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "18:30",
+    "match_date": "2025-09-13",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Bournemouth-Brighton",
+    "league": "Premier League",
+    "team1": {
+      "name": "Bournemouth"
+    },
+    "team2": {
+      "name": "Brighton"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:00",
+    "match_date": "2025-09-13",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-CrystalPalace-Sunderland",
+    "league": "Premier League",
+    "team1": {
+      "name": "Crystal Palace"
+    },
+    "team2": {
+      "name": "Sunderland"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:00",
+    "match_date": "2025-09-13",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Everton-AstonVilla",
+    "league": "Premier League",
+    "team1": {
+      "name": "Everton"
+    },
+    "team2": {
+      "name": "Aston Villa"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:00",
+    "match_date": "2025-09-13",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Fulham-Leeds",
+    "league": "Premier League",
+    "team1": {
+      "name": "Fulham"
+    },
+    "team2": {
+      "name": "Leeds"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:00",
+    "match_date": "2025-09-13",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Newcastle-Wolves",
+    "league": "Premier League",
+    "team1": {
+      "name": "Newcastle"
+    },
+    "team2": {
+      "name": "Wolves"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:00",
+    "match_date": "2025-09-13",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-WestHam-Tottenham",
+    "league": "Premier League",
+    "team1": {
+      "name": "West Ham"
+    },
+    "team2": {
+      "name": "Tottenham"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-13",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Brentford-Chelsea",
+    "league": "Premier League",
+    "team1": {
+      "name": "Brentford"
+    },
+    "team2": {
+      "name": "Chelsea"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-14",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Burnley-Liverpool",
+    "league": "Premier League",
+    "team1": {
+      "name": "Burnley"
+    },
+    "team2": {
+      "name": "Liverpool"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-14",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-ManchesterCity-ManchesterUtd",
+    "league": "Premier League",
+    "team1": {
+      "name": "Manchester City"
+    },
+    "team2": {
+      "name": "Manchester Utd"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:30",
+    "match_date": "2025-09-14",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Ajax-Zwolle",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Ajax"
+    },
+    "team2": {
+      "name": "Zwolle"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:30",
+    "match_date": "2025-09-13",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-G.A.Eagles-FCVolendam",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "G.A. Eagles"
+    },
+    "team2": {
+      "name": "FC Volendam"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-13",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Nijmegen-PSV",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Nijmegen"
+    },
+    "team2": {
+      "name": "PSV"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-13",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Feyenoord-Heerenveen",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Feyenoord"
+    },
+    "team2": {
+      "name": "Heerenveen"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-14",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Twente-NACBreda",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Twente"
+    },
+    "team2": {
+      "name": "NAC Breda"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-14",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Excelsior-SpartaRotterdam",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Excelsior"
+    },
+    "team2": {
+      "name": "Sparta Rotterdam"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "17:15",
+    "match_date": "2025-09-14",
+    "match_time": "17:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Heracles-AZAlkmaar",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Heracles"
+    },
+    "team2": {
+      "name": "AZ Alkmaar"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "19:30",
+    "match_date": "2025-09-14",
+    "match_time": "19:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Utrecht-Groningen",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Utrecht"
+    },
+    "team2": {
+      "name": "Groningen"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "19:30",
+    "match_date": "2025-09-14",
+    "match_time": "19:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Telstar-Sittard",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Telstar"
+    },
+    "team2": {
+      "name": "Sittard"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "21:45",
+    "match_date": "2025-09-14",
+    "match_time": "21:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Marseille-Lorient",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Marseille"
+    },
+    "team2": {
+      "name": "Lorient"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-13",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Nice-Nantes",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Nice"
+    },
+    "team2": {
+      "name": "Nantes"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "22:00",
+    "match_date": "2025-09-13",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Auxerre-Monaco",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Auxerre"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "02:05",
+    "match_date": "2025-09-14",
+    "match_time": "02:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Lille-Toulouse",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lille"
+    },
+    "team2": {
+      "name": "Toulouse"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-14",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Brest-ParisFC",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Brest"
+    },
+    "team2": {
+      "name": "Paris FC"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:15",
+    "match_date": "2025-09-14",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Metz-Angers",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Metz"
+    },
+    "team2": {
+      "name": "Angers"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:15",
+    "match_date": "2025-09-14",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-PSG-Lens",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "PSG"
+    },
+    "team2": {
+      "name": "Lens"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:15",
+    "match_date": "2025-09-14",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Strasbourg-LeHavre",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Strasbourg"
+    },
+    "team2": {
+      "name": "Le Havre"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:15",
+    "match_date": "2025-09-14",
+    "match_time": "22:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-BayerLeverkusen-EintrachtFrankfurt",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Bayer Leverkusen"
+    },
+    "team2": {
+      "name": "Eintracht Frankfurt"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "01:30",
+    "match_date": "2025-09-13",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Freiburg-Stuttgart",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Freiburg"
+    },
+    "team2": {
+      "name": "Stuttgart"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "20:30",
+    "match_date": "2025-09-13",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Heidenheim-Dortmund",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Heidenheim"
+    },
+    "team2": {
+      "name": "Dortmund"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "20:30",
+    "match_date": "2025-09-13",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Mainz-RBLeipzig",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Mainz"
+    },
+    "team2": {
+      "name": "RB Leipzig"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "20:30",
+    "match_date": "2025-09-13",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-UnionBerlin-Hoffenheim",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Union Berlin"
+    },
+    "team2": {
+      "name": "Hoffenheim"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "20:30",
+    "match_date": "2025-09-13",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Wolfsburg-FCKoln",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Wolfsburg"
+    },
+    "team2": {
+      "name": "FC Koln"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "20:30",
+    "match_date": "2025-09-13",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-BayernMunich-HamburgerSV",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Bayern Munich"
+    },
+    "team2": {
+      "name": "Hamburger SV"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-13",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-St.Pauli-Augsburg",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "St. Pauli"
+    },
+    "team2": {
+      "name": "Augsburg"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "20:30",
+    "match_date": "2025-09-14",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-B.Monchengladbach-WerderBremen",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "B. Monchengladbach"
+    },
+    "team2": {
+      "name": "Werder Bremen"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:30",
+    "match_date": "2025-09-14",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Cagliari-Parma",
+    "league": "Serie A",
+    "team1": {
+      "name": "Cagliari"
+    },
+    "team2": {
+      "name": "Parma"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-13",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Juventus-Inter",
+    "league": "Serie A",
+    "team1": {
+      "name": "Juventus"
+    },
+    "team2": {
+      "name": "Inter"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-09-13",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Fiorentina-Napoli",
+    "league": "Serie A",
+    "team1": {
+      "name": "Fiorentina"
+    },
+    "team2": {
+      "name": "Napoli"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-14",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-ASRoma-Torino",
+    "league": "Serie A",
+    "team1": {
+      "name": "AS Roma"
+    },
+    "team2": {
+      "name": "Torino"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "17:30",
+    "match_date": "2025-09-14",
+    "match_time": "17:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Atalanta-Lecce",
+    "league": "Serie A",
+    "team1": {
+      "name": "Atalanta"
+    },
+    "team2": {
+      "name": "Lecce"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-14",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Pisa-Udinese",
+    "league": "Serie A",
+    "team1": {
+      "name": "Pisa"
+    },
+    "team2": {
+      "name": "Udinese"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-14",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Sassuolo-Lazio",
+    "league": "Serie A",
+    "team1": {
+      "name": "Sassuolo"
+    },
+    "team2": {
+      "name": "Lazio"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "23:00",
+    "match_date": "2025-09-14",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Sevilla-Elche",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Sevilla"
+    },
+    "team2": {
+      "name": "Elche"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-13",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Getafe-R.Oviedo",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Getafe"
+    },
+    "team2": {
+      "name": "R. Oviedo"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-13",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-RealSociedad-RealMadrid",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Real Sociedad"
+    },
+    "team2": {
+      "name": "Real Madrid"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "21:15",
+    "match_date": "2025-09-13",
+    "match_time": "21:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-AthBilbao-Alaves",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Ath Bilbao"
+    },
+    "team2": {
+      "name": "Alaves"
+    },
+    "kickoff_date": "2025-09-13",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-13",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Atl.Madrid-Villarreal",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Atl. Madrid"
+    },
+    "team2": {
+      "name": "Villarreal"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-14",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-CeltaVigo-Girona",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Celta Vigo"
+    },
+    "team2": {
+      "name": "Girona"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-14",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Levante-Betis",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Levante"
+    },
+    "team2": {
+      "name": "Betis"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "21:15",
+    "match_date": "2025-09-14",
+    "match_time": "21:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Osasuna-RayoVallecano",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Osasuna"
+    },
+    "team2": {
+      "name": "Rayo Vallecano"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-14",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  }
+]
