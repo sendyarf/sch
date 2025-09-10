@@ -1,55 +1,65 @@
 [
 
-
      {
-    "id": "Qualif.CmAmsud-Equateur-Argentine",
-    "league": "World Cup Qualification",
+    "id": "Semen-Padang-PSBS-Biak-Numfor",
+    "league": "Super League - Round 5",
     "team1": {
-      "name": "Ecuador",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ecuador.png"
+      "name": "Semen Padang",
+      "logo": "https://static.flashscore.com/res/image/data/GCMr4XCr-K4Cn0tro.png"
     },
     "team2": {
-      "name": "Argentina",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/argentina.png"
+      "name": "PSBS Biak Numfor",
+      "logo": "https://static.flashscore.com/res/image/data/YTyuYOfM-phR6Gnck.png"
     },
-    "kickoff_date": "2025-09-10",
-    "kickoff_time": "06:00",
-    "match_date": "2025-09-10",
-    "match_time": "05:50",
+    "kickoff_date": "2025-09-11",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-11",
+    "match_time": "15:30",
     "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
- {
-        "url": "https://multi.govoet.my.id/?shaka=ssc1",
-        "label": "CH-AR"
+       {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNjg3NDAubTN1OA==",
+        "label": "CH-VN"
       },
          {
-        "url": "https://multi.govoet.my.id/?shaka=arena2p",
-        "label": "CH-HR"
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5NzgxLm0zdTg=",
+        "label": "CH-ID"
+      },
+         {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   },
-     {
-    "id": "Qualif.CmAmsud-Bolivie-Brésil",
-    "league": "World Cup Qualification",
+  {
+    "id": "Persita-PSM-Makassar",
+    "league": "Super League - Round 5",
     "team1": {
-      "name": "Bolivia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bolivia.png"
+      "name": "Persita",
+      "logo": "https://static.flashscore.com/res/image/data/IefKuzwS-Mw6HAN8i.png"
     },
     "team2": {
-      "name": "Brazil",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brazil.png"
+      "name": "PSM Makassar",
+      "logo": "https://static.flashscore.com/res/image/data/825RIjg5-jNkiROW3.png"
     },
-    "kickoff_date": "2025-09-10",
-    "kickoff_time": "06:30",
-    "match_date": "2025-09-10",
-    "match_time": "06:20",
+    "kickoff_date": "2025-09-11",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-11",
+    "match_time": "19:00",
     "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
-     {
-        "url": "https://hls.govoet.my.id/?id=SPORTVSD",
-        "label": "CH-PT"
+       {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTM5MDYubTN1OA==",
+        "label": "CH-VN"
+      },
+         {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   }
+
  
 ]
