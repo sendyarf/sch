@@ -1225,7 +1225,7 @@
   },
   {
     "id": "52866830",
-    "league": "Indonesia: Super League",
+    "league": "Indonesia - Super League",
     "team1": {
       "name": "Persib Bandung"
     },
@@ -1241,18 +1241,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TURZME1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yOTEyNzcubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5NzgzLm0zdTg=",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-ID"
       }
     ]
   },
@@ -1279,7 +1267,7 @@
   },
   {
     "id": "51108477",
-    "league": "Indonesia: Super League",
+    "league": "Indonesia - Super League",
     "team1": {
       "name": "Persik Kediri"
     },
@@ -2014,6 +2002,38 @@
     "match_time": "live",
     "duration": "live",
     "servers": []
+  },
+  {
+    "id": "Persib-Bandung-Persebaya",
+    "league": "Super League",
+    "team1": {
+      "name": "Persib Bandung",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
+    },
+    "team2": {
+      "name": "Persebaya",
+      "logo": "https://static.flashscore.com/res/image/data/8MQJKwvS-jaJfGoOS.png"
+    },
+    "kickoff_date": "2025-09-12",
+    "kickoff_time": "17:34",
+    "match_date": "2025-09-12",
+    "match_time": "17:24",
+    "duration": "7.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yOTEyNzcubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5NzgzLm0zdTg=",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
+      }
+    ]
   },
   {
     "id": "Madura-United-FC-Bhayangkara",
