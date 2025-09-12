@@ -600,20 +600,7 @@
     "match_date": "2025-09-13",
     "match_time": "01:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Bundesliga-Freiburg-Stuttgart",
@@ -1222,27 +1209,6 @@
     "servers": []
   },
   {
-    "id": "Laliga2-LasPalmas-RealSociedadB",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Las Palmas"
-    },
-    "team2": {
-      "name": "Real Sociedad B"
-    },
-    "kickoff_date": "2025-09-13",
-    "kickoff_time": "01:30",
-    "match_date": "2025-09-13",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "ProLeague-StandardLiège-Malines",
     "league": "Pro League",
     "team1": {
@@ -1665,6 +1631,27 @@
     ]
   },
   {
+    "id": "53206803",
+    "league": "Brazil - U22 LDB",
+    "team1": {
+      "name": "Ca Paulistano U22"
+    },
+    "team2": {
+      "name": "Sao Paulo U22"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6T0RFeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "52566915",
     "league": "WTA - Guadalajara, Mexico",
     "team1": {
@@ -1681,27 +1668,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6T0RjMU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "52566955",
-    "league": "WTA - Sao Paulo, Brazil",
-    "team1": {
-      "name": "Haddad Maia, Beatriz"
-    },
-    "team2": {
-      "name": "Zarazua, Renata"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TlRZd015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1749,27 +1715,6 @@
     ]
   },
   {
-    "id": "53179969",
-    "league": "International - TT Cup",
-    "team1": {
-      "name": "Wiekiera, Arkadiusz"
-    },
-    "team2": {
-      "name": "Mucha, Grzegorz"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TmpVeE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53176133",
     "league": "Davis Cup - Davis Cup",
     "team1": {
@@ -1812,13 +1757,13 @@
     ]
   },
   {
-    "id": "53224825",
-    "league": "International - TT Cup",
+    "id": "52566955",
+    "league": "WTA - Sao Paulo, Brazil",
     "team1": {
-      "name": "Stusek, Martin"
+      "name": "Haddad Maia, Beatriz"
     },
     "team2": {
-      "name": "Zlamal, Jaromir"
+      "name": "Zarazua, Renata"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1827,19 +1772,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TmpVNE1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TlRZd015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "53158818",
-    "league": "International - TT Elite Series",
+    "id": "53179969",
+    "league": "International - TT Cup",
     "team1": {
-      "name": "Burkacki, Mateusz"
+      "name": "Wiekiera, Arkadiusz"
     },
     "team2": {
-      "name": "Kasperski, Adam"
+      "name": "Mucha, Grzegorz"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1848,7 +1793,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6Tnpnd05pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TmpVeE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1875,13 +1820,13 @@
     ]
   },
   {
-    "id": "53094419",
-    "league": "International - Modus Super Series",
+    "id": "53158822",
+    "league": "International - TT Elite Series",
     "team1": {
-      "name": "Gurney, Lewis"
+      "name": "Juszczyk, Krzysztof"
     },
     "team2": {
-      "name": "Kelling, Jamie"
+      "name": "Szymik, Robert"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1890,7 +1835,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TWpnNE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TmpneE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
