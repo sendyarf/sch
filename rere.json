@@ -1,26 +1,5 @@
 [
   {
-    "id": "ProLeague-Dender-RoyaleUnionSG",
-    "league": "Pro League",
-    "team1": {
-      "name": "Dender"
-    },
-    "team2": {
-      "name": "Royale Union SG"
-    },
-    "kickoff_date": "2025-09-13",
-    "kickoff_time": "23:15",
-    "match_date": "2025-09-13",
-    "match_time": "23:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
     "id": "Bundesliga-BayernMunich-HambourgSV",
     "league": "Bundesliga",
     "team1": {
@@ -775,13 +754,13 @@
     ]
   },
   {
-    "id": "LigaPortugal-Famalicao-Sporting(CH6fr)(CH144xpt74)(CHes)",
+    "id": "LigaPortugal-Famalicao-Sporting",
     "league": "Liga Portugal",
     "team1": {
       "name": "Famalicao"
     },
     "team2": {
-      "name": "Sporting  (CH6fr) (CH144xpt74) (CHes)"
+      "name": "Sporting"
     },
     "kickoff_date": "2025-09-14",
     "kickoff_time": "02:30",
@@ -795,7 +774,11 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-XPT74"
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=74",
+        "label": "CH-ES"
       }
     ]
   },
