@@ -1,4 +1,35 @@
-[
+[,
+   {
+    "id": "PremierLeague-Brentford-Chelsea",
+    "league": "Premier League",
+    "team1": {
+      "name": "Brentford",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brentford.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-14",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://hls.govoet.my.id/?id=BEIN1",
+        "label": "CH-AR"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
+        "label": "CH-EN"
+      }
+    ]
+  },
  {
     "id": "SerieA-Juventus-Inter",
     "league": "Serie A",
