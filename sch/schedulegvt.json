@@ -15,20 +15,7 @@
     "match_date": "2025-09-14",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://hls.govoet.my.id/?id=BEIN1",
-        "label": "CH-AR"
-      },
-      {
-        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "PremierLeague-Burnley-Liverpool",
@@ -991,106 +978,6 @@
     ]
   },
   {
-    "id": "MLS-AtlantaUtd-ColumbusCrew",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "Atlanta Utd",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atlanta-utd.png"
-    },
-    "team2": {
-      "name": "Columbus Crew",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/columbus-crew.png"
-    },
-    "kickoff_date": "2025-09-14",
-    "kickoff_time": "06:30",
-    "match_date": "2025-09-14",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=180",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "MLS-Charlotte-InterMiami",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "Charlotte",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/charlotte.png"
-    },
-    "team2": {
-      "name": "Inter Miami",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter-miami.png"
-    },
-    "kickoff_date": "2025-09-14",
-    "kickoff_time": "06:30",
-    "match_date": "2025-09-14",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=182",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=183",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "MLS-DCUnited-OrlandoCity",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "DC United",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dc-united.png"
-    },
-    "team2": {
-      "name": "Orlando City",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orlando-city.png"
-    },
-    "kickoff_date": "2025-09-14",
-    "kickoff_time": "06:30",
-    "match_date": "2025-09-14",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=185",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "MLS-NewEnglandRevolution-TorontoFC",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "New England Revolution",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-england-revolution.png"
-    },
-    "team2": {
-      "name": "Toronto FC",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/toronto-fc.png"
-    },
-    "kickoff_date": "2025-09-14",
-    "kickoff_time": "06:30",
-    "match_date": "2025-09-14",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=186",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "MLS-ChicagoFire-NewYorkCity",
     "league": "USA: MLS",
     "team1": {
@@ -1351,7 +1238,7 @@
     "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MzI5OTkubTN1OA==",
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNTE1MzAubTN1OA==",
         "label": "CH-VN"
       },
       {
