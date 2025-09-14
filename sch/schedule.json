@@ -45,20 +45,7 @@
     "match_date": "2025-09-15",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-3"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Verona-Cremonese",
@@ -150,26 +137,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-5"
-      },
-      {
         "url": "https://multi.govoet.my.id/?shaka=skylaliga",
         "label": "CH-EN"
       },
@@ -229,60 +196,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=eleven1",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "LigaPortugal-Braga-GilVicente",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Braga"
-    },
-    "team2": {
-      "name": "Gil Vicente"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-15",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=74",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-Melgar-U.deDeportes",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "Melgar"
-    },
-    "team2": {
-      "name": "U. de Deportes"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "03:00",
-    "match_date": "2025-09-15",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
       }
     ]
   },
@@ -395,10 +308,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4TXpjeU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br4",
-        "label": "CH-1"
       }
     ]
   },
