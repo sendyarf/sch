@@ -55,9 +55,98 @@
         "label": "CH-ID"
       }
     ]
+  },
+
+ {
+    "id": "PremierLeague-Burnley-Liverpool",
+    "league": "Premier League",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/burnley.png"
+    },
+    "team2": {
+      "name": "Liverpool",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/liverpool.png"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-09-14",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=vsport2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      }
+    ]
+  },
+{
+    "id": "PremierLeague-ManchesterCity-ManchesterUtd",
+    "league": "Premier League",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-city.png"
+    },
+    "team2": {
+      "name": "Manchester Utd",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-utd.png"
+    },
+    "kickoff_date": "2025-09-14",
+    "kickoff_time": "22:30",
+    "match_date": "2025-09-14",
+    "match_time": "22:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=vsport2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      }
+    ]
+  },
+{
+    "id": "LaLiga-Barcelona-Valencia",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-15",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-EN"
+      },
+      
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-ES"
+      }
+    ]
   }
-
-
 
 
  
