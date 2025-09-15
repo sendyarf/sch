@@ -31,22 +31,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd8",
         "label": "CH-1"
       },
@@ -106,56 +90,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=eleven1",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Saragosse-Albacete",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Saragosse"
-    },
-    "team2": {
-      "name": "Albacete"
-    },
-    "kickoff_date": "2025-09-16",
-    "kickoff_time": "01:30",
-    "match_date": "2025-09-16",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Ligue2-Guingamp-Montpellier",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Guingamp"
-    },
-    "team2": {
-      "name": "Montpellier"
-    },
-    "kickoff_date": "2025-09-16",
-    "kickoff_time": "01:45",
-    "match_date": "2025-09-16",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
       }
     ]
   },
@@ -251,27 +185,6 @@
     ]
   },
   {
-    "id": "52862973",
-    "league": "Colombia - Primera B",
-    "team1": {
-      "name": "Deportes Quindio"
-    },
-    "team2": {
-      "name": "Itagui Leones"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTVRjd01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53425249",
     "league": "International - TT Cup",
     "team1": {
@@ -314,6 +227,27 @@
     ]
   },
   {
+    "id": "52862973",
+    "league": "Colombia - Primera B",
+    "team1": {
+      "name": "Deportes Quindio"
+    },
+    "team2": {
+      "name": "Itagui Leones"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTVRjd01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "53357635",
     "league": "International - TT Elite Series",
     "team1": {
@@ -330,6 +264,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTXpZd01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53357642",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Blocho, Przemyslaw"
+    },
+    "team2": {
+      "name": "Kotyl, Krzysztof"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTWpnNU5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
