@@ -18,81 +18,6 @@
     "servers": []
   },
   {
-    "id": "Ligue1-Rennes-Lyon",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Rennes",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rennes.png"
-    },
-    "team2": {
-      "name": "Lyon",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "01:45",
-    "match_date": "2025-09-15",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-ACMilan-Bologna",
-    "league": "Serie A",
-    "team1": {
-      "name": "AC Milan",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ac-milan.png"
-    },
-    "team2": {
-      "name": "Bologna",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bologna.png"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "01:45",
-    "match_date": "2025-09-15",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Verona-Cremonese",
-    "league": "Serie A",
-    "team1": {
-      "name": "Verona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
-    },
-    "team2": {
-      "name": "Cremonese",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cremonese.png"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-15",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4T1Rnek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "SerieA-Como-Genoa",
     "league": "Serie A",
     "team1": {
@@ -132,33 +57,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv2",
         "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Barcelona-Valencia",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "team2": {
-      "name": "Valencia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
       }
     ]
   },
@@ -214,6 +112,45 @@
       {
         "url": "https://multi.govoet.my.id/?ss=eleven1",
         "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-HellasVérone-Cremonese",
+    "league": "Serie A",
+    "team1": {
+      "name": "Verona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
+    },
+    "team2": {
+      "name": "Cremonese",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cremonese.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-15",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4T1Rnek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
@@ -335,6 +272,33 @@
       },
       {
         "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Barcelona-Valencia",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-15",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
         "label": "CH-ES"
       }
     ]

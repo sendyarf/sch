@@ -16,75 +16,6 @@
     "servers": []
   },
   {
-    "id": "Ligue1-Rennes-Lyon",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Rennes"
-    },
-    "team2": {
-      "name": "Lyon"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "01:45",
-    "match_date": "2025-09-15",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-ACMilan-Bologna",
-    "league": "Serie A",
-    "team1": {
-      "name": "AC Milan"
-    },
-    "team2": {
-      "name": "Bologna"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "01:45",
-    "match_date": "2025-09-15",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Verona-Cremonese",
-    "league": "Serie A",
-    "team1": {
-      "name": "Verona"
-    },
-    "team2": {
-      "name": "Cremonese"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-15",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4T1Rnek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "SerieA-Como-Genoa",
     "league": "Serie A",
     "team1": {
@@ -122,31 +53,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv2",
         "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Barcelona-Valencia",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Barcelona"
-    },
-    "team2": {
-      "name": "Valencia"
-    },
-    "kickoff_date": "2025-09-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
       }
     ]
   },
@@ -225,6 +131,43 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=97",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-HellasVérone-Cremonese",
+    "league": "Serie A",
+    "team1": {
+      "name": "Verona"
+    },
+    "team2": {
+      "name": "Cremonese"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-15",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4T1Rnek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
@@ -437,6 +380,27 @@
     ]
   },
   {
+    "id": "52863052",
+    "league": "Norway - 3rd Division, Group 2",
+    "team1": {
+      "name": "Kvik"
+    },
+    "team2": {
+      "name": "Kristiansund BK 2"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjNU5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "51405631",
     "league": "International Clubs - AFC Champions League Elite, West Region",
     "team1": {
@@ -453,6 +417,195 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpZeU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "51524348",
+    "league": "Denmark - Superligaen",
+    "team1": {
+      "name": "Fredericia"
+    },
+    "team2": {
+      "name": "Vejle"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjek15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52863080",
+    "league": "Norway - 3rd Division, Group 3",
+    "team1": {
+      "name": "Loerenskog IF"
+    },
+    "team2": {
+      "name": "Stroemsgodset 2"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjNU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52863040",
+    "league": "Norway - 3rd Division, Group 3",
+    "team1": {
+      "name": "Assiden IF"
+    },
+    "team2": {
+      "name": "Kongsvinger 2"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjNU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52863094",
+    "league": "Norway - 3rd Division, Group 5",
+    "team1": {
+      "name": "Viking FK 2"
+    },
+    "team2": {
+      "name": "Torvastad"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjNU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "50545440",
+    "league": "Sweden - Allsvenskan",
+    "team1": {
+      "name": "AIK"
+    },
+    "team2": {
+      "name": "Brommapojkarna"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpneE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "50545439",
+    "league": "Sweden - Allsvenskan",
+    "team1": {
+      "name": "Hacken"
+    },
+    "team2": {
+      "name": "Goteborg"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpneU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52530955",
+    "league": "Sweden - Superettan",
+    "team1": {
+      "name": "Örgryte IS"
+    },
+    "team2": {
+      "name": "Umea FC"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTkRZeE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53167860",
+    "league": "Norway - 3rd Division, Group 2",
+    "team1": {
+      "name": "Rosenborg BK II"
+    },
+    "team2": {
+      "name": "Melhus"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52084723",
+    "league": "Sweden - Damallsvenskan, Women",
+    "team1": {
+      "name": "Norrkoping W."
+    },
+    "team2": {
+      "name": "Djurgardens W."
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT0RZeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -479,27 +632,6 @@
     ]
   },
   {
-    "id": "52942865",
-    "league": "Italy - Campionato Primavera 1",
-    "team1": {
-      "name": "Torino FC"
-    },
-    "team2": {
-      "name": "Sassuolo Calcio U20"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjMU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "52661622",
     "league": "Iceland - Urvalsdeild",
     "team1": {
@@ -516,27 +648,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjMU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "48766938",
-    "league": "Turkey - 1. Lig",
-    "team1": {
-      "name": "Erzurumspor FK"
-    },
-    "team2": {
-      "name": "Sakaryaspor"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4T1RnMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -563,6 +674,27 @@
     ]
   },
   {
+    "id": "48766938",
+    "league": "Turkey - 1. Lig",
+    "team1": {
+      "name": "Erzurumspor FK"
+    },
+    "team2": {
+      "name": "Sakaryaspor"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl4T1RnMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "51385603",
     "league": "Poland - Ekstraklasa",
     "team1": {
@@ -584,13 +716,13 @@
     ]
   },
   {
-    "id": "53098668",
-    "league": "Israel - National League",
+    "id": "51186612",
+    "league": "Poland - I Liga",
     "team1": {
-      "name": "Hapoel Ra`anana FC"
+      "name": "Wieczysta Krakor"
     },
     "team2": {
-      "name": "Hapoel Kfar Shalem"
+      "name": "Stal Mielec"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -599,7 +731,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTkRFMU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpneE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52533141",
+    "league": "Israel - Premier League",
+    "team1": {
+      "name": "Maccabi Haifa"
+    },
+    "team2": {
+      "name": "FC Ashdod"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpjMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -647,13 +800,13 @@
     ]
   },
   {
-    "id": "50411596",
-    "league": "Romania - Liga I",
+    "id": "53098668",
+    "league": "Israel - National League",
     "team1": {
-      "name": "Hermannstadt"
+      "name": "Hapoel Ra`anana FC"
     },
     "team2": {
-      "name": "FC Unirea 2004 Slobozia"
+      "name": "Hapoel Kfar Shalem"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -662,7 +815,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTmpneE5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTkRFMU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -731,27 +884,6 @@
     ]
   },
   {
-    "id": "53090643",
-    "league": "Georgia - Erovnuli Liga 2",
-    "team1": {
-      "name": "FC Spaeri"
-    },
-    "team2": {
-      "name": "FC Samtredia"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTXpVM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53079513",
     "league": "Morocco - Botola",
     "team1": {
@@ -768,27 +900,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT0RVM055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "53167862",
-    "league": "Iraq - Iraqi League",
-    "team1": {
-      "name": "AL Gharraf SC"
-    },
-    "team2": {
-      "name": "AL Mosul SC"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTXpVNU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -878,43 +989,6 @@
     ]
   },
   {
-    "id": "50543880",
-    "league": "Germany Amateur - Bundesliga, Women",
-    "team1": {
-      "name": "Bayer Leverkusen W."
-    },
-    "team2": {
-      "name": "1. FC Union Berlin W."
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": []
-  },
-  {
-    "id": "50543882",
-    "league": "Russia - VHL",
-    "team1": {
-      "name": "Csk Vvs Samara"
-    },
-    "team2": {
-      "name": "HC Khimik Voskresensk"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT0RRMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "50755115",
     "league": "Russia - VHL",
     "team1": {
@@ -978,6 +1052,27 @@
     ]
   },
   {
+    "id": "51104881",
+    "league": "Russia - MHL",
+    "team1": {
+      "name": "Loko-76 Yaroslavl"
+    },
+    "team2": {
+      "name": "JHC Molot"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT0RRMU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "51104883",
     "league": "Russia - MHL",
     "team1": {
@@ -999,13 +1094,13 @@
     ]
   },
   {
-    "id": "51104881",
-    "league": "Russia - MHL",
+    "id": "53245689",
+    "league": "Denmark - Superisligaen",
     "team1": {
-      "name": "Loko-76 Yaroslavl"
+      "name": "Esbjerg Energy"
     },
     "team2": {
-      "name": "JHC Molot"
+      "name": "Odense Bulldogs"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1014,7 +1109,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT0RRMU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTVRjM01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1041,34 +1136,13 @@
     ]
   },
   {
-    "id": "53389453",
-    "league": "International - TT Cup",
-    "team1": {
-      "name": "Garcia, Pablo"
-    },
-    "team2": {
-      "name": "Cano, Francisco"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTVRVeE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "53360628",
+    "id": "53360635",
     "league": "International - Challenger Series",
     "team1": {
-      "name": "Turrini, Rafael"
+      "name": "Shim, Joon"
     },
     "team2": {
-      "name": "Mousavi Taher, Mohammad"
+      "name": "Fadeev, Kirill"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1077,19 +1151,40 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT1Rrek1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT1Rrek15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "53425228",
+    "id": "52944879",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Flensburg-H."
+    },
+    "team2": {
+      "name": "TSV Hannover Burgdorf"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwTXpFeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53389459",
     "league": "International - TT Cup",
     "team1": {
-      "name": "Plachy, Jiri"
+      "name": "Michta, Mateusz"
     },
     "team2": {
-      "name": "Vojna, Daniel"
+      "name": "Moroz, Artur"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1098,19 +1193,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTWpVNU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTVRJM01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "53357280",
-    "league": "International - TT Elite Series",
+    "id": "53389456",
+    "league": "International - TT Cup",
     "team1": {
-      "name": "Belik, Simon"
+      "name": "Vega, Sergio"
     },
     "team2": {
-      "name": "Domin, Maciej"
+      "name": "Penalva, Christian"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1119,7 +1214,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTWpjM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTVRVeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53357285",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Fabis, Adrian"
+    },
+    "team2": {
+      "name": "Wrobel, Dariusz"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTWpjNU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1146,13 +1262,13 @@
     ]
   },
   {
-    "id": "53357279",
-    "league": "International - TT Elite Series",
+    "id": "53404251",
+    "league": "Tournaments - Fissure Playground",
     "team1": {
-      "name": "Lilien, Aleksander"
+      "name": "FaZe Clan"
     },
     "team2": {
-      "name": "Gluszek, Wojciech"
+      "name": "Falcons Esports"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1161,7 +1277,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkxTWpjMU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdKbGRHSnZiMjFmWTNOZlFTWndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1204,27 +1320,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd4bFl5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "52574489",
-    "league": "Tournaments - VCT : Masters - Reykjavík",
-    "team1": {
-      "name": "Rex Regum Qeon"
-    },
-    "team2": {
-      "name": "Fnatic"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFhaaGJHOXlZVzUwSm5CaGNtVnVkRDFrWlcxdkxtbHVjR3hoZVc1bGRDNWpiMjA9",
         "label": "CH-NA"
       }
     ]
@@ -1347,6 +1442,33 @@
       },
       {
         "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Barcelona-Valencia",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "kickoff_date": "2025-09-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-15",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
         "label": "CH-ES"
       }
     ]
