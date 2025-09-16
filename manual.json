@@ -20,10 +20,102 @@
      {
         "url": "https://multi.govoet.my.id/?shaka=tnt1",
         "label": "CH-EN"
+      },
+     {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
+      }
+    ]
+  },
+ {
+    "id": "ChampionsLeague-Juventus-Dortmund",
+    "league": "Champions League",
+    "team1": {
+      "name": "Juventus",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
+    },
+    "team2": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-IT"
+      }
+    ]
+  },
+{
+    "id": "ChampionsLeague-RealMadrid-Marseille",
+    "league": "Champions League",
+    "team1": {
+      "name": "Real Madrid",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
+    },
+    "team2": {
+      "name": "Marseille",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+        "label": "CH-NL"
+      }
+    ]
+  },
+{
+    "id": "ChampionsLeague-Tottenham-Villarreal",
+    "league": "Champions League",
+    "team1": {
+      "name": "Tottenham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
+    },
+    "team2": {
+      "name": "Villarreal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+ 
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-NL"
       }
     ]
   }
-
-
  
 ]
