@@ -16,33 +16,289 @@
     "servers": []
   },
   {
-    "id": "SerieA-Como-Genoa",
-    "league": "Serie A",
+    "id": "ChampionsLeague-AthBilbao-Arsenal",
+    "league": "Champions League",
     "team1": {
-      "name": "Como"
+      "name": "Ath Bilbao"
     },
     "team2": {
-      "name": "Genoa"
+      "name": "Arsenal"
     },
     "kickoff_date": "2025-09-16",
-    "kickoff_time": "01:45",
+    "kickoff_time": "23:45",
     "match_date": "2025-09-16",
-    "match_time": "01:45",
+    "match_time": "23:45",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "LaLiga-Espanyol-Mallorca",
-    "league": "LaLiga",
+    "id": "ChampionsLeague-PSV-RoyaleUnionSG",
+    "league": "Champions League",
     "team1": {
-      "name": "Espanyol"
+      "name": "PSV"
     },
     "team2": {
-      "name": "Mallorca"
+      "name": "Royale Union SG"
     },
     "kickoff_date": "2025-09-16",
-    "kickoff_time": "02:00",
+    "kickoff_time": "23:45",
     "match_date": "2025-09-16",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Benfica-Qarabag",
+    "league": "Champions League",
+    "team1": {
+      "name": "Benfica"
+    },
+    "team2": {
+      "name": "Qarabag"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Juventus-Dortmund",
+    "league": "Champions League",
+    "team1": {
+      "name": "Juventus"
+    },
+    "team2": {
+      "name": "Dortmund"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-RealMadrid-Marseille",
+    "league": "Champions League",
+    "team1": {
+      "name": "Real Madrid"
+    },
+    "team2": {
+      "name": "Marseille"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Tottenham-Villarreal",
+    "league": "Champions League",
+    "team1": {
+      "name": "Tottenham"
+    },
+    "team2": {
+      "name": "Villarreal"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-OlympiacosPiraeus-Pafos",
+    "league": "Champions League",
+    "team1": {
+      "name": "Olympiacos Piraeus"
+    },
+    "team2": {
+      "name": "Pafos"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-17",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-SlaviaPrague-Bodo/Glimt",
+    "league": "Champions League",
+    "team1": {
+      "name": "Slavia Prague"
+    },
+    "team2": {
+      "name": "Bodo/Glimt"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-17",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Ajax-Inter",
+    "league": "Champions League",
+    "team1": {
+      "name": "Ajax"
+    },
+    "team2": {
+      "name": "Inter"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-BayernMunich-Chelsea",
+    "league": "Champions League",
+    "team1": {
+      "name": "Bayern Munich"
+    },
+    "team2": {
+      "name": "Chelsea"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Liverpool-Atl.Madrid",
+    "league": "Champions League",
+    "team1": {
+      "name": "Liverpool"
+    },
+    "team2": {
+      "name": "Atl. Madrid"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-PSG-Atalanta",
+    "league": "Champions League",
+    "team1": {
+      "name": "PSG"
+    },
+    "team2": {
+      "name": "Atalanta"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-ClubBruggeKV-Monaco",
+    "league": "Champions League",
+    "team1": {
+      "name": "Club Brugge KV"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-18",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
+    "league": "Champions League",
+    "team1": {
+      "name": "FC Copenhagen"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-18",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-EintrachtFrankfurt-Galatasaray",
+    "league": "Champions League",
+    "team1": {
+      "name": "Eintracht Frankfurt"
+    },
+    "team2": {
+      "name": "Galatasaray"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-ManchesterCity-Napoli",
+    "league": "Champions League",
+    "team1": {
+      "name": "Manchester City"
+    },
+    "team2": {
+      "name": "Napoli"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Newcastle-Barcelona",
+    "league": "Champions League",
+    "team1": {
+      "name": "Newcastle"
+    },
+    "team2": {
+      "name": "Barcelona"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-SportingCP-KairatAlmaty",
+    "league": "Champions League",
+    "team1": {
+      "name": "Sporting CP"
+    },
+    "team2": {
+      "name": "Kairat Almaty"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": []
