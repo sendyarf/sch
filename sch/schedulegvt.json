@@ -850,112 +850,6 @@
     "servers": []
   },
   {
-    "id": "LigueDesChampions-Ath.Bilbao-Arsenal",
-    "league": "Champions League",
-    "team1": {
-      "name": "Ath Bilbao",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
-    },
-    "kickoff_date": "2025-09-16",
-    "kickoff_time": "23:45",
-    "match_date": "2025-09-16",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=162",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=126",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=139",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=68",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=155",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "LigueDesChampions-PSV-RoyaleUnionSG",
-    "league": "Champions League",
-    "team1": {
-      "name": "PSV",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
-    },
-    "team2": {
-      "name": "Royale Union SG",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/royale-union-sg.png"
-    },
-    "kickoff_date": "2025-09-16",
-    "kickoff_time": "23:45",
-    "match_date": "2025-09-16",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=13",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=163",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=180",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=156",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "EflCup-Brentford-AstonVilla",
     "league": "ENGLAND: EFL Cup",
     "team1": {
@@ -1014,6 +908,33 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=176",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-AthBilbao-Arsenal",
+    "league": "Champions League",
+    "team1": {
+      "name": "Ath Bilbao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
+    },
+    "kickoff_date": "2025-09-16",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-16",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
       }
     ]
   }
