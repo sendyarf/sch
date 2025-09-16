@@ -18,40 +18,483 @@
     "servers": []
   },
   {
-    "id": "SerieA-Como-Genoa",
-    "league": "Serie A",
+    "id": "ChampionsLeague-AthBilbao-Arsenal",
+    "league": "Champions League",
     "team1": {
-      "name": "Como",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/como.png"
+      "name": "Ath Bilbao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
     },
     "team2": {
-      "name": "Genoa",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/genoa.png"
+      "name": "Arsenal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
     },
     "kickoff_date": "2025-09-16",
-    "kickoff_time": "01:45",
+    "kickoff_time": "23:45",
     "match_date": "2025-09-16",
-    "match_time": "01:35",
+    "match_time": "23:35",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "LaLiga-Espanyol-Mallorca",
-    "league": "LaLiga",
+    "id": "ChampionsLeague-PSV-RoyaleUnionSG",
+    "league": "Champions League",
     "team1": {
-      "name": "Espanyol",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/espanyol.png"
+      "name": "PSV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
     },
     "team2": {
-      "name": "Mallorca",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mallorca.png"
+      "name": "Royale Union SG",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/royale-union-sg.png"
     },
     "kickoff_date": "2025-09-16",
-    "kickoff_time": "02:00",
+    "kickoff_time": "23:45",
     "match_date": "2025-09-16",
-    "match_time": "01:50",
+    "match_time": "23:35",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Benfica-Qarabag",
+    "league": "Champions League",
+    "team1": {
+      "name": "Benfica",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/benfica.png"
+    },
+    "team2": {
+      "name": "Qarabag",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/qarabag.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv5",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Juventus-Dortmund",
+    "league": "Champions League",
+    "team1": {
+      "name": "Juventus",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
+    },
+    "team2": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br5",
+        "label": "CH-5"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-RealMadrid-Marseille",
+    "league": "Champions League",
+    "team1": {
+      "name": "Real Madrid",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
+    },
+    "team2": {
+      "name": "Marseille",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-6"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Tottenham-Villarreal",
+    "league": "Champions League",
+    "team1": {
+      "name": "Tottenham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
+    },
+    "team2": {
+      "name": "Villarreal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-17",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-OlympiacosPiraeus-Pafos",
+    "league": "Champions League",
+    "team1": {
+      "name": "Olympiacos Piraeus",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/olympiacos-piraeus.png"
+    },
+    "team2": {
+      "name": "Pafos",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/pafos.png"
+    },
+    "kickoff_date": "2025-09-17",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-17",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Ajax-Inter",
+    "league": "Champions League",
+    "team1": {
+      "name": "Ajax",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ajax.png"
+    },
+    "team2": {
+      "name": "Inter",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter.png"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-BayernMunich-Chelsea",
+    "league": "Champions League",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-PSG-Atalanta",
+    "league": "Champions League",
+    "team1": {
+      "name": "PSG",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psg.png"
+    },
+    "team2": {
+      "name": "Atalanta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atalanta.png"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-5"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-ClubBruggeKV-Monaco",
+    "league": "Champions League",
+    "team1": {
+      "name": "Club Brugge KV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/club-brugge-kv.png"
+    },
+    "team2": {
+      "name": "Monaco",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/monaco.png"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-18",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
+    "league": "Champions League",
+    "team1": {
+      "name": "FC Copenhagen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-copenhagen.png"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayer-leverkusen.png"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-18",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-EintrachtFrankfurt-Galatasaray",
+    "league": "Champions League",
+    "team1": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/eintracht-frankfurt.png"
+    },
+    "team2": {
+      "name": "Galatasaray",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/galatasaray.png"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-ManchesterCity-Napoli",
+    "league": "Champions League",
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-city.png"
+    },
+    "team2": {
+      "name": "Napoli",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/napoli.png"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br5",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Newcastle-Barcelona",
+    "league": "Champions League",
+    "team1": {
+      "name": "Newcastle",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/newcastle.png"
+    },
+    "team2": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-5"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-SportingCP-KairatAlmaty",
+    "league": "Champions League",
+    "team1": {
+      "name": "Sporting CP",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sporting-cp.png"
+    },
+    "team2": {
+      "name": "Kairat Almaty",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/kairat-almaty.png"
+    },
+    "kickoff_date": "2025-09-19",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-19",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv5",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "PSIM-Yogyakarta-Borneo",
