@@ -429,30 +429,60 @@ logo_map = get_github_logos()
 # Lanjutkan hanya jika berhasil mendapatkan logo
 if logo_map:
     schedule_with_logos = []
+    threshold = 85  # Skor minimum untuk fuzzy matching (dapat disesuaikan)
+
     for item in schedule:
         # Variabel untuk menampung URL logo final
         logo1_url = None
         logo2_url = None
 
-        # --- LOGIKA PENGECEKAN BARU ---
+        # --- LOGIKA PENGECEKAN DENGAN FUZZY MATCHING ---
 
         # 2. Prioritaskan logo yang sudah ada di schedule.json untuk Tim 1
         if 'logo' in item['team1'] and item['team1']['logo']:
             logo1_url = item['team1']['logo']
             logging.debug(f"Menggunakan logo yang sudah ada untuk tim 1: {item['team1']['name']}")
         else:
-            # Jika tidak ada, baru cari logo berdasarkan nama
-            norm_team1_key = normalize_name(item['team1']['name']).replace(' ', '-')
-            logo1_url = logo_map.get(norm_team1_key)
+            # Normalisasi nama tim
+            norm_team1 = normalize_name(item['team1']['name'])
+            best_score = 0
+            best_key = None
+
+            # Cari kecocokan terbaik di logo_map menggunakan fuzzy matching
+            for logo_key in logo_map:
+                score = fuzz.token_sort_ratio(norm_team1, logo_key)
+                if score > best_score and score >= threshold:
+                    best_score = score
+                    best_key = logo_key
+
+            if best_key:
+                logo1_url = logo_map[best_key]
+                logging.debug(f"Logo ditemukan untuk tim 1 '{item['team1']['name']}' dengan kunci '{best_key}' (skor: {best_score})")
+            else:
+                logging.debug(f"Tidak ditemukan logo untuk tim 1 '{item['team1']['name']}'")
 
         # 3. Prioritaskan logo yang sudah ada di schedule.json untuk Tim 2
         if 'logo' in item['team2'] and item['team2']['logo']:
             logo2_url = item['team2']['logo']
             logging.debug(f"Menggunakan logo yang sudah ada untuk tim 2: {item['team2']['name']}")
         else:
-            # Jika tidak ada, baru cari logo berdasarkan nama
-            norm_team2_key = normalize_name(item['team2']['name']).replace(' ', '-')
-            logo2_url = logo_map.get(norm_team2_key)
+            # Normalisasi nama tim
+            norm_team2 = normalize_name(item['team2']['name'])
+            best_score = 0
+            best_key = None
+
+            # Cari kecocokan terbaik di logo_map menggunakan fuzzy matching
+            for logo_key in logo_map:
+                score = fuzz.token_sort_ratio(norm_team2, logo_key)
+                if score > best_score and score >= threshold:
+                    best_score = score
+                    best_key = logo_key
+
+            if best_key:
+                logo2_url = logo_map[best_key]
+                logging.debug(f"Logo ditemukan untuk tim 2 '{item['team2']['name']}' dengan kunci '{best_key}' (skor: {best_score})")
+            else:
+                logging.debug(f"Tidak ditemukan logo untuk tim 2 '{item['team2']['name']}'")
 
         # 4. Jika KEDUA logo (baik yang sudah ada maupun yang baru ditemukan) valid, tambahkan ke daftar baru
         if logo1_url and logo2_url:
@@ -468,7 +498,7 @@ if logo_map:
                 logging.debug(f"  - Logo tidak ditemukan untuk tim 1: {item['team1']['name']}")
             if not logo2_url:
                 logging.debug(f"  - Logo tidak ditemukan untuk tim 2: {item['team2']['name']}")
-    
+
     # 5. Simpan daftar baru ke file schedulegvt.json
     output_gvt_path = os.path.join(output_dir, 'schedulegvt.json')
     try:
