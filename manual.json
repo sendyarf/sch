@@ -1,121 +1,160 @@
 [
- 
-{
-    "id": "ChampionsLeague-AthBilbao-Arsenal",
-    "league": "Champions League",
-    "team1": {
-      "name": "Ath Bilbao",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
-    },
-    "kickoff_date": "2025-09-16",
-    "kickoff_time": "23:45",
-    "match_date": "2025-09-16",
-    "match_time": "23:45",
-    "duration": "3.5",
-    "servers": [
-     {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-     {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
-  },
+
+
  {
-    "id": "ChampionsLeague-Juventus-Dortmund",
+    "id": "ChampionsLeague-Ajax-Inter",
     "league": "Champions League",
     "team1": {
-      "name": "Juventus",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
+      "name": "Ajax"
     },
     "team2": {
-      "name": "Dortmund",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+      "name": "Inter"
     },
-    "kickoff_date": "2025-09-17",
+    "kickoff_date": "2025-09-18",
     "kickoff_time": "02:00",
-    "match_date": "2025-09-17",
+    "match_date": "2025-09-18",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      },
-      {
+     {
         "url": "https://multi.govoet.my.id/?shaka=espn2arg",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-IT"
       }
     ]
   },
-{
-    "id": "ChampionsLeague-RealMadrid-Marseille",
+  {
+    "id": "ChampionsLeague-BayernMunich-Chelsea",
     "league": "Champions League",
     "team1": {
-      "name": "Real Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
+      "name": "Bayern Munich"
     },
     "team2": {
-      "name": "Marseille",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
+      "name": "Chelsea"
     },
-    "kickoff_date": "2025-09-17",
+    "kickoff_date": "2025-09-18",
     "kickoff_time": "02:00",
-    "match_date": "2025-09-17",
+    "match_date": "2025-09-18",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
+     {
         "url": "https://multi.govoet.my.id/?shaka=espn1arg",
         "label": "CH-ES"
       },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+     {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
+      },
+     {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
         "label": "CH-NL"
       }
     ]
   },
-{
-    "id": "ChampionsLeague-Tottenham-Villarreal",
+  {
+    "id": "ChampionsLeague-Liverpool-Atl.Madrid",
     "league": "Champions League",
     "team1": {
-      "name": "Tottenham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
+      "name": "Liverpool"
     },
     "team2": {
-      "name": "Villarreal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
+      "name": "Atl. Madrid"
     },
-    "kickoff_date": "2025-09-17",
+    "kickoff_date": "2025-09-18",
     "kickoff_time": "02:00",
-    "match_date": "2025-09-17",
+    "match_date": "2025-09-18",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": [
- 
-      {
+     {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+     {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-PSG-Atalanta",
+    "league": "Champions League",
+    "team1": {
+      "name": "PSG"
+    },
+    "team2": {
+      "name": "Atalanta"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-18",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+     {
+        "url": "https://multi.govoet.my.id/?shaka=tnt3",
+        "label": "CH-EN"
+      },
+     {
         "url": "https://multi.govoet.my.id/?shaka=ziggo5",
         "label": "CH-NL"
       }
     ]
+  },
+  {
+    "id": "ChampionsLeague-ClubBruggeKV-Monaco",
+    "league": "Champions League",
+    "team1": {
+      "name": "Club Brugge KV"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-18",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": [
+     {
+        "url": "https://multi.govoet.my.id/?shaka=tnt3",
+        "label": "CH-EN"
+      },
+     {
+        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
+        "label": "CH-ES"
+      },
+     {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
+    "league": "Champions League",
+    "team1": {
+      "name": "FC Copenhagen"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-18",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": [
+     {
+        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+        "label": "CH-NL"
+      },
+     {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
+        "label": "CH-NL"
+      }
+    ]
   }
+ 
  
 ]
