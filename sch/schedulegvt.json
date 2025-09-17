@@ -978,12 +978,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-BayernMunich-Chelsea",
@@ -1001,20 +996,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Liverpool-Atl.Madrid",
@@ -1032,16 +1014,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-PSG-Atalanta",
@@ -1059,16 +1032,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-ClubBruggeKV-Monaco",
@@ -1086,20 +1050,7 @@
     "match_date": "2025-09-18",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
@@ -1117,16 +1068,7 @@
     "match_date": "2025-09-18",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-EintrachtFrankfurt-Galatasaray",
@@ -1307,6 +1249,42 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=191",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Persib-Bandung-Ina-Lion-City-Sgp",
+    "league": "AFC Champions League 2",
+    "team1": {
+      "name": "Persib Bandung (Ina)",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
+    },
+    "team2": {
+      "name": "Lion City (Sgp)",
+      "logo": "https://static.flashscore.com/res/image/data/67RQUJjl-pW3pRTln.png"
+    },
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "19:15",
+    "match_date": "2025-09-18",
+    "match_time": "19:05",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1nl",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS0xMDAwMDAwNTIubTN1OA==",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTE4NzMubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   }

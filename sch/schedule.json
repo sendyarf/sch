@@ -888,12 +888,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-BayernMunich-Chelsea",
@@ -909,20 +904,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Liverpool-Atl.Madrid",
@@ -938,16 +920,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-PSG-Atalanta",
@@ -963,16 +936,7 @@
     "match_date": "2025-09-18",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-ClubBruggeKV-Monaco",
@@ -988,20 +952,7 @@
     "match_date": "2025-09-18",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
@@ -1017,16 +968,7 @@
     "match_date": "2025-09-18",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-EintrachtFrankfurt-Galatasaray",
@@ -1378,27 +1320,6 @@
     ]
   },
   {
-    "id": "52968066",
-    "league": "USA - USL, League One",
-    "team1": {
-      "name": "Richmond Kickers"
-    },
-    "team2": {
-      "name": "Portland Hearts of Pine"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkyTVRFNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "52599305",
     "league": "Argentina - Copa Argentina",
     "team1": {
@@ -1420,6 +1341,27 @@
     ]
   },
   {
+    "id": "52968066",
+    "league": "USA - USL, League One",
+    "team1": {
+      "name": "Richmond Kickers"
+    },
+    "team2": {
+      "name": "Portland Hearts of Pine"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkyTVRFNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "52454839",
     "league": "Brazil: Serie A Betano",
     "team1": {
@@ -1436,6 +1378,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekl6TWpZMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "50683002",
+    "league": "USA - MLB",
+    "team1": {
+      "name": "Washington Nationals"
+    },
+    "team2": {
+      "name": "Atlanta Braves"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT1RRd09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1483,27 +1446,6 @@
     ]
   },
   {
-    "id": "50683002",
-    "league": "USA - MLB",
-    "team1": {
-      "name": "Washington Nationals"
-    },
-    "team2": {
-      "name": "Atlanta Braves"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkwT1RRd09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "50683019",
     "league": "USA - MLB",
     "team1": {
@@ -1546,27 +1488,6 @@
     ]
   },
   {
-    "id": "53508376",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Misiak, Mateusz"
-    },
-    "team2": {
-      "name": "Lukaszewski, Mikolaj"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkyTkRRMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53508395",
     "league": "International - TT Elite Series",
     "team1": {
@@ -1588,23 +1509,38 @@
     ]
   },
   {
-    "id": "53362470",
-    "league": "Tournaments - ESL Challenger: SA",
+    "id": "Persib-Bandung-Ina-Lion-City-Sgp",
+    "league": "AFC Champions League 2",
     "team1": {
-      "name": "Team 1"
+      "name": "Persib Bandung (Ina)",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
     },
     "team2": {
-      "name": "Team 2"
+      "name": "Lion City (Sgp)",
+      "logo": "https://static.flashscore.com/res/image/data/67RQUJjl-pW3pRTln.png"
     },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
+    "kickoff_date": "2025-09-18",
+    "kickoff_time": "19:15",
+    "match_date": "2025-09-18",
+    "match_time": "19:05",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWemJHTnpKbkJoY21WdWREMWtaVzF2TG1sdWNHeGhlVzVsZEM1amIyMD0=",
-        "label": "CH-NA"
+        "url": "https://multi.govoet.my.id/?shaka=espn1nl",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS0xMDAwMDAwNTIubTN1OA==",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTE4NzMubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   }
