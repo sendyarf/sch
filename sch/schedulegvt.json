@@ -27,6 +27,18 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
       }
     ]
   },
@@ -158,6 +170,26 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br5",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYME",
+        "label": "CH-EN"
       }
     ]
   },
@@ -830,7 +862,16 @@
     "match_date": "2025-09-20",
     "match_time": "22:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn3arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=sport1cz",
+        "label": "CH-CZ"
+      }
+    ]
   },
   {
     "id": "SerieA-Udinese-ACMilan",
@@ -1012,6 +1053,18 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+        "label": "CH-NL"
       }
     ]
   },
@@ -1233,20 +1286,7 @@
     "match_date": "2025-09-18",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
@@ -1264,12 +1304,7 @@
     "match_date": "2025-09-18",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-EintrachtFrankfurt-Galatasaray",
@@ -1287,16 +1322,7 @@
     "match_date": "2025-09-19",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-ManchesterCity-Napoli",
@@ -1314,16 +1340,7 @@
     "match_date": "2025-09-19",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Newcastle-Barcelona",
@@ -1341,16 +1358,7 @@
     "match_date": "2025-09-19",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-SportingCP-KairatAlmaty",
@@ -1368,15 +1376,6 @@
     "match_date": "2025-09-19",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn3arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   }
 ]
