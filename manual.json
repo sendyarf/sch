@@ -1,118 +1,19 @@
 [
 
-  {
-    "id": "ChampionsLeague-ClubBruggeKV-Monaco",
-    "league": "Champions League",
+
+ {
+    "id": "PremierLeague-Liverpool-Everton",
+    "league": "Premier League",
     "team1": {
-      "name": "Club Brugge KV"
+      "name": "Liverpool"
     },
     "team2": {
-      "name": "Monaco"
+      "name": "Everton"
     },
-    "kickoff_date": "2025-09-18",
-    "kickoff_time": "23:45",
-    "match_date": "2025-09-18",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-FCCopenhagen-BayerLeverkusen",
-    "league": "Champions League",
-    "team1": {
-      "name": "FC Copenhagen"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen"
-    },
-    "kickoff_date": "2025-09-18",
-    "kickoff_time": "23:45",
-    "match_date": "2025-09-18",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-EintrachtFrankfurt-Galatasaray",
-    "league": "Champions League",
-    "team1": {
-      "name": "Eintracht Frankfurt"
-    },
-    "team2": {
-      "name": "Galatasaray"
-    },
-    "kickoff_date": "2025-09-19",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-19",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-ManchesterCity-Napoli",
-    "league": "Champions League",
-    "team1": {
-      "name": "Manchester City"
-    },
-    "team2": {
-      "name": "Napoli"
-    },
-    "kickoff_date": "2025-09-19",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-19",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-Newcastle-Barcelona",
-    "league": "Champions League",
-    "team1": {
-      "name": "Newcastle"
-    },
-    "team2": {
-      "name": "Barcelona"
-    },
-    "kickoff_date": "2025-09-19",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-19",
-    "match_time": "01:50",
+    "kickoff_date": "2025-09-20",
+    "kickoff_time": "18:30",
+    "match_date": "2025-09-20",
+    "match_time": "18:20",
     "duration": "3.5",
     "servers": [
       {
@@ -120,24 +21,94 @@
         "label": "CH-EN"
       },
       {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
+      }
+    ]
+  },
+{
+    "id": "PremierLeague-ManchesterUtd-Chelsea",
+    "league": "Premier League",
+    "team1": {
+      "name": "Manchester Utd"
+    },
+    "team2": {
+      "name": "Chelsea"
+    },
+    "kickoff_date": "2025-09-20",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-20",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYME",
+        "label": "CH-EN"
+      }
+    ]
+  },
+ {
+    "id": "LaLiga-RealMadrid-Espanyol",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Real Madrid"
+    },
+    "team2": {
+      "name": "Espanyol"
+    },
+    "kickoff_date": "2025-09-20",
+    "kickoff_time": "21:15",
+    "match_date": "2025-09-20",
+    "match_time": "21:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?shaka=ziggosp",
         "label": "CH-NL"
       }
     ]
   },
   {
-    "id": "ChampionsLeague-SportingCP-KairatAlmaty",
-    "league": "Champions League",
+    "id": "SerieA-Verona-Juventus",
+    "league": "Serie A",
     "team1": {
-      "name": "Sporting CP"
+      "name": "Verona"
     },
     "team2": {
-      "name": "Kairat Almaty"
+      "name": "Juventus"
     },
-    "kickoff_date": "2025-09-19",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-19",
-    "match_time": "01:50",
+    "kickoff_date": "2025-09-20",
+    "kickoff_time": "23:00",
+    "match_date": "2025-09-20",
+    "match_time": "22:50",
     "duration": "3.5",
     "servers": [
       {
@@ -145,12 +116,10 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
+        "url": "https://multi.govoet.my.id/?shaka=sport1cz",
+        "label": "CH-CZ"
       }
     ]
   }
-
- 
  
 ]
