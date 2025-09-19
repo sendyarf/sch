@@ -1383,6 +1383,33 @@
     "servers": []
   },
   {
+    "id": "53234164",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Malut United",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/malut-united.png"
+    },
+    "team2": {
+      "name": "Madura United",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/madura-united.png"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkyTlRjM055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMDgwODAubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
+  },
+  {
     "id": "FC-Bhayangkara-Persik-Kediri",
     "league": "Indonesia - Super League",
     "team1": {
@@ -1403,58 +1430,6 @@
       {
         "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80OTk3NjUubTN1OA==",
         "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "Malut-United-Madura-United",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Malut United",
-      "logo": "https://static.flashscore.com/res/image/data/CzyPAuZA-IijC3nOP.png"
-    },
-    "team2": {
-      "name": "Madura United",
-      "logo": "https://static.flashscore.com/res/image/data/8rLZRaFa-dEkqbGa9.png"
-    },
-    "kickoff_date": "2025-09-19",
-    "kickoff_time": "19:00",
-    "match_date": "2025-09-19",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMDgwODAubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "Persebaya-Semen-Padang",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persebaya",
-      "logo": "https://static.flashscore.com/res/image/data/8MQJKwvS-jaJfGoOS.png"
-    },
-    "team2": {
-      "name": "Semen Padang",
-      "logo": "https://static.flashscore.com/res/image/data/GCMr4XCr-K4Cn0tro.png"
-    },
-    "kickoff_date": "2025-09-19",
-    "kickoff_time": "19:00",
-    "match_date": "2025-09-19",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yMzUyMzIubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5NzkyLm0zdTg=",
-        "label": "CH-ID"
       }
     ]
   }
