@@ -1245,256 +1245,6 @@
     "servers": []
   },
   {
-    "id": "MLS-NewYorkCity-Charlotte",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "New York City",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-city.png"
-    },
-    "team2": {
-      "name": "Charlotte",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/charlotte.png"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:00",
-    "match_date": "2025-09-20",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=180",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "SerieA-HellasVérone-Juventus",
-    "league": "Serie A",
-    "team1": {
-      "name": "Verona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:00",
-    "match_date": "2025-09-20",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn3arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=sport1cz",
-        "label": "CH-CZ"
-      }
-    ]
-  },
-  {
-    "id": "Laliga-Villarreal-Osasuna",
-    "league": "Laliga",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
-    },
-    "team2": {
-      "name": "Osasuna",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-20",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-ManchesterUtd-Chelsea",
-    "league": "Premier League",
-    "team1": {
-      "name": "Manchester Utd",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-utd.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-20",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=73",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br5",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://kilatpink.blogspot.com/?id=SKYME",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Eredivisie-Groningen-Telstar",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "Groningen",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/groningen.png"
-    },
-    "team2": {
-      "name": "Telstar",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/telstar.png"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:45",
-    "match_date": "2025-09-20",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=143",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Brest-Nice",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Brest",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brest.png"
-    },
-    "team2": {
-      "name": "Nice",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nice.png"
-    },
-    "kickoff_date": "2025-09-21",
-    "kickoff_time": "00:00",
-    "match_date": "2025-09-20",
-    "match_time": "23:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
     "id": "MLS-PhiladelphiaUnion-NewEnglandRevolution",
     "league": "USA: MLS",
     "team1": {
@@ -1806,29 +1556,6 @@
     ]
   },
   {
-    "id": "53577904",
-    "league": "International - Int. Friendly Games W",
-    "team1": {
-      "name": "Croatia W.",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/croatia.png"
-    },
-    "team2": {
-      "name": "Norway W.",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/norway.png"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkzTlRFek5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53562422",
     "league": "Friendly International",
     "team1": {
@@ -1879,6 +1606,45 @@
     ]
   },
   {
+    "id": "PremierLeague-ManchesterUtd-Chelsea",
+    "league": "Premier League",
+    "team1": {
+      "name": "Manchester Utd",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-utd.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
+    },
+    "kickoff_date": "2025-09-20",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-20",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://kilatpink.blogspot.com/?id=SKYME",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "LaLiga-RealMadrid-Espanyol",
     "league": "LaLiga",
     "team1": {
@@ -1906,6 +1672,33 @@
       {
         "url": "https://multi.govoet.my.id/?shaka=ziggosp",
         "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Verona-Juventus",
+    "league": "Serie A",
+    "team1": {
+      "name": "Verona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
+    },
+    "kickoff_date": "2025-09-20",
+    "kickoff_time": "23:00",
+    "match_date": "2025-09-20",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn3arg",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=sport1cz",
+        "label": "CH-CZ"
       }
     ]
   },
