@@ -45,24 +45,7 @@
     "match_date": "2025-09-22",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-4"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Napoli-Pisa",
@@ -115,24 +98,7 @@
     "match_date": "2025-09-22",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-4"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-AthBilbao-Girona",
@@ -307,81 +273,6 @@
     "match_time": "02:20",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "NFL-LosAngelesChargers-DenverBroncos",
-    "league": "NFL",
-    "team1": {
-      "name": "Los Angeles Chargers"
-    },
-    "team2": {
-      "name": "Denver Broncos"
-    },
-    "kickoff_date": "2025-09-22",
-    "kickoff_time": "03:05",
-    "match_date": "2025-09-22",
-    "match_time": "02:55",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=169",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=79",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=102",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NFL-SeattleSeahawks-NewOrleansSaints",
-    "league": "NFL",
-    "team1": {
-      "name": "Seattle Seahawks"
-    },
-    "team2": {
-      "name": "New Orleans Saints"
-    },
-    "kickoff_date": "2025-09-22",
-    "kickoff_time": "03:05",
-    "match_date": "2025-09-22",
-    "match_time": "02:55",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=170",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-JuanPabloII-SportingCristal",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "Juan Pablo II"
-    },
-    "team2": {
-      "name": "Sporting Cristal"
-    },
-    "kickoff_date": "2025-09-22",
-    "kickoff_time": "03:15",
-    "match_date": "2025-09-22",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "NFL-ChicagoBears-DallasCowboys",
