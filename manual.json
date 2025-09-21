@@ -1,142 +1,66 @@
 [
 
  {
-    "id": "PremierLeague-Liverpool-Everton",
-    "league": "Premier League",
+    "id": "Arema-FC-Persib-Bandung",
+    "league": "Indonesia - Super League",
     "team1": {
-      "name": "Liverpool"
+      "name": "Arema FC",
+      "logo": "https://static.flashscore.com/res/image/data/CnpWgcCa-nm2W7Uxp.png"
     },
     "team2": {
-      "name": "Everton"
+      "name": "Persib Bandung",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
     },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "18:30",
-    "match_date": "2025-09-20",
-    "match_time": "18:20",
-    "duration": "3.5",
+    "kickoff_date": "2025-09-22",
+    "kickoff_time": "15:30",
+    "match_date": "2025-09-22",
+    "match_time": "15:30",
+    "duration": "3",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
-      
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
+     {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTM5MDYubTN1OA==",
+        "label": "CH-VN"
       },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-EN"
-      }
-    ]
-  },
-{
-    "id": "PremierLeague-ManchesterUtd-Chelsea",
-    "league": "Premier League",
-    "team1": {
-      "name": "Manchester Utd"
-    },
-    "team2": {
-      "name": "Chelsea"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-20",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
+     {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5Nzk2Lm0zdTg=",
+        "label": "CH-ID"
       },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://kilatpink.blogspot.com/?id=SKYPL",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://kilatpink.blogspot.com/?id=SKYME",
-        "label": "CH-EN"
-      }
-    ]
-  },
- {
-    "id": "LaLiga-RealMadrid-Espanyol",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Real Madrid"
-    },
-    "team2": {
-      "name": "Espanyol"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "21:15",
-    "match_date": "2025-09-20",
-    "match_time": "21:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
+     {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   },
   {
-    "id": "SerieA-Verona-Juventus",
-    "league": "Serie A",
+    "id": "Borneo-Persis-Solo",
+    "league": "Indonesia - Super League",
     "team1": {
-      "name": "Verona"
+      "name": "Borneo",
+      "logo": "https://static.flashscore.com/res/image/data/WtXOUJEG-lSvymcJg.png"
     },
     "team2": {
-      "name": "Juventus"
+      "name": "Persis Solo",
+      "logo": "https://static.flashscore.com/res/image/data/j3lsUVCa-UHp0ZgHn.png"
     },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "23:00",
-    "match_date": "2025-09-20",
-    "match_time": "22:50",
-    "duration": "3.5",
+    "kickoff_date": "2025-09-22",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-22",
+    "match_time": "19:00",
+    "duration": "3",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn3arg",
-        "label": "CH-ES"
+     {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjE0NDMubTN1OA==",
+        "label": "CH-VN"
       },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=sport1cz",
-        "label": "CH-CZ"
-      }
-    ]
-  },
-{
-    "id": "Bundesliga-Hoffenheim-BayernMunich",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Hoffenheim"
-    },
-    "team2": {
-      "name": "Bayern Munich"
-    },
-    "kickoff_date": "2025-09-20",
-    "kickoff_time": "20:30",
-    "match_date": "2025-09-20",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-1"
+     {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
       }
     ]
   }
+
+    
  
 ]
