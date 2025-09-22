@@ -18,40 +18,39 @@
     "servers": []
   },
   {
-    "id": "Bundesliga-Dortmund-Wolfsburg",
-    "league": "Bundesliga",
+    "id": "Ligue1-Marseille-PSG",
+    "league": "Ligue 1",
     "team1": {
-      "name": "Dortmund",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+      "name": "Marseille",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
     },
     "team2": {
-      "name": "Wolfsburg",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/wolfsburg.png"
+      "name": "PSG",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psg.png"
     },
-    "kickoff_date": "2025-09-22",
-    "kickoff_time": "00:30",
-    "match_date": "2025-09-22",
-    "match_time": "00:20",
+    "kickoff_date": "2025-09-23",
+    "kickoff_time": "01:00",
+    "match_date": "2025-09-23",
+    "match_time": "00:50",
     "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Inter-Sassuolo",
-    "league": "Serie A",
-    "team1": {
-      "name": "Inter",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter.png"
-    },
-    "team2": {
-      "name": "Sassuolo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sassuolo.png"
-    },
-    "kickoff_date": "2025-09-22",
-    "kickoff_time": "01:45",
-    "match_date": "2025-09-22",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=21",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "SerieA-Napoli-Pisa",
@@ -70,6 +69,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=156",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
@@ -91,24 +102,6 @@
         "label": "CH-5"
       }
     ]
-  },
-  {
-    "id": "LaLiga-Barcelona-Getafe",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "team2": {
-      "name": "Getafe",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/getafe.png"
-    },
-    "kickoff_date": "2025-09-22",
-    "kickoff_time": "02:00",
-    "match_date": "2025-09-22",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
   },
   {
     "id": "LaLiga-AthBilbao-Girona",
@@ -297,6 +290,60 @@
     "match_time": "02:20",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "LaLiga-Osasuna-Elche",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Osasuna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
+    },
+    "team2": {
+      "name": "Elche",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/elche.png"
+    },
+    "kickoff_date": "2025-09-26",
+    "kickoff_time": "00:30",
+    "match_date": "2025-09-26",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-R.Oviedo-Barcelona",
+    "league": "LaLiga",
+    "team1": {
+      "name": "R. Oviedo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/r-oviedo.png"
+    },
+    "team2": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "kickoff_date": "2025-09-26",
+    "kickoff_time": "02:30",
+    "match_date": "2025-09-26",
+    "match_time": "02:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "53583508",
