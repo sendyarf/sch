@@ -346,68 +346,6 @@
     "servers": []
   },
   {
-    "id": "LaLiga-Levante-RealMadrid",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Levante"
-    },
-    "team2": {
-      "name": "Real Madrid"
-    },
-    "kickoff_date": "2025-09-24",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-24",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Sevilla-Villarreal",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Sevilla"
-    },
-    "team2": {
-      "name": "Villarreal"
-    },
-    "kickoff_date": "2025-09-24",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-24",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=95",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "LaLiga-Getafe-Alaves",
     "league": "LaLiga",
     "team1": {
@@ -593,6 +531,92 @@
     "servers": []
   },
   {
+    "id": "England-EFLCup-Huddersfield-ManchesterCity",
+    "league": "England - EFL Cup",
+    "team1": {
+      "name": "Huddersfield"
+    },
+    "team2": {
+      "name": "Manchester City"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-25",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "England-EFLCup-Newcastle-BradfordCity",
+    "league": "England - EFL Cup",
+    "team1": {
+      "name": "Newcastle"
+    },
+    "team2": {
+      "name": "Bradford City"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-25",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "England-EFLCup-Tottenham-Doncaster",
+    "league": "England - EFL Cup",
+    "team1": {
+      "name": "Tottenham"
+    },
+    "team2": {
+      "name": "Doncaster"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-25",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "England-EFLCup-PortVale-Arsenal",
+    "league": "England - EFL Cup",
+    "team1": {
+      "name": "Port Vale"
+    },
+    "team2": {
+      "name": "Arsenal"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-25",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
     "id": "CopaLibertadores-RacingClub(Arg)-VelezSarsfield(Arg)",
     "league": "Copa Libertadores",
     "team1": {
@@ -763,27 +787,6 @@
     ]
   },
   {
-    "id": "53812536",
-    "league": "Challenger - Buenos Aires 2, Argentina",
-    "team1": {
-      "name": "Gomez, Federico Agustin"
-    },
-    "team2": {
-      "name": "Bueno, Gonzalo"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk1TVRJM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "52862363",
     "league": "Brazil - Serie B",
     "team1": {
@@ -805,13 +808,13 @@
     ]
   },
   {
-    "id": "53955824",
-    "league": "Challenger - Las Vegas, USA",
+    "id": "53812536",
+    "league": "Challenger - Buenos Aires 2, Argentina",
     "team1": {
-      "name": "Fenty, Andrew"
+      "name": "Gomez, Federico Agustin"
     },
     "team2": {
-      "name": "Monday, Johannus"
+      "name": "Bueno, Gonzalo"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -820,7 +823,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk1TVRRek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk1TVRJM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -868,6 +871,27 @@
     ]
   },
   {
+    "id": "51101805",
+    "league": "USA - MLB",
+    "team1": {
+      "name": "New York Yankees"
+    },
+    "team2": {
+      "name": "Chicago White Sox"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk0TkRJME1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "51101828",
     "league": "USA - MLB",
     "team1": {
@@ -889,6 +913,27 @@
     ]
   },
   {
+    "id": "51101870",
+    "league": "USA - MLB",
+    "team1": {
+      "name": "Toronto Blue Jays"
+    },
+    "team2": {
+      "name": "Boston Red Sox"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk0TkRJMU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "53924293",
     "league": "International - TT Elite Series",
     "team1": {
@@ -905,6 +950,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk1TVRZeE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53924292",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Szostok, Sebastian"
+    },
+    "team2": {
+      "name": "Kumor, Michal"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk1TWpnM05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
