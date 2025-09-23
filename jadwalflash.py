@@ -19,7 +19,8 @@ urls = [
     {"url": "https://www.flashscore.com/football/germany/bundesliga/fixtures/", "league": "Bundesliga"},
     {"url": "https://www.flashscore.com/football/italy/serie-a/fixtures/", "league": "Serie A"},
     {"url": "https://www.flashscore.com/football/spain/laliga/fixtures/", "league": "LaLiga"},
-    {"url": "https://www.flashscore.com/football/europe/champions-league/fixtures/", "league": "Champions League"}
+    {"url": "https://www.flashscore.com/football/europe/champions-league/fixtures/", "league": "Champions League"},
+    {"url": "https://www.flashscore.com/football/england/efl-cup/fixtures/", "league": "England - EFL Cup"}
 ]
 
 # Set up Chrome options for headless mode
