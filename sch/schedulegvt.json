@@ -123,7 +123,16 @@
     "match_date": "2025-09-25",
     "match_time": "00:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "Eredivisie-Twente-Sittard",
@@ -403,6 +412,22 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd6",
         "label": "CH-1"
       }
@@ -426,6 +451,26 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd6",
         "label": "CH-1"
       }
@@ -447,7 +492,20 @@
     "match_date": "2025-09-25",
     "match_time": "02:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=7",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=52",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "LaLiga-Osasuna-Elche",
@@ -587,6 +645,169 @@
     "match_time": "23:20",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "CoppaItalia-Como-Sassuolo",
+    "league": "Coppa Italia",
+    "team1": {
+      "name": "Como",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/como.png"
+    },
+    "team2": {
+      "name": "Sassuolo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sassuolo.png"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-25",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=139",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=82",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "LigueEuropa-Betis-Nottingham",
+    "league": "Europa League",
+    "team1": {
+      "name": "Betis",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/betis.png"
+    },
+    "team2": {
+      "name": "Nottingham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nottingham.png"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-25",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=126",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueEuropa-Nice-ASRome",
+    "league": "Europa League",
+    "team1": {
+      "name": "Nice",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nice.png"
+    },
+    "team2": {
+      "name": "AS Roma",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/as-roma.png"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-25",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "MLS-NewYorkCity-InterMiami",
+    "league": "USA: MLS",
+    "team1": {
+      "name": "New York City",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-city.png"
+    },
+    "team2": {
+      "name": "Inter Miami",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter-miami.png"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "06:30",
+    "match_date": "2025-09-25",
+    "match_time": "06:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=190",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "MLS-VancouverWhitecaps-PortlandTimbers",
+    "league": "USA: MLS",
+    "team1": {
+      "name": "Vancouver Whitecaps",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/vancouver-whitecaps.png"
+    },
+    "team2": {
+      "name": "Portland Timbers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/portland-timbers.png"
+    },
+    "kickoff_date": "2025-09-25",
+    "kickoff_time": "09:30",
+    "match_date": "2025-09-25",
+    "match_time": "09:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=191",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "Borneo-Persis-Solo",
