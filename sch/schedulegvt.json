@@ -162,24 +162,6 @@
     "servers": []
   },
   {
-    "id": "Eredivisie-AZAlkmaar-Zwolle",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "AZ Alkmaar",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/az-alkmaar.png"
-    },
-    "team2": {
-      "name": "Zwolle",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/zwolle.png"
-    },
-    "kickoff_date": "2025-09-25",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-25",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Eredivisie-Twente-Sittard",
     "league": "Eredivisie",
     "team1": {
@@ -477,6 +459,24 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Rennes-Lens",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Rennes",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rennes.png"
+    },
+    "team2": {
+      "name": "Lens",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lens.png"
+    },
+    "kickoff_date": "2025-09-29",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-29",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-BayernMunich-WerderBremen",
     "league": "Bundesliga",
     "team1": {
@@ -638,6 +638,24 @@
     "servers": []
   },
   {
+    "id": "Bundesliga-UnionBerlin-HamburgerSV",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Union Berlin",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/union-berlin.png"
+    },
+    "team2": {
+      "name": "Hamburger SV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hamburger-sv.png"
+    },
+    "kickoff_date": "2025-09-29",
+    "kickoff_time": "00:30",
+    "match_date": "2025-09-29",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "SerieA-Como-Cremonese",
     "league": "Serie A",
     "team1": {
@@ -764,38 +782,38 @@
     "servers": []
   },
   {
-    "id": "LaLiga-Atl.Madrid-RayoVallecano",
-    "league": "LaLiga",
+    "id": "SerieA-ACMilan-Napoli",
+    "league": "Serie A",
     "team1": {
-      "name": "Atl. Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atl-madrid.png"
+      "name": "AC Milan",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ac-milan.png"
     },
     "team2": {
-      "name": "Rayo Vallecano",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rayo-vallecano.png"
+      "name": "Napoli",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/napoli.png"
     },
-    "kickoff_date": "2025-09-25",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-25",
-    "match_time": "02:20",
+    "kickoff_date": "2025-09-29",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-29",
+    "match_time": "01:35",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "LaLiga-RealSociedad-Mallorca",
-    "league": "LaLiga",
+    "id": "SerieA-Parma-Torino",
+    "league": "Serie A",
     "team1": {
-      "name": "Real Sociedad",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-sociedad.png"
+      "name": "Parma",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/parma.png"
     },
     "team2": {
-      "name": "Mallorca",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mallorca.png"
+      "name": "Torino",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/torino.png"
     },
-    "kickoff_date": "2025-09-25",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-25",
-    "match_time": "02:20",
+    "kickoff_date": "2025-09-29",
+    "kickoff_time": "23:30",
+    "match_date": "2025-09-29",
+    "match_time": "23:20",
     "duration": "3.5",
     "servers": []
   },
@@ -1043,6 +1061,24 @@
     "kickoff_time": "23:30",
     "match_date": "2025-09-28",
     "match_time": "23:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Betis-Osasuna",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Betis",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/betis.png"
+    },
+    "team2": {
+      "name": "Osasuna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
+    },
+    "kickoff_date": "2025-09-29",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-29",
+    "match_time": "01:50",
     "duration": "3.5",
     "servers": []
   },
