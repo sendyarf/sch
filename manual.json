@@ -1,26 +1,51 @@
 [
 
-{
-    "id": "LaLiga-R.Oviedo-Barcelona",
-    "league": "LaLiga",
+
+ {
+    "id": "Semen-Padang-Bali-United",
+    "league": "Super League - Round 7",
     "team1": {
-      "name": "R. Oviedo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/r-oviedo.png"
+      "name": "Semen Padang",
+      "logo": "https://static.flashscore.com/res/image/data/GCMr4XCr-K4Cn0tro.png"
     },
     "team2": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+      "name": "Bali United",
+      "logo": "https://static.flashscore.com/res/image/data/tInTP6zB-pdceGY5b.png"
     },
     "kickoff_date": "2025-09-26",
-    "kickoff_time": "02:30",
+    "kickoff_time": "15:30",
     "match_date": "2025-09-26",
-    "match_time": "02:20",
+    "match_time": "15:30",
     "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
-
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
+        {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5ODAwLm0zdTg=",
+        "label": "CH-ID"
+      }
+    ]
+  },
+  {
+    "id": "Dewa-United-Persebaya",
+    "league": "Super League - Round 7",
+    "team1": {
+      "name": "Dewa United",
+      "logo": "https://static.flashscore.com/res/image/data/nmnoOY9r-lrspFRA0.png"
+    },
+    "team2": {
+      "name": "Persebaya",
+      "logo": "https://static.flashscore.com/res/image/data/8MQJKwvS-jaJfGoOS.png"
+    },
+    "kickoff_date": "2025-09-26",
+    "kickoff_time": "19:00",
+    "match_date": "2025-09-26",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+        {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS00ODc5ODAxLm0zdTg=",
+        "label": "CH-ID"
       }
     ]
   }
