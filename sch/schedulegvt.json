@@ -241,6 +241,24 @@
     "servers": []
   },
   {
+    "id": "PremierLeague-Everton-WestHam",
+    "league": "Premier League",
+    "team1": {
+      "name": "Everton",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/everton.png"
+    },
+    "team2": {
+      "name": "West Ham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/west-ham.png"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-30",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-Twente-Sittard",
     "league": "Eredivisie",
     "team1": {
@@ -1012,38 +1030,20 @@
     "servers": []
   },
   {
-    "id": "LaLiga-Osasuna-Elche",
-    "league": "LaLiga",
+    "id": "SerieA-Genoa-Lazio",
+    "league": "Serie A",
     "team1": {
-      "name": "Osasuna",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
+      "name": "Genoa",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/genoa.png"
     },
     "team2": {
-      "name": "Elche",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/elche.png"
+      "name": "Lazio",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lazio.png"
     },
-    "kickoff_date": "2025-09-26",
-    "kickoff_time": "00:30",
-    "match_date": "2025-09-26",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LaLiga-R.Oviedo-Barcelona",
-    "league": "LaLiga",
-    "team1": {
-      "name": "R. Oviedo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/r-oviedo.png"
-    },
-    "team2": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "kickoff_date": "2025-09-26",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-26",
-    "match_time": "02:20",
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-30",
+    "match_time": "01:35",
     "duration": "3.5",
     "servers": []
   },
@@ -1287,6 +1287,60 @@
     "kickoff_time": "02:00",
     "match_date": "2025-09-29",
     "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Valencia-R.Oviedo",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "team2": {
+      "name": "R. Oviedo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/r-oviedo.png"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-30",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Atalanta-ClubBruggeKV",
+    "league": "Champions League",
+    "team1": {
+      "name": "Atalanta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atalanta.png"
+    },
+    "team2": {
+      "name": "Club Brugge KV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/club-brugge-kv.png"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-30",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-KairatAlmaty-RealMadrid",
+    "league": "Champions League",
+    "team1": {
+      "name": "Kairat Almaty",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/kairat-almaty.png"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-30",
+    "match_time": "23:35",
     "duration": "3.5",
     "servers": []
   },
