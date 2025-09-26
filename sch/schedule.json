@@ -274,12 +274,7 @@
     "match_date": "2025-09-27",
     "match_time": "00:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Ajax-NACBreda",
@@ -636,24 +631,7 @@
     "match_date": "2025-09-27",
     "match_time": "01:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=155",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Bundesliga-Heidenheim-Augsburg",
@@ -1348,178 +1326,6 @@
     "servers": []
   },
   {
-    "id": "Ligue2-MultiplexLigue2",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Multiplex Ligue 2"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-27",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Ligue2-Clermont-LeMans",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Clermont"
-    },
-    "team2": {
-      "name": "Le Mans"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-27",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Ligue2-Grenoble-Bastia",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Grenoble"
-    },
-    "team2": {
-      "name": "Bastia"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-27",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=6",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Ligue2-Nancy-Reims",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Nancy"
-    },
-    "team2": {
-      "name": "Reims"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-27",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Ligue2-Rodez-PauFC",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Rodez"
-    },
-    "team2": {
-      "name": "Pau FC"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-27",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=8",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "SaudiProLeague-Al-IttihadFC-Al-Nassr",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al-Ittihad FC"
-    },
-    "team2": {
-      "name": "Al-Nassr"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:00",
-    "match_date": "2025-09-27",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-ADTarma-AlianzaAtl.",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "AD Tarma"
-    },
-    "team2": {
-      "name": "Alianza Atl."
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:15",
-    "match_date": "2025-09-27",
-    "match_time": "01:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Mirandes-Saragosse",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Mirandes"
-    },
-    "team2": {
-      "name": "Saragosse"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "01:30",
-    "match_date": "2025-09-27",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "ProLeague-Louvain-Anderlecht",
     "league": "Pro League",
     "team1": {
@@ -2038,13 +1844,13 @@
     ]
   },
   {
-    "id": "54015569",
-    "league": "Morocco - Botola",
+    "id": "54139460",
+    "league": "International - TT Elite Series",
     "team1": {
-      "name": "FUS Rabat"
+      "name": "Olbrycht, Michal"
     },
     "team2": {
-      "name": "Union Touarga"
+      "name": "Marcinowski, Krzysztof"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2053,7 +1859,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TURZMU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TnpRMk5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -2080,27 +1886,6 @@
     ]
   },
   {
-    "id": "53695528",
-    "league": "Portugal - Primeira Liga",
-    "team1": {
-      "name": "Benfica"
-    },
-    "team2": {
-      "name": "Gil Vicente"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekkzTWprME5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53843003",
     "league": "Ecuador - Serie B, Promotion Round",
     "team1": {
@@ -2122,13 +1907,13 @@
     ]
   },
   {
-    "id": "54197390",
-    "league": "Portugal - 1a Divisao",
+    "id": "53842742",
+    "league": "Colombia - Primera B",
     "team1": {
-      "name": "Leoes Porto Salvo"
+      "name": "Deportes Quindio"
     },
     "team2": {
-      "name": "Electrico FC"
+      "name": "FC Bogota"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2137,19 +1922,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TVRVeE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TmpBeU1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "51311669",
-    "league": "USA - MLB",
+    "id": "54236395",
+    "league": "Tournaments - DreamLeague Quals",
     "team1": {
-      "name": "Chicago Cubs"
+      "name": "Wildcard Gaming"
     },
     "team2": {
-      "name": "St. Louis Cardinals"
+      "name": "The Bug"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2158,19 +1943,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNekk1T1RZMk9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWemJGOWtiM1JoTW1WdFltVnlKbkJoY21WdWREMWtaVzF2TG1sdWNHeGhlVzVsZEM1amIyMD0=",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "54197516",
-    "league": "International - TT Cup",
+    "id": "54235171",
+    "league": "Tournaments - DreamLeague Quals",
     "team1": {
-      "name": "Nosek, David"
+      "name": "Chimpazini Bananini"
     },
     "team2": {
-      "name": "Jansa, Stanislav"
+      "name": "Og.Latam"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2179,58 +1964,16 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TnpBMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWemJGOWtiM1JoTW5OMGIzSnRKbkJoY21WdWREMWtaVzF2TG1sdWNHeGhlVzVsZEM1amIyMD0=",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "54197522",
-    "league": "International - TT Cup",
-    "team1": {
-      "name": "Jicha, David"
-    },
-    "team2": {
-      "name": "Zlamal, Jaromir"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TmpnM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54161695",
-    "league": "International - TT Cup",
-    "team1": {
-      "name": "Rokita, Gracjan"
-    },
-    "team2": {
-      "name": "Mazurek, Wieslaw"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TmpjM015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54139482",
+    "id": "54139472",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Glanowski, Waldemar"
+      "name": "Tkaczyk, Henryk"
     },
     "team2": {
       "name": "Pyda, Lukasz"
@@ -2242,28 +1985,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TnpVM015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54139423",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Brud, Szymon"
-    },
-    "team2": {
-      "name": "Chrzescian, Radoslaw"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13TnpNMk1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek13T1RnMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
