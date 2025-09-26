@@ -144,6 +144,22 @@
     "servers": []
   },
   {
+    "id": "PremierLeague-Everton-WestHam",
+    "league": "Premier League",
+    "team1": {
+      "name": "Everton"
+    },
+    "team2": {
+      "name": "West Ham"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-30",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-Twente-Sittard",
     "league": "Eredivisie",
     "team1": {
@@ -720,34 +736,18 @@
     "servers": []
   },
   {
-    "id": "LaLiga-Osasuna-Elche",
-    "league": "LaLiga",
+    "id": "SerieA-Genoa-Lazio",
+    "league": "Serie A",
     "team1": {
-      "name": "Osasuna"
+      "name": "Genoa"
     },
     "team2": {
-      "name": "Elche"
+      "name": "Lazio"
     },
-    "kickoff_date": "2025-09-26",
-    "kickoff_time": "00:30",
-    "match_date": "2025-09-26",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LaLiga-R.Oviedo-Barcelona",
-    "league": "LaLiga",
-    "team1": {
-      "name": "R. Oviedo"
-    },
-    "team2": {
-      "name": "Barcelona"
-    },
-    "kickoff_date": "2025-09-26",
-    "kickoff_time": "02:30",
-    "match_date": "2025-09-26",
-    "match_time": "02:30",
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "01:45",
+    "match_date": "2025-09-30",
+    "match_time": "01:45",
     "duration": "3.5",
     "servers": []
   },
@@ -892,6 +892,54 @@
     "kickoff_time": "02:00",
     "match_date": "2025-09-29",
     "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Valencia-R.Oviedo",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Valencia"
+    },
+    "team2": {
+      "name": "R. Oviedo"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "02:00",
+    "match_date": "2025-09-30",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Atalanta-ClubBruggeKV",
+    "league": "Champions League",
+    "team1": {
+      "name": "Atalanta"
+    },
+    "team2": {
+      "name": "Club Brugge KV"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-30",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-KairatAlmaty-RealMadrid",
+    "league": "Champions League",
+    "team1": {
+      "name": "Kairat Almaty"
+    },
+    "team2": {
+      "name": "Real Madrid"
+    },
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-30",
+    "match_time": "23:45",
     "duration": "3.5",
     "servers": []
   }
