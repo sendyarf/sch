@@ -2065,39 +2065,6 @@
     "servers": []
   },
   {
-    "id": "MotoGP-Essaisqualificatifs1et2desMotoGP",
-    "league": "MotoGP",
-    "team1": {
-      "name": "Essais qualificatifs 1 et 2 des Moto GP"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "08:50",
-    "match_date": "2025-09-27",
-    "match_time": "08:40",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "LigaMxWomen-TigresF-LeonF",
     "league": "Liga Mx Women",
     "team1": {
@@ -2201,6 +2168,39 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-SprintdesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Sprint des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-09-27",
+    "kickoff_time": "13:00",
+    "match_date": "2025-09-27",
+    "match_time": "12:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
         "label": "CH-ES"
       }
     ]
