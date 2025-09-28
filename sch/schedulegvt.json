@@ -1048,6 +1048,14 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-ES"
       }
     ]
   },
@@ -1490,56 +1498,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TVRFMk9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-Chelsea-Brighton",
-    "league": "Premier League",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
-    },
-    "team2": {
-      "name": "Brighton",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brighton.png"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "21:00",
-    "match_date": "2025-09-27",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Atl.Madrid-RealMadrid",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Atl. Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atl-madrid.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
-    },
-    "kickoff_date": "2025-09-27",
-    "kickoff_time": "21:15",
-    "match_date": "2025-09-27",
-    "match_time": "21:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
       }
     ]
   }
