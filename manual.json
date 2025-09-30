@@ -1,31 +1,30 @@
 [
 
 {
-    "id": "LaLiga-Barcelona-RealSociedad",
-    "league": "LaLiga",
+    "id": "ChampionsLeague-KairatAlmaty-RealMadrid",
+    "league": "Champions League",
     "team1": {
-      "name": "Barcelona"
+      "name": "Kairat Almaty"
     },
     "team2": {
-      "name": "Real Sociedad"
+      "name": "Real Madrid"
     },
-    "kickoff_date": "2025-09-28",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-28",
-    "match_time": "23:20",
+    "kickoff_date": "2025-09-30",
+    "kickoff_time": "23:45",
+    "match_date": "2025-09-30",
+    "match_time": "23:35",
     "duration": "3.5",
     "servers": [
-
+      
       {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
+        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+        "label": "CH-NL"
       },
       {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
         "label": "CH-ES"
       }
     ]
   }
-    
  
 ]
