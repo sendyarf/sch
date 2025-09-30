@@ -360,20 +360,7 @@
     "match_date": "2025-10-01",
     "match_time": "00:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=6",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Osasuna-Getafe",
@@ -478,18 +465,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=89",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-3"
       }
     ]
   },
@@ -523,10 +498,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=90",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
       }
     ]
   },
@@ -572,18 +543,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=78",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv5",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-3"
       }
     ]
   },
@@ -625,22 +584,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=155",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd9",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br4",
-        "label": "CH-4"
       }
     ]
   },
@@ -678,18 +621,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=79",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd8",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br5",
-        "label": "CH-3"
       }
     ]
   },
@@ -723,10 +654,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=92",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
       }
     ]
   },
@@ -760,22 +687,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=87",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven3",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-4"
       }
     ]
   },
@@ -994,90 +905,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br5",
         "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "EuroLeague-ÉtoileRougeBelgrade-Milano",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Crvena Zvezda"
-    },
-    "team2": {
-      "name": "Milano"
-    },
-    "kickoff_date": "2025-10-01",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-01",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=66",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-Huancayo-AlianzaHuanuco",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "Huancayo"
-    },
-    "team2": {
-      "name": "Alianza Huanuco"
-    },
-    "kickoff_date": "2025-10-01",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-01",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "AfcLigueDesChampions-Al-IttihadFC(Sau)-Al-AhliDubai(Uae)",
-    "league": "AFC Champions League Elite",
-    "team1": {
-      "name": "Al-Ittihad FC (Sau)"
-    },
-    "team2": {
-      "name": "Shabab Al-Ahli Dubai"
-    },
-    "kickoff_date": "2025-10-01",
-    "kickoff_time": "01:15",
-    "match_date": "2025-10-01",
-    "match_time": "01:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=115",
-        "label": "CH-QA"
-      }
-    ]
-  },
-  {
-    "id": "EuroLeague-Panathinaikos-Bayern",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Panathinaikos"
-    },
-    "team2": {
-      "name": "Bayern"
-    },
-    "kickoff_date": "2025-10-01",
-    "kickoff_time": "01:15",
-    "match_date": "2025-10-01",
-    "match_time": "01:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=64",
-        "label": "CH-ES"
       }
     ]
   },
