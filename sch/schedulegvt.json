@@ -97,6 +97,14 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br3",
         "label": "CH-7"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
+        "label": "CH-ES"
       }
     ]
   },
@@ -542,33 +550,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br5",
         "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Barcelona-RealSociedad",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "team2": {
-      "name": "Real Sociedad",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-sociedad.png"
-    },
-    "kickoff_date": "2025-09-28",
-    "kickoff_time": "23:30",
-    "match_date": "2025-09-28",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
       }
     ]
   }
