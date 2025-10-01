@@ -55,6 +55,64 @@
       {
         "url": "https://multi.govoet.my.id/?shaka=ziggo2",
         "label": "CH-NL"
+      },
+          {
+        "url": "https://multi.govoet.my.id/?shaka=hrt2",
+        "label": "CH-HR"
+      },
+          {
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
+        "label": "CH-EN"
+      }
+    ]
+  },
+      {
+    "id": "ChampionsLeague-Monaco-ManchesterCity",
+    "league": "Champions League",
+    "team1": {
+      "name": "Monaco"
+    },
+    "team2": {
+      "name": "Manchester City"
+    },
+    "kickoff_date": "2025-10-02",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-02",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-NL"
+      }
+    ]
+  },
+      {
+    "id": "ChampionsLeague-Arsenal-OlympiacosPiraeus",
+    "league": "Champions League",
+    "team1": {
+      "name": "Arsenal"
+    },
+    "team2": {
+      "name": "Olympiacos Piraeus"
+    },
+    "kickoff_date": "2025-10-02",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-02",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+          {
+        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
+        "label": "CH-NL"
+      },
+           {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
       }
     ]
   }
