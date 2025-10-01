@@ -593,7 +593,16 @@
     "match_date": "2025-10-02",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "ChampionsLeague-Barcelona-PSG",
@@ -637,6 +646,14 @@
       {
         "url": "https://multi.govoet.my.id/?shaka=ziggo2",
         "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=hrt2",
+        "label": "CH-HR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
+        "label": "CH-EN"
       }
     ]
   },
@@ -712,6 +729,14 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br4",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-NL"
       }
     ]
   },
@@ -770,13 +795,13 @@
     ]
   },
   {
-    "id": "54513801",
-    "league": "International - TT Cup",
+    "id": "54546790",
+    "league": "Philippines - UAAP, Senior",
     "team1": {
-      "name": "Kral, Adam"
+      "name": "Green Archers"
     },
     "team2": {
-      "name": "Vojna, Daniel"
+      "name": "FEU Tamaraws"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -785,28 +810,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURBeU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54495085",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Iwasyszyn, Wojciech"
-    },
-    "team2": {
-      "name": "Burkacki, Mateusz"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURVd05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TVRBeE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -833,13 +837,13 @@
     ]
   },
   {
-    "id": "54546790",
-    "league": "Philippines - UAAP, Senior",
+    "id": "54516788",
+    "league": "International - Al Ain Masters 2025, WS",
     "team1": {
-      "name": "Green Archers"
+      "name": "Valishetty, Shriyanshi"
     },
     "team2": {
-      "name": "FEU Tamaraws"
+      "name": "Lam, Hok In"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -848,19 +852,35 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TVRBeE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15T1RVd055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "54495077",
-    "league": "International - TT Elite Series",
+    "id": "54447172",
+    "league": "UK Esport - H2H GG League EA FC 24 (2X4 min.)",
     "team1": {
-      "name": "Slawinski, Kacper"
+      "name": "FC Bayern Munchen (DEZZY)"
     },
     "team2": {
-      "name": "Pruszkowski, Jakub"
+      "name": "Real Madrid (FRANCHISE)"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": []
+  },
+  {
+    "id": "54517707",
+    "league": "International - TT Cup",
+    "team1": {
+      "name": "Chamorro, Miguel"
+    },
+    "team2": {
+      "name": "Gonzalez, Eduardo"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -869,7 +889,49 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURNeU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURFek5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "54513814",
+    "league": "International - TT Cup",
+    "team1": {
+      "name": "Kulveit, Jonas"
+    },
+    "team2": {
+      "name": "Dolezal, Martin"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURBeU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "54495085",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Iwasyszyn, Wojciech"
+    },
+    "team2": {
+      "name": "Burkacki, Mateusz"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURVd05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -896,6 +958,27 @@
     ]
   },
   {
+    "id": "54495054",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Mugowski, Arkadiusz"
+    },
+    "team2": {
+      "name": "Malinowski, Radoslaw"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURNNU5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "54504530",
     "league": "Tournaments - Fissure Playground",
     "team1": {
@@ -912,6 +995,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdKbGRHSnZiMjFmY25VeUpuQmhjbVZ1ZEQxa1pXMXZMbWx1Y0d4aGVXNWxkQzVqYjIwPQ==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "54495077",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Slawinski, Kacper"
+    },
+    "team2": {
+      "name": "Pruszkowski, Jakub"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek16TURNeU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]

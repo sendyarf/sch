@@ -663,7 +663,16 @@
     "match_date": "2025-10-02",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn2arg",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "ChampionsLeague-Barcelona-PSG",
@@ -709,6 +718,14 @@
       {
         "url": "https://multi.govoet.my.id/?shaka=ziggo2",
         "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=hrt2",
+        "label": "CH-HR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
+        "label": "CH-EN"
       }
     ]
   },
@@ -790,6 +807,14 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br4",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-NL"
       }
     ]
   },
