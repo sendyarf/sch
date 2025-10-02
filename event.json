@@ -288,6 +288,22 @@
     "servers": []
   },
   {
+    "id": "Eredivisie-G.A.Eagles-Nijmegen",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "G.A. Eagles"
+    },
+    "team2": {
+      "name": "Nijmegen"
+    },
+    "kickoff_date": "2025-10-06",
+    "kickoff_time": "01:00",
+    "match_date": "2025-10-06",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Ligue1-ParisFC-Lorient",
     "league": "Ligue 1",
     "team1": {
@@ -416,6 +432,22 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Lille-PSG",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lille"
+    },
+    "team2": {
+      "name": "PSG"
+    },
+    "kickoff_date": "2025-10-06",
+    "kickoff_time": "01:45",
+    "match_date": "2025-10-06",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-Hoffenheim-FCKoln",
     "league": "Bundesliga",
     "team1": {
@@ -540,6 +572,22 @@
     "kickoff_time": "22:30",
     "match_date": "2025-10-05",
     "match_time": "22:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-B.Monchengladbach-Freiburg",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "B. Monchengladbach"
+    },
+    "team2": {
+      "name": "Freiburg"
+    },
+    "kickoff_date": "2025-10-06",
+    "kickoff_time": "00:30",
+    "match_date": "2025-10-06",
+    "match_time": "00:30",
     "duration": "3.5",
     "servers": []
   },
@@ -688,6 +736,22 @@
     "servers": []
   },
   {
+    "id": "SerieA-Juventus-ACMilan",
+    "league": "Serie A",
+    "team1": {
+      "name": "Juventus"
+    },
+    "team2": {
+      "name": "AC Milan"
+    },
+    "kickoff_date": "2025-10-06",
+    "kickoff_time": "01:45",
+    "match_date": "2025-10-06",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "LaLiga-Osasuna-Getafe",
     "league": "LaLiga",
     "team1": {
@@ -832,113 +896,17 @@
     "servers": []
   },
   {
-    "id": "ChampionsLeague-Arsenal-OlympiacosPiraeus",
-    "league": "Champions League",
+    "id": "LaLiga-CeltaVigo-Atl.Madrid",
+    "league": "LaLiga",
     "team1": {
-      "name": "Arsenal"
+      "name": "Celta Vigo"
     },
     "team2": {
-      "name": "Olympiacos Piraeus"
+      "name": "Atl. Madrid"
     },
-    "kickoff_date": "2025-10-02",
+    "kickoff_date": "2025-10-06",
     "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Barcelona-PSG",
-    "league": "Champions League",
-    "team1": {
-      "name": "Barcelona"
-    },
-    "team2": {
-      "name": "PSG"
-    },
-    "kickoff_date": "2025-10-02",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-BayerLeverkusen-PSV",
-    "league": "Champions League",
-    "team1": {
-      "name": "Bayer Leverkusen"
-    },
-    "team2": {
-      "name": "PSV"
-    },
-    "kickoff_date": "2025-10-02",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Dortmund-AthBilbao",
-    "league": "Champions League",
-    "team1": {
-      "name": "Dortmund"
-    },
-    "team2": {
-      "name": "Ath Bilbao"
-    },
-    "kickoff_date": "2025-10-02",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Monaco-ManchesterCity",
-    "league": "Champions League",
-    "team1": {
-      "name": "Monaco"
-    },
-    "team2": {
-      "name": "Manchester City"
-    },
-    "kickoff_date": "2025-10-02",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Napoli-SportingCP",
-    "league": "Champions League",
-    "team1": {
-      "name": "Napoli"
-    },
-    "team2": {
-      "name": "Sporting CP"
-    },
-    "kickoff_date": "2025-10-02",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Villarreal-Juventus",
-    "league": "Champions League",
-    "team1": {
-      "name": "Villarreal"
-    },
-    "team2": {
-      "name": "Juventus"
-    },
-    "kickoff_date": "2025-10-02",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-02",
+    "match_date": "2025-10-06",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": []
