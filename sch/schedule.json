@@ -1,126 +1,5 @@
 [
   {
-    "id": "PremierLeague-Bournemouth-Fulham",
-    "league": "Premier League",
-    "team1": {
-      "name": "Bournemouth"
-    },
-    "team2": {
-      "name": "Fulham"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-04",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Leeds-Tottenham",
-    "league": "Premier League",
-    "team1": {
-      "name": "Leeds"
-    },
-    "team2": {
-      "name": "Tottenham"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "18:30",
-    "match_date": "2025-10-04",
-    "match_time": "18:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Arsenal-WestHam",
-    "league": "Premier League",
-    "team1": {
-      "name": "Arsenal"
-    },
-    "team2": {
-      "name": "West Ham"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-04",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-ManchesterUtd-Sunderland",
-    "league": "Premier League",
-    "team1": {
-      "name": "Manchester Utd"
-    },
-    "team2": {
-      "name": "Sunderland"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-04",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Chelsea-Liverpool",
-    "league": "Premier League",
-    "team1": {
-      "name": "Chelsea"
-    },
-    "team2": {
-      "name": "Liverpool"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-04",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpJNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br2",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
     "id": "PremierLeague-AstonVilla-Burnley",
     "league": "Premier League",
     "team1": {
@@ -322,72 +201,6 @@
     ]
   },
   {
-    "id": "Eredivisie-NACBreda-Groningen",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "NAC Breda"
-    },
-    "team2": {
-      "name": "Groningen"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-04",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Eredivisie-SpartaRotterdam-Ajax",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "Sparta Rotterdam"
-    },
-    "team2": {
-      "name": "Ajax"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "21:30",
-    "match_date": "2025-10-04",
-    "match_time": "21:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=100",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Eredivisie-Sittard-FCVolendam",
-    "league": "Eredivisie",
-    "team1": {
-      "name": "Sittard"
-    },
-    "team2": {
-      "name": "FC Volendam"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-04",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=143",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWprNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "Eredivisie-Zwolle-PSV",
     "league": "Eredivisie",
     "team1": {
@@ -526,72 +339,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=141",
         "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-ParisFC-Lorient",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Paris FC"
-    },
-    "team2": {
-      "name": "Lorient"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-04",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Ligue1-Metz-Marseille",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Metz"
-    },
-    "team2": {
-      "name": "Marseille"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "22:00",
-    "match_date": "2025-10-04",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Brest-Nantes",
-    "league": "Ligue 1",
-    "team1": {
-      "name": "Brest"
-    },
-    "team2": {
-      "name": "Nantes"
-    },
-    "kickoff_date": "2025-10-05",
-    "kickoff_time": "00:00",
-    "match_date": "2025-10-04",
-    "match_time": "23:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
       }
     ]
   },
@@ -766,131 +513,6 @@
     ]
   },
   {
-    "id": "Bundesliga-Hoffenheim-FCKoln",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Hoffenheim"
-    },
-    "team2": {
-      "name": "FC Koln"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "01:30",
-    "match_date": "2025-10-04",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-Augsburg-Wolfsburg",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Augsburg"
-    },
-    "team2": {
-      "name": "Wolfsburg"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-04",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-BayerLeverkusen-UnionBerlin",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Bayer Leverkusen"
-    },
-    "team2": {
-      "name": "Union Berlin"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-04",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-Dortmund-RBLeipzig",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Dortmund"
-    },
-    "team2": {
-      "name": "RB Leipzig"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-04",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-WerderBremen-St.Pauli",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Werder Bremen"
-    },
-    "team2": {
-      "name": "St. Pauli"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-04",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-EintrachtFrankfurt-BayernMunich",
-    "league": "Bundesliga",
-    "team1": {
-      "name": "Eintracht Frankfurt"
-    },
-    "team2": {
-      "name": "Bayern Munich"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-04",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=116",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br1",
-        "label": "CH-4"
-      }
-    ]
-  },
-  {
     "id": "Bundesliga-Stuttgart-Heidenheim",
     "league": "Bundesliga",
     "team1": {
@@ -986,99 +608,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "SerieA-Verona-Sassuolo",
-    "league": "Serie A",
-    "team1": {
-      "name": "Verona"
-    },
-    "team2": {
-      "name": "Sassuolo"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-04",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Lazio-Torino",
-    "league": "Serie A",
-    "team1": {
-      "name": "Lazio"
-    },
-    "team2": {
-      "name": "Torino"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "20:00",
-    "match_date": "2025-10-04",
-    "match_time": "19:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Parma-Lecce",
-    "league": "Serie A",
-    "team1": {
-      "name": "Parma"
-    },
-    "team2": {
-      "name": "Lecce"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "20:00",
-    "match_date": "2025-10-04",
-    "match_time": "19:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Inter-Cremonese",
-    "league": "Serie A",
-    "team1": {
-      "name": "Inter"
-    },
-    "team2": {
-      "name": "Cremonese"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "23:00",
-    "match_date": "2025-10-04",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpreE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br4",
-        "label": "CH-2"
       }
     ]
   },
@@ -1317,120 +846,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-4"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Osasuna-Getafe",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Osasuna"
-    },
-    "team2": {
-      "name": "Getafe"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-04",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LaLiga-R.Oviedo-Levante",
-    "league": "LaLiga",
-    "team1": {
-      "name": "R. Oviedo"
-    },
-    "team2": {
-      "name": "Levante"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "19:00",
-    "match_date": "2025-10-04",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LaLiga-Girona-Valencia",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Girona"
-    },
-    "team2": {
-      "name": "Valencia"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "21:15",
-    "match_date": "2025-10-04",
-    "match_time": "21:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-AthBilbao-Mallorca",
-    "league": "LaLiga",
-    "team1": {
-      "name": "Ath Bilbao"
-    },
-    "team2": {
-      "name": "Mallorca"
-    },
-    "kickoff_date": "2025-10-04",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-04",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpnM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-2"
       }
     ]
   },
@@ -1689,26 +1104,26 @@
     ]
   },
   {
-    "id": "Laliga2-LaCorogne-Almeria",
-    "league": "Laliga 2",
+    "id": "Eredivisie-SpartaRotterdam-Ajax",
+    "league": "Eredivisie",
     "team1": {
-      "name": "La Corogne"
+      "name": "Sparta Rotterdam"
     },
     "team2": {
-      "name": "Almeria"
+      "name": "Ajax"
     },
     "kickoff_date": "2025-10-04",
-    "kickoff_time": "21:15",
+    "kickoff_time": "21:30",
     "match_date": "2025-10-04",
-    "match_time": "21:05",
+    "match_time": "21:20",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=10",
-        "label": "CH-FR"
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=53",
+        "url": "https://multi.govoet.my.id/?envivo=100",
         "label": "CH-ES"
       }
     ]
@@ -1907,6 +1322,80 @@
     ]
   },
   {
+    "id": "Ligue1-Metz-Marseille",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Metz"
+    },
+    "team2": {
+      "name": "Marseille"
+    },
+    "kickoff_date": "2025-10-04",
+    "kickoff_time": "22:00",
+    "match_date": "2025-10-04",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Inter-Cremonese",
+    "league": "Serie A",
+    "team1": {
+      "name": "Inter"
+    },
+    "team2": {
+      "name": "Cremonese"
+    },
+    "kickoff_date": "2025-10-04",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-04",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpreE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
     "id": "ProLeague-RAALLaLouviere-Zulte-Waregem",
     "league": "Pro League",
     "team1": {
@@ -1924,6 +1413,76 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=153",
         "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-EintrachtFrancfort-BayernMunich",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Eintracht Francfort"
+    },
+    "team2": {
+      "name": "Bayern Munich"
+    },
+    "kickoff_date": "2025-10-04",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-04",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Ath.Bilbao-Majorque",
+    "league": "Laliga",
+    "team1": {
+      "name": "Ath Bilbao"
+    },
+    "team2": {
+      "name": "Majorque"
+    },
+    "kickoff_date": "2025-10-04",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-04",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=89",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpnM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
@@ -1970,6 +1529,88 @@
     ]
   },
   {
+    "id": "PremierLeague-Chelsea-Liverpool",
+    "league": "Premier League",
+    "team1": {
+      "name": "Chelsea"
+    },
+    "team2": {
+      "name": "Liverpool"
+    },
+    "kickoff_date": "2025-10-04",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-04",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpJNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Sittard-FCVolendam",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Sittard"
+    },
+    "team2": {
+      "name": "FC Volendam"
+    },
+    "kickoff_date": "2025-10-04",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-04",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=143",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWprNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "LigaPortugal-AFS-Alverca",
     "league": "Liga Portugal",
     "team1": {
@@ -1987,6 +1628,27 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=144",
         "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Brest-Nantes",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Brest"
+    },
+    "team2": {
+      "name": "Nantes"
+    },
+    "kickoff_date": "2025-10-05",
+    "kickoff_time": "00:00",
+    "match_date": "2025-10-04",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=21",
+        "label": "CH-FR"
       }
     ]
   },
