@@ -246,10 +246,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWprNU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
@@ -352,16 +348,7 @@
     "match_date": "2025-10-05",
     "match_time": "01:55",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-Lyon-Toulouse",
@@ -631,20 +618,7 @@
     "match_date": "2025-10-05",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Udinese-Cagliari",
@@ -871,26 +845,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek14TWpnM055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
@@ -1104,52 +1058,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=eleven1",
         "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "MLS-CFMontreal-NashvilleSC",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "CF Montreal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cf-montreal.png"
-    },
-    "team2": {
-      "name": "Nashville SC",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nashville-sc.png"
-    },
-    "kickoff_date": "2025-10-05",
-    "kickoff_time": "01:30",
-    "match_date": "2025-10-05",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=175",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "MLS-DCUnited-Charlotte",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "DC United",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dc-united.png"
-    },
-    "team2": {
-      "name": "Charlotte",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/charlotte.png"
-    },
-    "kickoff_date": "2025-10-05",
-    "kickoff_time": "01:30",
-    "match_date": "2025-10-05",
-    "match_time": "01:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=176",
-        "label": "CH-US"
       }
     ]
   },
