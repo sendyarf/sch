@@ -80,85 +80,6 @@
     "servers": []
   },
   {
-    "id": "NFL-CincinnatiBengals-DetroitLions",
-    "league": "NFL",
-    "team1": {
-      "name": "Cincinnati Bengals"
-    },
-    "team2": {
-      "name": "Detroit Lions"
-    },
-    "kickoff_date": "2025-10-06",
-    "kickoff_time": "03:25",
-    "match_date": "2025-10-06",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=169",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=79",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=101",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NFL-LosAngelesChargers-WashingtonCommanders",
-    "league": "NFL",
-    "team1": {
-      "name": "Los Angeles Chargers"
-    },
-    "team2": {
-      "name": "Washington Commanders"
-    },
-    "kickoff_date": "2025-10-06",
-    "kickoff_time": "03:25",
-    "match_date": "2025-10-06",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=170",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CopaChili-Huachipato-A.Italiano",
-    "league": "Copa Chili",
-    "team1": {
-      "name": "Huachipato"
-    },
-    "team2": {
-      "name": "A. Italiano"
-    },
-    "kickoff_date": "2025-10-06",
-    "kickoff_time": "03:30",
-    "match_date": "2025-10-06",
-    "match_time": "03:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "LigaAUFUruguaya-Penarol-Danubio",
     "league": "Liga AUF Uruguaya",
     "team1": {
@@ -197,10 +118,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=55",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       }
     ]
   },
@@ -781,6 +698,69 @@
     ]
   },
   {
+    "id": "53405688",
+    "league": "Brazil: Serie A Betano",
+    "team1": {
+      "name": "Ceara"
+    },
+    "team2": {
+      "name": "Santos"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53576275",
+    "league": "Brazil - Serie B",
+    "team1": {
+      "name": "AC Goianiense GO"
+    },
+    "team2": {
+      "name": "Athletico Paranaense"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53405700",
+    "league": "Brazil: Serie A Betano",
+    "team1": {
+      "name": "Cruzeiro MG"
+    },
+    "team2": {
+      "name": "SC Recife PE"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "53522973",
     "league": "Peru - Primera Division, Clausura",
     "team1": {
@@ -797,27 +777,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTkRNMk5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "53405691",
-    "league": "Brazil: Serie A Betano",
-    "team1": {
-      "name": "EC Juventude RS"
-    },
-    "team2": {
-      "name": "Fortaleza EC CE"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMU1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -886,13 +845,13 @@
     ]
   },
   {
-    "id": "54569535",
-    "league": "Jamaica - Premier League",
+    "id": "54778367",
+    "league": "International - TT Elite Series",
     "team1": {
-      "name": "Waterhouse FC"
+      "name": "Linek, Adam"
     },
     "team2": {
-      "name": "Mount Pleasant FC"
+      "name": "Blocho, Przemyslaw"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -901,7 +860,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTkRZNE5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTmpjM01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -928,13 +887,13 @@
     ]
   },
   {
-    "id": "54485231",
-    "league": "USA - MLB, Playoffs",
+    "id": "54569535",
+    "league": "Jamaica - Premier League",
     "team1": {
-      "name": "Toronto Blue Jays"
+      "name": "Waterhouse FC"
     },
     "team2": {
-      "name": "New York Yankees"
+      "name": "Mount Pleasant FC"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -943,19 +902,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0wTVRRME1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTkRZNE5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "54778361",
+    "id": "54778393",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Pawlowski, Krzysztof"
+      "name": "Adamus, Mariusz"
     },
     "team2": {
-      "name": "Skorski, Michal"
+      "name": "Kumor, Michal"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -964,34 +923,13 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTmpVNE5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTmpZNE55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "54778362",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Kotwica, Dawid"
-    },
-    "team2": {
-      "name": "Blocho, Przemyslaw"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xTmpjM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54759390",
+    "id": "54758983",
     "league": "Tournaments - ESL Challenger: SA",
     "team1": {
       "name": "Team 1"
@@ -1006,11 +944,11 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd0bGRtbHVaRzl5ZFdzbWNHRnlaVzUwUFdSbGJXOHVhVzV3YkdGNWJtVjBMbU52YlE9PQ==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd4dlkyOXRZWE56TWpJbWNHRnlaVzUwUFdSbGJXOHVhVzV3YkdGNWJtVjBMbU52YlE9PQ==",
         "label": "CH-NA"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd4dlkyOXRZWE56TWpJbWNHRnlaVzUwUFdSbGJXOHVhVzV3YkdGNWJtVjBMbU52YlE9PQ==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFd0bGRtbHVaRzl5ZFdzbWNHRnlaVzUwUFdSbGJXOHVhVzV3YkdGNWJtVjBMbU52YlE9PQ==",
         "label": "CH-NA"
       }
     ]
