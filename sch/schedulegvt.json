@@ -72,33 +72,6 @@
     "servers": []
   },
   {
-    "id": "MLS-VancouverWhitecaps-SanJoseEarthquakes",
-    "league": "USA: MLS",
-    "team1": {
-      "name": "Vancouver Whitecaps",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/vancouver-whitecaps.png"
-    },
-    "team2": {
-      "name": "San Jose Earthquakes",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-jose-earthquakes.png"
-    },
-    "kickoff_date": "2025-10-06",
-    "kickoff_time": "05:00",
-    "match_date": "2025-10-06",
-    "match_time": "04:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=189",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMk1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "CoupeDuMondeU20-Nigéria-Colombie",
     "league": "Coupe Du Monde U20",
     "team1": {
@@ -141,6 +114,29 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=190",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "49154013",
+    "league": "USA: MLS",
+    "team1": {
+      "name": "Vancouver Whitecaps",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/vancouver-whitecaps.png"
+    },
+    "team2": {
+      "name": "San Jose Earthquakes",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-jose-earthquakes.png"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek15TXpRMk1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
