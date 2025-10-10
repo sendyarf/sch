@@ -52,6 +52,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=41",
+        "label": "CH-FR"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd10",
         "label": "CH-1"
       },
@@ -78,6 +86,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=24",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
@@ -114,6 +134,18 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=42",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
       },
@@ -145,6 +177,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=44",
+        "label": "CH-FR"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=sporttv5",
         "label": "CH-1"
       },
@@ -170,7 +206,12 @@
     "match_date": "2025-10-11",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-US"
+      }
+    ]
   },
   {
     "id": "WorldCupQualification-NorthernIreland-Slovakia",
@@ -189,6 +230,10 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-GB"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
@@ -212,6 +257,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=43",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd8",
         "label": "CH-1"
@@ -740,6 +797,311 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=160",
         "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Lesotho-Nigéria",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Lesotho",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lesotho.png"
+    },
+    "team2": {
+      "name": "Nigéria",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nigeria.png"
+    },
+    "kickoff_date": "2025-10-10",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-10",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Rwanda-Benin",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Rwanda",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rwanda.png"
+    },
+    "team2": {
+      "name": "Benin",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/benin.png"
+    },
+    "kickoff_date": "2025-10-10",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-10",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-SaoTomé-et-Principe-Tunisie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Sao Tomé-et-Principe",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sao-tome-and-principe.png"
+    },
+    "team2": {
+      "name": "Tunisia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tunisia.png"
+    },
+    "kickoff_date": "2025-10-10",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-10",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=166",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Zimbabwe-AfriqueduSud",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Zimbabwe",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/zimbabwe.png"
+    },
+    "team2": {
+      "name": "South Africa",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/south-africa.png"
+    },
+    "kickoff_date": "2025-10-10",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-10",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=167",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Barcelone-Valence",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "01:30",
+    "match_date": "2025-10-11",
+    "match_time": "01:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Suriname-Guatemala",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Suriname",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/suriname.png"
+    },
+    "team2": {
+      "name": "Guatemala",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/guatemala.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "04:00",
+    "match_date": "2025-10-11",
+    "match_time": "03:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Chili-Pérou",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Chile",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chile.png"
+    },
+    "team2": {
+      "name": "Peru",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/peru.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "06:00",
+    "match_date": "2025-10-11",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=171",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=173",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Curaçao-Jamaique",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Curacao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/curacao.png"
+    },
+    "team2": {
+      "name": "Jamaica",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/jamaica.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "06:00",
+    "match_date": "2025-10-11",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Canada-Australie",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Canada",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/canada.png"
+    },
+    "team2": {
+      "name": "Australie",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/australia.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "06:30",
+    "match_date": "2025-10-11",
+    "match_time": "06:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=174",
+        "label": "CH-CA"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Argentine-Venezuela",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Argentina",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/argentina.png"
+    },
+    "team2": {
+      "name": "Venezuela",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/venezuela.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "07:00",
+    "match_date": "2025-10-11",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=175",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-USA-Equateur",
+    "league": "Friendly International",
+    "team1": {
+      "name": "USA",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/usa.png"
+    },
+    "team2": {
+      "name": "Ecuador",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ecuador.png"
+    },
+    "kickoff_date": "2025-10-11",
+    "kickoff_time": "07:30",
+    "match_date": "2025-10-11",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=176",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-2"
       }
     ]
   },
