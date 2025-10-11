@@ -15,14 +15,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=44",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=115",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd10",
         "label": "CH-1"
       }
@@ -43,18 +35,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=43",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
@@ -79,24 +59,7 @@
     "match_date": "2025-10-12",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=41",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=113",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "WorldCupQualification-Serbia-Albania",
@@ -113,10 +76,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd8",
         "label": "CH-1"
@@ -138,18 +97,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=42",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=50",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
@@ -872,27 +819,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br4",
         "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Qualif.CmEurope-MultiplexCoupeduMonde2026",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Multiplex World Cup 2026"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-10-12",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-12",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=19",
-        "label": "CH-FR"
       }
     ]
   },
