@@ -402,14 +402,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv3",
         "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-PT"
       }
     ]
   },
@@ -692,6 +684,14 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=sport1baltic",
+        "label": "CH-LT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=espn2nl",
+        "label": "CH-NL"
       }
     ]
   },
@@ -1837,150 +1837,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdadmJtSmxkRjlqWTNSZlpHOTBZVEltY0dGeVpXNTBQV1JsYlc4dWFXNXdiR0Y1Ym1WMExtTnZiUT09",
         "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-Saudi-Arabia",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Indonesia",
-      "logo": "https://static.flashscore.com/res/image/data/WvrcHkXg-QBz8eAFI.png"
-    },
-    "team2": {
-      "name": "Saudi Arabia",
-      "logo": "https://static.flashscore.com/res/image/data/G6x4A5zB-KtpTLRpL.png"
-    },
-    "kickoff_date": "2025-10-09",
-    "kickoff_time": "00:15",
-    "match_date": "2025-10-09",
-    "match_time": "00:05",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=sport1baltic",
-        "label": "CH-LT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2nl",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9kNy5tZXJpY2h1bmlkeWEuY29tOjE2ODYvaGxzL2RvMTkubTN1OD9tZDU9QU9Kc0VnVV9kUjRSUWx5Ukp2WTlMUSZleHBpcmVzPTE3NTk5NDc0OTg=",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly8wNTJkMzNiNGI1MDZmZjA1MTc3NWRhMTQ5YzU4NDhlYi52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlL2Q5ZjlkYzVkZTAyMDE1Mzk0YzRiNGZmNzQ3YTBjZDNmLm0zdTg/dHhTZWNyZXQ9OTRmMjQ0NDUyNGUxZTFhNTZlMzZlMmVhMDBmNDNhYzUmdHhUaW1lPTY4ZTY5YjQz",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Malta-Netherlands",
-    "league": "World Cup - Qualification",
-    "team1": {
-      "name": "Malta",
-      "logo": "https://static.flashscore.com/res/image/data/ptmWE4Ea-zXtZbqMA.png"
-    },
-    "team2": {
-      "name": "Netherlands",
-      "logo": "https://static.flashscore.com/res/image/data/bieizLjl-fazrR153.png"
-    },
-    "kickoff_date": "2025-10-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-10",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=sport2cz",
-        "label": "CH-CZ"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn1arg",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-PT"
-      }
-    ]
-  },
-  {
-    "id": "Czech-Republic-Croatia",
-    "league": "World Cup - Qualification",
-    "team1": {
-      "name": "Czech Republic",
-      "logo": "https://static.flashscore.com/res/image/data/UH0CqZdM-b1xaMyVe.png"
-    },
-    "team2": {
-      "name": "Croatia",
-      "logo": "https://static.flashscore.com/res/image/data/KMZkYbwS-zXtZbqMA.png"
-    },
-    "kickoff_date": "2025-10-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-10",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ctsport",
-        "label": "CH-CZ"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br1",
-        "label": "CH-PT"
-      }
-    ]
-  },
-  {
-    "id": "Belarus-Denmark",
-    "league": "World Cup - Qualification",
-    "team1": {
-      "name": "Belarus",
-      "logo": "https://static.flashscore.com/res/image/data/2aje2RfM-Cfuwb3yH.png"
-    },
-    "team2": {
-      "name": "Denmark",
-      "logo": "https://static.flashscore.com/res/image/data/d8MRvRBr-2kmuAQ93.png"
-    },
-    "kickoff_date": "2025-10-10",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-10",
-    "match_time": "01:35",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv4",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-PT"
       }
     ]
   }
