@@ -107,6 +107,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
       },
@@ -142,6 +150,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd11",
         "label": "CH-1"
       },
@@ -168,6 +180,22 @@
     "match_time": "22:50",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd10",
         "label": "CH-1"
@@ -208,6 +236,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
       },
@@ -238,6 +274,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=41",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd11",
         "label": "CH-1"
@@ -270,6 +318,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=42",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
@@ -301,6 +357,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd10",
         "label": "CH-1"
       },
@@ -327,6 +387,14 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
@@ -839,24 +907,143 @@
     ]
   },
   {
-    "id": "MLS-LosAngelesGalaxy-FCDallas",
-    "league": "USA - MLS",
+    "id": "Qualif.CmAfrique-BurkinaFaso-Ethiopie",
+    "league": "World Cup Qualification",
     "team1": {
-      "name": "Los Angeles Galaxy",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-galaxy.png"
+      "name": "Burkina Faso",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/burkina-faso.png"
     },
     "team2": {
-      "name": "FC Dallas",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-dallas.png"
+      "name": "Ethiopie",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ethiopia.png"
     },
-    "kickoff_date": "2025-10-12",
-    "kickoff_time": "09:30",
-    "match_date": "2025-10-12",
-    "match_time": "09:20",
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-13",
+    "match_time": "01:50",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=164",
+        "url": "https://multi.govoet.my.id/?envivo=192",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Djibouti-SierraLeone",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Djibouti",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/djibouti.png"
+    },
+    "team2": {
+      "name": "Sierra Leone",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sierra-leone.png"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-13",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=193",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Egypte-Guinée-Bissau",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Egypt",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/egypt.png"
+    },
+    "team2": {
+      "name": "Guinea Bissau",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/guinea-bissau.png"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-13",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=194",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Ghana-Comores",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Ghana",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ghana.png"
+    },
+    "team2": {
+      "name": "Comoros",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/comoros.png"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-13",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=43",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Mali-Madagascar",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Mali",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mali.png"
+    },
+    "team2": {
+      "name": "Madagascar",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/madagascar.png"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-13",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=44",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "MLS-AustinFC-LosAngelesFC",
+    "league": "USA - MLS",
+    "team1": {
+      "name": "Austin FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/austin-fc.png"
+    },
+    "team2": {
+      "name": "Los Angeles FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-fc.png"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "06:00",
+    "match_date": "2025-10-13",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
         "label": "CH-US"
       }
     ]
