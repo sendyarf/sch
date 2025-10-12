@@ -494,72 +494,6 @@
     ]
   },
   {
-    "id": "CoupeDuMondeU20-USA-20-Maroc-20",
-    "league": "Coupe Du Monde U20",
-    "team1": {
-      "name": "USA -20"
-    },
-    "team2": {
-      "name": "Maroc -20"
-    },
-    "kickoff_date": "2025-10-13",
-    "kickoff_time": "03:00",
-    "match_date": "2025-10-13",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=170",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=171",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NFL-LasVegasRaiders-TennesseeTitans",
-    "league": "NFL",
-    "team1": {
-      "name": "Las Vegas Raiders"
-    },
-    "team2": {
-      "name": "Tennessee Titans"
-    },
-    "kickoff_date": "2025-10-13",
-    "kickoff_time": "03:05",
-    "match_date": "2025-10-13",
-    "match_time": "02:55",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=167",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=102",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=79",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "NFL-GreenBayPackers-CincinnatiBengals",
     "league": "NFL",
     "team1": {
@@ -656,10 +590,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBd05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       }
     ]
   },
@@ -769,6 +699,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=160",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RneE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
@@ -953,6 +887,27 @@
     ]
   },
   {
+    "id": "53576540",
+    "league": "Brazil - Serie B",
+    "team1": {
+      "name": "Cuiaba EC MT"
+    },
+    "team2": {
+      "name": "Coritiba PR"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RjM01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "53576539",
     "league": "Brazil - Serie B",
     "team1": {
@@ -974,13 +929,13 @@
     ]
   },
   {
-    "id": "54963065",
-    "league": "USA - National Women's Soccer League",
+    "id": "54426520",
+    "league": "Peru - Primera Division, Clausura",
     "team1": {
-      "name": "Angel City FC"
+      "name": "Cusco FC"
     },
     "team2": {
-      "name": "Houston Dash W."
+      "name": "Comerciantes Unidos"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -989,7 +944,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBek15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBeU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53935890",
+    "league": "USA - USL Super League, Women",
+    "team1": {
+      "name": "Spokane Zephyr FC"
+    },
+    "team2": {
+      "name": "Dallas Trinity FC"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBek5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1016,13 +992,13 @@
     ]
   },
   {
-    "id": "53576487",
-    "league": "Brazil - Serie B",
+    "id": "54426500",
+    "league": "Paraguay - Primera Division, Clausura",
     "team1": {
-      "name": "Vila Nova FC GO"
+      "name": "Nacional Asuncion"
     },
     "team2": {
-      "name": "Amazonas FC AM"
+      "name": "Sportivo Luqueno"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1031,19 +1007,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RjMk5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpjd05pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55018241",
-    "league": "Panama - Liga Panamena de Futbol, Clausura",
+    "id": "55026163",
+    "league": "Jamaica - Premier League",
     "team1": {
-      "name": "Herrera FC"
+      "name": "Cavaliers"
     },
     "team2": {
-      "name": "Veraguas United FC"
+      "name": "Portmore United FC"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1052,7 +1028,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBMk5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1142,13 +1118,13 @@
     ]
   },
   {
-    "id": "55175598",
+    "id": "55175612",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Kotwica, Dawid"
+      "name": "Ogon, Rafal"
     },
     "team2": {
-      "name": "Blocho, Przemyslaw"
+      "name": "Urban, Wojciech"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1157,19 +1133,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TURNNU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TURZMU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55175600",
+    "id": "55175607",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Domin, Maciej"
+      "name": "Kotwica, Dawid"
     },
     "team2": {
-      "name": "Kapik, Krzysztof"
+      "name": "Linek, Adam"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1178,10 +1154,26 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TURNNE1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TURRd01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
+  },
+  {
+    "id": "54982036",
+    "league": "Unknown League",
+    "team1": {
+      "name": "Unknown Team"
+    },
+    "team2": {
+      "name": "Unknown Team"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": []
   },
   {
     "id": "55163021",
@@ -1203,22 +1195,6 @@
         "label": "CH-NA"
       }
     ]
-  },
-  {
-    "id": "54982036",
-    "league": "Unknown League",
-    "team1": {
-      "name": "Unknown Team"
-    },
-    "team2": {
-      "name": "Unknown Team"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": []
   },
   {
     "id": "WorldCupQualification-Iraq-Indonesia",
