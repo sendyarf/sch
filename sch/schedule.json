@@ -79,6 +79,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=24",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
       },
@@ -110,7 +118,12 @@
     "match_date": "2025-10-14",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "WorldCupQualification-NorthernIreland-Germany",
@@ -127,6 +140,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=43",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
@@ -159,7 +184,12 @@
     "match_date": "2025-10-14",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=115",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "WorldCupQualification-Slovenia-Switzerland",
@@ -176,6 +206,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=117",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=118",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd11",
         "label": "CH-1"
@@ -202,6 +244,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=44",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=119",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd9",
         "label": "CH-1"
       }
@@ -223,6 +273,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=sporttv4",
         "label": "CH-1"
       }
@@ -243,6 +297,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
@@ -494,55 +560,598 @@
     ]
   },
   {
-    "id": "55001172",
-    "league": "Portugal - U23 Championship, 1st Phase, Serie B",
+    "id": "AmicalInternational-Ouzbekistan-Uruguay",
+    "league": "Friendly International",
     "team1": {
-      "name": "Sc Farense U23"
+      "name": "Ouzbekistan"
     },
     "team2": {
-      "name": "Benfica U23"
+      "name": "Uruguay"
     },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "19:45",
+    "match_date": "2025-10-13",
+    "match_time": "19:35",
+    "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBek1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
+        "url": "https://multi.govoet.my.id/?envivo=157",
+        "label": "CH-ES"
       }
     ]
   },
   {
-    "id": "55308181",
-    "league": "India - Bangalore Super Division",
+    "id": "Qualif.CmAfrique-GuinéeÉquatoriale-Libéria",
+    "league": "World Cup Qualification",
     "team1": {
-      "name": "Hal"
+      "name": "Equatoriale Guinea"
     },
     "team2": {
-      "name": "Meg & Centre FC"
+      "name": "Liberia"
     },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-13",
+    "match_time": "19:50",
+    "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRNd01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
       }
     ]
   },
   {
-    "id": "55219702",
+    "id": "Qualif.CmAfrique-SaoTomé-et-Principe-Malawi",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Sao Tomé-et-Principe"
+    },
+    "team2": {
+      "name": "Malawi"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-13",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=171",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-SoudanduSud-Togo",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "South Sudan"
+    },
+    "team2": {
+      "name": "Togo"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-13",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=172",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Tunisie-Namibie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Tunisia"
+    },
+    "team2": {
+      "name": "Namibia"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-13",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=173",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Cameroun-Angola",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Cameroon"
+    },
+    "team2": {
+      "name": "Angola"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-13",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=41",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Cap-Vert-Eswatini",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Cape Verde"
+    },
+    "team2": {
+      "name": "Eswatini"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-13",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=42",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Lesotho-Zimbabwe",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Lesotho"
+    },
+    "team2": {
+      "name": "Zimbabwe"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-13",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=174",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Maurice-Libye",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Mauritius"
+    },
+    "team2": {
+      "name": "Libya"
+    },
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-13",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=175",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-Cajamarca-Cienciano",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Cajamarca"
+    },
+    "team2": {
+      "name": "Cienciano"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "01:00",
+    "match_date": "2025-10-14",
+    "match_time": "00:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Cordoba-CulturalLeonesa",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Cordoba"
+    },
+    "team2": {
+      "name": "Cultural Leonesa"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "01:30",
+    "match_date": "2025-10-14",
+    "match_time": "01:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoItaúChile-U.DeChile-Palestino",
+    "league": "Campeonato Itaú Chile",
+    "team1": {
+      "name": "U. De Chile"
+    },
+    "team2": {
+      "name": "Palestino"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-14",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Liga1TeApuesto-JuanPabloII-DeportivoGarcilaso",
+    "league": "Liga 1 Te Apuesto",
+    "team1": {
+      "name": "Juan Pablo II"
+    },
+    "team2": {
+      "name": "Deportivo Garcilaso"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "03:15",
+    "match_date": "2025-10-14",
+    "match_time": "03:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=84",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Platense-Dep.Riestra",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Platense"
+    },
+    "team2": {
+      "name": "Dep. Riestra"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "04:30",
+    "match_date": "2025-10-14",
+    "match_time": "04:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NBA-AtlantaHawks-MiamiHeat",
+    "league": "NBA",
+    "team1": {
+      "name": "Atlanta Hawks"
+    },
+    "team2": {
+      "name": "Miami Heat"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "05:00",
+    "match_date": "2025-10-14",
+    "match_time": "04:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-OnceCaldas-Ind.Medellin",
+    "league": "Colombia: Primera A",
+    "team1": {
+      "name": "Once Caldas"
+    },
+    "team2": {
+      "name": "Ind. Medellin"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "05:15",
+    "match_date": "2025-10-14",
+    "match_time": "05:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "CopaEcuador-Ind.delValle-U.Catolica",
+    "league": "Copa Ecuador",
+    "team1": {
+      "name": "Ind. del Valle"
+    },
+    "team2": {
+      "name": "U. Catolica"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "06:00",
+    "match_date": "2025-10-14",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NBA-IndianaPacers-SanAntonioSpurs",
+    "league": "NBA",
+    "team1": {
+      "name": "Indiana Pacers"
+    },
+    "team2": {
+      "name": "San Antonio Spurs"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "06:00",
+    "match_date": "2025-10-14",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NFL-AtlantaFalcons-BuffaloBills",
+    "league": "NFL",
+    "team1": {
+      "name": "Atlanta Falcons"
+    },
+    "team2": {
+      "name": "Buffalo Bills"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "06:15",
+    "match_date": "2025-10-14",
+    "match_time": "06:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewYorkKnicks-WashingtonWizards",
+    "league": "NBA",
+    "team1": {
+      "name": "New York Knicks"
+    },
+    "team2": {
+      "name": "Washington Wizards"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "06:30",
+    "match_date": "2025-10-14",
+    "match_time": "06:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Honduras-Haïti",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Honduras"
+    },
+    "team2": {
+      "name": "Haiti"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "07:00",
+    "match_date": "2025-10-14",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "NFL-WashingtonCommanders-ChicagoBears",
+    "league": "NFL",
+    "team1": {
+      "name": "Washington Commanders"
+    },
+    "team2": {
+      "name": "Chicago Bears"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "07:15",
+    "match_date": "2025-10-14",
+    "match_time": "07:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=89",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=99",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaBetplayDimayor-Fortaleza-Chico",
+    "league": "Colombia: Primera A",
+    "team1": {
+      "name": "Fortaleza"
+    },
+    "team2": {
+      "name": "Chico"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "07:30",
+    "match_date": "2025-10-14",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NBA-UtahJazz-DallasMavericks",
+    "league": "NBA",
+    "team1": {
+      "name": "Utah Jazz"
+    },
+    "team2": {
+      "name": "Dallas Mavericks"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "08:00",
+    "match_date": "2025-10-14",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-CostaRica-Nicaragua",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Costa Rica"
+    },
+    "team2": {
+      "name": "Nicaragua"
+    },
+    "kickoff_date": "2025-10-14",
+    "kickoff_time": "09:00",
+    "match_date": "2025-10-14",
+    "match_time": "08:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=156",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "55220586",
     "league": "Ukraine - Persha Liga",
     "team1": {
-      "name": "Fc Levy Bereg Kiev"
+      "name": "FC Metalist Kharkiv"
     },
     "team2": {
-      "name": "FC Vorskla Poltava"
+      "name": "FC Nyva Ternopil"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -551,28 +1160,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RneU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "55019939",
-    "league": "Ukraine - Persha Liga",
-    "team1": {
-      "name": "Prykarpattya Ivano-Frankivsk"
-    },
-    "team2": {
-      "name": "Chernomorets"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RneU1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RneU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -599,13 +1187,13 @@
     ]
   },
   {
-    "id": "55302838",
-    "league": "Philippines - MPBL",
+    "id": "55026211",
+    "league": "Portugal - U23 Championship, 1st Phase, Serie B",
     "team1": {
-      "name": "Quezon Huskers"
+      "name": "Santa Clara U23"
     },
     "team2": {
-      "name": "Mindoro Tamaraws"
+      "name": "Estoril Praia U23"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -614,7 +1202,91 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RBMk1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T0RBek1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55219702",
+    "league": "Ukraine - Persha Liga",
+    "team1": {
+      "name": "Fc Levy Bereg Kiev"
+    },
+    "team2": {
+      "name": "FC Vorskla Poltava"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0xT0RneU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55052272",
+    "league": "China - National Basketball Championship, Women",
+    "team1": {
+      "name": "Shaanxi Tianze W."
+    },
+    "team2": {
+      "name": "Beijing Shougang"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRRMk5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55052270",
+    "league": "China - National Basketball Championship, Women",
+    "team1": {
+      "name": "Shandong Sports Lottery W."
+    },
+    "team2": {
+      "name": "Jiangsu Dragons"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRRMk15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55248627",
+    "league": "Russia - Superleague, 1st Division",
+    "team1": {
+      "name": "Barnaul Altayskiy Kray"
+    },
+    "team2": {
+      "name": "Dynamo UFA"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00TXprMk15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -641,27 +1313,6 @@
     ]
   },
   {
-    "id": "55244437",
-    "league": "WTA - Ningbo, China",
-    "team1": {
-      "name": "Sasnovich, Aliaksandra"
-    },
-    "team2": {
-      "name": "Sonmez, Zeynep"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TVRBM055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "55182850",
     "league": "WTA - Ningbo, China",
     "team1": {
@@ -678,48 +1329,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TVRBNE55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "55177901",
-    "league": "WTA - Osaka, Japan, Doubles",
-    "team1": {
-      "name": "Aoyama S / Bucsa C"
-    },
-    "team2": {
-      "name": "Kobori M / Shimizu A"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TVRFME9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "55256523",
-    "league": "Challenger - Olbia, Italy, Qualifying",
-    "team1": {
-      "name": "Kielan, Szymon"
-    },
-    "team2": {
-      "name": "Carboni, Lorenzo"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TURReE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -788,27 +1397,6 @@
     ]
   },
   {
-    "id": "55001247",
-    "league": "Philippines - PVL, Women, Reinforced Conference",
-    "team1": {
-      "name": "Flying Titans W."
-    },
-    "team2": {
-      "name": "HD Spikers W."
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TXpnM05pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "53977026",
     "league": "Russia - MHL",
     "team1": {
@@ -830,13 +1418,13 @@
     ]
   },
   {
-    "id": "55231111",
-    "league": "Vietnam - Premier League, Women",
+    "id": "55178345",
+    "league": "Russia - Women Championship",
     "team1": {
-      "name": "Ninh Binh Doveco W."
+      "name": "Biryusa Krasnoyarsk W."
     },
     "team2": {
-      "name": "Thong Tin Lien W."
+      "name": "Dinamo-Neva St Petersburg W."
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -845,7 +1433,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TVRnME9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpRM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55001247",
+    "league": "Philippines - PVL, Women, Reinforced Conference",
+    "team1": {
+      "name": "Flying Titans W."
+    },
+    "team2": {
+      "name": "HD Spikers W."
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TXpnM05pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -872,13 +1481,55 @@
     ]
   },
   {
-    "id": "55266441",
+    "id": "55253018",
+    "league": "International - Challenger Series",
+    "team1": {
+      "name": "Malik, Yashansh"
+    },
+    "team2": {
+      "name": "Li, Yan Jun"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpVd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55244933",
+    "league": "International - Challenger Series",
+    "team1": {
+      "name": "Kishegyi, Akos"
+    },
+    "team2": {
+      "name": "Henninger, Marius"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpVd09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55266445",
     "league": "International - TT Cup",
     "team1": {
-      "name": "Trefny, Jan"
+      "name": "Sebek, Ondrej"
     },
     "team2": {
-      "name": "Osmera, Jan"
+      "name": "Libovicky, Vladimir"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -887,40 +1538,35 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpJMU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TVRjNE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55266446",
-    "league": "International - TT Cup",
+    "id": "55245194",
+    "league": "Italy - U19 Campionato Nazionale",
     "team1": {
-      "name": "Kosacky, Adam"
+      "name": "Scafatese FC"
     },
     "team2": {
-      "name": "Brozek, Michal"
+      "name": "FC Pompei"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
     "match_date": "live",
     "match_time": "live",
     "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpJeU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
+    "servers": []
   },
   {
-    "id": "55245195",
+    "id": "55245205",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Skorski, Michal"
+      "name": "Krcil, Frantisek"
     },
     "team2": {
-      "name": "Mugowski, Arkadiusz"
+      "name": "Wisniewski, Karol"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -929,19 +1575,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpZd01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpZek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55245206",
+    "id": "55245208",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Mecik, Patryk"
+      "name": "Golebiowski, Mateusz"
     },
     "team2": {
-      "name": "Lebek, Marian"
+      "name": "Felkel, Grzegorz"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -950,19 +1596,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpRMU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TWpZMk5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55061658",
+    "id": "55061666",
     "league": "International - Modus Super Series",
     "team1": {
-      "name": "Owens, Jamie"
+      "name": "Heaver, Jason"
     },
     "team2": {
-      "name": "Heaver, Jason"
+      "name": "Heneghan, Conor"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -971,7 +1617,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00TnpZME55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00TnpZME9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55251670",
+    "league": "Tournaments - European Pro League",
+    "team1": {
+      "name": "MASONIC"
+    },
+    "team2": {
+      "name": "G2 Ares"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWd2JHTnpYM0oxSm5CaGNtVnVkRDFrWlcxdkxtbHVjR3hoZVc1bGRDNWpiMjA9",
         "label": "CH-NA"
       }
     ]
@@ -998,6 +1665,27 @@
     ]
   },
   {
+    "id": "55287040",
+    "league": "Tournaments - CCT",
+    "team1": {
+      "name": "Team Tea"
+    },
+    "team2": {
+      "name": "Inner Circle"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdadmJtSmxkRjlqWTNSZlpHOTBZVEltY0dGeVpXNTBQV1JsYlc4dWFXNXdiR0Y1Ym1WMExtTnZiUT09",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "55118505",
     "league": "Tournaments - Nodwin Clutch Series Qualifiers",
     "team1": {
@@ -1019,37 +1707,30 @@
     ]
   },
   {
-    "id": "WorldCupQualification-Iraq-Indonesia",
-    "league": "World Cup Qualification",
+    "id": "Indonesia-U23-India-U23",
+    "league": "Friendly International",
     "team1": {
-      "name": "Iraq",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/iraq.png"
+      "name": "Indonesia U23",
+      "logo": "https://static.flashscore.com/res/image/data/f5toOQFG-IiA9AZbd.png"
     },
     "team2": {
-      "name": "Indonesia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/indonesia.png"
+      "name": "India U23",
+      "logo": "https://static.flashscore.com/res/image/data/UNSmNXBr-049Lq8a5.png"
     },
-    "kickoff_date": "2025-10-12",
-    "kickoff_time": "02:30",
-    "match_date": "2025-10-12",
-    "match_time": "02:20",
+    "kickoff_date": "2025-10-13",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-13",
+    "match_time": "19:50",
     "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=sport1baltic",
-        "label": "CH-LT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=espn2nl",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly8yYTYwOTZmNTBmZmMwNWM3Yzc3NjZmYmQxMzU4ZmNlNi52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlLzkxNTUwMzQ2NTA5MWM4MzFkNTVlODMzNzJiODM1ZWUzLm0zdTg/dHhTZWNyZXQ9OTViOTUyOWZlNTE2NThmN2IyMTUzMzZlYjQzOTVmYjImdHhUaW1lPTY4ZWFhZjQw",
+        "url": "https://list-govoet.blogspot.com/p/channel1.html",
         "label": "CH-NA"
       },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj11QzB0a29ic1BvUnR5NkVkRXRHRXpQc1BvUnRkUEN0bUwyTk9URWhCTjNFMVRHRkdabkZzYm0xSlIyMHZiMlpITjFGQk1YVk9URTB5WlRSMFlYbEJWMUJQWjIxdWNqSTRkRnB1YldaQlNXRkNWVXA1YVU5WlFWVlNRWFZxVG5OemJFMA==",
-        "label": "CH-NA"
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9zdHJlYW0udGl0YW5saXZlc2NvcmUuY29tL2xpdmUvTFhTQ09SRS0xMDAwMDAwNTYubTN1OA==",
+        "label": "CH-ID"
       }
     ]
   }
