@@ -177,12 +177,7 @@
     "match_date": "2025-10-15",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "WorldCupQualification-Ireland-Armenia",
@@ -200,16 +195,7 @@
     "match_date": "2025-10-15",
     "match_time": "01:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "WorldCupQualification-Italy-Israel",
@@ -228,18 +214,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=44",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
@@ -268,18 +242,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=41",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=130",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
       },
@@ -306,18 +268,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=42",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=113",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
@@ -349,14 +299,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=43",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=60",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
@@ -392,14 +334,6 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=45",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=114",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd8",
         "label": "CH-1"
@@ -446,155 +380,12 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=181",
-        "label": "CH-AS"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd9",
         "label": "CH-1"
       },
       {
         "url": "https://multi.govoet.my.id/?ss=br4",
         "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "Qualif.CmAfrique-Coted'Ivoire-Kenya",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Ivory Coast",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ivory-coast.png"
-    },
-    "team2": {
-      "name": "Kenya",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/kenya.png"
-    },
-    "kickoff_date": "2025-10-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=47",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0yTXpVNU5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Qualif.CmAfrique-Gabon-Burundi",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Gabon",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/gabon.png"
-    },
-    "team2": {
-      "name": "Burundi",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/burundi.png"
-    },
-    "kickoff_date": "2025-10-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=175",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0yTXpZd05pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Qualif.CmAfrique-Maroc-Congo",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Morocco",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/morocco.png"
-    },
-    "team2": {
-      "name": "Congo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/congo.png"
-    },
-    "kickoff_date": "2025-10-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=48",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0yTXpVNU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Qualif.CmAfrique-RDCongo-Soudan",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Congo DR",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dr-congo.png"
-    },
-    "team2": {
-      "name": "Sudan",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sudan.png"
-    },
-    "kickoff_date": "2025-10-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=176",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0yTXpZd05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Qualif.CmAfrique-Sénégal-Mauritanie",
-    "league": "World Cup Qualification",
-    "team1": {
-      "name": "Senegal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/senegal.png"
-    },
-    "team2": {
-      "name": "Mauritania",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mauritania.png"
-    },
-    "kickoff_date": "2025-10-15",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-15",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=46",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek0yTXpVNU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       }
     ]
   },
