@@ -432,6 +432,22 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
       },
@@ -612,6 +628,18 @@
     "match_time": "01:20",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
@@ -1261,6 +1289,64 @@
       {
         "url": "https://multi.govoet.my.id/?ss=eleven2",
         "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Monaco-Valence",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Monaco",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/monaco.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "00:30",
+    "match_date": "2025-10-18",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=64",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-R.Oviedo-Espanyol",
+    "league": "Laliga",
+    "team1": {
+      "name": "R. Oviedo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/r-oviedo.png"
+    },
+    "team2": {
+      "name": "Espanyol",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/espanyol.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-18",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=9",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
       }
     ]
   },
