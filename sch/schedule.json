@@ -229,6 +229,22 @@
     ]
   },
   {
+    "id": "PremierLeague-WestHam-Brentford",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "West Ham"
+    },
+    "team2": {
+      "name": "Brentford"
+    },
+    "kickoff_date": "2025-10-21",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-21",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-Nijmegen-Twente",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -579,6 +595,31 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv2",
         "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Nantes-Lille",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Nantes"
+    },
+    "team2": {
+      "name": "Lille"
+    },
+    "kickoff_date": "2025-10-20",
+    "kickoff_time": "01:45",
+    "match_date": "2025-10-20",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
       }
     ]
   },
@@ -995,6 +1036,55 @@
     ]
   },
   {
+    "id": "SerieA-ACMilan-Fiorentina",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "AC Milan"
+    },
+    "team2": {
+      "name": "Fiorentina"
+    },
+    "kickoff_date": "2025-10-20",
+    "kickoff_time": "01:45",
+    "match_date": "2025-10-20",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Cremonese-Udinese",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Cremonese"
+    },
+    "team2": {
+      "name": "Udinese"
+    },
+    "kickoff_date": "2025-10-21",
+    "kickoff_time": "01:45",
+    "match_date": "2025-10-21",
+    "match_time": "01:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "LaLiga-R.Oviedo-Espanyol",
     "league": "Spain - La Liga",
     "team1": {
@@ -1212,6 +1302,83 @@
         "label": "CH-3"
       }
     ]
+  },
+  {
+    "id": "LaLiga-Getafe-RealMadrid",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Getafe"
+    },
+    "team2": {
+      "name": "Real Madrid"
+    },
+    "kickoff_date": "2025-10-20",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-20",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Alaves-Valencia",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Alaves"
+    },
+    "team2": {
+      "name": "Valencia"
+    },
+    "kickoff_date": "2025-10-21",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-21",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Barcelona-OlympiacosPiraeus",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Barcelona"
+    },
+    "team2": {
+      "name": "Olympiacos Piraeus"
+    },
+    "kickoff_date": "2025-10-21",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-21",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-KairatAlmaty-Pafos",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Kairat Almaty"
+    },
+    "team2": {
+      "name": "Pafos"
+    },
+    "kickoff_date": "2025-10-21",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-21",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Bundesliga2-bundesliga2konferenz",
