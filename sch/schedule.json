@@ -156,14 +156,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=98",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-2"
       }
     ]
   },
@@ -310,14 +302,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=89",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd4",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv3",
-        "label": "CH-2"
       }
     ]
   },
@@ -568,18 +552,6 @@
         "label": "CH-ES"
       },
       {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-3"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
         "label": "CH-EN"
       }
@@ -825,22 +797,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=88",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-4"
       },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
@@ -1330,7 +1286,24 @@
     "match_date": "2025-10-22",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-4"
+      }
+    ]
   },
   {
     "id": "ChampionsLeague-Galatasaray-Bodo/Glimt",
@@ -1346,7 +1319,20 @@
     "match_date": "2025-10-22",
     "match_time": "23:35",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-3"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PSMMakassar-AremaFC",
@@ -1427,90 +1413,6 @@
     "match_time": "15:20",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "CampeonatoItaúChile-LaSerena-Nublense",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "La Serena"
-    },
-    "team2": {
-      "name": "Nublense"
-    },
-    "kickoff_date": "2025-10-19",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-19",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-LosChankas-JuanPabloII",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "Los Chankas"
-    },
-    "team2": {
-      "name": "Juan Pablo II"
-    },
-    "kickoff_date": "2025-10-19",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-19",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Ligue2-Saint-Étienne-LeMans",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Saint-Étienne"
-    },
-    "team2": {
-      "name": "Le Mans"
-    },
-    "kickoff_date": "2025-10-19",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-19",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "SaudiProLeague-Al-Nassr-AlFateh",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al-Nassr"
-    },
-    "team2": {
-      "name": "Al Fateh"
-    },
-    "kickoff_date": "2025-10-19",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-19",
-    "match_time": "00:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=61",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "Bundesliga2-Bochum-HerthaBerlin",
@@ -4185,10 +4087,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF3T0Rrd055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzUucGhw",
-        "label": "CH-EN"
       }
     ]
   },
