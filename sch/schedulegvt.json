@@ -1410,29 +1410,6 @@
     "servers": []
   },
   {
-    "id": "Eredivisie-Nijmegen-Twente",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Nijmegen",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nijmegen.png"
-    },
-    "team2": {
-      "name": "Twente",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/twente.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:30",
-    "match_date": "2025-10-18",
-    "match_time": "21:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=143",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
     "id": "Ligue1-Nice-Lyon",
     "league": "France - Ligue 1",
     "team1": {
@@ -1456,10 +1433,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RZek1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
@@ -1734,6 +1707,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RZek15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
