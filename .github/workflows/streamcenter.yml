@@ -1,43 +1,97 @@
-name: StreamCenter Data Scraper
+name: Run streamcenter.py
 
 on:
   schedule:
-    # Jalankan setiap 6 jam (bisa disesuaikan)
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # Memungkinkan manual trigger
-  push:
-    branches: [ main, master ]
-    paths:
-      - 'streamcenter.py'
-      - '.github/workflows/streamcenter.yml'
+    - cron: '*/30 * * * *'  # Setiap 30 menit
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Jakarta
+  LC_ALL: C.UTF-8
+  LANG: C.UTF-8
 
 jobs:
-  scrape-data:
+  run-streamcenter:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
-    - name: Set up Python
-      uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
-        
-    - name: Install dependencies
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Set WIB Timezone
+      uses: szenius/set-timezone@v2.0
+      with:
+        timezoneLinux: "Asia/Jakarta"
+    
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests pytz
-        
-    - name: Run StreamCenter Scraper
-      run: python streamcenter.py
-      
-    - name: Commit and push if changes
+    
+    - name: Configure Git
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add streamcenter.json
-        git diff --staged --quiet || git commit -m "Update streamcenter data - $(date +'%Y-%m-%d %H:%M:%S')"
-        git push
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@users.noreply.github.com'
+    
+    - name: Run streamcenter.py
+      id: run_script
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TZ: Asia/Jakarta
+      run: |
+        set -e
+        TIMESTAMP=$(TZ='Asia/Jakarta' date +"%Y%m%d_%H%M%S")
+        LOG_FILE="logs/streamcenter_${TIMESTAMP}.log"
+        
+        mkdir -p logs
+        echo "Menjalankan streamcenter.py..."
+        
+        if python streamcenter.py 2>&1 | tee "$LOG_FILE"; then
+          echo "streamcenter.py selesai dengan sukses"
+          echo "SCRIPT_STATUS=success" >> $GITHUB_OUTPUT
+        else
+          echo "Error saat menjalankan streamcenter.py"
+          echo "SCRIPT_STATUS=failed" >> $GITHUB_OUTPUT
+          exit 1
+        fi
+        
+        # Backup file JSON
+        mkdir -p backup_json
+        find . -name "streamcenter.json" -type f -exec cp --parents {} backup_json/ \;
+    
+    - name: Commit and push changes
+      if: steps.run_script.outputs.SCRIPT_STATUS == 'success'
+      run: |
+        git add streamcenter.json
+        COMMIT_MSG="Auto-update: streamcenter.py $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S %Z')"
+        git commit -m "$COMMIT_MSG" --date="$(TZ='Asia/Jakarta' date)" || echo "Tidak ada perubahan yang perlu di-commit"
+        git push || echo "Tidak ada perubahan yang perlu di-push"
+    
+    - name: Upload artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: streamcenter-outputs-${{ github.run_id }}
+        path: |
+          streamcenter.json
+          logs/
+          backup_json/
+        retention-days: 7
+    
+    - name: Notify on failure
+      if: failure()
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const { data } = await github.rest.issues.createComment({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+            body: `❌ streamcenter.py gagal dijalankan (Waktu Jakarta: ${new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })}).\nSilakan periksa log untuk detail lebih lanjut.`
+          })
