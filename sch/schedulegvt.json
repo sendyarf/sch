@@ -1,193 +1,5 @@
 [
   {
-    "id": "PremierLeague-Nottingham-Chelsea",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Nottingham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nottingham.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "18:30",
-    "match_date": "2025-10-18",
-    "match_time": "18:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=usanetwork",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=universow",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo1",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-Brighton-Newcastle",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Brighton",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brighton.png"
-    },
-    "team2": {
-      "name": "Newcastle",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/newcastle.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-18",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Burnley-Leeds",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Burnley",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/burnley.png"
-    },
-    "team2": {
-      "name": "Leeds",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/leeds.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-18",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-CrystalPalace-Bournemouth",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Crystal Palace",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/crystal-palace.png"
-    },
-    "team2": {
-      "name": "Bournemouth",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bournemouth.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-18",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-ManchesterCity-Everton",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Manchester City",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-city.png"
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/everton.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-18",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Sunderland-Wolves",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Sunderland",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sunderland.png"
-    },
-    "team2": {
-      "name": "Wolves",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/wolves.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:00",
-    "match_date": "2025-10-18",
-    "match_time": "20:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Fulham-Arsenal",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fulham.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-18",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RBMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTEucGhw",
-        "label": "CH-AR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=universow",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "PremierLeague-Tottenham-AstonVilla",
     "league": "England - Premier League",
     "team1": {
@@ -321,56 +133,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Eredivisie-Nijmegen-Twente",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Nijmegen",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nijmegen.png"
-    },
-    "team2": {
-      "name": "Twente",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/twente.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:30",
-    "match_date": "2025-10-18",
-    "match_time": "21:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=143",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "Eredivisie-Utrecht-FCVolendam",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "Utrecht",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utrecht.png"
-    },
-    "team2": {
-      "name": "FC Volendam",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-volendam.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-18",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RRME15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       }
     ]
   },
@@ -537,68 +299,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd10",
         "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Nice-Lyon",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Nice",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nice.png"
-    },
-    "team2": {
-      "name": "Lyon",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "22:00",
-    "match_date": "2025-10-18",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RZek1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Angers-Monaco",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Angers",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/angers.png"
-    },
-    "team2": {
-      "name": "Monaco",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/monaco.png"
-    },
-    "kickoff_date": "2025-10-19",
-    "kickoff_time": "00:00",
-    "match_date": "2025-10-18",
-    "match_time": "23:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
       }
     ]
   },
@@ -797,155 +497,6 @@
     ]
   },
   {
-    "id": "Bundesliga-FCKoln-Augsburg",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "FC Koln",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-koln.png"
-    },
-    "team2": {
-      "name": "Augsburg",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/augsburg.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-18",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-Heidenheim-WerderBremen",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Heidenheim",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/heidenheim.png"
-    },
-    "team2": {
-      "name": "Werder Bremen",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/werder-bremen.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-18",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-Mainz-BayerLeverkusen",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Mainz",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mainz.png"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayer-leverkusen.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-18",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-RBLeipzig-HamburgerSV",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "RB Leipzig",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rb-leipzig.png"
-    },
-    "team2": {
-      "name": "Hamburger SV",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hamburger-sv.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-18",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-Wolfsburg-Stuttgart",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Wolfsburg",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/wolfsburg.png"
-    },
-    "team2": {
-      "name": "Stuttgart",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/stuttgart.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:30",
-    "match_date": "2025-10-18",
-    "match_time": "20:20",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "Bundesliga-BayernMunich-Dortmund",
-    "league": "Germany - Bundesliga",
-    "team1": {
-      "name": "Bayern Munich",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
-    },
-    "team2": {
-      "name": "Dortmund",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-18",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RRMU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd3",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-4"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br1",
-        "label": "CH-5"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOC5waHA=",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "Bundesliga-Freiburg-EintrachtFrankfurt",
     "league": "Germany - Bundesliga",
     "team1": {
@@ -1012,93 +563,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "SerieA-Lecce-Sassuolo",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Lecce",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lecce.png"
-    },
-    "team2": {
-      "name": "Sassuolo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sassuolo.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:00",
-    "match_date": "2025-10-18",
-    "match_time": "19:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Pisa-Verona",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Pisa",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/pisa.png"
-    },
-    "team2": {
-      "name": "Verona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "20:00",
-    "match_date": "2025-10-18",
-    "match_time": "19:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Torino-Napoli",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Torino",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/torino.png"
-    },
-    "team2": {
-      "name": "Napoli",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/napoli.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:00",
-    "match_date": "2025-10-18",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RJMk1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
       }
     ]
   },
@@ -1376,110 +840,6 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv1",
         "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Sevilla-Mallorca",
-    "league": "Spain - La Liga",
-    "team1": {
-      "name": "Sevilla",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sevilla.png"
-    },
-    "team2": {
-      "name": "Mallorca",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mallorca.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "19:00",
-    "match_date": "2025-10-18",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "LaLiga-Barcelona-Girona",
-    "league": "Spain - La Liga",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "team2": {
-      "name": "Girona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/girona.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:15",
-    "match_date": "2025-10-18",
-    "match_time": "21:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tv2xdk",
-        "label": "CH-DK"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Villarreal-Betis",
-    "league": "Spain - La Liga",
-    "team1": {
-      "name": "Villarreal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
-    },
-    "team2": {
-      "name": "Betis",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/betis.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-18",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RJME1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
-        "label": "CH-EN"
       }
     ]
   },
@@ -1798,38 +1158,164 @@
     "servers": []
   },
   {
-    "id": "Indonesia-SuperLeague-Borneo-PersikKediri",
-    "league": "Indonesia - Super League",
+    "id": "ChampionsLeague-Arsenal-Atl.Madrid",
+    "league": "UEFA Champions League",
     "team1": {
-      "name": "Borneo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/borneo.png"
+      "name": "Arsenal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
     },
     "team2": {
-      "name": "Persik Kediri",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persik-kediri.png"
+      "name": "Atl. Madrid",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atl-madrid.png"
     },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "15:30",
-    "match_date": "2025-10-18",
-    "match_time": "15:20",
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "Indonesia-SuperLeague-Persebaya-PersijaJakarta",
-    "league": "Indonesia - Super League",
+    "id": "ChampionsLeague-BayerLeverkusen-PSG",
+    "league": "UEFA Champions League",
     "team1": {
-      "name": "Persebaya",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persebaya.png"
+      "name": "Bayer Leverkusen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayer-leverkusen.png"
     },
     "team2": {
-      "name": "Persija Jakarta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persija-jakarta.png"
+      "name": "PSG",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psg.png"
     },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "19:00",
-    "match_date": "2025-10-18",
-    "match_time": "18:50",
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-FCCopenhagen-Dortmund",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "FC Copenhagen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-copenhagen.png"
+    },
+    "team2": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Newcastle-Benfica",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Newcastle",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/newcastle.png"
+    },
+    "team2": {
+      "name": "Benfica",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/benfica.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-PSV-Napoli",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "PSV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
+    },
+    "team2": {
+      "name": "Napoli",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/napoli.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-RoyaleUnionSG-Inter",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Royale Union SG",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/royale-union-sg.png"
+    },
+    "team2": {
+      "name": "Inter",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Villarreal-ManchesterCity",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Villarreal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
+    },
+    "team2": {
+      "name": "Manchester City",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-city.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-22",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-AthBilbao-Qarabag",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Ath Bilbao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
+    },
+    "team2": {
+      "name": "Qarabag",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/qarabag.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-22",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "ChampionsLeague-Galatasaray-Bodo/Glimt",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Galatasaray",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/galatasaray.png"
+    },
+    "team2": {
+      "name": "Bodo/Glimt",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bodoglimt.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-22",
+    "match_time": "23:35",
     "duration": "3.5",
     "servers": []
   },
@@ -1904,6 +1390,352 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PSIMYogyakarta-DewaUnited",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "PSIM Yogyakarta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psim-yogyakarta.png"
+    },
+    "team2": {
+      "name": "Dewa United",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dewa-united.png"
+    },
+    "kickoff_date": "2025-10-22",
+    "kickoff_time": "15:30",
+    "match_date": "2025-10-22",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Nijmegen-Twente",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Nijmegen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nijmegen.png"
+    },
+    "team2": {
+      "name": "Twente",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/twente.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "21:30",
+    "match_date": "2025-10-18",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=143",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Nice-Lyon",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Nice",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nice.png"
+    },
+    "team2": {
+      "name": "Lyon",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "22:00",
+    "match_date": "2025-10-18",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RZek1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Torino-Naples",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Torino",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/torino.png"
+    },
+    "team2": {
+      "name": "Napoli",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/napoli.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-18",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RJMk1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-BayernMunich-Dortmund",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
+    },
+    "team2": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-18",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RRMU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br1",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOC5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Laliga-Villarreal-Betis",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Villarreal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/villarreal.png"
+    },
+    "team2": {
+      "name": "Betis",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/betis.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-18",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RJME1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Fulham-Arsenal",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Fulham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fulham.png"
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-18",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RBMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTEucGhw",
+        "label": "CH-AR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=universow",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Utrecht-FCVolendam",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Utrecht",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utrecht.png"
+    },
+    "team2": {
+      "name": "FC Volendam",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-volendam.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-18",
+    "match_time": "23:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek00T1RRME15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Angers-Monaco",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Angers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/angers.png"
+    },
+    "team2": {
+      "name": "Monaco",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/monaco.png"
+    },
+    "kickoff_date": "2025-10-19",
+    "kickoff_time": "00:00",
+    "match_date": "2025-10-18",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=21",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      }
+    ]
   },
   {
     "id": "MLS-AtlantaUtd-DCUnited",
@@ -2232,6 +2064,68 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=174",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Nottingham-Chelsea",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Nottingham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nottingham.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "18:30",
+    "match_date": "2025-10-18",
+    "match_time": "18:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=usanetwork",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=universow",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=fubo1",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Barcelona-Girona",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "team2": {
+      "name": "Girona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/girona.png"
+    },
+    "kickoff_date": "2025-10-18",
+    "kickoff_time": "21:15",
+    "match_date": "2025-10-18",
+    "match_time": "21:05",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tv2xdk",
+        "label": "CH-DK"
       }
     ]
   }
