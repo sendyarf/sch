@@ -114,6 +114,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTEucGhw",
         "label": "CH-AR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=usanetwork",
+        "label": "CH-3"
       }
     ]
   },
@@ -1343,7 +1347,12 @@
     "match_date": "2025-10-19",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80ODQ4NDUubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersijapJepara-BaliUnited",
@@ -2859,27 +2868,6 @@
     ]
   },
   {
-    "id": "54648591",
-    "league": "Mexico - Liga Mx, Apertura",
-    "team1": {
-      "name": "Cruz Azul"
-    },
-    "team2": {
-      "name": "CF America"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF4T1RZeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "50014428",
     "league": "Japan - J.League 2",
     "team1": {
@@ -2922,6 +2910,69 @@
     ]
   },
   {
+    "id": "54648591",
+    "league": "Mexico - Liga Mx, Apertura",
+    "team1": {
+      "name": "Cruz Azul"
+    },
+    "team2": {
+      "name": "CF America"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF4T1RZeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "50014430",
+    "league": "Japan - J.League 2",
+    "team1": {
+      "name": "Oita Trinita"
+    },
+    "team2": {
+      "name": "Vegalta Sendai"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TURZeE55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "50014449",
+    "league": "Japan - J.League 2",
+    "team1": {
+      "name": "Montedio Yamagata"
+    },
+    "team2": {
+      "name": "Roasso Kumamoto"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TURZeE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "55441790",
     "league": "Japan - J-League 3",
     "team1": {
@@ -2938,6 +2989,132 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TURZeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52858464",
+    "league": "South Korea - K-League 2",
+    "team1": {
+      "name": "Ansan Greeners FC"
+    },
+    "team2": {
+      "name": "Incheon United"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRreU1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52858482",
+    "league": "South Korea - K-League 2",
+    "team1": {
+      "name": "Seoul E-Land"
+    },
+    "team2": {
+      "name": "Busan I Park"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRrek1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52858484",
+    "league": "South Korea - K-League 2",
+    "team1": {
+      "name": "Chungnam Asan"
+    },
+    "team2": {
+      "name": "Gimpo Citizen"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRreU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "52858483",
+    "league": "South Korea - K-League 2",
+    "team1": {
+      "name": "Gyeongnam"
+    },
+    "team2": {
+      "name": "Seongnam FC"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNek01TkRreU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55471579",
+    "league": "South Korea - K3 League",
+    "team1": {
+      "name": "Jeonbuk FC II"
+    },
+    "team2": {
+      "name": "Yeoju Citizen FC"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TURZd01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55670971",
+    "league": "South Korea - K4 League",
+    "team1": {
+      "name": "Daegu FC II"
+    },
+    "team2": {
+      "name": "Namyangju FC"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TkRBNE5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -2985,13 +3162,13 @@
     ]
   },
   {
-    "id": "55653858",
-    "league": "WTA - Tokyo, Japan, Qualification",
+    "id": "50014427",
+    "league": "South Korea - KBL",
     "team1": {
-      "name": "Birrell, Kimberly"
+      "name": "Anyang Kgc"
     },
     "team2": {
-      "name": "Boulter, Katie"
+      "name": "Mobis Phoebus"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -3000,19 +3177,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TXpBd01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TWpZek1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "54992880",
-    "league": "USA - AHL",
+    "id": "50014444",
+    "league": "South Korea - KBL",
     "team1": {
-      "name": "Tucson Roadrunners"
+      "name": "Goyang Orions"
     },
     "team2": {
-      "name": "Calgary Wranglers"
+      "name": "Kcc Egis"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -3021,28 +3198,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF4T1RVd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54992879",
-    "league": "USA - AHL",
-    "team1": {
-      "name": "Bakersfield Condors"
-    },
-    "team2": {
-      "name": "San Jose Barracuda"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF4T1RVd09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TWpZek15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -3094,27 +3250,6 @@
     ]
   },
   {
-    "id": "55661189",
-    "league": "International - Malaysia Super 100 2025, XD",
-    "team1": {
-      "name": "Watanabe Y / Taguchi M"
-    },
-    "team2": {
-      "name": "Ferdinansyah D / Wardana B A"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TkRNMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "55129769",
     "league": "USA - College",
     "team1": {
@@ -3140,13 +3275,13 @@
     ]
   },
   {
-    "id": "55664103",
+    "id": "55664125",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Glanowski, Jakub"
+      "name": "Pisarczyk, Tomasz"
     },
     "team2": {
-      "name": "Zochniak, Jakub"
+      "name": "Zwolinski, Mariusz"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -3155,19 +3290,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TkRVek55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TkRVd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55609018",
+    "id": "55664108",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Adach, Rafal"
+      "name": "Kolodziej, Krystian"
     },
     "team2": {
-      "name": "Szostok, Sebastian"
+      "name": "Czerwinski, Bartosz"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -3176,7 +3311,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TWpRMk9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TkRVeU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -3220,89 +3355,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWd2JHUnZkR0ZmY25VeEpuQmhjbVZ1ZEQxa1pXMXZMbWx1Y0d4aGVXNWxkQzVqYjIwPQ==",
         "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-Nottingham-Chelsea",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Nottingham"
-    },
-    "team2": {
-      "name": "Chelsea"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "18:30",
-    "match_date": "2025-10-18",
-    "match_time": "18:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=usanetwork",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=universow",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo1",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Barcelona-Girona",
-    "league": "Spain - La Liga",
-    "team1": {
-      "name": "Barcelona"
-    },
-    "team2": {
-      "name": "Girona"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:15",
-    "match_date": "2025-10-18",
-    "match_time": "21:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tv2xdk",
-        "label": "CH-DK"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-Fulham-Arsenal",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Fulham"
-    },
-    "team2": {
-      "name": "Arsenal"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-18",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=universow",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-ES"
       }
     ]
   }

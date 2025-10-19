@@ -118,6 +118,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTEucGhw",
         "label": "CH-AR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=usanetwork",
+        "label": "CH-3"
       }
     ]
   },
@@ -1427,7 +1431,12 @@
     "match_date": "2025-10-19",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80ODQ4NDUubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersijapJepara-BaliUnited",
@@ -1500,94 +1509,5 @@
     "match_time": "15:20",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "PremierLeague-Nottingham-Chelsea",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Nottingham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nottingham.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "18:30",
-    "match_date": "2025-10-18",
-    "match_time": "18:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=usanetwork",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=universow",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo1",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LaLiga-Barcelona-Girona",
-    "league": "Spain - La Liga",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "team2": {
-      "name": "Girona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/girona.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "21:15",
-    "match_date": "2025-10-18",
-    "match_time": "21:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tv2xdk",
-        "label": "CH-DK"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-Fulham-Arsenal",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Fulham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fulham.png"
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
-    },
-    "kickoff_date": "2025-10-18",
-    "kickoff_time": "23:30",
-    "match_date": "2025-10-18",
-    "match_time": "23:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=universow",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-ES"
-      }
-    ]
   }
 ]
