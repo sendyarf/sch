@@ -1,81 +1,385 @@
 [
   {
-    "id": "PremierLeague-WestHam-Brentford",
+    "id": "PremierLeague-Leeds-WestHam",
     "league": "Premier League",
     "team1": {
-      "name": "West Ham"
+      "name": "Leeds"
     },
     "team2": {
-      "name": "Brentford"
+      "name": "West Ham"
     },
-    "kickoff_date": "2025-10-21",
+    "kickoff_date": "2025-10-25",
     "kickoff_time": "02:00",
-    "match_date": "2025-10-21",
+    "match_date": "2025-10-25",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "SerieA-Cremonese-Udinese",
-    "league": "Serie A",
+    "id": "PremierLeague-Chelsea-Sunderland",
+    "league": "Premier League",
     "team1": {
-      "name": "Cremonese"
+      "name": "Chelsea"
     },
     "team2": {
-      "name": "Udinese"
+      "name": "Sunderland"
     },
-    "kickoff_date": "2025-10-21",
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "21:00",
+    "match_date": "2025-10-25",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Newcastle-Fulham",
+    "league": "Premier League",
+    "team1": {
+      "name": "Newcastle"
+    },
+    "team2": {
+      "name": "Fulham"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "21:00",
+    "match_date": "2025-10-25",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-ManchesterUtd-Brighton",
+    "league": "Premier League",
+    "team1": {
+      "name": "Manchester Utd"
+    },
+    "team2": {
+      "name": "Brighton"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Heerenveen-NACBreda",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Heerenveen"
+    },
+    "team2": {
+      "name": "NAC Breda"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "01:00",
+    "match_date": "2025-10-25",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Sittard-Groningen",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Sittard"
+    },
+    "team2": {
+      "name": "Groningen"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "21:30",
+    "match_date": "2025-10-25",
+    "match_time": "21:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-SpartaRotterdam-Telstar",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "Sparta Rotterdam"
+    },
+    "team2": {
+      "name": "Telstar"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "23:45",
+    "match_date": "2025-10-25",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-ParisFC-Nantes",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Paris FC"
+    },
+    "team2": {
+      "name": "Nantes"
+    },
+    "kickoff_date": "2025-10-25",
     "kickoff_time": "01:45",
-    "match_date": "2025-10-21",
+    "match_date": "2025-10-25",
     "match_time": "01:45",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "LaLiga-Alaves-Valencia",
-    "league": "LaLiga",
+    "id": "Ligue1-Brest-PSG",
+    "league": "Ligue 1",
     "team1": {
-      "name": "Alaves"
+      "name": "Brest"
     },
     "team2": {
-      "name": "Valencia"
+      "name": "PSG"
     },
-    "kickoff_date": "2025-10-21",
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "22:00",
+    "match_date": "2025-10-25",
+    "match_time": "22:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-WerderBremen-UnionBerlin",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Werder Bremen"
+    },
+    "team2": {
+      "name": "Union Berlin"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "01:30",
+    "match_date": "2025-10-25",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Augsburg-RBLeipzig",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Augsburg"
+    },
+    "team2": {
+      "name": "RB Leipzig"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:30",
+    "match_date": "2025-10-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-B.Monchengladbach-BayernMunich",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "B. Monchengladbach"
+    },
+    "team2": {
+      "name": "Bayern Munich"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:30",
+    "match_date": "2025-10-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-EintrachtFrankfurt-St.Pauli",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Eintracht Frankfurt"
+    },
+    "team2": {
+      "name": "St. Pauli"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:30",
+    "match_date": "2025-10-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-HamburgerSV-Wolfsburg",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Hamburger SV"
+    },
+    "team2": {
+      "name": "Wolfsburg"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:30",
+    "match_date": "2025-10-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Hoffenheim-Heidenheim",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Hoffenheim"
+    },
+    "team2": {
+      "name": "Heidenheim"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:30",
+    "match_date": "2025-10-25",
+    "match_time": "20:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Dortmund-FCKoln",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Dortmund"
+    },
+    "team2": {
+      "name": "FC Koln"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-25",
+    "match_time": "23:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-ACMilan-Pisa",
+    "league": "Serie A",
+    "team1": {
+      "name": "AC Milan"
+    },
+    "team2": {
+      "name": "Pisa"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "01:45",
+    "match_date": "2025-10-25",
+    "match_time": "01:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Parma-Como",
+    "league": "Serie A",
+    "team1": {
+      "name": "Parma"
+    },
+    "team2": {
+      "name": "Como"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-25",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Udinese-Lecce",
+    "league": "Serie A",
+    "team1": {
+      "name": "Udinese"
+    },
+    "team2": {
+      "name": "Lecce"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "20:00",
+    "match_date": "2025-10-25",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Napoli-Inter",
+    "league": "Serie A",
+    "team1": {
+      "name": "Napoli"
+    },
+    "team2": {
+      "name": "Inter"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "23:00",
+    "match_date": "2025-10-25",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-RealSociedad-Sevilla",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Real Sociedad"
+    },
+    "team2": {
+      "name": "Sevilla"
+    },
+    "kickoff_date": "2025-10-25",
     "kickoff_time": "02:00",
-    "match_date": "2025-10-21",
+    "match_date": "2025-10-25",
     "match_time": "02:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ChampionsLeague-Barcelona-OlympiacosPiraeus",
-    "league": "Champions League",
+    "id": "LaLiga-Girona-R.Oviedo",
+    "league": "LaLiga",
     "team1": {
-      "name": "Barcelona"
+      "name": "Girona"
     },
     "team2": {
-      "name": "Olympiacos Piraeus"
+      "name": "R. Oviedo"
     },
-    "kickoff_date": "2025-10-21",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-21",
-    "match_time": "23:45",
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "19:00",
+    "match_date": "2025-10-25",
+    "match_time": "19:00",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ChampionsLeague-KairatAlmaty-Pafos",
-    "league": "Champions League",
+    "id": "LaLiga-Espanyol-Elche",
+    "league": "LaLiga",
     "team1": {
-      "name": "Kairat Almaty"
+      "name": "Espanyol"
     },
     "team2": {
-      "name": "Pafos"
+      "name": "Elche"
     },
-    "kickoff_date": "2025-10-21",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-21",
-    "match_time": "23:45",
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "21:15",
+    "match_date": "2025-10-25",
+    "match_time": "21:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-AthBilbao-Getafe",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Ath Bilbao"
+    },
+    "team2": {
+      "name": "Getafe"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "23:30",
+    "match_date": "2025-10-25",
+    "match_time": "23:30",
     "duration": "3.5",
     "servers": []
   },
@@ -379,6 +683,38 @@
     "kickoff_date": "2025-10-24",
     "kickoff_time": "19:00",
     "match_date": "2025-10-24",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PersikKediri-PSMMakassar",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persik Kediri"
+    },
+    "team2": {
+      "name": "PSM Makassar"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "15:30",
+    "match_date": "2025-10-25",
+    "match_time": "15:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-BaliUnited-Persita",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Bali United"
+    },
+    "team2": {
+      "name": "Persita"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "19:00",
+    "match_date": "2025-10-25",
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
