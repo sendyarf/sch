@@ -361,7 +361,24 @@
     "match_date": "2025-10-22",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOC5waHA=",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "ChampionsLeague-Villarreal-ManchesterCity",
