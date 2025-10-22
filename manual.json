@@ -1,121 +1,97 @@
 [
 
 {
-    "id": "ChampionsLeague-Barcelona-OlympiacosPiraeus",
+    "id": "ChampionsLeague-AthBilbao-Qarabag",
     "league": "UEFA Champions League",
     "team1": {
-      "name": "Barcelona"
+      "name": "Ath Bilbao"
     },
     "team2": {
-      "name": "Olympiacos Piraeus"
+      "name": "Qarabag"
     },
-    "kickoff_date": "2025-10-21",
+    "kickoff_date": "2025-10-22",
     "kickoff_time": "23:45",
-    "match_date": "2025-10-21",
+    "match_date": "2025-10-22",
     "match_time": "23:35",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
         "label": "CH-EN"
       },
-     {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      },
-     {
-        "url": "https://multi.govoet.my.id/?shaka=tntmex",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-KairatAlmaty-Pafos",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Kairat Almaty"
-    },
-    "team2": {
-      "name": "Pafos"
-    },
-    "kickoff_date": "2025-10-21",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-21",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-     {
         "url": "https://multi.govoet.my.id/?shaka=ziggo3",
         "label": "CH-NL"
-      },
-     {
-        "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-ES"
       }
     ]
   },
   {
-    "id": "ChampionsLeague-Arsenal-Atl.Madrid",
+    "id": "ChampionsLeague-Galatasaray-Bodo/Glimt",
     "league": "UEFA Champions League",
     "team1": {
-      "name": "Arsenal"
+      "name": "Galatasaray"
     },
     "team2": {
-      "name": "Atl. Madrid"
+      "name": "Bodo/Glimt"
     },
     "kickoff_date": "2025-10-22",
-    "kickoff_time": "02:00",
+    "kickoff_time": "23:45",
     "match_date": "2025-10-22",
-    "match_time": "01:50",
+    "match_time": "23:35",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
-        "label": "CH-NL"
+        "url": "https://multi.govoet.my.id/?shaka=cbssports",
+        "label": "CH-EN"
       },
-     {
+      {
         "url": "https://multi.govoet.my.id/?shaka=tntmex",
         "label": "CH-ES"
+      },
+        {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
+        "label": "CH-nl"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
+        "label": "CH-NL"
       }
     ]
   },
+ 
   {
-    "id": "ChampionsLeague-BayerLeverkusen-PSG",
+    "id": "ChampionsLeague-BayernMunich-ClubBruggeKV",
     "league": "UEFA Champions League",
     "team1": {
-      "name": "Bayer Leverkusen"
+      "name": "Bayern Munich"
     },
     "team2": {
-      "name": "PSG"
+      "name": "Club Brugge KV"
     },
-    "kickoff_date": "2025-10-22",
+    "kickoff_date": "2025-10-23",
     "kickoff_time": "02:00",
-    "match_date": "2025-10-22",
+    "match_date": "2025-10-23",
     "match_time": "01:50",
     "duration": "3.5",
     "servers": [
-     {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
+        {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-EN"
       }
     ]
   },
   {
-    "id": "ChampionsLeague-Newcastle-Benfica",
+    "id": "ChampionsLeague-Chelsea-Ajax",
     "league": "UEFA Champions League",
     "team1": {
-      "name": "Newcastle"
+      "name": "Chelsea"
     },
     "team2": {
-      "name": "Benfica"
+      "name": "Ajax"
     },
-    "kickoff_date": "2025-10-22",
+    "kickoff_date": "2025-10-23",
     "kickoff_time": "02:00",
-    "match_date": "2025-10-22",
+    "match_date": "2025-10-23",
     "match_time": "01:50",
     "duration": "3.5",
     "servers": [
@@ -123,50 +99,24 @@
         "url": "https://multi.govoet.my.id/?shaka=tnt2",
         "label": "CH-EN"
       },
-     {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-PSV-Napoli",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "PSV"
-    },
-    "team2": {
-      "name": "Napoli"
-    },
-    "kickoff_date": "2025-10-22",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-22",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-     {
-        "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-EN"
-      },
-     {
+        {
         "url": "https://multi.govoet.my.id/?shaka=ziggosp",
         "label": "CH-NL"
       }
     ]
   },
-  
   {
-    "id": "ChampionsLeague-Villarreal-ManchesterCity",
+    "id": "ChampionsLeague-EintrachtFrankfurt-Liverpool",
     "league": "UEFA Champions League",
     "team1": {
-      "name": "Villarreal"
+      "name": "Eintracht Frankfurt"
     },
     "team2": {
-      "name": "Manchester City"
+      "name": "Liverpool"
     },
-    "kickoff_date": "2025-10-22",
+    "kickoff_date": "2025-10-23",
     "kickoff_time": "02:00",
-    "match_date": "2025-10-22",
+    "match_date": "2025-10-23",
     "match_time": "01:50",
     "duration": "3.5",
     "servers": [
@@ -174,9 +124,76 @@
         "url": "https://multi.govoet.my.id/?shaka=tnt1",
         "label": "CH-EN"
       },
-     {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
         "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Monaco-Tottenham",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Monaco"
+    },
+    "team2": {
+      "name": "Tottenham"
+    },
+    "kickoff_date": "2025-10-23",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-23",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt3",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-RealMadrid-Juventus",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Real Madrid"
+    },
+    "team2": {
+      "name": "Juventus"
+    },
+    "kickoff_date": "2025-10-23",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-23",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-nl"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-SportingCP-Marseille",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Sporting CP"
+    },
+    "team2": {
+      "name": "Marseille"
+    },
+    "kickoff_date": "2025-10-23",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-23",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=cbssports",
+        "label": "CH-EN"
       }
     ]
   }
