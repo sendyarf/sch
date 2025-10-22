@@ -1,225 +1,40 @@
 [
-  {
-    "id": "Indonesia-SuperLeague-PSIMYogyakarta-DewaUnited",
-    "league": "Indonesia - Super League",
+   {
+    "id": "Persib-Bandung-Ina-Selangor-Mys",
+    "league": "AFC Champions League 2 - Round 3",
     "team1": {
-      "name": "PSIM Yogyakarta"
+      "name": "Persib Bandung (Ina)",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
     },
     "team2": {
-      "name": "Dewa United"
+      "name": "Selangor (Mys)",
+      "logo": "https://static.flashscore.com/res/image/data/SbrGEshl-M5v0Fw3E.png"
     },
-    "kickoff_date": "2025-10-22",
-    "kickoff_time": "15:30",
-    "match_date": "2025-10-22",
-    "match_time": "15:20",
+    "kickoff_date": "2025-10-23",
+    "kickoff_time": "19:15",
+    "match_date": "2025-10-23",
+    "match_time": "19:15",
     "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
     "servers": [
-              {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NjI0MTMubTN1OA==",
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yODM1MDEubTN1OA==",
         "label": "CH-VN"
       },
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly82MDE2YzEyODE0MTAzZTI1NTNmMzU0NDkyZDcxMTM0ZS52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlLzgwNTQ2ODVjMzQwODAyMmI4NDYwMmY3MjIwYmRjN2FiLm0zdTg/dHhTZWNyZXQ9MDdhMmY4M2VhZWZlMDk3MjcwMzllOGU1MzhjMjgyNzkmdHhUaW1lPTY4Zjg5NjBj",
-        "label": "CH-ID"
-      }
-    ]
-  },
-{
-    "id": "ChampionsLeague-AthBilbao-Qarabag",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Ath Bilbao"
-    },
-    "team2": {
-      "name": "Qarabag"
-    },
-    "kickoff_date": "2025-10-22",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-22",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt4",
-        "label": "CH-EN"
+        "url": "https://multi.govoet.my.id/?shaka=cbssports",
+        "label": "Refresh"
       },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-Galatasaray-Bodo/Glimt",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Galatasaray"
-    },
-    "team2": {
-      "name": "Bodo/Glimt"
-    },
-    "kickoff_date": "2025-10-22",
-    "kickoff_time": "23:45",
-    "match_date": "2025-10-22",
-    "match_time": "23:35",
-    "duration": "3.5",
-    "servers": [
       {
         "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tntmex",
-        "label": "CH-ES"
-      },
-        {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-nl"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
-  },
- 
-  {
-    "id": "ChampionsLeague-BayernMunich-ClubBruggeKV",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Bayern Munich"
-    },
-    "team2": {
-      "name": "Club Brugge KV"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-        {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-Chelsea-Ajax",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Chelsea"
-    },
-    "team2": {
-      "name": "Ajax"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      },
-        {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-EintrachtFrankfurt-Liverpool",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Eintracht Frankfurt"
-    },
-    "team2": {
-      "name": "Liverpool"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-        {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-Monaco-Tottenham",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Monaco"
-    },
-    "team2": {
-      "name": "Tottenham"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-RealMadrid-Juventus",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Real Madrid"
-    },
-    "team2": {
-      "name": "Juventus"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-nl"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-SportingCP-Marseille",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Sporting CP"
-    },
-    "team2": {
-      "name": "Marseille"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-EN"
+        "label": "Refresh"
       }
     ]
   }
+ 
  
 ]
