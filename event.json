@@ -288,6 +288,22 @@
     "servers": []
   },
   {
+    "id": "Eredivisie-G.A.Eagles-Excelsior",
+    "league": "Eredivisie",
+    "team1": {
+      "name": "G.A. Eagles"
+    },
+    "team2": {
+      "name": "Excelsior"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-27",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Ligue1-ParisFC-Nantes",
     "league": "Ligue 1",
     "team1": {
@@ -412,6 +428,22 @@
     "kickoff_time": "23:15",
     "match_date": "2025-10-26",
     "match_time": "23:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Lyon-Strasbourg",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lyon"
+    },
+    "team2": {
+      "name": "Strasbourg"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "02:45",
+    "match_date": "2025-10-27",
+    "match_time": "02:45",
     "duration": "3.5",
     "servers": []
   },
@@ -688,6 +720,38 @@
     "servers": []
   },
   {
+    "id": "SerieA-Fiorentina-Bologna",
+    "league": "Serie A",
+    "team1": {
+      "name": "Fiorentina"
+    },
+    "team2": {
+      "name": "Bologna"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "00:00",
+    "match_date": "2025-10-27",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Lazio-Juventus",
+    "league": "Serie A",
+    "team1": {
+      "name": "Lazio"
+    },
+    "team2": {
+      "name": "Juventus"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "02:45",
+    "match_date": "2025-10-27",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "LaLiga-RealSociedad-Sevilla",
     "league": "LaLiga",
     "team1": {
@@ -800,114 +864,34 @@
     "servers": []
   },
   {
-    "id": "ChampionsLeague-Atalanta-SlaviaPrague",
-    "league": "Champions League",
+    "id": "LaLiga-Osasuna-CeltaVigo",
+    "league": "LaLiga",
     "team1": {
-      "name": "Atalanta"
+      "name": "Osasuna"
     },
     "team2": {
-      "name": "Slavia Prague"
+      "name": "Celta Vigo"
     },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "00:30",
+    "match_date": "2025-10-27",
+    "match_time": "00:30",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ChampionsLeague-BayernMunich-ClubBruggeKV",
-    "league": "Champions League",
+    "id": "LaLiga-RayoVallecano-Alaves",
+    "league": "LaLiga",
     "team1": {
-      "name": "Bayern Munich"
+      "name": "Rayo Vallecano"
     },
     "team2": {
-      "name": "Club Brugge KV"
+      "name": "Alaves"
     },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Chelsea-Ajax",
-    "league": "Champions League",
-    "team1": {
-      "name": "Chelsea"
-    },
-    "team2": {
-      "name": "Ajax"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-EintrachtFrankfurt-Liverpool",
-    "league": "Champions League",
-    "team1": {
-      "name": "Eintracht Frankfurt"
-    },
-    "team2": {
-      "name": "Liverpool"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Monaco-Tottenham",
-    "league": "Champions League",
-    "team1": {
-      "name": "Monaco"
-    },
-    "team2": {
-      "name": "Tottenham"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-RealMadrid-Juventus",
-    "league": "Champions League",
-    "team1": {
-      "name": "Real Madrid"
-    },
-    "team2": {
-      "name": "Juventus"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-SportingCP-Marseille",
-    "league": "Champions League",
-    "team1": {
-      "name": "Sporting CP"
-    },
-    "team2": {
-      "name": "Marseille"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "02:00",
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "03:00",
+    "match_date": "2025-10-27",
+    "match_time": "03:00",
     "duration": "3.5",
     "servers": []
   },
@@ -1003,6 +987,38 @@
     "kickoff_date": "2025-10-26",
     "kickoff_time": "19:00",
     "match_date": "2025-10-26",
+    "match_time": "19:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-FCBhayangkara-PersijapJepara",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "FC Bhayangkara"
+    },
+    "team2": {
+      "name": "Persijap Jepara"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "15:30",
+    "match_date": "2025-10-27",
+    "match_time": "15:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PersibBandung-PersisSolo",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persib Bandung"
+    },
+    "team2": {
+      "name": "Persis Solo"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "19:00",
+    "match_date": "2025-10-27",
     "match_time": "19:00",
     "duration": "3.5",
     "servers": []
