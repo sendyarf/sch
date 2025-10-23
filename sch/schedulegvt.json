@@ -643,6 +643,24 @@
     ]
   },
   {
+    "id": "Ligue1-Lyon-Strasbourg",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Lyon",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
+    },
+    "team2": {
+      "name": "Strasbourg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/strasbourg.png"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "02:45",
+    "match_date": "2025-10-27",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-WerderBremen-UnionBerlin",
     "league": "Germany - Bundesliga",
     "team1": {
@@ -1069,6 +1087,60 @@
     "servers": []
   },
   {
+    "id": "SerieA-Fiorentina-Bologna",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Fiorentina",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fiorentina.png"
+    },
+    "team2": {
+      "name": "Bologna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bologna.png"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "00:00",
+    "match_date": "2025-10-26",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Lazio-Juventus",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Lazio",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lazio.png"
+    },
+    "team2": {
+      "name": "Juventus",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "02:45",
+    "match_date": "2025-10-27",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
     "id": "LaLiga-RealSociedad-Sevilla",
     "league": "Spain - La Liga",
     "team1": {
@@ -1278,130 +1350,58 @@
     ]
   },
   {
-    "id": "ChampionsLeague-Atalanta-SlaviaPrague",
-    "league": "UEFA Champions League",
+    "id": "LaLiga-Osasuna-CeltaVigo",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "Atalanta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atalanta.png"
+      "name": "Osasuna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
     },
     "team2": {
-      "name": "Slavia Prague",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/slavia-prague.png"
+      "name": "Celta Vigo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/celta-vigo.png"
     },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "00:30",
+    "match_date": "2025-10-27",
+    "match_time": "00:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      }
+    ]
   },
   {
-    "id": "ChampionsLeague-BayernMunich-ClubBruggeKV",
-    "league": "UEFA Champions League",
+    "id": "LaLiga-RayoVallecano-Alaves",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "Bayern Munich",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
+      "name": "Rayo Vallecano",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rayo-vallecano.png"
     },
     "team2": {
-      "name": "Club Brugge KV",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/club-brugge-kv.png"
+      "name": "Alaves",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/alaves.png"
     },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "03:00",
+    "match_date": "2025-10-27",
+    "match_time": "02:50",
     "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Chelsea-Ajax",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Chelsea",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
-    },
-    "team2": {
-      "name": "Ajax",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ajax.png"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-EintrachtFrankfurt-Liverpool",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Eintracht Frankfurt",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/eintracht-frankfurt.png"
-    },
-    "team2": {
-      "name": "Liverpool",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/liverpool.png"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Monaco-Tottenham",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Monaco",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/monaco.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-RealMadrid-Juventus",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Real Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-SportingCP-Marseille",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Sporting CP",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sporting-cp.png"
-    },
-    "team2": {
-      "name": "Marseille",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-23",
-    "match_time": "01:50",
-    "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PSBSBiakNumfor-Persebaya",
@@ -1507,6 +1507,42 @@
     "kickoff_date": "2025-10-26",
     "kickoff_time": "19:00",
     "match_date": "2025-10-26",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-FCBhayangkara-PersijapJepara",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "FC Bhayangkara",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-bhayangkara.png"
+    },
+    "team2": {
+      "name": "Persijap Jepara",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persijap-jepara.png"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "15:30",
+    "match_date": "2025-10-27",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PersibBandung-PersisSolo",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persib Bandung",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persib-bandung.png"
+    },
+    "team2": {
+      "name": "Persis Solo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persis-solo.png"
+    },
+    "kickoff_date": "2025-10-27",
+    "kickoff_time": "19:00",
+    "match_date": "2025-10-27",
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
