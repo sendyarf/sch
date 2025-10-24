@@ -1339,7 +1339,12 @@
     "match_date": "2025-10-24",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-MaduraUnited-PersijaJakarta",
@@ -1355,7 +1360,12 @@
     "match_date": "2025-10-24",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODA0NjAubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersikKediri-PSMMakassar",
@@ -1529,6 +1539,27 @@
     ]
   },
   {
+    "id": "56086554",
+    "league": "Russia - Vysshaya Liga, Women",
+    "team1": {
+      "name": "Neftyanik-Titan-2 Omsk"
+    },
+    "team2": {
+      "name": "Spartak Noginsk W."
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTVRJMU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "56001858",
     "league": "New Zealand - Premier League, Women",
     "team1": {
@@ -1545,48 +1576,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURZNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56017567",
-    "league": "Czech Republic - NBL",
-    "team1": {
-      "name": "Basket Nymburk"
-    },
-    "team2": {
-      "name": "Sokol Pisek"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TURZMk5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56001848",
-    "league": "New Zealand - Premier League, Women",
-    "team1": {
-      "name": "Wellington United Diamonds"
-    },
-    "team2": {
-      "name": "Wellington Phoenix"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURVM05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1613,13 +1602,13 @@
     ]
   },
   {
-    "id": "56086554",
-    "league": "Russia - Vysshaya Liga, Women",
+    "id": "56017567",
+    "league": "Czech Republic - NBL",
     "team1": {
-      "name": "Neftyanik-Titan-2 Omsk"
+      "name": "Basket Nymburk"
     },
     "team2": {
-      "name": "Spartak Noginsk W."
+      "name": "Sokol Pisek"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1628,28 +1617,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTVRJMU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "55446356",
-    "league": "Challenger - Suzhou, China, Doubles",
-    "team1": {
-      "name": "Lammons N / Rojer J"
-    },
-    "team2": {
-      "name": "Sinha N.K. / Dev S.D.P."
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTnpFME5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF5TURZMk5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1697,6 +1665,27 @@
     ]
   },
   {
+    "id": "55446356",
+    "league": "Challenger - Suzhou, China, Doubles",
+    "team1": {
+      "name": "Lammons N / Rojer J"
+    },
+    "team2": {
+      "name": "Sinha N.K. / Dev S.D.P."
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTnpFME5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "55619675",
     "league": "UTR Men - UTR PTT Cologne Men 02, Group A",
     "team1": {
@@ -1713,6 +1702,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTmpRd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55613496",
+    "league": "UTR Women - UTR PTT Krakow Women 02, Group C",
+    "team1": {
+      "name": "Boyden, Melissa"
+    },
+    "team2": {
+      "name": "Dohnalova, Rozalie"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTnpFek55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1739,13 +1749,13 @@
     ]
   },
   {
-    "id": "55613496",
-    "league": "UTR Women - UTR PTT Krakow Women 02, Group C",
+    "id": "56040740",
+    "league": "UTR Women - UTR PTT Cologne Women 02, 9-12 Playoffs",
     "team1": {
-      "name": "Boyden, Melissa"
+      "name": "Rasim, Melis"
     },
     "team2": {
-      "name": "Dohnalova, Rozalie"
+      "name": "Veljacic, Zejda"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1754,7 +1764,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTnpFek55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURnNE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1802,27 +1812,6 @@
     ]
   },
   {
-    "id": "56019624",
-    "league": "International - Indonesia Masters II 2025, WS",
-    "team1": {
-      "name": "Suizu, Manami"
-    },
-    "team2": {
-      "name": "Yuan, An Qi"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwT0RZM01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "56019608",
     "league": "International - Indonesia Masters II 2025, WS",
     "team1": {
@@ -1839,6 +1828,48 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwT0RZNE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56019620",
+    "league": "International - Indonesia Masters II 2025, WS",
+    "team1": {
+      "name": "Sihag, Devika"
+    },
+    "team2": {
+      "name": "Jaiswal, Ishika"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwT0RZM015WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55755713",
+    "league": "International - Challenger Series",
+    "team1": {
+      "name": "Zeimys, Kestutis"
+    },
+    "team2": {
+      "name": "Itagaki, Akito"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURFMk1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1886,6 +1917,48 @@
     ]
   },
   {
+    "id": "56056101",
+    "league": "International - TT Cup",
+    "team1": {
+      "name": "Stepien, Marcin"
+    },
+    "team2": {
+      "name": "Stapor, Dawid"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwT1Rjd01DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56027674",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Golebiowski, Mateusz"
+    },
+    "team2": {
+      "name": "Olejnik, Martin"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURBeU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "56055567",
     "league": "International - Pro Tour Cape Town 2025, Women",
     "team1": {
@@ -1928,42 +2001,44 @@
     ]
   },
   {
-    "id": "Persib-Bandung-Ina-Selangor-Mys",
-    "league": "AFC Champions League 2 - Round 3",
+    "id": "55750319",
+    "league": "Tournaments - Worlds Play-In",
     "team1": {
-      "name": "Persib Bandung (Ina)",
-      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
+      "name": "Bilibili Gaming"
     },
     "team2": {
-      "name": "Selangor (Mys)",
-      "logo": "https://static.flashscore.com/res/image/data/SbrGEshl-M5v0Fw3E.png"
+      "name": "Vivo Keyd Stars"
     },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "19:15",
-    "match_date": "2025-10-23",
-    "match_time": "19:05",
-    "duration": "2",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly8yYTYwOTZmNTBmZmMwNWM3Yzc3NjZmYmQxMzU4ZmNlNi52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlLzNkYTExZTcyNDU5NGI4ODMyYzRmNjE5OTliNzUxZDA0Lm0zdTg/dHhTZWNyZXQ9OWUwY2YxOTk5NTM3Y2I1N2VjYTNiOGJkNjhiZTE0YTAmdHhUaW1lPTY4ZmExYmQw",
-        "label": "CH-EN"
-      },
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFhKcGIzUm5ZVzFsY3lad1lYSmxiblE5WkdWdGJ5NXBibkJzWVhsdVpYUXVZMjl0",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56062985",
+    "league": "Tournaments - Fissure Playground",
+    "team1": {
+      "name": "Tundra Esports"
+    },
+    "team2": {
+      "name": "BB team"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
       {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmJiYXBjYWxsLmNvbS9saXZlL3NkLTEtNDQwNTY2MC5tM3U4P3R4U2VjcmV0PWJhYjFjNGVlOWE2Yjc2NzhkNDliYzc0OGRhMDRiZmRmJnR4VGltZT02OEZBNUQxNw==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yODM1MDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1saFl5VzBOYjdld2FMcjdnNHhvalVYZDFhbkJvVXpjelp6bGhSbEkyWkZkTWVYaFlPVFZhY0RObFUxcDRhelJpTDJoVVQweFhVRGRwTlVsNFFUVTBaa2RJVUdWdWRUbFNWMDByT0ZkV1prcEZibVpQT1U5a2VIcDZiRU0=",
-        "label": "CH-EN"
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdKbGRHSnZiMjFmY25VbWNHRnlaVzUwUFdSbGJXOHVhVzV3YkdGNWJtVjBMbU52YlE9PQ==",
+        "label": "CH-NA"
       }
     ]
   }

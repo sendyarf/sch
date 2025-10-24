@@ -1435,7 +1435,12 @@
     "match_date": "2025-10-24",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-MaduraUnited-PersijaJakarta",
@@ -1453,7 +1458,12 @@
     "match_date": "2025-10-24",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODA0NjAubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersikKediri-PSMMakassar",
@@ -1562,45 +1572,5 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Persib-Bandung-Ina-Selangor-Mys",
-    "league": "AFC Champions League 2 - Round 3",
-    "team1": {
-      "name": "Persib Bandung (Ina)",
-      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
-    },
-    "team2": {
-      "name": "Selangor (Mys)",
-      "logo": "https://static.flashscore.com/res/image/data/SbrGEshl-M5v0Fw3E.png"
-    },
-    "kickoff_date": "2025-10-23",
-    "kickoff_time": "19:15",
-    "match_date": "2025-10-23",
-    "match_time": "19:05",
-    "duration": "2",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly8yYTYwOTZmNTBmZmMwNWM3Yzc3NjZmYmQxMzU4ZmNlNi52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlLzNkYTExZTcyNDU5NGI4ODMyYzRmNjE5OTliNzUxZDA0Lm0zdTg/dHhTZWNyZXQ9OWUwY2YxOTk5NTM3Y2I1N2VjYTNiOGJkNjhiZTE0YTAmdHhUaW1lPTY4ZmExYmQw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmJiYXBjYWxsLmNvbS9saXZlL3NkLTEtNDQwNTY2MC5tM3U4P3R4U2VjcmV0PWJhYjFjNGVlOWE2Yjc2NzhkNDliYzc0OGRhMDRiZmRmJnR4VGltZT02OEZBNUQxNw==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yODM1MDEubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1saFl5VzBOYjdld2FMcjdnNHhvalVYZDFhbkJvVXpjelp6bGhSbEkyWkZkTWVYaFlPVFZhY0RObFUxcDRhelJpTDJoVVQweFhVRGRwTlVsNFFUVTBaa2RJVUdWdWRUbFNWMDByT0ZkV1prcEZibVpQT1U5a2VIcDZiRU0=",
-        "label": "CH-EN"
-      }
-    ]
   }
 ]
