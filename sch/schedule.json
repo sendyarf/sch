@@ -1454,31 +1454,6 @@
     "servers": []
   },
   {
-    "id": "MotoGP-Essaislibres1desMotoGP",
-    "league": "MotoGP",
-    "team1": {
-      "name": "Essais libres 1 des Moto GP"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-10-24",
-    "kickoff_time": "09:45",
-    "match_date": "2025-10-24",
-    "match_time": "09:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "Moto3-EssaisdesMoto3",
     "league": "Moto3",
     "team1": {
@@ -1529,6 +1504,52 @@
     ]
   },
   {
+    "id": "MotoGP-EssaisdesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Essais des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-10-24",
+    "kickoff_time": "14:00",
+    "match_date": "2025-10-24",
+    "match_time": "13:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "55529855",
+    "league": "WTA - Guangzhou, China",
+    "team1": {
+      "name": "Sun, Lulu"
+    },
+    "team2": {
+      "name": "McNally, Catherine"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTnpFME5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "55446258",
     "league": "Challenger - Suzhou, China",
     "team1": {
@@ -1571,13 +1592,13 @@
     ]
   },
   {
-    "id": "56027634",
-    "league": "International - TT Elite Series",
+    "id": "56001848",
+    "league": "New Zealand - Premier League, Women",
     "team1": {
-      "name": "Piecowski, Miroslaw"
+      "name": "Wellington United Diamonds"
     },
     "team2": {
-      "name": "Skorski, Michal"
+      "name": "Wellington Phoenix"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1586,19 +1607,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURFeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURVM05TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "55529855",
-    "league": "WTA - Guangzhou, China",
+    "id": "56051834",
+    "league": "International - TT Cup",
     "team1": {
-      "name": "Sun, Lulu"
+      "name": "Framberk, Jan"
     },
     "team2": {
-      "name": "McNally, Catherine"
+      "name": "Sebek, Ondrej"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1607,7 +1628,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwTnpFME5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEwT1RjMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56027639",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Petas, Kacper"
+    },
+    "team2": {
+      "name": "Kolasa, Szymon"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExTURBeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
