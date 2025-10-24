@@ -17,6 +17,26 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-XFR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-XUS"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-XES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-XDE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-XES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
       },
@@ -307,6 +327,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-XNL"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
       }
@@ -469,6 +493,10 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -686,6 +714,14 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=10",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=110",
+        "label": "CH-XDE"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
       },
@@ -892,6 +928,18 @@
     "match_time": "01:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-XIT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-XES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
@@ -1169,6 +1217,26 @@
     "match_time": "01:50",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-XFR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-XES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-XES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-XES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd6",
         "label": "CH-1"
@@ -1572,6 +1640,79 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "SaudiProLeague-Al-IttihadFC-Al-Hilal",
+    "league": "Saudi Pro League",
+    "team1": {
+      "name": "Al-Ittihad FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/al-ittihad.png"
+    },
+    "team2": {
+      "name": "Al-Hilal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/al-hilal.png"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "01:00",
+    "match_date": "2025-10-25",
+    "match_time": "00:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-XES"
+      }
+    ]
+  },
+  {
+    "id": "CampeonatoItaúChile-Palestino-Everton",
+    "league": "Campeonato Itaú Chile",
+    "team1": {
+      "name": "Palestino",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/palestine.png"
+    },
+    "team2": {
+      "name": "Everton",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/everton.png"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "03:00",
+    "match_date": "2025-10-25",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=83",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "MLS-InterMiami-NashvilleSC",
+    "league": "USA - MLS",
+    "team1": {
+      "name": "Inter Miami",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter-miami.png"
+    },
+    "team2": {
+      "name": "Nashville SC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nashville-sc.png"
+    },
+    "kickoff_date": "2025-10-25",
+    "kickoff_time": "07:00",
+    "match_date": "2025-10-25",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "56098392",
