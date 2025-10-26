@@ -29,12 +29,7 @@
     "match_date": "2025-10-27",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-LeHavre-Brest",
@@ -194,24 +189,7 @@
     "match_date": "2025-10-27",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd7",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-3"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Lecce-Napoli",
@@ -401,20 +379,7 @@
     "match_date": "2025-10-27",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Betis-Atl.Madrid",
@@ -608,147 +573,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "NFL-DenverBroncos-DallasCowboys",
-    "league": "NFL",
-    "team1": {
-      "name": "Denver Broncos"
-    },
-    "team2": {
-      "name": "Dallas Cowboys"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "03:25",
-    "match_date": "2025-10-27",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=179",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=101",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzgucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NFL-IndianapolisColts-TennesseeTitans",
-    "league": "NFL",
-    "team1": {
-      "name": "Indianapolis Colts"
-    },
-    "team2": {
-      "name": "Tennessee Titans"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "03:25",
-    "match_date": "2025-10-27",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=180",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=79",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=93",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=101",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzkucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "EcuadorLigapro-ElNacional-Macara",
-    "league": "Ecuador Ligapro",
-    "team1": {
-      "name": "El Nacional"
-    },
-    "team2": {
-      "name": "Macara"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "03:30",
-    "match_date": "2025-10-27",
-    "match_time": "03:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=86",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-ADTarma-U.deDeportes",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "AD Tarma"
-    },
-    "team2": {
-      "name": "U. de Deportes"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "03:30",
-    "match_date": "2025-10-27",
-    "match_time": "03:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaPortugal-Braga-CasaPia",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Braga"
-    },
-    "team2": {
-      "name": "Casa Pia"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "03:30",
-    "match_date": "2025-10-27",
-    "match_time": "03:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
   },
   {
     "id": "CampeonatoItaúChile-O'Higgins-Coquimbo",
@@ -1790,13 +1614,13 @@
     ]
   },
   {
-    "id": "54647104",
-    "league": "Chile - Primera Division",
+    "id": "54648759",
+    "league": "Mexico - Liga Mx, Apertura",
     "team1": {
-      "name": "CD O'higgins"
+      "name": "Club Santos Laguna"
     },
     "team2": {
-      "name": "Coquimbo Unido"
+      "name": "Queretaro FC"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1805,7 +1629,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTnpZNE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTXpFMk1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1827,27 +1651,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTXpRMk5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "54648759",
-    "league": "Mexico - Liga Mx, Apertura",
-    "team1": {
-      "name": "Club Santos Laguna"
-    },
-    "team2": {
-      "name": "Queretaro FC"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTXpFMk1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1895,27 +1698,6 @@
     ]
   },
   {
-    "id": "54568620",
-    "league": "Paraguay - Primera Division, Clausura",
-    "team1": {
-      "name": "CD Recoleta"
-    },
-    "team2": {
-      "name": "Libertad Asuncion"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTXpRMk15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "54905248",
     "league": "Costa Rica - Primera Division, Apertura",
     "team1": {
@@ -1932,6 +1714,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTXpFMk55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "54568620",
+    "league": "Paraguay - Primera Division, Clausura",
+    "team1": {
+      "name": "CD Recoleta"
+    },
+    "team2": {
+      "name": "Libertad Asuncion"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTXpRMk15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -2016,27 +1819,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTWpZM09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56171141",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Baron, Mariusz"
-    },
-    "team2": {
-      "name": "Jadach, Oskar"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTkRrd01DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
