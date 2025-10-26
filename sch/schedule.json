@@ -127,7 +127,12 @@
     "match_date": "2025-10-30",
     "match_time": "02:55",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF6T0RNMU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
   },
   {
     "id": "Ligue1-Nantes-Monaco",
@@ -686,286 +691,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "BetfredSuperLeague-Panathinaikos-AsterasT.",
-    "league": "Betfred Super League",
-    "team1": {
-      "name": "Panathinaikos"
-    },
-    "team2": {
-      "name": "Asteras T."
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "22:30",
-    "match_date": "2025-10-26",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=149",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "CampeonatoItaúChile-U.Catolica-U.DeChile",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "U. Catolica"
-    },
-    "team2": {
-      "name": "U. De Chile"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "22:30",
-    "match_date": "2025-10-26",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaPortugal-Estoril-Nacional",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Estoril"
-    },
-    "team2": {
-      "name": "Nacional"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "22:30",
-    "match_date": "2025-10-26",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=146",
-        "label": "CH-PT"
-      }
-    ]
-  },
-  {
-    "id": "LigaPortugal-Famalicao-Guimaraes",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Famalicao"
-    },
-    "team2": {
-      "name": "Guimaraes"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "22:30",
-    "match_date": "2025-10-26",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=74",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Eredivisie-Alkmaar-Utrecht",
-    "league": "Netherlands - Eredivisie",
-    "team1": {
-      "name": "AZ Alkmaar"
-    },
-    "team2": {
-      "name": "Utrecht"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "22:45",
-    "match_date": "2025-10-26",
-    "match_time": "22:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CafLigueDesChampions-EsperanceTunis(Tun)-Rahimo(Bfa)",
-    "league": "Caf Ligue Des Champions",
-    "team1": {
-      "name": "Esperance Tunis (Tun)"
-    },
-    "team2": {
-      "name": "Rahimo (Bfa)"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:00",
-    "match_date": "2025-10-26",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=197",
-        "label": "CH-TN"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-SportingCristal-LosChankas",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "Sporting Cristal"
-    },
-    "team2": {
-      "name": "Los Chankas"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:00",
-    "match_date": "2025-10-26",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaEndesa-Bilbao-MoraBancAndorra",
-    "league": "Liga Endesa",
-    "team1": {
-      "name": "Bilbao"
-    },
-    "team2": {
-      "name": "MoraBanc Andorra"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:00",
-    "match_date": "2025-10-26",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=67",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-MultiplexLigue1",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Multiplex Ligue 1"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:15",
-    "match_date": "2025-10-26",
-    "match_time": "23:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Angers-Lorient",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Angers"
-    },
-    "team2": {
-      "name": "Lorient"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:15",
-    "match_date": "2025-10-26",
-    "match_time": "23:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF6T0RNMU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Auxerre-LeHavre",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Auxerre"
-    },
-    "team2": {
-      "name": "Le Havre"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:15",
-    "match_date": "2025-10-26",
-    "match_time": "23:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=22",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF6T0RNMU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-Rennes-Nice",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Rennes"
-    },
-    "team2": {
-      "name": "Nice"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "23:15",
-    "match_date": "2025-10-26",
-    "match_time": "23:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=40",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF6T0RNMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
   },
   {
     "id": "Bundesliga-Stuttgart-Mayence",
@@ -1710,10 +1435,6 @@
     "match_time": "01:50",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-PT"
-      },
       {
         "url": "https://multi.govoet.my.id/?envivo=82",
         "label": "CH-ES"
@@ -3231,6 +2952,48 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyTmpNM09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53575583",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Auxerre"
+    },
+    "team2": {
+      "name": "Le Havre"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF6T0RNMU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "53421999",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Rennes"
+    },
+    "team2": {
+      "name": "Nice"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelF6T0RNMk1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
