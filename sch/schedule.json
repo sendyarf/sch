@@ -660,28 +660,7 @@
     "match_date": "2025-10-26",
     "match_time": "18:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=137",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Sassuolo-ASRoma",
@@ -1273,27 +1252,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "SuperLig-Antalyaspor-Basaksehir",
-    "league": "Super Lig",
-    "team1": {
-      "name": "Antalyaspor"
-    },
-    "team2": {
-      "name": "Basaksehir"
-    },
-    "kickoff_date": "2025-10-26",
-    "kickoff_time": "18:30",
-    "match_date": "2025-10-26",
-    "match_time": "18:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=152",
-        "label": "CH-TR"
-      }
-    ]
   },
   {
     "id": "Premiership-Hearts-Celtic",
