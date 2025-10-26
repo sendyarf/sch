@@ -1,43 +1,26 @@
 [
-   {
-    "id": "Indonesia-SuperLeague-PSBSBiakNumfor-Persebaya",
-    "league": "Indonesia - Super League",
+  {
+    "id": "LaLiga-RealMadrid-Barcelona",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "PSBS Biak Numfor"
+      "name": "Real Madrid"
     },
     "team2": {
-      "name": "Persebaya"
+      "name": "Barcelona"
     },
-    "kickoff_date": "2025-10-24",
-    "kickoff_time": "15:30",
-    "match_date": "2025-10-24",
-    "match_time": "15:20",
+    "kickoff_date": "2025-10-26",
+    "kickoff_time": "22:15",
+    "match_date": "2025-10-26",
+    "match_time": "22:05",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-{
-    "id": "Indonesia-SuperLeague-MaduraUnited-PersijaJakarta",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Madura United"
-    },
-    "team2": {
-      "name": "Persija Jakarta"
-    },
-    "kickoff_date": "2025-10-24",
-    "kickoff_time": "19:00",
-    "match_date": "2025-10-24",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-        {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODA0NjAubTN1OA==",
-        "label": "CH-VN"
+        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
+        "label": "CH-ES"
+      },
+       {
+        "url": "https://multi.govoet.my.id/?shaka=laliga",
+        "label": "CH-ES"
       }
     ]
   }
