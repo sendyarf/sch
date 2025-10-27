@@ -131,7 +131,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=4",
+        "url": "https://multi.govoet.my.id/?envivo=2",
         "label": "CH-FR"
       },
       {
@@ -225,6 +225,85 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=161",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-PittsburghPenguins-St.LouisBlues",
+    "league": "NHL",
+    "team1": {
+      "name": "Pittsburgh Penguins"
+    },
+    "team2": {
+      "name": "St. Louis Blues"
+    },
+    "kickoff_date": "2025-10-28",
+    "kickoff_time": "06:00",
+    "match_date": "2025-10-28",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=183",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-OttawaSenators-BostonBruins",
+    "league": "NHL",
+    "team1": {
+      "name": "Ottawa Senators"
+    },
+    "team2": {
+      "name": "Boston Bruins"
+    },
+    "kickoff_date": "2025-10-28",
+    "kickoff_time": "06:30",
+    "match_date": "2025-10-28",
+    "match_time": "06:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=184",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "MLB-LosAngelesDodgers-TorontoBlueJays",
+    "league": "MLB",
+    "team1": {
+      "name": "Los Angeles Dodgers"
+    },
+    "team2": {
+      "name": "Toronto Blue Jays"
+    },
+    "kickoff_date": "2025-10-28",
+    "kickoff_time": "07:00",
+    "match_date": "2025-10-28",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=3",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=195",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
       }
     ]
   },
@@ -327,6 +406,10 @@
     "match_time": "07:15",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=182",
         "label": "CH-US"
