@@ -1,23 +1,5 @@
 [
   {
-    "id": "Ligue1-Lyon-Strasbourg",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Lyon",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
-    },
-    "team2": {
-      "name": "Strasbourg",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/strasbourg.png"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "02:45",
-    "match_date": "2025-10-27",
-    "match_time": "02:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "Ligue1-LeHavre-Brest",
     "league": "France - Ligue 1",
     "team1": {
@@ -176,24 +158,6 @@
     "kickoff_time": "03:05",
     "match_date": "2025-10-30",
     "match_time": "02:55",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "SerieA-Lazio-Juventus",
-    "league": "Italy - Serie A",
-    "team1": {
-      "name": "Lazio",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lazio.png"
-    },
-    "team2": {
-      "name": "Juventus",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
-    },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "02:45",
-    "match_date": "2025-10-27",
-    "match_time": "02:35",
     "duration": "3.5",
     "servers": []
   },
@@ -372,38 +336,38 @@
     "servers": []
   },
   {
-    "id": "LaLiga-Osasuna-CeltaVigo",
-    "league": "Spain - La Liga",
+    "id": "SerieA-Cagliari-Sassuolo",
+    "league": "Italy - Serie A",
     "team1": {
-      "name": "Osasuna",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
+      "name": "Cagliari",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cagliari.png"
     },
     "team2": {
-      "name": "Celta Vigo",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/celta-vigo.png"
+      "name": "Sassuolo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sassuolo.png"
     },
-    "kickoff_date": "2025-10-27",
+    "kickoff_date": "2025-10-31",
     "kickoff_time": "00:30",
-    "match_date": "2025-10-27",
+    "match_date": "2025-10-31",
     "match_time": "00:20",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "LaLiga-RayoVallecano-Alaves",
-    "league": "Spain - La Liga",
+    "id": "SerieA-Pisa-Lazio",
+    "league": "Italy - Serie A",
     "team1": {
-      "name": "Rayo Vallecano",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rayo-vallecano.png"
+      "name": "Pisa",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/pisa.png"
     },
     "team2": {
-      "name": "Alaves",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/alaves.png"
+      "name": "Lazio",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lazio.png"
     },
-    "kickoff_date": "2025-10-27",
-    "kickoff_time": "03:00",
-    "match_date": "2025-10-27",
-    "match_time": "02:50",
+    "kickoff_date": "2025-10-31",
+    "kickoff_time": "02:45",
+    "match_date": "2025-10-31",
+    "match_time": "02:35",
     "duration": "3.5",
     "servers": []
   },
@@ -515,21 +479,84 @@
     "servers": []
   },
   {
-    "id": "Indonesia-SuperLeague-FCBhayangkara-PersijapJepara",
+    "id": "Indonesia-SuperLeague-PSIMYogyakarta-PersikKediri",
     "league": "Indonesia - Super League",
     "team1": {
-      "name": "FC Bhayangkara",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-bhayangkara.png"
+      "name": "PSIM Yogyakarta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psim-yogyakarta.png"
     },
     "team2": {
-      "name": "Persijap Jepara",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persijap-jepara.png"
+      "name": "Persik Kediri",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persik-kediri.png"
     },
-    "kickoff_date": "2025-10-27",
+    "kickoff_date": "2025-10-31",
     "kickoff_time": "15:30",
-    "match_date": "2025-10-27",
+    "match_date": "2025-10-31",
     "match_time": "15:20",
     "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PersijaJakarta-PSBSBiakNumfor",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persija Jakarta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persija-jakarta.png"
+    },
+    "team2": {
+      "name": "PSBS Biak Numfor",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psbs-biak-numfor.png"
+    },
+    "kickoff_date": "2025-10-31",
+    "kickoff_time": "19:00",
+    "match_date": "2025-10-31",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "MLS-Cincinnati-ColumbusCrew",
+    "league": "USA - MLS",
+    "team1": {
+      "name": "Cincinnati",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-cincinnati.png"
+    },
+    "team2": {
+      "name": "Columbus Crew",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/columbus-crew.png"
+    },
+    "kickoff_date": "2025-10-28",
+    "kickoff_time": "05:45",
+    "match_date": "2025-10-28",
+    "match_time": "05:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=193",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "56250533",
+    "league": "International - Int. Friendly Games W",
+    "team1": {
+      "name": "Latvia W.",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/latvia.png"
+    },
+    "team2": {
+      "name": "Lithuania W.",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lithuania.png"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
     "servers": []
   },
   {
@@ -566,50 +593,5 @@
         "label": "CH-ID"
       }
     ]
-  },
-  {
-    "id": "MLS-Cincinnati-ColumbusCrew",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Cincinnati",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-cincinnati.png"
-    },
-    "team2": {
-      "name": "Columbus Crew",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/columbus-crew.png"
-    },
-    "kickoff_date": "2025-10-28",
-    "kickoff_time": "05:45",
-    "match_date": "2025-10-28",
-    "match_time": "05:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=193",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=155",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "56243813",
-    "league": "International - Int. Friendly Games W",
-    "team1": {
-      "name": "Latvia W.",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/latvia.png"
-    },
-    "team2": {
-      "name": "Lithuania W.",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lithuania.png"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": []
   }
 ]
