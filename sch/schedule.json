@@ -726,12 +726,7 @@
     "match_date": "2025-10-29",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=131",
-        "label": "CH-US"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "England-EFLCup-Arsenal-Brighton",
@@ -914,111 +909,6 @@
     "servers": []
   },
   {
-    "id": "CoupeDuRoi-SDNegreira-RealSociedad",
-    "league": "Coupe Du Roi",
-    "team1": {
-      "name": "SD Negreira"
-    },
-    "team2": {
-      "name": "Real Sociedad"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "03:00",
-    "match_date": "2025-10-29",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CoupeDuRoi-Toledo-FCSéville",
-    "league": "Coupe Du Roi",
-    "team1": {
-      "name": "Toledo"
-    },
-    "team2": {
-      "name": "FC Séville"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "03:00",
-    "match_date": "2025-10-29",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=60",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "EuroLeague-Valence-Fenerbahce",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Valencia"
-    },
-    "team2": {
-      "name": "Fenerbahce"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "03:00",
-    "match_date": "2025-10-29",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=55",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "KnvbBeker-Venlo-Heerenveen",
-    "league": "Knvb Beker",
-    "team1": {
-      "name": "Venlo"
-    },
-    "team2": {
-      "name": "Heerenveen"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "03:00",
-    "match_date": "2025-10-29",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=147",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "TaçaDaLiga-Sporting-Alverca",
-    "league": "Taça Da Liga",
-    "team1": {
-      "name": "Sporting"
-    },
-    "team2": {
-      "name": "Alverca"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "03:15",
-    "match_date": "2025-10-29",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      }
-    ]
-  },
-  {
     "id": "LigaBetplayDimayor-Aguilas-Envigado",
     "league": "Colombia: Primera A",
     "team1": {
@@ -1036,10 +926,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEyT0RnME5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       }
     ]
   },
@@ -1236,6 +1122,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTkRVeU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
@@ -1693,10 +1583,10 @@
     ]
   },
   {
-    "id": "56368545",
+    "id": "56368549",
     "league": "International - TT Cup",
     "team1": {
-      "name": "Beckett, Christopher"
+      "name": "Yang, Ray"
     },
     "team2": {
       "name": "Malin, Leo"
@@ -1708,19 +1598,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTmpjMU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTmpjMU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "56318285",
+    "id": "56318294",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Misiak, Mateusz"
+      "name": "Baron, Mariusz"
     },
     "team2": {
-      "name": "Cioch, Blazej"
+      "name": "Marud, Grzegorz"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1729,28 +1619,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTkRVNE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56368548",
-    "league": "International - TT Cup",
-    "team1": {
-      "name": "Yang, Ray"
-    },
-    "team2": {
-      "name": "Shah, Mitesh"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTmpjMU1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTkRRMk1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
