@@ -192,10 +192,10 @@
     "id": "",
     "league": "",
     "team1": {
-      "name": "Sacramento Kings"
+      "name": "Toronto Blue Jays"
     },
     "team2": {
-      "name": "Chicago Bulls"
+      "name": "Los Angeles Dodgers"
     },
     "kickoff_date": "2025-10-30",
     "kickoff_time": "01:00",
@@ -204,7 +204,11 @@
     "duration": "3.0",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjkucGhw",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTUucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTYucGhw",
         "label": "CH-EN"
       }
     ]
@@ -234,10 +238,10 @@
     "id": "",
     "league": "",
     "team1": {
-      "name": "Toronto Blue Jays"
+      "name": "Sacramento Kings"
     },
     "team2": {
-      "name": "Los Angeles Dodgers"
+      "name": "Chicago Bulls"
     },
     "kickoff_date": "2025-10-30",
     "kickoff_time": "01:00",
@@ -246,11 +250,7 @@
     "duration": "3.0",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTUucGhw",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTYucGhw",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjkucGhw",
         "label": "CH-EN"
       }
     ]
@@ -259,10 +259,10 @@
     "id": "",
     "league": "",
     "team1": {
-      "name": "Jacksonville State Gamecocks"
+      "name": "Atlanta Hawks"
     },
     "team2": {
-      "name": "Middle Tennessee Blue Raiders"
+      "name": "Brooklyn Nets"
     },
     "kickoff_date": "2025-10-30",
     "kickoff_time": "00:30",
@@ -271,7 +271,7 @@
     "duration": "3.0",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzAucGhw",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjgucGhw",
         "label": "CH-EN"
       }
     ]
@@ -301,10 +301,10 @@
     "id": "",
     "league": "",
     "team1": {
-      "name": "Atlanta Hawks"
+      "name": "Jacksonville State Gamecocks"
     },
     "team2": {
-      "name": "Brooklyn Nets"
+      "name": "Middle Tennessee Blue Raiders"
     },
     "kickoff_date": "2025-10-30",
     "kickoff_time": "00:30",
@@ -313,7 +313,7 @@
     "duration": "3.0",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjgucGhw",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzAucGhw",
         "label": "CH-EN"
       }
     ]
@@ -385,6 +385,27 @@
     "id": "",
     "league": "",
     "team1": {
+      "name": "Lyon"
+    },
+    "team2": {
+      "name": "Paris FC"
+    },
+    "kickoff_date": "2025-10-29",
+    "kickoff_time": "21:05",
+    "match_date": "2025-10-29",
+    "match_time": "21:05",
+    "duration": "3.0",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "league": "",
+    "team1": {
       "name": "Angers"
     },
     "team2": {
@@ -419,27 +440,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOC5waHA=",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "league": "",
-    "team1": {
-      "name": "Lyon"
-    },
-    "team2": {
-      "name": "Paris FC"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "21:05",
-    "match_date": "2025-10-29",
-    "match_time": "21:05",
-    "duration": "3.0",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTEucGhw",
         "label": "CH-EN"
       }
     ]
@@ -532,6 +532,27 @@
     "id": "",
     "league": "",
     "team1": {
+      "name": "Crystal Palace"
+    },
+    "team2": {
+      "name": "Liverpool"
+    },
+    "kickoff_date": "2025-10-29",
+    "kickoff_time": "20:45",
+    "match_date": "2025-10-29",
+    "match_time": "20:45",
+    "duration": "3.0",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "league": "",
+    "team1": {
       "name": "Fiorentina"
     },
     "team2": {
@@ -587,27 +608,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTAucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "league": "",
-    "team1": {
-      "name": "Crystal Palace"
-    },
-    "team2": {
-      "name": "Liverpool"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "20:45",
-    "match_date": "2025-10-29",
-    "match_time": "20:45",
-    "duration": "3.0",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
       }
     ]
@@ -839,90 +839,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "league": "",
-    "team1": {
-      "name": "New Jersey Devils"
-    },
-    "team2": {
-      "name": "Colorado Avalanche"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "02:00",
-    "match_date": "2025-10-29",
-    "match_time": "02:00",
-    "duration": "3.0",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "league": "",
-    "team1": {
-      "name": "Ottawa Senators"
-    },
-    "team2": {
-      "name": "Chicago Blackhawks"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "01:45",
-    "match_date": "2025-10-29",
-    "match_time": "01:45",
-    "duration": "3.0",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjAucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "league": "",
-    "team1": {
-      "name": "UTEP Miners"
-    },
-    "team2": {
-      "name": "Kennesaw State Owls"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-29",
-    "match_time": "01:00",
-    "duration": "4.2",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzAucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "league": "",
-    "team1": {
-      "name": "James Madison Dukes"
-    },
-    "team2": {
-      "name": "Texas State Bobcats"
-    },
-    "kickoff_date": "2025-10-29",
-    "kickoff_time": "01:00",
-    "match_date": "2025-10-29",
-    "match_time": "01:00",
-    "duration": "4.2",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMzEucGhw",
         "label": "CH-EN"
       }
     ]
