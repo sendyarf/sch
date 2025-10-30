@@ -657,6 +657,18 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=99",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd8",
         "label": "CH-1"
       },
@@ -687,6 +699,22 @@
     "match_time": "02:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=138",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=99",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
@@ -960,6 +988,33 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "KnvbBeker-SpartaRotterdam-Groningen",
+    "league": "Knvb Beker",
+    "team1": {
+      "name": "Sparta Rotterdam",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sparta-rotterdam.png"
+    },
+    "team2": {
+      "name": "Groningen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/groningen.png"
+    },
+    "kickoff_date": "2025-10-31",
+    "kickoff_time": "02:00",
+    "match_date": "2025-10-31",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=143",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersibBandung-PersisSolo",
