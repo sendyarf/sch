@@ -1094,32 +1094,7 @@
     "match_date": "2025-11-01",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=107",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Villarreal-RayoVallecano",
@@ -1382,7 +1357,12 @@
     "match_date": "2025-11-01",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81Mzc0NjAubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-BaliUnited-PersibBandung",
@@ -1400,7 +1380,16 @@
     "match_date": "2025-11-01",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MDA2MDUubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://list-govoet.blogspot.com/p/embed1.html",
+        "label": "CH-ID"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PSMMakassar-MaduraUnited",
@@ -1473,51 +1462,5 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "D1Féminin-MarseilleF-StrasbourgF",
-    "league": "D1 Féminin",
-    "team1": {
-      "name": "Marseille F",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
-    },
-    "team2": {
-      "name": "Strasbourg F",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/strasbourg.png"
-    },
-    "kickoff_date": "2025-11-01",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-01",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-SuperLeague-PersijaJakarta-PSBSBiakNumfor",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persija Jakarta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persija-jakarta.png"
-    },
-    "team2": {
-      "name": "PSBS Biak Numfor",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psbs-biak-numfor.png"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "19:00",
-    "match_date": "2025-10-31",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80NzIyNDEubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
   }
 ]
