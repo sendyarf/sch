@@ -1034,6 +1034,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=eleven3",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1394,56 +1398,6 @@
     "servers": []
   },
   {
-    "id": "NHL-EdmontonOilers-NewYorkRangers",
-    "league": "NHL",
-    "team1": {
-      "name": "Edmonton Oilers"
-    },
-    "team2": {
-      "name": "New York Rangers"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "08:00",
-    "match_date": "2025-10-31",
-    "match_time": "07:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=173",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTgucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LigaBetplayDimayor-Llaneros-Atl.Nacional",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "Llaneros"
-    },
-    "team2": {
-      "name": "Atl. Nacional"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "08:20",
-    "match_date": "2025-10-31",
-    "match_time": "08:10",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=82",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "NHL-SanJoseSharks-NewJerseyDevils",
     "league": "NHL",
     "team1": {
@@ -1494,6 +1448,27 @@
     ]
   },
   {
+    "id": "56457428",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Staniczek, Adam"
+    },
+    "team2": {
+      "name": "Michalik, Jerzy"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TnpBNE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "55829915",
     "league": "International Clubs - CONCACAF Central American Cup, Knockout Stage",
     "team1": {
@@ -1515,13 +1490,13 @@
     ]
   },
   {
-    "id": "56457420",
+    "id": "56531201",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Adamus, Kacper"
+      "name": "Wloczko, Krzysztof"
     },
     "team2": {
-      "name": "Pruszkowski, Jakub"
+      "name": "Martinko, Tomas"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1530,28 +1505,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0Tmprek5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56316681",
-    "league": "USA - AHL",
-    "team1": {
-      "name": "Coachella Valley Firebirds"
-    },
-    "team2": {
-      "name": "San Diego Gulls"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRJNE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0T0RZMk9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
