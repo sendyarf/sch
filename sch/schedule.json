@@ -803,12 +803,7 @@
     "match_date": "2025-10-31",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Udinese-Atalanta",
@@ -1399,181 +1394,6 @@
     "servers": []
   },
   {
-    "id": "LigaBetplayDimayor-U.Magdalena-Tolima",
-    "league": "Colombia: Primera A",
-    "team1": {
-      "name": "U. Magdalena"
-    },
-    "team2": {
-      "name": "Tolima"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "04:00",
-    "match_date": "2025-10-31",
-    "match_time": "03:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=81",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CopaSudamericana-Lanus(Arg)-U.DeChile(Chi)",
-    "league": "Copa Sudamericana",
-    "team1": {
-      "name": "Lanus (Arg)"
-    },
-    "team2": {
-      "name": "U. De Chile (Chi)"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "05:00",
-    "match_date": "2025-10-31",
-    "match_time": "04:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NBA-CharlotteHornets-OrlandoMagic",
-    "league": "NBA",
-    "team1": {
-      "name": "Charlotte Hornets"
-    },
-    "team2": {
-      "name": "Orlando Magic"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "06:00",
-    "match_date": "2025-10-31",
-    "match_time": "05:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NHL-BostonBruins-BuffaloSabres",
-    "league": "NHL",
-    "team1": {
-      "name": "Boston Bruins"
-    },
-    "team2": {
-      "name": "Buffalo Sabres"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "06:00",
-    "match_date": "2025-10-31",
-    "match_time": "05:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=161",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTAucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NHL-OttawaSenators-CalgaryFlames",
-    "league": "NHL",
-    "team1": {
-      "name": "Ottawa Senators"
-    },
-    "team2": {
-      "name": "Calgary Flames"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "06:00",
-    "match_date": "2025-10-31",
-    "match_time": "05:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=162",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NHL-PhiladelphiaFlyers-NashvillePredators",
-    "league": "NHL",
-    "team1": {
-      "name": "Philadelphia Flyers"
-    },
-    "team2": {
-      "name": "Nashville Predators"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "06:00",
-    "match_date": "2025-10-31",
-    "match_time": "05:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=163",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTMucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NHL-TampaBayLightning-DallasStars",
-    "league": "NHL",
-    "team1": {
-      "name": "Tampa Bay Lightning"
-    },
-    "team2": {
-      "name": "Dallas Stars"
-    },
-    "kickoff_date": "2025-10-31",
-    "kickoff_time": "06:00",
-    "match_date": "2025-10-31",
-    "match_time": "05:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=164",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "LigaBetplayDimayor-Chico-AmericaDeCali",
     "league": "Colombia: Primera A",
     "team1": {
@@ -1809,6 +1629,10 @@
         "label": "CH-ES"
       },
       {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRnM055WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
       },
@@ -1902,6 +1726,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=82",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRJNU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   },
@@ -1956,13 +1784,13 @@
     ]
   },
   {
-    "id": "56464633",
-    "league": "International - Modus Super Series",
+    "id": "56114168",
+    "league": "USA - USL Super League, Women",
     "team1": {
-      "name": "Robertson, Scott"
+      "name": "Spokane Zephyr FC"
     },
     "team2": {
-      "name": "Coulson, Derek"
+      "name": "Carolina Uslw League"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1971,7 +1799,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRrMU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TlRFd09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55829915",
+    "league": "International Clubs - CONCACAF Central American Cup, Knockout Stage",
+    "team1": {
+      "name": "CD Olimpia"
+    },
+    "team2": {
+      "name": "LD Alajuelense"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRVeE1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1998,13 +1847,13 @@
     ]
   },
   {
-    "id": "56499251",
-    "league": "International - TT Cup",
+    "id": "56316681",
+    "league": "USA - AHL",
     "team1": {
-      "name": "Chen, Jining"
+      "name": "Coachella Valley Firebirds"
     },
     "team2": {
-      "name": "Beckett, Christopher"
+      "name": "San Diego Gulls"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2013,7 +1862,91 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TnpBeU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRJNE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56316688",
+    "league": "Colombia - Liga Professional",
+    "team1": {
+      "name": "Sabios de Manizales"
+    },
+    "team2": {
+      "name": "Motilones Del Norte"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TkRBMk9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56047663",
+    "league": "USA - College",
+    "team1": {
+      "name": "UT San Antonio Roadrunners"
+    },
+    "team2": {
+      "name": "Tulane Green Wave"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelExT0RBek55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56457410",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Mugowski, Arkadiusz"
+    },
+    "team2": {
+      "name": "Piecowski, Milosz"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TnpFeU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56457404",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Chojnacki, Pawel"
+    },
+    "team2": {
+      "name": "Staniczek, Adam"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TnpBNE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
