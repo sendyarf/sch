@@ -256,22 +256,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
       }
@@ -963,69 +947,6 @@
     "match_time": "15:20",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "BetfredSuperLeague-Panserraikos-PAOK",
-    "league": "Betfred Super League",
-    "team1": {
-      "name": "Panserraikos"
-    },
-    "team2": {
-      "name": "PAOK"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-03",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=149",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Castellon-Malaga",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Castellon"
-    },
-    "team2": {
-      "name": "Malaga"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-03",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ProLeague-Saint-Trond-Antwerp",
-    "league": "Pro League",
-    "team1": {
-      "name": "Saint-Trond"
-    },
-    "team2": {
-      "name": "Antwerp"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-03",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "EcuadorLigapro-Vinotinto-Manta",
