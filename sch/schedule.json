@@ -66,28 +66,7 @@
     "match_date": "2025-11-04",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Oviedo-Osasuna",
@@ -362,6 +341,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -456,6 +439,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br4",
         "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMy5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -539,6 +526,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br5",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -576,6 +567,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNC5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTAucGhw",
+        "label": "CH-ES"
       }
     ]
   },
@@ -609,6 +604,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br2",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -667,6 +666,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd8",
         "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -766,69 +769,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Ligue2-PauFC-Troyes",
-    "league": "Ligue 2",
-    "team1": {
-      "name": "Pau FC"
-    },
-    "team2": {
-      "name": "Troyes"
-    },
-    "kickoff_date": "2025-11-04",
-    "kickoff_time": "02:45",
-    "match_date": "2025-11-04",
-    "match_time": "02:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "TorneoLPF-DefensayJusticia-Huracan",
-    "league": "Torneo LPF",
-    "team1": {
-      "name": "Defensa y Justicia"
-    },
-    "team2": {
-      "name": "Huracan"
-    },
-    "kickoff_date": "2025-11-04",
-    "kickoff_time": "02:45",
-    "match_date": "2025-11-04",
-    "match_time": "02:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=76",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "TorneoLPF-Platense-SarmientoJunin",
-    "league": "Torneo LPF",
-    "team1": {
-      "name": "Platense"
-    },
-    "team2": {
-      "name": "Sarmiento Junin"
-    },
-    "kickoff_date": "2025-11-04",
-    "kickoff_time": "02:45",
-    "match_date": "2025-11-04",
-    "match_time": "02:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=75",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "LigaPortugal-GilVicente-SantaClara",
@@ -1377,13 +1317,13 @@
     ]
   },
   {
-    "id": "55556425",
-    "league": "Argentina - Primera LPF, Clausura",
+    "id": "55356997",
+    "league": "Brazil - Serie B",
     "team1": {
-      "name": "CA Central Cordoba SE"
+      "name": "Volta Redonda RJ"
     },
     "team2": {
-      "name": "Racing Club Avellaneda"
+      "name": "Botafogo SP"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1392,28 +1332,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTlRJMk5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "55431973",
-    "league": "Chile - Primera Division",
-    "team1": {
-      "name": "CD Palestino"
-    },
-    "team2": {
-      "name": "Deportes Limache"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TmpBNU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTlRJNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1440,13 +1359,13 @@
     ]
   },
   {
-    "id": "55356997",
-    "league": "Brazil - Serie B",
+    "id": "55431973",
+    "league": "Chile - Primera Division",
     "team1": {
-      "name": "Volta Redonda RJ"
+      "name": "CD Palestino"
     },
     "team2": {
-      "name": "Botafogo SP"
+      "name": "Deportes Limache"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1455,7 +1374,49 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTlRJNU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TmpBNU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55556425",
+    "league": "Argentina - Primera LPF, Clausura",
+    "team1": {
+      "name": "CA Central Cordoba SE"
+    },
+    "team2": {
+      "name": "Racing Club Avellaneda"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTlRJMk5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56798885",
+    "league": "USA - NCAA Women",
+    "team1": {
+      "name": "Charlotte 49ers W."
+    },
+    "team2": {
+      "name": "Auburn Tigers W."
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TnpJMU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1482,13 +1443,13 @@
     ]
   },
   {
-    "id": "56287762",
-    "league": "Colombia - Copa Colombia, Knockout Stage",
+    "id": "55930555",
+    "league": "Bolivia - Liga Profesional Boliviano",
     "team1": {
-      "name": "Envigado"
+      "name": "Club Bolivar"
     },
     "team2": {
-      "name": "Independiente Medellin"
+      "name": "Univ de Vinto"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1497,7 +1458,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TWpVMk1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TVRBd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1524,27 +1485,6 @@
     ]
   },
   {
-    "id": "55930555",
-    "league": "Bolivia - Liga Profesional Boliviano",
-    "team1": {
-      "name": "Club Bolivar"
-    },
-    "team2": {
-      "name": "Univ de Vinto"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TVRBd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "56798862",
     "league": "USA - NCAA Women",
     "team1": {
@@ -1566,13 +1506,13 @@
     ]
   },
   {
-    "id": "56746232",
-    "league": "International - TT Elite Series",
+    "id": "56738503",
+    "league": "Colombia - Liga Professional",
     "team1": {
-      "name": "Urban, Wojciech"
+      "name": "Paisas Basktball"
     },
     "team2": {
-      "name": "Pruszkowski, Jakub"
+      "name": "Sabios de Manizales"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1581,7 +1521,28 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TnpjeE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TlRjeU55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56586687",
+    "league": "Uruguay - LUB",
+    "team1": {
+      "name": "Club Atletico Welcome"
+    },
+    "team2": {
+      "name": "CA Penarol"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TlRjNU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1603,6 +1564,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TlRNM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56746232",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Urban, Wojciech"
+    },
+    "team2": {
+      "name": "Pruszkowski, Jakub"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TnpjeE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
