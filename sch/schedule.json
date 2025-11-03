@@ -861,127 +861,6 @@
     "servers": []
   },
   {
-    "id": "CampeonatoItaúChile-Everton-U.Espanola",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "Everton"
-    },
-    "team2": {
-      "name": "U. Espanola"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "06:30",
-    "match_date": "2025-11-03",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "MLS-ColumbusCrew-Cincinnati",
-    "league": "USA - MLS",
-    "team1": {
-      "name": "Columbus Crew"
-    },
-    "team2": {
-      "name": "Cincinnati"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "06:30",
-    "match_date": "2025-11-03",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=178",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "TorneoLPF-RiverPlate-GimnasiaL.P.",
-    "league": "Torneo LPF",
-    "team1": {
-      "name": "River Plate"
-    },
-    "team2": {
-      "name": "Gimnasia L.P."
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "06:30",
-    "match_date": "2025-11-03",
-    "match_time": "06:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=76",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NBA-NewYorkKnicks-ChicagoBulls",
-    "league": "NBA",
-    "team1": {
-      "name": "New York Knicks"
-    },
-    "team2": {
-      "name": "Chicago Bulls"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "07:00",
-    "match_date": "2025-11-03",
-    "match_time": "06:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=179",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNzAucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NHL-PhiladelphiaFlyers-CalgaryFlames",
-    "league": "NHL",
-    "team1": {
-      "name": "Philadelphia Flyers"
-    },
-    "team2": {
-      "name": "Calgary Flames"
-    },
-    "kickoff_date": "2025-11-03",
-    "kickoff_time": "07:00",
-    "match_date": "2025-11-03",
-    "match_time": "06:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=180",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "LigaMx-Pachuca-Guadalajara",
     "league": "Liga Mx",
     "team1": {
@@ -1849,27 +1728,6 @@
     ]
   },
   {
-    "id": "56446381",
-    "league": "USA - USL, League One, Playoffs",
-    "team1": {
-      "name": "Spokane Velocity FC"
-    },
-    "team2": {
-      "name": "South Georgia Tormenta"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TWpZME55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "56386006",
     "league": "USA - USL, Championship, Playoffs",
     "team1": {
@@ -1891,13 +1749,13 @@
     ]
   },
   {
-    "id": "55817374",
-    "league": "Mexico - Liga Mx, Apertura",
+    "id": "56446381",
+    "league": "USA - USL, League One, Playoffs",
     "team1": {
-      "name": "CF Pachuca"
+      "name": "Spokane Velocity FC"
     },
     "team2": {
-      "name": "Guadalajara Chivas"
+      "name": "South Georgia Tormenta"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1906,7 +1764,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TWprMk15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TWpZME55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1954,13 +1812,13 @@
     ]
   },
   {
-    "id": "55302730",
-    "league": "Costa Rica - Primera Division, Apertura",
+    "id": "56714978",
+    "league": "Challenger - Taipei, Chinese Taipei , Qualifying",
     "team1": {
-      "name": "Municipal Liberia"
+      "name": "Vrbensky, Michael"
     },
     "team2": {
-      "name": "LD Alajuelense"
+      "name": "Zhu, Michael"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1969,28 +1827,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TVRBMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56709682",
-    "league": "Challenger - Matsuyama, Japan, Qualification",
-    "team1": {
-      "name": "Kikuchi, Yuta"
-    },
-    "team2": {
-      "name": "Nakagawa, Shunsuke"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TXpnek5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TXpneE1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -2017,13 +1854,13 @@
     ]
   },
   {
-    "id": "56718812",
-    "league": "Challenger - Matsuyama, Japan, Qualification",
+    "id": "56719363",
+    "league": "Challenger - Taipei, Chinese Taipei , Qualifying",
     "team1": {
-      "name": "Matsuda, Ryuki"
+      "name": "Park, Uisung"
     },
     "team2": {
-      "name": "Tange, Saki"
+      "name": "Singh, Digvijay Pratap"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2032,7 +1869,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TXpnek1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TXpneE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -2059,27 +1896,6 @@
     ]
   },
   {
-    "id": "56334708",
-    "league": "USA - AHL",
-    "team1": {
-      "name": "San Diego Gulls"
-    },
-    "team2": {
-      "name": "Colorado Eagles"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelE0TURjd01DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "50966063",
     "league": "USA - NFL",
     "team1": {
@@ -2101,13 +1917,13 @@
     ]
   },
   {
-    "id": "56672550",
+    "id": "56672562",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Baron, Mariusz"
+      "name": "Schaniel Krzysztof"
     },
     "team2": {
-      "name": "Pruszkowski, Jakub"
+      "name": "Urban, Wojciech"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -2116,86 +1932,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TlRJMU5DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56672566",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Paszkiewicz, Michal"
-    },
-    "team2": {
-      "name": "Slosarczyk, Pawel"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TlRBek9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56446306",
-    "league": "Unknown League",
-    "team1": {
-      "name": "Unknown Team"
-    },
-    "team2": {
-      "name": "Unknown Team"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": []
-  },
-  {
-    "id": "56080601",
-    "league": "Tournaments - IEM Chengdu",
-    "team1": {
-      "name": "FURIA"
-    },
-    "team2": {
-      "name": "Lynn Vision"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWemJHTnpZaVp3WVhKbGJuUTlaR1Z0Ynk1cGJuQnNZWGx1WlhRdVkyOXQ=",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56080605",
-    "league": "Tournaments - IEM Chengdu",
-    "team1": {
-      "name": "TYLOO"
-    },
-    "team2": {
-      "name": "Falcons Esports"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWemJHTnpKbkJoY21WdWREMWtaVzF2TG1sdWNHeGhlVzVsZEM1amIyMD0=",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3TlRJMk5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
