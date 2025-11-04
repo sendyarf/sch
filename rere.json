@@ -1,1 +1,861 @@
-[]
+[
+  {
+    "id": "LigueDesChampions-Naples-EintrachtFrancfort",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Naples"
+    },
+    "team2": {
+      "name": "Eintracht Francfort"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "00:45",
+    "match_date": "2025-11-05",
+    "match_time": "00:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=126",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=139",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-SlaviaPrague-Arsenal",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Slavia Prague"
+    },
+    "team2": {
+      "name": "Arsenal"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "00:45",
+    "match_date": "2025-11-05",
+    "match_time": "00:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Birmingham-Millwall",
+    "league": "Championship",
+    "team1": {
+      "name": "Birmingham"
+    },
+    "team2": {
+      "name": "Millwall"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-BristolCity-Blackburn",
+    "league": "Championship",
+    "team1": {
+      "name": "Bristol City"
+    },
+    "team2": {
+      "name": "Blackburn"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=171",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Charlton-WestBrom",
+    "league": "Championship",
+    "team1": {
+      "name": "Charlton"
+    },
+    "team2": {
+      "name": "West Brom"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=172",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Derby-Hull",
+    "league": "Championship",
+    "team1": {
+      "name": "Derby"
+    },
+    "team2": {
+      "name": "Hull"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=173",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Ipswich-Watford",
+    "league": "Championship",
+    "team1": {
+      "name": "Ipswich"
+    },
+    "team2": {
+      "name": "Watford"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=174",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Leicester-Middlesbrough",
+    "league": "Championship",
+    "team1": {
+      "name": "Leicester"
+    },
+    "team2": {
+      "name": "Middlesbrough"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=175",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-OxfordUtd-Stoke",
+    "league": "Championship",
+    "team1": {
+      "name": "Oxford Utd"
+    },
+    "team2": {
+      "name": "Stoke"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-05",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=176",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Championship-Coventry-SheffieldUtd",
+    "league": "Championship",
+    "team1": {
+      "name": "Coventry"
+    },
+    "team2": {
+      "name": "Sheffield Utd"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-MultiplexLiguedesChampions",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Multiplex Ligue des Champions"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-Atl.Madrid-RoyaleUnionSG",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Atl. Madrid"
+    },
+    "team2": {
+      "name": "Royale Union SG"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=36",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-Bodo/Glimt-Monaco",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Bodo/Glimt"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=168",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=92",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-Juventus-Sporting",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Juventus"
+    },
+    "team2": {
+      "name": "Sporting"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=34",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=139",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=89",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-Liverpool-RealMadrid",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Liverpool"
+    },
+    "team2": {
+      "name": "Real Madrid"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=68",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-Olympiakos-PSV",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Olympiakos"
+    },
+    "team2": {
+      "name": "PSV"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=37",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=167",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=90",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-PSG-BayernMunich",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "PSG"
+    },
+    "team2": {
+      "name": "Bayern Munich"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigueDesChampions-Tottenham-FCCopenhague",
+    "league": "Ligue Des Champions",
+    "team1": {
+      "name": "Tottenham"
+    },
+    "team2": {
+      "name": "FC Copenhague"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-05",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=35",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=166",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=126",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=93",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EcuadorLigapro-LDUQuito-Orense",
+    "league": "Ecuador Ligapro",
+    "team1": {
+      "name": "LDU Quito"
+    },
+    "team2": {
+      "name": "Orense"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-05",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NHL-BuffaloSabres-UtahMammoth",
+    "league": "NHL",
+    "team1": {
+      "name": "Buffalo Sabres"
+    },
+    "team2": {
+      "name": "Utah Mammoth"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-05",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-MontrealCanadiens-PhiladelphiaFlyers",
+    "league": "NHL",
+    "team1": {
+      "name": "Montreal Canadiens"
+    },
+    "team2": {
+      "name": "Philadelphia Flyers"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-05",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=182",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-NewYorkIslanders-BostonBruins",
+    "league": "NHL",
+    "team1": {
+      "name": "New York Islanders"
+    },
+    "team2": {
+      "name": "Boston Bruins"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-05",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=183",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-NewYorkRangers-CarolinaHurricanes",
+    "league": "NHL",
+    "team1": {
+      "name": "New York Rangers"
+    },
+    "team2": {
+      "name": "Carolina Hurricanes"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-05",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=184",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-TorontoRaptors-MilwaukeeBucks",
+    "league": "NBA",
+    "team1": {
+      "name": "Toronto Raptors"
+    },
+    "team2": {
+      "name": "Milwaukee Bucks"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-05",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=185",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-AtlantaHawks-OrlandoMagic",
+    "league": "NBA",
+    "team1": {
+      "name": "Atlanta Hawks"
+    },
+    "team2": {
+      "name": "Orlando Magic"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-05",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=186",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-ChicagoBulls-Philadelphia76ers",
+    "league": "NBA",
+    "team1": {
+      "name": "Chicago Bulls"
+    },
+    "team2": {
+      "name": "Philadelphia 76ers"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-05",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=187",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewOrleansPelicans-CharlotteHornets",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans"
+    },
+    "team2": {
+      "name": "Charlotte Hornets"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-05",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=188",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-DallasStars-EdmontonOilers",
+    "league": "NHL",
+    "team1": {
+      "name": "Dallas Stars"
+    },
+    "team2": {
+      "name": "Edmonton Oilers"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-05",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=189",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-MinnesotaWild-NashvillePredators",
+    "league": "NHL",
+    "team1": {
+      "name": "Minnesota Wild"
+    },
+    "team2": {
+      "name": "Nashville Predators"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-05",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=190",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-ColoradoAvalanche-TampaBayLightning",
+    "league": "NHL",
+    "team1": {
+      "name": "Colorado Avalanche"
+    },
+    "team2": {
+      "name": "Tampa Bay Lightning"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-05",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=191",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-GoldenStateWarriors-PhoenixSuns",
+    "league": "NBA",
+    "team1": {
+      "name": "Golden State Warriors"
+    },
+    "team2": {
+      "name": "Phoenix Suns"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-05",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=192",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-AnaheimDucks-FloridaPanthers",
+    "league": "NHL",
+    "team1": {
+      "name": "Anaheim Ducks"
+    },
+    "team2": {
+      "name": "Florida Panthers"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-05",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=193",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-VegasGoldenKnights-DetroitRedWings",
+    "league": "NHL",
+    "team1": {
+      "name": "Vegas Golden Knights"
+    },
+    "team2": {
+      "name": "Detroit Red Wings"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-05",
+    "match_time": "10:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=194",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-LosAngelesKings-WinnipegJets",
+    "league": "NHL",
+    "team1": {
+      "name": "Los Angeles Kings"
+    },
+    "team2": {
+      "name": "Winnipeg Jets"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "10:30",
+    "match_date": "2025-11-05",
+    "match_time": "10:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=195",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-LosAngelesClippers-OklahomaCityThunder",
+    "league": "NBA",
+    "team1": {
+      "name": "Los Angeles Clippers"
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder"
+    },
+    "kickoff_date": "2025-11-05",
+    "kickoff_time": "11:00",
+    "match_date": "2025-11-05",
+    "match_time": "11:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=196",
+        "label": "CH-US"
+      }
+    ]
+  }
+]
