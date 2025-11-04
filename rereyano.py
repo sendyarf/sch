@@ -24,7 +24,7 @@ def convert_paris_to_jakarta(date_str, time_str):
     return jakarta_date, jakarta_time_str
 
 def scrape_rereyano():
-    url = "https://rereyano.ru/"
+    url = "https://bolaloca.my/"
     response = requests.get(url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
