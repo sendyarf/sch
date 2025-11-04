@@ -142,6 +142,14 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
       }
     ]
   },
@@ -175,6 +183,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNS5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
+        "label": "CH-NL"
       }
     ]
   },
@@ -233,6 +245,14 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNC5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=cbssports",
+        "label": "CH-EN"
       }
     ]
   },
@@ -274,6 +294,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTAucGhw",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
+        "label": "CH-NL"
       }
     ]
   },
@@ -344,6 +368,14 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMi5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
       }
     ]
   },
@@ -361,7 +393,24 @@
     "match_date": "2025-11-05",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "ChampionsLeague-Pafos-Villarreal",
@@ -987,27 +1036,6 @@
     ]
   },
   {
-    "id": "55981323",
-    "league": "USA - NCAA",
-    "team1": {
-      "name": "Utah Utes"
-    },
-    "team2": {
-      "name": "San Jose State Spartans"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3T1RNeU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "55977949",
     "league": "USA - NCAA",
     "team1": {
@@ -1024,6 +1052,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3T1RZNU15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55801843",
+    "league": "USA - MLS, Playoffs",
+    "team1": {
+      "name": "Seattle Sounders"
+    },
+    "team2": {
+      "name": "Minnesota United"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTlRNNE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1050,13 +1099,13 @@
     ]
   },
   {
-    "id": "55801843",
-    "league": "USA - MLS, Playoffs",
+    "id": "55981323",
+    "league": "USA - NCAA",
     "team1": {
-      "name": "Seattle Sounders"
+      "name": "Utah Utes"
     },
     "team2": {
-      "name": "Minnesota United"
+      "name": "San Jose State Spartans"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1065,7 +1114,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelEzTlRNNE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3T1RNeU9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1176,27 +1225,6 @@
     ]
   },
   {
-    "id": "55977984",
-    "league": "USA - NCAA",
-    "team1": {
-      "name": "Washington St Cougars"
-    },
-    "team2": {
-      "name": "Idaho Vandals"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3T1RRNE1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "55977987",
     "league": "USA - NCAA",
     "team1": {
@@ -1213,6 +1241,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3T1RZd01TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55977984",
+    "league": "USA - NCAA",
+    "team1": {
+      "name": "Washington St Cougars"
+    },
+    "team2": {
+      "name": "Idaho Vandals"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV3T1RRNE1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1323,6 +1372,27 @@
     ]
   },
   {
+    "id": "56812906",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Myszewski, Adrian"
+    },
+    "team2": {
+      "name": "Trela, Mateusz"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV4TURNeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "56746363",
     "league": "International - TT Elite Series",
     "team1": {
@@ -1382,43 +1452,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFdWemJHTnpZaVp3WVhKbGJuUTlaR1Z0Ynk1cGJuQnNZWGx1WlhRdVkyOXQ=",
         "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-SuperLeague-BaliUnited-PersibBandung",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Bali United"
-    },
-    "team2": {
-      "name": "Persib Bandung"
-    },
-    "kickoff_date": "2025-11-01",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-01",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MDA2MDUubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly82MDE2YzEyODE0MTAzZTI1NTNmMzU0NDkyZDcxMTM0ZS52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlLzk2NTRlMzFhY2Y5MjFmYWY2MTE5NTUwNjA4YjAyNjFjLm0zdTg/dHhTZWNyZXQ9MTFhOTQ2NWVjZmMxOWQxNGFlODUzMzE4NmJjMWY0NGYmdHhUaW1lPTY5MDVmNThl",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1QamQ1Tzdxc3lqd2dIM2NvQkFHOTJtOWpOVUpMZUhWblRVRnZTalJ1ZGtkbE1XZHhVMVoxVjNneVkzWkdaV296TTBSNWNtNVJLelYxUmtoR01VeEZNV2xZTW5VME56aDRUMWhsTmpacFVsRk5Sa2wxVEdkdFRIcFRlV3M=",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLjU4OTB2LmNvbS9saXZlL3NkLTEtNDM3OTI0NS5tM3U4P3R4U2VjcmV0PTE1OTlhYTdhNzhiNTcyNjEwODM4ZWRiYTk4YWRkODBiJnR4VGltZT02OTA2MzUyQg==",
-        "label": "CH-ID"
       }
     ]
   }
