@@ -93,16 +93,7 @@
     "match_date": "2025-11-05",
     "match_time": "00:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Atl.Madrid-RoyaleUnionSG",
@@ -118,12 +109,7 @@
     "match_date": "2025-11-05",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Bodo/Glimt-Monaco",
@@ -155,16 +141,7 @@
     "match_date": "2025-11-05",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt4",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Liverpool-RealMadrid",
@@ -180,12 +157,7 @@
     "match_date": "2025-11-05",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-OlympiacosPiraeus-PSV",
@@ -217,16 +189,7 @@
     "match_date": "2025-11-05",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Tottenham-FCCopenhagen",
@@ -242,16 +205,7 @@
     "match_date": "2025-11-05",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Pafos-Villarreal",
@@ -568,7 +522,12 @@
     "match_date": "2025-11-05",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MDA2MDUubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PSBSBiakNumfor-Persita",
