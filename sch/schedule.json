@@ -674,20 +674,7 @@
     "match_date": "2025-11-08",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-Marseille-Brest",
@@ -910,20 +897,7 @@
     "match_date": "2025-11-08",
     "match_time": "02:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Bundesliga-BayerLeverkusen-Heidenheim",
@@ -1166,20 +1140,7 @@
     "match_date": "2025-11-08",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Como-Cagliari",
@@ -1215,6 +1176,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv1",
         "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1240,6 +1205,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=000",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1293,6 +1262,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1346,6 +1319,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br3",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -2038,94 +2015,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "EuroLeague-Barcelone-RealMadrid",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Barcelona"
-    },
-    "team2": {
-      "name": "Real Madrid"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "02:30",
-    "match_date": "2025-11-08",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=62",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Mirandes-Gijon",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Mirandes"
-    },
-    "team2": {
-      "name": "Gijon"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "02:30",
-    "match_date": "2025-11-08",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaAUFUruguaya-Miramar-RacingMontevideo",
-    "league": "Liga AUF Uruguaya",
-    "team1": {
-      "name": "Miramar"
-    },
-    "team2": {
-      "name": "Racing Montevideo"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "02:30",
-    "match_date": "2025-11-08",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=109",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=74",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ProLeague-Dender-Zulte-Waregem",
-    "league": "Pro League",
-    "team1": {
-      "name": "Dender"
-    },
-    "team2": {
-      "name": "Zulte-Waregem"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "02:45",
-    "match_date": "2025-11-08",
-    "match_time": "02:35",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "Championship-Watford-BristolCity",
@@ -7868,6 +7757,48 @@
     ]
   },
   {
+    "id": "56619878",
+    "league": "USA - NCAA",
+    "team1": {
+      "name": "Colgate Raiders"
+    },
+    "team2": {
+      "name": "Northeastern Huskies"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TnprME5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "55645534",
+    "league": "Chile - Primera Division",
+    "team1": {
+      "name": "Union La Calera"
+    },
+    "team2": {
+      "name": "Deportes Iquique"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TnpRNE9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "56382678",
     "league": "Paraguay - Primera Division, Clausura",
     "team1": {
@@ -7931,13 +7862,13 @@
     ]
   },
   {
-    "id": "56619878",
-    "league": "USA - NCAA",
+    "id": "56318363",
+    "league": "USA - AHL",
     "team1": {
-      "name": "Colgate Raiders"
+      "name": "Cleveland Monsters"
     },
     "team2": {
-      "name": "Northeastern Huskies"
+      "name": "Providence Bruins"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -7946,19 +7877,19 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TnprME5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TURZME9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
   },
   {
-    "id": "56905216",
-    "league": "Portugal - 1a Divisao",
+    "id": "57013615",
+    "league": "International - TT Elite Series",
     "team1": {
-      "name": "Sl Benfica"
+      "name": "Sikora, Mariusz"
     },
     "team2": {
-      "name": "Abc Braga / Uminho"
+      "name": "Natkaniec, Michal"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -7967,7 +7898,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TVRJeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6TURnMk5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -7994,13 +7925,13 @@
     ]
   },
   {
-    "id": "57069581",
-    "league": "International - TT Cup",
+    "id": "56957842",
+    "league": "International - Modus Super Series",
     "team1": {
-      "name": "Cerveny Jr, Tomas"
+      "name": "Hall, Graham"
     },
     "team2": {
-      "name": "Vich, Lukas"
+      "name": "Small, Alec"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -8009,28 +7940,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TnpVME1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "57013638",
-    "league": "International - TT Elite Series",
-    "team1": {
-      "name": "Tkaczyk, Henryk"
-    },
-    "team2": {
-      "name": "Kubiak, Artur"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6TURnMk5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TmpVME1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -8052,27 +7962,6 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5d2JHRjVaWEl1ZEhkcGRHTm9MblIyTHo5amFHRnVibVZzUFhSeU0ycHZkU1p3WVhKbGJuUTlaR1Z0Ynk1cGJuQnNZWGx1WlhRdVkyOXQ=",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56957832",
-    "league": "International - Modus Super Series",
-    "team1": {
-      "name": "Cole, Jarred"
-    },
-    "team2": {
-      "name": "Ward, Harry"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV5TmpVME1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]

@@ -712,20 +712,7 @@
     "match_date": "2025-11-08",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-Marseille-Brest",
@@ -964,20 +951,7 @@
     "match_date": "2025-11-08",
     "match_time": "02:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=91",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Bundesliga-BayerLeverkusen-Heidenheim",
@@ -1236,20 +1210,7 @@
     "match_date": "2025-11-08",
     "match_time": "02:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Como-Cagliari",
@@ -1287,6 +1248,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv1",
         "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1314,6 +1279,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=000",
         "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1369,6 +1338,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1424,6 +1397,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br3",
         "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -2170,29 +2147,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "EuroLeague-Barcelone-RealMadrid",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Barcelona",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "02:30",
-    "match_date": "2025-11-08",
-    "match_time": "02:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=62",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "MLS-Charlotte-NewYorkCity",
