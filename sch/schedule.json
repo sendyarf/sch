@@ -2085,119 +2085,6 @@
     "servers": []
   },
   {
-    "id": "Bundesliga2-Bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Bundesliga 2 konferenz"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-08",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Bundesliga2-DynamoDresde-Nurnberg",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Dynamo Dresde"
-    },
-    "team2": {
-      "name": "Nurnberg"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-08",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=113",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Bundesliga2-GreutherFürth-Münster",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Greuther Fürth"
-    },
-    "team2": {
-      "name": "Münster"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-08",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=114",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "EuroLeague-AnadoluEfes-Milano",
-    "league": "EuroLeague",
-    "team1": {
-      "name": "Anadolu Efes"
-    },
-    "team2": {
-      "name": "Milano"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-08",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=139",
-        "label": "CH-IT"
-      }
-    ]
-  },
-  {
-    "id": "SaudiProLeague-AlNajma-Al-Hilal",
-    "league": "Saudi Pro League",
-    "team1": {
-      "name": "Al Najma"
-    },
-    "team2": {
-      "name": "Al-Hilal"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-08",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=70",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=55",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "EuroLeague-ZalgirisKaunas-Valence",
     "league": "EuroLeague",
     "team1": {
@@ -3661,6 +3548,31 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=152",
         "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-Bundesliga2konferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "Bundesliga 2 konferenz"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-08",
+    "kickoff_time": "19:00",
+    "match_date": "2025-11-08",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
       }
     ]
   },
