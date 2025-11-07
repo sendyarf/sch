@@ -1195,6 +1195,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=sporttv2",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1515,6 +1519,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br6",
         "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNy5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -2053,27 +2061,31 @@
     "servers": []
   },
   {
-    "id": "Moto2-GrandPrixduPortugalEssaisdesMoto2",
-    "league": "Moto2",
+    "id": "formula1-GrandPrixdeSaoPauloEssaislibres1",
+    "league": "formula 1",
     "team1": {
-      "name": "Grand Prix du Portugal Essais des Moto 2"
+      "name": "Grand Prix de Sao Paulo Essais libres 1"
     },
     "team2": {
       "name": ""
     },
     "kickoff_date": "2025-11-07",
-    "kickoff_time": "21:05",
+    "kickoff_time": "21:30",
     "match_date": "2025-11-07",
-    "match_time": "20:55",
+    "match_time": "21:20",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=14",
+        "url": "https://multi.govoet.my.id/?envivo=13",
         "label": "CH-FR"
       },
       {
-        "url": "https://multi.govoet.my.id/?envivo=56",
+        "url": "https://multi.govoet.my.id/?envivo=60",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
       }
     ]
   },
@@ -3604,6 +3616,31 @@
     ]
   },
   {
+    "id": "Moto2-GrandPrixduPortugalEssaislibres2desMoto2",
+    "league": "Moto2",
+    "team1": {
+      "name": "Grand Prix du Portugal Essais libres 2 des Moto 2"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-08",
+    "kickoff_time": "16:25",
+    "match_date": "2025-11-08",
+    "match_time": "16:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
     "id": "SuperLig-Gaziantep-Rizespor",
     "league": "Super Lig",
     "team1": {
@@ -3906,39 +3943,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=123",
         "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "formula1-GrandPrixdeSaoPauloEssaislibres1",
-    "league": "formula 1",
-    "team1": {
-      "name": "Grand Prix de Sao Paulo Essais libres 1"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "21:30",
-    "match_date": "2025-11-08",
-    "match_time": "21:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=13",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=60",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNDkucGhw",
-        "label": "CH-EN"
       }
     ]
   },
@@ -6498,6 +6502,39 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=152",
         "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "formula1-Formule1GPdeSaoPaulo",
+    "league": "formula 1",
+    "team1": {
+      "name": "Formule 1 GP de Sao Paulo"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-10",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-09",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=134",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=121",
+        "label": "CH-DE"
       }
     ]
   },
