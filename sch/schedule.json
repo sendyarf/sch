@@ -39,18 +39,6 @@
         "label": "CH-NA"
       },
       {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-3"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
       }
@@ -1489,14 +1477,6 @@
         "label": "CH-NA"
       },
       {
-        "url": "https://multi.govoet.my.id/?ss=hd6",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven2",
-        "label": "CH-2"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
       }
@@ -2013,35 +1993,6 @@
     "servers": []
   },
   {
-    "id": "MotoGP-GrandPrixduPortugalEssaisqualificatifs1et2desMotoGP",
-    "league": "MotoGP",
-    "team1": {
-      "name": "Grand Prix du Portugal Essais qualificatifs 1 et 2 des Moto GP"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "17:50",
-    "match_date": "2025-11-08",
-    "match_time": "17:40",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
     "id": "SuperLig-Gaziantep-Rizespor",
     "league": "Super Lig",
     "team1": {
@@ -2147,14 +2098,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=113",
         "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd10",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=eleven3",
-        "label": "CH-2"
       }
     ]
   },
@@ -2653,6 +2596,35 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=193",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-GrandPrixduPortugalSprintdesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Grand Prix du Portugal Sprint des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-08",
+    "kickoff_time": "22:00",
+    "match_date": "2025-11-08",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
       }
     ]
   },
