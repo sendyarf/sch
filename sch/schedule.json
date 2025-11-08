@@ -31,34 +31,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=57",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=155",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
       }
@@ -79,18 +51,6 @@
     "match_time": "21:50",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=35",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=130",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=59",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMi5waHA=",
         "label": "CH-EN"
@@ -450,12 +410,7 @@
     "match_date": "2025-11-08",
     "match_time": "22:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-FCVolendam-NACBreda",
@@ -1051,12 +1006,7 @@
     "match_date": "2025-11-08",
     "match_time": "20:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Lecce-Verona",
@@ -1072,12 +1022,7 @@
     "match_date": "2025-11-08",
     "match_time": "20:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "SerieA-Juventus-Torino",
@@ -1351,26 +1296,6 @@
     "match_time": "22:05",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
@@ -1832,375 +1757,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "BetfredSuperLeague-Panetolikos-AELLarissa",
-    "league": "Betfred Super League",
-    "team1": {
-      "name": "Panetolikos"
-    },
-    "team2": {
-      "name": "AEL Larissa"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=148",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Middlesbrough-Birmingham",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Middlesbrough"
-    },
-    "team2": {
-      "name": "Birmingham"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=190",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Norwich-Leicester",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Norwich"
-    },
-    "team2": {
-      "name": "Leicester"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=191",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-SheffieldUtd-QPR",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Sheffield Utd"
-    },
-    "team2": {
-      "name": "QPR"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=197",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Southampton-SheffieldWed",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Southampton"
-    },
-    "team2": {
-      "name": "Sheffield Wed"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=194",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Stoke-Coventry",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Stoke"
-    },
-    "team2": {
-      "name": "Coventry"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=192",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Swansea-Ipswich",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Swansea"
-    },
-    "team2": {
-      "name": "Ipswich"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=195",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-WestBrom-OxfordUtd",
-    "league": "England - Championship",
-    "team1": {
-      "name": "West Brom"
-    },
-    "team2": {
-      "name": "Oxford Utd"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=196",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Wrexham-Charlton",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Wrexham"
-    },
-    "team2": {
-      "name": "Charlton"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=193",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "MotoGP-GrandPrixduPortugalSprintdesMotoGP",
-    "league": "MotoGP",
-    "team1": {
-      "name": "Grand Prix du Portugal Sprint des Moto GP"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "ProLeague-CercleBruges-Louvain",
-    "league": "Pro League",
-    "team1": {
-      "name": "Cercle Bruges"
-    },
-    "team2": {
-      "name": "Louvain"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-08",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-Ecosse-Nouvelle-Zélande",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "Ecosse"
-    },
-    "team2": {
-      "name": "Nouvelle-Zélande"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:10",
-    "match_date": "2025-11-08",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Eibar-Albacete",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Eibar"
-    },
-    "team2": {
-      "name": "Albacete"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:15",
-    "match_date": "2025-11-08",
-    "match_time": "22:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Huesca-Andorra",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Huesca"
-    },
-    "team2": {
-      "name": "Andorra"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:15",
-    "match_date": "2025-11-08",
-    "match_time": "22:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=54",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CampeonatoItaúChile-LaSerena-U.Catolica",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "La Serena"
-    },
-    "team2": {
-      "name": "U. Catolica"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:30",
-    "match_date": "2025-11-08",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "LigaPortugal-Alverca-RioAve",
-    "league": "Liga Portugal",
-    "team1": {
-      "name": "Alverca"
-    },
-    "team2": {
-      "name": "Rio Ave"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:30",
-    "match_date": "2025-11-08",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=144",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=74",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Top14-RCToulon-StadeRochelais",
-    "league": "Top 14",
-    "team1": {
-      "name": "RC Toulon"
-    },
-    "team2": {
-      "name": "Stade Rochelais"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "22:30",
-    "match_date": "2025-11-08",
-    "match_time": "22:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=32",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "SuperLig-Antalyaspor-Besiktas",
@@ -3841,6 +3397,35 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNzIucGhw",
         "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "MotoGP-GrandPrixduPortugalWarmUpdesMotoGP",
+    "league": "MotoGP",
+    "team1": {
+      "name": "Grand Prix du Portugal Warm Up des Moto GP"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-09",
+    "kickoff_time": "16:40",
+    "match_date": "2025-11-09",
+    "match_time": "16:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
       }
     ]
   },
