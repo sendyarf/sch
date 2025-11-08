@@ -77,28 +77,7 @@
     "match_date": "2025-11-09",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "PremierLeague-AstonVilla-Bournemouth",
@@ -407,12 +386,7 @@
     "match_date": "2025-11-09",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Utrecht-Ajax",
@@ -559,16 +533,7 @@
     "match_date": "2025-11-09",
     "match_time": "02:55",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-Lorient-Toulouse",
@@ -1133,24 +1098,7 @@
     "match_date": "2025-11-09",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-AthBilbao-Oviedo",
@@ -1513,136 +1461,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "D1Féminin-PSGF-Fleury91F",
-    "league": "D1 Féminin",
-    "team1": {
-      "name": "PSG F"
-    },
-    "team2": {
-      "name": "Fleury 91 F"
-    },
-    "kickoff_date": "2025-11-09",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-09",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Malaga-Cordoba",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Malaga"
-    },
-    "team2": {
-      "name": "Cordoba"
-    },
-    "kickoff_date": "2025-11-09",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-09",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "TorneoLPF-Huracan-NewellsOldBoys",
-    "league": "Torneo LPF",
-    "team1": {
-      "name": "Huracan"
-    },
-    "team2": {
-      "name": "Newells Old Boys"
-    },
-    "kickoff_date": "2025-11-09",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-09",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=75",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "TorneoLPF-RacingClub-DefensayJusticia",
-    "league": "Torneo LPF",
-    "team1": {
-      "name": "Racing Club"
-    },
-    "team2": {
-      "name": "Defensa y Justicia"
-    },
-    "kickoff_date": "2025-11-09",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-09",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=76",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-France-AfriqueduSud",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "France"
-    },
-    "team2": {
-      "name": "South Africa"
-    },
-    "kickoff_date": "2025-11-09",
-    "kickoff_time": "03:10",
-    "match_date": "2025-11-09",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=24",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Liga1TeApuesto-JuanPabloII-Grau",
-    "league": "Liga 1 Te Apuesto",
-    "team1": {
-      "name": "Juan Pablo II"
-    },
-    "team2": {
-      "name": "Grau"
-    },
-    "kickoff_date": "2025-11-09",
-    "kickoff_time": "03:15",
-    "match_date": "2025-11-09",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=84",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "CampeonatoItaúChile-Palestino-Coquimbo",
@@ -4019,6 +3837,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=178",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTAucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -4161,6 +3983,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=179",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTEucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -4630,6 +4456,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=180",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjUucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -4959,6 +4789,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=184",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjgucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -4980,6 +4814,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=185",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjYucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5001,6 +4839,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=186",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjcucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5089,6 +4931,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=187",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTQucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5110,6 +4956,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=188",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTMucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5131,6 +4981,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=189",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTIucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5152,6 +5006,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=190",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjkucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5219,6 +5077,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=191",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTUucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5323,6 +5185,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=193",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNzAucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5365,6 +5231,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=194",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNzEucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5386,6 +5256,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=195",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTcucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -5407,6 +5281,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=196",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTYucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -6405,10 +6283,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6Tmpjd09DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNDAucGhw",
-        "label": "CH-EN"
       }
     ]
   },
