@@ -2004,81 +2004,6 @@
     "servers": []
   },
   {
-    "id": "NBA-AtlantaHawks-TorontoRaptors",
-    "league": "NBA",
-    "team1": {
-      "name": "Atlanta Hawks"
-    },
-    "team2": {
-      "name": "Toronto Raptors"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "07:30",
-    "match_date": "2025-11-08",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=174",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjcucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NBA-BrooklynNets-DetroitPistons",
-    "league": "NBA",
-    "team1": {
-      "name": "Brooklyn Nets"
-    },
-    "team2": {
-      "name": "Detroit Pistons"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "07:30",
-    "match_date": "2025-11-08",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=175",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjgucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NBA-SanAntonioSpurs-HoustonRockets",
-    "league": "NBA",
-    "team1": {
-      "name": "San Antonio Spurs"
-    },
-    "team2": {
-      "name": "Houston Rockets"
-    },
-    "kickoff_date": "2025-11-08",
-    "kickoff_time": "07:30",
-    "match_date": "2025-11-08",
-    "match_time": "07:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=176",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNjkucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "LigaDeExpansionMx-AlebrijesOaxaca-Correcaminos",
     "league": "Liga De Expansion Mx",
     "team1": {
@@ -4541,6 +4466,10 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=173",
         "label": "CH-US"
       },
       {
