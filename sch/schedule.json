@@ -153,20 +153,7 @@
     "match_date": "2025-11-10",
     "match_time": "00:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=89",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Valencia-Betis",
@@ -182,20 +169,7 @@
     "match_date": "2025-11-10",
     "match_time": "00:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=52",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-CeltaVigo-Barcelona",
@@ -255,48 +229,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMTIucGhw",
         "label": "CH-AR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Grenade-Saragosse",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Grenade"
-    },
-    "team2": {
-      "name": "Saragosse"
-    },
-    "kickoff_date": "2025-11-10",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-10",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "ProLeague-LaGantoise-Genk",
-    "league": "Pro League",
-    "team1": {
-      "name": "La Gantoise"
-    },
-    "team2": {
-      "name": "Genk"
-    },
-    "kickoff_date": "2025-11-10",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-10",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
       }
     ]
   },
