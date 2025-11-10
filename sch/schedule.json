@@ -112,52 +112,6 @@
     "servers": []
   },
   {
-    "id": "NHL-MinnesotaWild-CalgaryFlames",
-    "league": "NHL",
-    "team1": {
-      "name": "Minnesota Wild"
-    },
-    "team2": {
-      "name": "Calgary Flames"
-    },
-    "kickoff_date": "2025-11-10",
-    "kickoff_time": "08:00",
-    "match_date": "2025-11-10",
-    "match_time": "07:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=191",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNTUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "LigaMxWomen-ClubAmericaF-MonterreyF",
-    "league": "Liga Mx Women",
-    "team1": {
-      "name": "Club America F"
-    },
-    "team2": {
-      "name": "Monterrey F"
-    },
-    "kickoff_date": "2025-11-10",
-    "kickoff_time": "08:15",
-    "match_date": "2025-11-10",
-    "match_time": "08:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=68",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "NFL-LosAngelesChargers-PittsburghSteelers",
     "league": "NFL",
     "team1": {
@@ -216,10 +170,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
         "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV4TmprMU5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
       }
     ]
   },
@@ -912,48 +862,6 @@
     ]
   },
   {
-    "id": "56965449",
-    "league": "Mexico - Liga MX, Women, Apertura Playoffs",
-    "team1": {
-      "name": "Toluca W."
-    },
-    "team2": {
-      "name": "Guadalajara W."
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6T0RRM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56937946",
-    "league": "USA - USL, League One, Playoffs",
-    "team1": {
-      "name": "Spokane Velocity FC"
-    },
-    "team2": {
-      "name": "Portland Hearts of Pine"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6T1RnNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "55814058",
     "league": "USA - MLS, Playoffs",
     "team1": {
@@ -996,6 +904,48 @@
     ]
   },
   {
+    "id": "56965449",
+    "league": "Mexico - Liga MX, Women, Apertura Playoffs",
+    "team1": {
+      "name": "Toluca W."
+    },
+    "team2": {
+      "name": "Guadalajara W."
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6T0RRM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "56937946",
+    "league": "USA - USL, League One, Playoffs",
+    "team1": {
+      "name": "Spokane Velocity FC"
+    },
+    "team2": {
+      "name": "Portland Hearts of Pine"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6T1RnNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "57206150",
     "league": "Challenger - Kobe, Japan, Qualifying",
     "team1": {
@@ -1017,34 +967,13 @@
     ]
   },
   {
-    "id": "56912719",
-    "league": "USA - NCAA",
-    "team1": {
-      "name": "Baylor Bears"
-    },
-    "team2": {
-      "name": "Washington Huskies"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelV6TnpnNU1pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "57209434",
+    "id": "57211441",
     "league": "Challenger - Kobe, Japan, Qualifying",
     "team1": {
-      "name": "Samrej, Kasidit"
+      "name": "Ajdukovic, Duje"
     },
     "team2": {
-      "name": "Ribeiro Marcondes, Igor"
+      "name": "Nam, Ji Sung"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1053,7 +982,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUwTURrNE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUwTURrNE55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1080,13 +1009,13 @@
     ]
   },
   {
-    "id": "57147533",
+    "id": "57147527",
     "league": "International - TT Elite Series",
     "team1": {
-      "name": "Kostyk, Kamil"
+      "name": "Schaniel Krzysztof"
     },
     "team2": {
-      "name": "Filbrandt, Tomasz"
+      "name": "Gumulinski, Piotr"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1095,7 +1024,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUwTURrM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUwTURrME55WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
