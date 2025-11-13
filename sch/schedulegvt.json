@@ -1,5 +1,719 @@
 [
   {
+    "id": "AmicalInternational-Iran-Cap-Vert",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Iran",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/iran.png"
+    },
+    "team2": {
+      "name": "Cape Verde",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cape-verde.png"
+    },
+    "kickoff_date": "2025-11-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-11-13",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Nigéria-Gabon",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Nigéria",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nigeria.png"
+    },
+    "team2": {
+      "name": "Gabon",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/gabon.png"
+    },
+    "kickoff_date": "2025-11-13",
+    "kickoff_time": "23:00",
+    "match_date": "2025-11-13",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=41",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Algérie-Zimbabwe",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Algeria",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/algeria.png"
+    },
+    "team2": {
+      "name": "Zimbabwe",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/zimbabwe.png"
+    },
+    "kickoff_date": "2025-11-13",
+    "kickoff_time": "23:30",
+    "match_date": "2025-11-13",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-DZ"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-MacédoineduNord-Lettonie",
+    "league": "Friendly International",
+    "team1": {
+      "name": "North Macedonia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/north-macedonia.png"
+    },
+    "team2": {
+      "name": "Latvia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/latvia.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-13",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=115",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-RépubliqueTchèque-Saint-Marin",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/czech-republic.png"
+    },
+    "team2": {
+      "name": "Saint-Marin",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-marino.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-13",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Arménie-Hongrie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Arménie",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/armenia.png"
+    },
+    "team2": {
+      "name": "Hungary",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hungary.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-13",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=145",
+        "label": "CH-PT"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Azerbaïdjan-Islande",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Azerbaijan",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/azerbaijan.png"
+    },
+    "team2": {
+      "name": "Iceland",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/iceland.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-13",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=147",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv4",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMi5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Norvège-Estonie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Norway",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/norway.png"
+    },
+    "team2": {
+      "name": "Estonia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/estonia.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-13",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=42",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=146",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmAfrique-Cameroun-RDCongo",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Cameroon",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cameroon.png"
+    },
+    "team2": {
+      "name": "Congo DR",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dr-congo.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-11-14",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=43",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=125",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv5",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Paris-Valence",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Paris FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/paris-fc.png"
+    },
+    "team2": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Andorre-Albanie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Andorre",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/andorra.png"
+    },
+    "team2": {
+      "name": "Albania",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/albania.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-AL"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Angleterre-Serbie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "England",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/england.png"
+    },
+    "team2": {
+      "name": "Serbia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/serbia.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=44",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=156",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMS5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-France-Ukraine",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "France",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/france.png"
+    },
+    "team2": {
+      "name": "Ukraine",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ukraine.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=24",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br2",
+        "label": "CH-5"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoMi5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Irlande-Portugal",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Ireland",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ireland.png"
+    },
+    "team2": {
+      "name": "Portugal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/portugal.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=45",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-PT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Moldavie-Italie",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Moldova",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/moldova.png"
+    },
+    "team2": {
+      "name": "Italy",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/italy.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv4",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br5",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIucHJvL2VtYmVkL2NoNC5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Bermudes-Curaçao",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Bermuda",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bermuda.png"
+    },
+    "team2": {
+      "name": "Curacao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/curacao.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-14",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=143",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Trinité-et-Tobago-Jamaique",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Trinidad and Tobago",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/trinidad-and-tobago.png"
+    },
+    "team2": {
+      "name": "Jamaica",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/jamaica.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-14",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=00",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Canada-Equateur",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Canada",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/canada.png"
+    },
+    "team2": {
+      "name": "Ecuador",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ecuador.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-14",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=86",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Guatemala-Panama",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Guatemala",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/guatemala.png"
+    },
+    "team2": {
+      "name": "Panama",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/panama.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "09:00",
+    "match_date": "2025-11-14",
+    "match_time": "08:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=00",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Haïti-CostaRica",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Haiti",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/haiti.png"
+    },
+    "team2": {
+      "name": "Costa Rica",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/costa-rica.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "09:00",
+    "match_date": "2025-11-14",
+    "match_time": "08:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=00",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmConcacaf-Nicaragua-Honduras",
+    "league": "World Cup Qualification",
+    "team1": {
+      "name": "Nicaragua",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nicaragua.png"
+    },
+    "team2": {
+      "name": "Honduras",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/honduras.png"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "09:00",
+    "match_date": "2025-11-14",
+    "match_time": "08:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=00",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "56801008",
+    "league": "Friendly International",
+    "team1": {
+      "name": "Thailand",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/thailand.png"
+    },
+    "team2": {
+      "name": "Singapore",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/singapore.png"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUxTWprMk5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "Selangor-Mys-Persib-Bandung-Ina",
     "league": "AFC Champions League 2 - Round 4",
     "team1": {
