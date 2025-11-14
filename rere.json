@@ -1,55 +1,5 @@
 [
   {
-    "id": "Moto3-GrandPrixC.valencienneEssaislibres1desMoto3",
-    "league": "Moto3",
-    "team1": {
-      "name": "Grand Prix C.valencienne Essais libres 1 des Moto 3"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-14",
-    "kickoff_time": "15:00",
-    "match_date": "2025-11-14",
-    "match_time": "15:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Moto2-GrandPrixC.valencienneEssaislibres1desMoto2",
-    "league": "Moto2",
-    "team1": {
-      "name": "Grand Prix C.valencienne Essais libres 1 des Moto 2"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-14",
-    "kickoff_time": "15:50",
-    "match_date": "2025-11-14",
-    "match_time": "15:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=14",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "MotoGP-GrandPrixC.valencienneEssaislibres1desMotoGP",
     "league": "MotoGP",
     "team1": {
@@ -100,6 +50,27 @@
     ]
   },
   {
+    "id": "AmicalInternational-EgypteB-Alg\u00e9rieB",
+    "league": "Amical International",
+    "team1": {
+      "name": "Egypte B"
+    },
+    "team2": {
+      "name": "Alg\u00e9rie B"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-11-14",
+    "match_time": "20:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DZ"
+      }
+    ]
+  },
+  {
     "id": "Moto2-GrandPrixC.valencienneEssaisdesMoto2",
     "league": "Moto2",
     "team1": {
@@ -146,6 +117,857 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
         "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Angola-Argentine",
+    "league": "Amical International",
+    "team1": {
+      "name": "Angola"
+    },
+    "team2": {
+      "name": "Argentine"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "23:00",
+    "match_date": "2025-11-14",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=77",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Ouzbekistan-Egypte",
+    "league": "Amical International",
+    "team1": {
+      "name": "Ouzbekistan"
+    },
+    "team2": {
+      "name": "Egypte"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "23:00",
+    "match_date": "2025-11-14",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Dubai-ZalgirisKaunas",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Dubai"
+    },
+    "team2": {
+      "name": "Zalgiris Kaunas"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "23:00",
+    "match_date": "2025-11-14",
+    "match_time": "23:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Tunisie-Jordanie",
+    "league": "Amical International",
+    "team1": {
+      "name": "Tunisie"
+    },
+    "team2": {
+      "name": "Jordanie"
+    },
+    "kickoff_date": "2025-11-14",
+    "kickoff_time": "23:45",
+    "match_date": "2025-11-14",
+    "match_time": "23:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-TN"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-AnadoluEfes-Bayern",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Anadolu Efes"
+    },
+    "team2": {
+      "name": "Bayern"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-15",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=66",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Finlande-Malte",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Finlande"
+    },
+    "team2": {
+      "name": "Malte"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-15",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-ColomiersRugby-USONeversRugby",
+    "league": "Pro D2",
+    "team1": {
+      "name": "Colomiers Rugby"
+    },
+    "team2": {
+      "name": "USO Nevers Rugby"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "01:00",
+    "match_date": "2025-11-15",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-BiarritzOlympique-USDax",
+    "league": "Pro D2",
+    "team1": {
+      "name": "Biarritz Olympique"
+    },
+    "team2": {
+      "name": "US Dax"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "01:30",
+    "match_date": "2025-11-15",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=35",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-SUAgen-OyonnaxRugby",
+    "league": "Pro D2",
+    "team1": {
+      "name": "SU Agen"
+    },
+    "team2": {
+      "name": "Oyonnax Rugby"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "01:30",
+    "match_date": "2025-11-15",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=33",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-StadeAurillacois-ProvenceRugby",
+    "league": "Pro D2",
+    "team1": {
+      "name": "Stade Aurillacois"
+    },
+    "team2": {
+      "name": "Provence Rugby"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "01:30",
+    "match_date": "2025-11-15",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=32",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-StadeMontois-SoyauxAngoul\u00eame",
+    "league": "Pro D2",
+    "team1": {
+      "name": "Stade Montois"
+    },
+    "team2": {
+      "name": "Soyaux Angoul\u00eame"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "01:30",
+    "match_date": "2025-11-15",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=34",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-USCarcassonne-ValenceRomans",
+    "league": "Pro D2",
+    "team1": {
+      "name": "US Carcassonne"
+    },
+    "team2": {
+      "name": "Valence Romans"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "01:30",
+    "match_date": "2025-11-15",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=36",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Maroc-Mozambique",
+    "league": "Amical International",
+    "team1": {
+      "name": "Maroc"
+    },
+    "team2": {
+      "name": "Mozambique"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-11-15",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=113",
+        "label": "CH-MA"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Lyon-Villeurbanne-Partizan",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Lyon-Villeurbanne"
+    },
+    "team2": {
+      "name": "Partizan"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-11-15",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=67",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NHL-NashvillePredators-PittsburghPenguins",
+    "league": "NHL",
+    "team1": {
+      "name": "Nashville Predators"
+    },
+    "team2": {
+      "name": "Pittsburgh Penguins"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:00",
+    "match_date": "2025-11-15",
+    "match_time": "02:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Barcelone-VirtusBologna",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Barcelone"
+    },
+    "team2": {
+      "name": "Virtus Bologna"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:30",
+    "match_date": "2025-11-15",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=62",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "EuroLeague-Milano-Olympiakos",
+    "league": "EuroLeague",
+    "team1": {
+      "name": "Milano"
+    },
+    "team2": {
+      "name": "Olympiakos"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:30",
+    "match_date": "2025-11-15",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=66",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Laliga2-Valladolid-LasPalmas",
+    "league": "Laliga 2",
+    "team1": {
+      "name": "Valladolid"
+    },
+    "team2": {
+      "name": "Las Palmas"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:30",
+    "match_date": "2025-11-15",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=53",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-MultiplexCoupeduMonde2026",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Multiplex Coupe du Monde 2026"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Croatie-IlesF\u00e9ro\u00e9",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Croatie"
+    },
+    "team2": {
+      "name": "Iles F\u00e9ro\u00e9"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Gibraltar-Mont\u00e9n\u00e9gro",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Gibraltar"
+    },
+    "team2": {
+      "name": "Mont\u00e9n\u00e9gro"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=115",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Luxembourg-Allemagne",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Luxembourg"
+    },
+    "team2": {
+      "name": "Allemagne"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=41",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=156",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Pologne-Pays-Bas",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Pologne"
+    },
+    "team2": {
+      "name": "Pays-Bas"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=42",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=130",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "Qualif.CmEurope-Slovaquie-IrlandeduNord",
+    "league": "Qualif. Cm Europe",
+    "team1": {
+      "name": "Slovaquie"
+    },
+    "team2": {
+      "name": "Irlande du Nord"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-GB"
+      }
+    ]
+  },
+  {
+    "id": "ProD2-ASB\u00e9ziers-CABrive",
+    "league": "Pro D2",
+    "team1": {
+      "name": "AS B\u00e9ziers"
+    },
+    "team2": {
+      "name": "CA Brive"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-15",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=13",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "TorneoLPF-Lanus-Atl.Tucuman",
+    "league": "Torneo LPF",
+    "team1": {
+      "name": "Lanus"
+    },
+    "team2": {
+      "name": "Atl. Tucuman"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "06:00",
+    "match_date": "2025-11-15",
+    "match_time": "06:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=76",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewYorkKnicks-MiamiHeat",
+    "league": "NBA",
+    "team1": {
+      "name": "New York Knicks"
+    },
+    "team2": {
+      "name": "Miami Heat"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-15",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-OrlandoMagic-BrooklynNets",
+    "league": "NBA",
+    "team1": {
+      "name": "Orlando Magic"
+    },
+    "team2": {
+      "name": "Brooklyn Nets"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-15",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-CarolinaHurricanes-VancouverCanucks",
+    "league": "NHL",
+    "team1": {
+      "name": "Carolina Hurricanes"
+    },
+    "team2": {
+      "name": "Vancouver Canucks"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-15",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-DetroitPistons-Philadelphia76ers",
+    "league": "NBA",
+    "team1": {
+      "name": "Detroit Pistons"
+    },
+    "team2": {
+      "name": "Philadelphia 76ers"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-15",
+    "match_time": "07:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-HoustonRockets-PortlandTrailBlazers",
+    "league": "NBA",
+    "team1": {
+      "name": "Houston Rockets"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-15",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-MilwaukeeBucks-CharlotteHornets",
+    "league": "NBA",
+    "team1": {
+      "name": "Milwaukee Bucks"
+    },
+    "team2": {
+      "name": "Charlotte Hornets"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-15",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-MinnesotaTimberwolves-SacramentoKings",
+    "league": "NBA",
+    "team1": {
+      "name": "Minnesota Timberwolves"
+    },
+    "team2": {
+      "name": "Sacramento Kings"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-15",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewOrleansPelicans-LosAngelesLakers",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans"
+    },
+    "team2": {
+      "name": "Los Angeles Lakers"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-15",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=166",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-St.LouisBlues-PhiladelphiaFlyers",
+    "league": "NHL",
+    "team1": {
+      "name": "St. Louis Blues"
+    },
+    "team2": {
+      "name": "Philadelphia Flyers"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-15",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=182",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-DallasMavericks-LosAngelesClippers",
+    "league": "NBA",
+    "team1": {
+      "name": "Dallas Mavericks"
+    },
+    "team2": {
+      "name": "Los Angeles Clippers"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "08:30",
+    "match_date": "2025-11-15",
+    "match_time": "08:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=167",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NHL-UtahMammoth-NewYorkIslanders",
+    "league": "NHL",
+    "team1": {
+      "name": "Utah Mammoth"
+    },
+    "team2": {
+      "name": "New York Islanders"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "09:00",
+    "match_date": "2025-11-15",
+    "match_time": "09:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=183",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "AmicalInternational-Venezuela-Australie",
+    "league": "Amical International",
+    "team1": {
+      "name": "Venezuela"
+    },
+    "team2": {
+      "name": "Australie"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-15",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=70",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "NBA-SanAntonioSpurs-GoldenStateWarriors",
+    "league": "NBA",
+    "team1": {
+      "name": "San Antonio Spurs"
+    },
+    "team2": {
+      "name": "Golden State Warriors"
+    },
+    "kickoff_date": "2025-11-15",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-15",
+    "match_time": "09:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=168",
+        "label": "CH-US"
       }
     ]
   }
