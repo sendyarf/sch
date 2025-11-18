@@ -1,5 +1,408 @@
 [
   {
+    "id": "PremierLeague-Burnley-Chelsea",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/burnley.png"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "19:30",
+    "match_date": "2025-11-22",
+    "match_time": "19:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Bournemouth-WestHam",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Bournemouth",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bournemouth.png"
+    },
+    "team2": {
+      "name": "West Ham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/west-ham.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:00",
+    "match_date": "2025-11-22",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Brighton-Brentford",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Brighton",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brighton.png"
+    },
+    "team2": {
+      "name": "Brentford",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brentford.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:00",
+    "match_date": "2025-11-22",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Fulham-Sunderland",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Fulham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fulham.png"
+    },
+    "team2": {
+      "name": "Sunderland",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sunderland.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:00",
+    "match_date": "2025-11-22",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Liverpool-Nottingham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Liverpool",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/liverpool.png"
+    },
+    "team2": {
+      "name": "Nottingham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nottingham.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:00",
+    "match_date": "2025-11-22",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Wolves-CrystalPalace",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Wolves",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/wolves.png"
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/crystal-palace.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:00",
+    "match_date": "2025-11-22",
+    "match_time": "21:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-NACBreda-PSV",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "NAC Breda",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nac-breda.png"
+    },
+    "team2": {
+      "name": "PSV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:30",
+    "match_date": "2025-11-22",
+    "match_time": "22:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Nice-Marseille",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Nice",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nice.png"
+    },
+    "team2": {
+      "name": "Marseille",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-22",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Lens-Strasbourg",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Lens",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lens.png"
+    },
+    "team2": {
+      "name": "Strasbourg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/strasbourg.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "23:00",
+    "match_date": "2025-11-22",
+    "match_time": "22:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Mainz-Hoffenheim",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Mainz",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mainz.png"
+    },
+    "team2": {
+      "name": "Hoffenheim",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hoffenheim.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "02:30",
+    "match_date": "2025-11-22",
+    "match_time": "02:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br1",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga-Augsburg-HamburgerSV",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Augsburg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/augsburg.png"
+    },
+    "team2": {
+      "name": "Hamburger SV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/hamburger-sv.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:30",
+    "match_date": "2025-11-22",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-BayernMunich-Freiburg",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
+    },
+    "team2": {
+      "name": "Freiburg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/freiburg.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:30",
+    "match_date": "2025-11-22",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Dortmund-Stuttgart",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "team2": {
+      "name": "Stuttgart",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/stuttgart.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:30",
+    "match_date": "2025-11-22",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Heidenheim-B.Monchengladbach",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Heidenheim",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/heidenheim.png"
+    },
+    "team2": {
+      "name": "B. Monchengladbach",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/b-monchengladbach.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:30",
+    "match_date": "2025-11-22",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Wolfsburg-BayerLeverkusen",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Wolfsburg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/wolfsburg.png"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayer-leverkusen.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:30",
+    "match_date": "2025-11-22",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Cagliari-Genoa",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Cagliari",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cagliari.png"
+    },
+    "team2": {
+      "name": "Genoa",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/genoa.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:00",
+    "match_date": "2025-11-22",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Udinese-Bologna",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Udinese",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/udinese.png"
+    },
+    "team2": {
+      "name": "Bologna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bologna.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "21:00",
+    "match_date": "2025-11-22",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Valencia-Levante",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
+    },
+    "team2": {
+      "name": "Levante",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/levante.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-22",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Alaves-CeltaVigo",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Alaves",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/alaves.png"
+    },
+    "team2": {
+      "name": "Celta Vigo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/celta-vigo.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "20:00",
+    "match_date": "2025-11-22",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Barcelona-AthBilbao",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
+    },
+    "team2": {
+      "name": "Ath Bilbao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "22:15",
+    "match_date": "2025-11-22",
+    "match_time": "22:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Indonesia-SuperLeague-PersijapJepara-SemenPadang",
     "league": "Indonesia - Super League",
     "team1": {
@@ -67,6 +470,60 @@
     "kickoff_date": "2025-11-21",
     "kickoff_time": "19:00",
     "match_date": "2025-11-21",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-Persebaya-AremaFC",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persebaya",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persebaya.png"
+    },
+    "team2": {
+      "name": "Arema FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arema-fc.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "15:30",
+    "match_date": "2025-11-22",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PSIMYogyakarta-FCBhayangkara",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "PSIM Yogyakarta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psim-yogyakarta.png"
+    },
+    "team2": {
+      "name": "FC Bhayangkara",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-bhayangkara.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "15:30",
+    "match_date": "2025-11-22",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-Borneo-MaduraUnited",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Borneo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/borneo.png"
+    },
+    "team2": {
+      "name": "Madura United",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/madura-united.png"
+    },
+    "kickoff_date": "2025-11-22",
+    "kickoff_time": "19:00",
+    "match_date": "2025-11-22",
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
