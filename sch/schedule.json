@@ -150,6 +150,67 @@
     ]
   },
   {
+    "id": "PremierLeague-Newcastle-ManchesterCity",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Newcastle"
+    },
+    "team2": {
+      "name": "Manchester City"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "00:30",
+    "match_date": "2025-11-23",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Leeds-AstonVilla",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Leeds"
+    },
+    "team2": {
+      "name": "Aston Villa"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-11-23",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Arsenal-Tottenham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Arsenal"
+    },
+    "team2": {
+      "name": "Tottenham"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "23:30",
+    "match_date": "2025-11-23",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-NACBreda-PSV",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -162,6 +223,139 @@
     "kickoff_time": "22:30",
     "match_date": "2025-11-22",
     "match_time": "22:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Ajax-Excelsior",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Ajax"
+    },
+    "team2": {
+      "name": "Excelsior"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "00:45",
+    "match_date": "2025-11-23",
+    "match_time": "00:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-FCVolendam-Twente",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "FC Volendam"
+    },
+    "team2": {
+      "name": "Twente"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "00:45",
+    "match_date": "2025-11-23",
+    "match_time": "00:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Heracles-G.A.Eagles",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Heracles"
+    },
+    "team2": {
+      "name": "G.A. Eagles"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-23",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-SpartaRotterdam-Sittard",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Sparta Rotterdam"
+    },
+    "team2": {
+      "name": "Sittard"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-23",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Heerenveen-AZAlkmaar",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Heerenveen"
+    },
+    "team2": {
+      "name": "AZ Alkmaar"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "18:15",
+    "match_date": "2025-11-23",
+    "match_time": "18:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Feyenoord-Nijmegen",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Feyenoord"
+    },
+    "team2": {
+      "name": "Nijmegen"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-11-23",
+    "match_time": "20:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Telstar-Utrecht",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Telstar"
+    },
+    "team2": {
+      "name": "Utrecht"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "20:30",
+    "match_date": "2025-11-23",
+    "match_time": "20:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Groningen-Zwolle",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Groningen"
+    },
+    "team2": {
+      "name": "Zwolle"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "22:45",
+    "match_date": "2025-11-23",
+    "match_time": "22:35",
     "duration": "3.5",
     "servers": []
   },
@@ -214,6 +408,120 @@
         "label": "CH-1"
       }
     ]
+  },
+  {
+    "id": "Ligue1-Rennes-Monaco",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Rennes"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "01:00",
+    "match_date": "2025-11-23",
+    "match_time": "00:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-PSG-LeHavre",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "PSG"
+    },
+    "team2": {
+      "name": "Le Havre"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "03:05",
+    "match_date": "2025-11-23",
+    "match_time": "02:55",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Ligue1-Auxerre-Lyon",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Auxerre"
+    },
+    "team2": {
+      "name": "Lyon"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-11-23",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Brest-Metz",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Brest"
+    },
+    "team2": {
+      "name": "Metz"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "23:15",
+    "match_date": "2025-11-23",
+    "match_time": "23:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Nantes-Lorient",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Nantes"
+    },
+    "team2": {
+      "name": "Lorient"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "23:15",
+    "match_date": "2025-11-23",
+    "match_time": "23:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Toulouse-Angers",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Toulouse"
+    },
+    "team2": {
+      "name": "Angers"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "23:15",
+    "match_date": "2025-11-23",
+    "match_time": "23:05",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Bundesliga-Mainz-Hoffenheim",
@@ -339,6 +647,54 @@
     "servers": []
   },
   {
+    "id": "Bundesliga-FCKoln-EintrachtFrankfurt",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "FC Koln"
+    },
+    "team2": {
+      "name": "Eintracht Frankfurt"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "00:30",
+    "match_date": "2025-11-23",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-RBLeipzig-WerderBremen",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "RB Leipzig"
+    },
+    "team2": {
+      "name": "Werder Bremen"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "21:30",
+    "match_date": "2025-11-23",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-St.Pauli-UnionBerlin",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "St. Pauli"
+    },
+    "team2": {
+      "name": "Union Berlin"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "23:30",
+    "match_date": "2025-11-23",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "SerieA-Cagliari-Genoa",
     "league": "Italy - Serie A",
     "team1": {
@@ -383,6 +739,84 @@
         "label": "CH-2"
       }
     ]
+  },
+  {
+    "id": "SerieA-Fiorentina-Juventus",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Fiorentina"
+    },
+    "team2": {
+      "name": "Juventus"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-22",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Napoli-Atalanta",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Napoli"
+    },
+    "team2": {
+      "name": "Atalanta"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-23",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "SerieA-Verona-Parma",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Verona"
+    },
+    "team2": {
+      "name": "Parma"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "18:30",
+    "match_date": "2025-11-23",
+    "match_time": "18:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Cremonese-ASRoma",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Cremonese"
+    },
+    "team2": {
+      "name": "AS Roma"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "21:00",
+    "match_date": "2025-11-23",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "LaLiga-Valencia-Levante",
@@ -478,6 +912,100 @@
         "label": "CH-4"
       }
     ]
+  },
+  {
+    "id": "LaLiga-Osasuna-RealSociedad",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Osasuna"
+    },
+    "team2": {
+      "name": "Real Sociedad"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "00:30",
+    "match_date": "2025-11-23",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-4"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Villarreal-Mallorca",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Villarreal"
+    },
+    "team2": {
+      "name": "Mallorca"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-23",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "LaLiga-Oviedo-RayoVallecano",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Oviedo"
+    },
+    "team2": {
+      "name": "Rayo Vallecano"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "20:00",
+    "match_date": "2025-11-23",
+    "match_time": "19:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Betis-Girona",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Betis"
+    },
+    "team2": {
+      "name": "Girona"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "22:15",
+    "match_date": "2025-11-23",
+    "match_time": "22:05",
+    "duration": "3.5",
+    "servers": []
   },
   {
     "id": "Indonesia-SuperLeague-PersijapJepara-SemenPadang",
@@ -587,6 +1115,38 @@
     "kickoff_date": "2025-11-22",
     "kickoff_time": "19:00",
     "match_date": "2025-11-22",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-Persita-MalutUnited",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persita"
+    },
+    "team2": {
+      "name": "Malut United"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "15:30",
+    "match_date": "2025-11-23",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-BaliUnited-PersisSolo",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Bali United"
+    },
+    "team2": {
+      "name": "Persis Solo"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "19:00",
+    "match_date": "2025-11-23",
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
