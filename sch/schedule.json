@@ -1098,7 +1098,12 @@
     "match_date": "2025-11-20",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersijaJakarta-PersikKediri",
@@ -1114,7 +1119,16 @@
     "match_date": "2025-11-20",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xMTgyMDYubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNjA2NjMubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PSMMakassar-PSBSBiakNumfor",
@@ -1229,31 +1243,6 @@
     "servers": []
   },
   {
-    "id": "55026687",
-    "league": "USA - NBA",
-    "team1": {
-      "name": "Dallas Mavericks"
-    },
-    "team2": {
-      "name": "New York Knicks"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUyTURJME5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzIucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "55026669",
     "league": "USA - NBA",
     "team1": {
@@ -1279,34 +1268,13 @@
     ]
   },
   {
-    "id": "57816930",
-    "league": "Mexico - Liga de Expansion MX, Apertura, Playoffs",
-    "team1": {
-      "name": "Atletico Morelia"
-    },
-    "team2": {
-      "name": "Irapuato"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TWpFeE5pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "57403220",
+    "id": "56490954",
     "league": "USA - NCAA",
     "team1": {
-      "name": "Belmont Bruins"
+      "name": "Weber State Wildcats"
     },
     "team2": {
-      "name": "Lipscomb Bisons"
+      "name": "Campbell Fighting Camels"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1315,7 +1283,7 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TVRjeU9TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TVRjeE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
       }
     ]
@@ -1342,13 +1310,13 @@
     ]
   },
   {
-    "id": "57321400",
-    "league": "USA - NCAA",
+    "id": "55026687",
+    "league": "USA - NBA",
     "team1": {
-      "name": "Auburn Tigers"
+      "name": "Dallas Mavericks"
     },
     "team2": {
-      "name": "Jackson State Tigers"
+      "name": "New York Knicks"
     },
     "kickoff_date": "live",
     "kickoff_time": "live",
@@ -1357,29 +1325,12 @@
     "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TVRjeU1TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelUyTURJME5TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
         "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "56490954",
-    "league": "USA - NCAA",
-    "team1": {
-      "name": "Weber State Wildcats"
-    },
-    "team2": {
-      "name": "Campbell Fighting Camels"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
+      },
       {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TVRjeE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzIucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1497,6 +1448,27 @@
     ]
   },
   {
+    "id": "57760969",
+    "league": "Canada - WHL",
+    "team1": {
+      "name": "Spokane Chiefs"
+    },
+    "team2": {
+      "name": "Regina Pats"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU0T0RJNE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
     "id": "57785744",
     "league": "Canada - WHL",
     "team1": {
@@ -1539,73 +1511,6 @@
     ]
   },
   {
-    "id": "57760969",
-    "league": "Canada - WHL",
-    "team1": {
-      "name": "Spokane Chiefs"
-    },
-    "team2": {
-      "name": "Regina Pats"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU0T0RJNE9DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
-    "id": "57521623",
-    "league": "USA - College",
-    "team1": {
-      "name": "Buffalo Bulls"
-    },
-    "team2": {
-      "name": "Miami Redhawks"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU0TnpZeE15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMzAucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "57919334",
-    "league": "International - Australian Open 2025, WS",
-    "team1": {
-      "name": "Katethong, Supanida"
-    },
-    "team2": {
-      "name": "Huang, Yu-Hsun"
-    },
-    "kickoff_date": "live",
-    "kickoff_time": "live",
-    "match_date": "live",
-    "match_time": "live",
-    "duration": "live",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TWpjeU1DWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
-        "label": "CH-NA"
-      }
-    ]
-  },
-  {
     "id": "57919406",
     "league": "International - Australian Open 2025, MS",
     "team1": {
@@ -1627,42 +1532,65 @@
     ]
   },
   {
-    "id": "Selangor-Mys-Persib-Bandung-Ina",
-    "league": "AFC Champions League 2 - Round 4",
+    "id": "57860131",
+    "league": "International - TT Elite Series",
     "team1": {
-      "name": "Selangor (Mys)",
-      "logo": "https://static.flashscore.com/res/image/data/SbrGEshl-M5v0Fw3E.png"
+      "name": "Kumor, Michal"
     },
     "team2": {
-      "name": "Persib Bandung (Ina)",
-      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
+      "name": "Lebek, Marian"
     },
-    "kickoff_date": "2025-11-06",
-    "kickoff_time": "19:15",
-    "match_date": "2025-11-06",
-    "match_time": "19:05",
-    "duration": "3.5",
-    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=sport2baltic",
-        "label": "CH-LT"
-      },
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TkRnM09TWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "57920895",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Lilien, Aleksander"
+    },
+    "team2": {
+      "name": "Minda, Michal"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
       {
-        "url": "https://list-govoet.blogspot.com/p/embed1.html",
-        "label": "CH-ID"
-      },
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TlRjME15WnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
+      }
+    ]
+  },
+  {
+    "id": "57860142",
+    "league": "International - TT Elite Series",
+    "team1": {
+      "name": "Stechly, Witold"
+    },
+    "team2": {
+      "name": "Michalik, Jerzy"
+    },
+    "kickoff_date": "live",
+    "kickoff_time": "live",
+    "match_date": "live",
+    "match_time": "live",
+    "duration": "live",
+    "servers": [
       {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81Mzg5NzkubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj13SWtJc0R3VXdJa0lzN0l3RmlWN1VmN2JJV0RuazA4elUzVlpUbTQwVFU4NGRGVk1UMGRqYjFOVlMxcFpRMDF2WTFsbWVUSkxjbVJ5TlVGeVNtNUNaRFIxV1dkRmFVZHZWbXhZTjI1MlNYQnVOazR4VmtWRE5VMHdhRkJZWkZad1FWWQ==",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly82MDE2YzEyODE0MTAzZTI1NTNmMzU0NDkyZDcxMTM0ZS52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlL2U1OWQ4N2RhNzEzNGFhMWY3YmNlODNmNmQ5OTE0NTFmLm0zdTg/dHhTZWNyZXQ9Y2FlNzg1MWFiMWI1YzJjNzgyNjY1YWIyNGQ0YmYwMjkmdHhUaW1lPTY5MGM5MGFm",
-        "label": "CH-EN"
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zcG9ydC5pbnBsYXluZXQudGVjaC9saXZlc3RyZWFtLmh0bWw/c3JjPWFIUjBjSE02THk5emJXUXVjM0J2Y25Sd2JHRjVaWEl1YVc4dlpXMWlaV1F1Y0dod0x6OXRZWFJqYUY5cFpEMHhNelU1TlRJM01pWnphejB4WXpsaFl6QXhKblI1Y0dVOWN5WndZWEpsYm5ROVpHVnRieTVwYm5Cc1lYbHVaWFF1WTI5dA==",
+        "label": "CH-NA"
       }
     ]
   }
