@@ -162,6 +162,24 @@
     "servers": []
   },
   {
+    "id": "PremierLeague-ManchesterUtd-Everton",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Manchester Utd",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-utd.png"
+    },
+    "team2": {
+      "name": "Everton",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/everton.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-25",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-NACBreda-PSV",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -471,6 +489,24 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Lille-ParisFC",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Lille",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lille.png"
+    },
+    "team2": {
+      "name": "Paris FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/paris-fc.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-24",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-Mainz-Hoffenheim",
     "league": "Germany - Bundesliga",
     "team1": {
@@ -750,6 +786,78 @@
     "servers": []
   },
   {
+    "id": "SerieA-Lazio-Lecce",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Lazio",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lazio.png"
+    },
+    "team2": {
+      "name": "Lecce",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lecce.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "00:00",
+    "match_date": "2025-11-23",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Inter-ACMilan",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Inter",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter.png"
+    },
+    "team2": {
+      "name": "AC Milan",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ac-milan.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-24",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Torino-Como",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Torino",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/torino.png"
+    },
+    "team2": {
+      "name": "Como",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/como.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "00:30",
+    "match_date": "2025-11-25",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Sassuolo-Pisa",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Sassuolo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sassuolo.png"
+    },
+    "team2": {
+      "name": "Pisa",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/pisa.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "02:45",
+    "match_date": "2025-11-25",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "LaLiga-Valencia-Levante",
     "league": "Spain - La Liga",
     "team1": {
@@ -901,90 +1009,58 @@
     "servers": []
   },
   {
-    "id": "Indonesia-SuperLeague-PersijapJepara-SemenPadang",
-    "league": "Indonesia - Super League",
+    "id": "LaLiga-Getafe-Atl.Madrid",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "Persijap Jepara",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persijap-jepara.png"
+      "name": "Getafe",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/getafe.png"
     },
     "team2": {
-      "name": "Semen Padang",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/semen-padang.png"
+      "name": "Atl. Madrid",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atl-madrid.png"
     },
-    "kickoff_date": "2025-11-20",
-    "kickoff_time": "15:30",
-    "match_date": "2025-11-20",
-    "match_time": "15:20",
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "00:30",
+    "match_date": "2025-11-24",
+    "match_time": "00:20",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "Indonesia-SuperLeague-PersijaJakarta-PersikKediri",
-    "league": "Indonesia - Super League",
+    "id": "LaLiga-Elche-RealMadrid",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "Persija Jakarta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persija-jakarta.png"
+      "name": "Elche",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/elche.png"
     },
     "team2": {
-      "name": "Persik Kediri",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persik-kediri.png"
+      "name": "Real Madrid",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
     },
-    "kickoff_date": "2025-11-20",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-20",
-    "match_time": "18:50",
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-24",
+    "match_time": "02:50",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "Indonesia-SuperLeague-PSMMakassar-PSBSBiakNumfor",
-    "league": "Indonesia - Super League",
+    "id": "LaLiga-Espanyol-Sevilla",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "PSM Makassar",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psm-makassar.png"
+      "name": "Espanyol",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/espanyol.png"
     },
     "team2": {
-      "name": "PSBS Biak Numfor",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psbs-biak-numfor.png"
+      "name": "Sevilla",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sevilla.png"
     },
-    "kickoff_date": "2025-11-21",
-    "kickoff_time": "15:30",
-    "match_date": "2025-11-21",
-    "match_time": "15:20",
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-25",
+    "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-SuperLeague-PersibBandung-DewaUnited",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persib Bandung",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persib-bandung.png"
-    },
-    "team2": {
-      "name": "Dewa United",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dewa-united.png"
-    },
-    "kickoff_date": "2025-11-21",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-21",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODA0NjAubTN1OA==",
-        "label": "CH-VN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNjA2NjMubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Indonesia-SuperLeague-Persebaya-AremaFC",
@@ -1075,5 +1151,55 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "Indonesia-SuperLeague-PSMMakassar-PSBSBiakNumfor",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "PSM Makassar",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psm-makassar.png"
+    },
+    "team2": {
+      "name": "PSBS Biak Numfor",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psbs-biak-numfor.png"
+    },
+    "kickoff_date": "2025-11-21",
+    "kickoff_time": "15:30",
+    "match_date": "2025-11-21",
+    "match_time": "15:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjcxNTkubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
+  },
+  {
+    "id": "Indonesia-SuperLeague-PersibBandung-DewaUnited",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persib Bandung",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persib-bandung.png"
+    },
+    "team2": {
+      "name": "Dewa United",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dewa-united.png"
+    },
+    "kickoff_date": "2025-11-21",
+    "kickoff_time": "19:00",
+    "match_date": "2025-11-21",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zODA0NjAubTN1OA==",
+        "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNjA2NjMubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   }
 ]
