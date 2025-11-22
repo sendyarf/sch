@@ -1314,7 +1314,7 @@
     "league": "UEFA Champions League",
     "team1": {
       "name": "Bodo/Glimt",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bodoglimt.png"
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bodo-glimt.png"
     },
     "team2": {
       "name": "Juventus",
@@ -1472,6 +1472,145 @@
     "servers": []
   },
   {
+    "id": "NBA-OrlandoMagic-NewYorkKnicks",
+    "league": "NBA",
+    "team1": {
+      "name": "Orlando Magic",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orlando-magic.png"
+    },
+    "team2": {
+      "name": "New York Knicks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-knicks.png"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "05:00",
+    "match_date": "2025-11-23",
+    "match_time": "04:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewOrleansPelicans-AtlantaHawks",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-orleans-pelicans.png"
+    },
+    "team2": {
+      "name": "Atlanta Hawks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atlanta-hawks.png"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-23",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-ChicagoBulls-WashingtonWizards",
+    "league": "NBA",
+    "team1": {
+      "name": "Chicago Bulls",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chicago-bulls.png"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/washington-wizards.png"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-23",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=171",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjgucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-MilwaukeeBucks-DetroitPistons",
+    "league": "NBA",
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/milwaukee-bucks.png"
+    },
+    "team2": {
+      "name": "Detroit Pistons",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/detroit-pistons.png"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-23",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=172",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-DallasMavericks-MemphisGrizzlies",
+    "league": "NBA",
+    "team1": {
+      "name": "Dallas Mavericks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dallas-mavericks.png"
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/memphis-grizzlies.png"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "08:30",
+    "match_date": "2025-11-23",
+    "match_time": "08:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=174",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzAucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "MLS-VancouverWhitecaps-LosAngelesFC",
     "league": "USA - MLS",
     "team1": {
@@ -1495,6 +1634,33 @@
     ]
   },
   {
+    "id": "NBA-DenverNuggets-SacramentoKings",
+    "league": "NBA",
+    "team1": {
+      "name": "Denver Nuggets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/denver-nuggets.png"
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sacramento-kings.png"
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-23",
+    "match_time": "09:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=177",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "TournéeAutomne-Angleterre-Argentine",
     "league": "Tournée Automne",
     "team1": {
@@ -1514,6 +1680,33 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=1",
         "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "NBA-Philadelphia76ers-MiamiHeat",
+    "league": "NBA",
+    "team1": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/philadelphia-76ers.png"
+    },
+    "team2": {
+      "name": "Miami Heat",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/miami-heat.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "01:00",
+    "match_date": "2025-11-24",
+    "match_time": "00:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1549,6 +1742,145 @@
     ]
   },
   {
+    "id": "NBA-AtlantaHawks-CharlotteHornets",
+    "league": "NBA",
+    "team1": {
+      "name": "Atlanta Hawks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atlanta-hawks.png"
+    },
+    "team2": {
+      "name": "Charlotte Hornets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/charlotte-hornets.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-11-24",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=177",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-BostonCeltics-OrlandoMagic",
+    "league": "NBA",
+    "team1": {
+      "name": "Boston Celtics",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/boston-celtics.png"
+    },
+    "team2": {
+      "name": "Orlando Magic",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orlando-magic.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-11-24",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=178",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-ClevelandCavaliers-LosAngelesClippers",
+    "league": "NBA",
+    "team1": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cleveland-cavaliers.png"
+    },
+    "team2": {
+      "name": "Los Angeles Clippers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-clippers.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-11-24",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=179",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjgucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-TorontoRaptors-BrooklynNets",
+    "league": "NBA",
+    "team1": {
+      "name": "Toronto Raptors",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/toronto-raptors.png"
+    },
+    "team2": {
+      "name": "Brooklyn Nets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brooklyn-nets.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "06:00",
+    "match_date": "2025-11-24",
+    "match_time": "05:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=180",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-OklahomaCityThunder-PortlandTrailBlazers",
+    "league": "NBA",
+    "team1": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/oklahoma-city-thunder.png"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/portland-trail-blazers.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-24",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=181",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzAucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
     "id": "MLS-PhiladelphiaUnion-NewYorkCity",
     "league": "USA - MLS",
     "team1": {
@@ -1572,6 +1904,60 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "NBA-PhoenixSuns-SanAntonioSpurs",
+    "league": "NBA",
+    "team1": {
+      "name": "Phoenix Suns",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/phoenix-suns.png"
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-antonio-spurs.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-24",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=184",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-UtahJazz-LosAngelesLakers",
+    "league": "NBA",
+    "team1": {
+      "name": "Utah Jazz",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utah-jazz.png"
+    },
+    "team2": {
+      "name": "Los Angeles Lakers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-lakers.png"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-24",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=185",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzIucGhw",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1664,6 +2050,236 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=46",
         "label": "CH-QA"
+      }
+    ]
+  },
+  {
+    "id": "NBA-IndianaPacers-DetroitPistons",
+    "league": "NBA",
+    "team1": {
+      "name": "Indiana Pacers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/indiana-pacers.png"
+    },
+    "team2": {
+      "name": "Detroit Pistons",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/detroit-pistons.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-25",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-TorontoRaptors-ClevelandCavaliers",
+    "league": "NBA",
+    "team1": {
+      "name": "Toronto Raptors",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/toronto-raptors.png"
+    },
+    "team2": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cleveland-cavaliers.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "07:00",
+    "match_date": "2025-11-25",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-BrooklynNets-NewYorkKnicks",
+    "league": "NBA",
+    "team1": {
+      "name": "Brooklyn Nets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brooklyn-nets.png"
+    },
+    "team2": {
+      "name": "New York Knicks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-knicks.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-25",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=166",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-MiamiHeat-DallasMavericks",
+    "league": "NBA",
+    "team1": {
+      "name": "Miami Heat",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/miami-heat.png"
+    },
+    "team2": {
+      "name": "Dallas Mavericks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dallas-mavericks.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-25",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=167",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-MemphisGrizzlies-DenverNuggets",
+    "league": "NBA",
+    "team1": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/memphis-grizzlies.png"
+    },
+    "team2": {
+      "name": "Denver Nuggets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/denver-nuggets.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-25",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=168",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-MilwaukeeBucks-PortlandTrailBlazers",
+    "league": "NBA",
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/milwaukee-bucks.png"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/portland-trail-blazers.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-25",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=169",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewOrleansPelicans-ChicagoBulls",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-orleans-pelicans.png"
+    },
+    "team2": {
+      "name": "Chicago Bulls",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chicago-bulls.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-25",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-PhoenixSuns-HoustonRockets",
+    "league": "NBA",
+    "team1": {
+      "name": "Phoenix Suns",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/phoenix-suns.png"
+    },
+    "team2": {
+      "name": "Houston Rockets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/houston-rockets.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-25",
+    "match_time": "09:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=175",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-GoldenStateWarriors-UtahJazz",
+    "league": "NBA",
+    "team1": {
+      "name": "Golden State Warriors",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/golden-state-warriors.png"
+    },
+    "team2": {
+      "name": "Utah Jazz",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utah-jazz.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-25",
+    "match_time": "09:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=176",
+        "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-SacramentoKings-MinnesotaTimberwolves",
+    "league": "NBA",
+    "team1": {
+      "name": "Sacramento Kings",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sacramento-kings.png"
+    },
+    "team2": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/minnesota-timberwolves.png"
+    },
+    "kickoff_date": "2025-11-25",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-25",
+    "match_time": "09:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=177",
+        "label": "CH-US"
       }
     ]
   },
