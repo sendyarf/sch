@@ -17,30 +17,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
       }
@@ -625,20 +601,7 @@
     "match_date": "2025-11-23",
     "match_time": "00:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=116",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Bundesliga-RBLeipzig-WerderBremen",
@@ -1048,22 +1011,6 @@
     "match_time": "00:20",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=95",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
@@ -1537,33 +1484,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "TournéeAutomne-Irlande-AfriqueduSud",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "Ireland",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ireland.png"
-    },
-    "team2": {
-      "name": "South Africa",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/south-africa.png"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "00:40",
-    "match_date": "2025-11-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=62",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "TournéeAutomne-France-Australie",

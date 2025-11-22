@@ -15,30 +15,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
       }
@@ -608,20 +584,7 @@
     "match_date": "2025-11-23",
     "match_time": "00:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=116",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Bundesliga-RBLeipzig-WerderBremen",
@@ -1011,22 +974,6 @@
     "match_time": "00:20",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=9",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=95",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
@@ -1466,94 +1413,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "BetfredSuperLeague-AsterasT.-Panetolikos",
-    "league": "Betfred Super League",
-    "team1": {
-      "name": "Asteras T."
-    },
-    "team2": {
-      "name": "Panetolikos"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-23",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=148",
-        "label": "CH-GR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Eibar-Saragosse",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Eibar"
-    },
-    "team2": {
-      "name": "Saragosse"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-23",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Leganes-Almeria",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Leganes"
-    },
-    "team2": {
-      "name": "Almeria"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "00:30",
-    "match_date": "2025-11-23",
-    "match_time": "00:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=54",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-Irlande-AfriqueduSud",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "Ireland"
-    },
-    "team2": {
-      "name": "South Africa"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "00:40",
-    "match_date": "2025-11-23",
-    "match_time": "00:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=62",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "BetfredSuperLeague-Olympiakos-Atromitos",
