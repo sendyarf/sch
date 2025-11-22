@@ -1,9 +1,9 @@
 name: Run inplaynet.py
 
-on:
-  schedule:
-    - cron: '*/7 * * * *'  # Setiap 15 menit
-  workflow_dispatch:
+#on:
+  # schedule:
+  #   - cron: '*/7 * * * *'  # Setiap 15 menit
+ #  workflow_dispatch:
 
 env:
   TZ: Asia/Jakarta
