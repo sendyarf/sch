@@ -242,12 +242,7 @@
     "match_date": "2025-11-23",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Heerenveen-AZAlkmaar",
@@ -396,18 +391,6 @@
     "match_time": "02:55",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -1038,22 +1021,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd6",
         "label": "CH-1"
       },
@@ -1503,52 +1470,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "TournéeAutomne-France-Australie",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "France",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/france.png"
-    },
-    "team2": {
-      "name": "Australie",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/australia.png"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:10",
-    "match_date": "2025-11-23",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=24",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-Italie-Chili",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "Italy",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/italy.png"
-    },
-    "team2": {
-      "name": "Chile",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chile.png"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:10",
-    "match_date": "2025-11-23",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      }
-    ]
   },
   {
     "id": "MLS-VancouverWhitecaps-LosAngelesFC",

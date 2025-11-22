@@ -228,12 +228,7 @@
     "match_date": "2025-11-23",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-SpartaRotterdam-Sittard",
@@ -249,12 +244,7 @@
     "match_date": "2025-11-23",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Heerenveen-AZAlkmaar",
@@ -391,18 +381,6 @@
     "match_time": "02:55",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -999,22 +977,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd6",
         "label": "CH-1"
       },
@@ -1432,189 +1394,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "CopaSudamericana-Lanús-AtléticoMineiro",
-    "league": "Copa Sudamericana",
-    "team1": {
-      "name": "Lanús"
-    },
-    "team2": {
-      "name": "Atlético Mineiro"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-23",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=55",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=61",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=87",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "D1Féminin-LyonF-StrasbourgF",
-    "league": "D1 Féminin",
-    "team1": {
-      "name": "Lyon F"
-    },
-    "team2": {
-      "name": "Strasbourg F"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-23",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Grenade-Cordoba",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Grenade"
-    },
-    "team2": {
-      "name": "Cordoba"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-23",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Premiership-St.Mirren-Celtic",
-    "league": "Premiership",
-    "team1": {
-      "name": "St. Mirren"
-    },
-    "team2": {
-      "name": "Celtic"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-23",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd1",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv5",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-France-Australie",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "France"
-    },
-    "team2": {
-      "name": "Australie"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:10",
-    "match_date": "2025-11-23",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=24",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-Italie-Chili",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "Italy"
-    },
-    "team2": {
-      "name": "Chile"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:10",
-    "match_date": "2025-11-23",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "CoupeDuPortugal-FCPorto-Sintrense",
-    "league": "Coupe Du Portugal",
-    "team1": {
-      "name": "FC Porto"
-    },
-    "team2": {
-      "name": "Sintrense"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "03:15",
-    "match_date": "2025-11-23",
-    "match_time": "03:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=145",
-        "label": "CH-PT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=80",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-1"
-      }
-    ]
   },
   {
     "id": "Liga1TeApuesto-LosChankas-U.deDeportes",
