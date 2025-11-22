@@ -192,7 +192,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       }
     ]
   },
@@ -217,7 +217,7 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=126",
-        "label": "CH-US"
+        "label": "CH-GB"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
@@ -596,6 +596,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=55",
         "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=61",
+        "label": "CH-ES"
       }
     ]
   },
@@ -966,7 +970,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=135",
-        "label": "CH-US"
+        "label": "CH-GB"
       }
     ]
   },
@@ -1216,8 +1220,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-EG"
       }
     ]
   },
@@ -1237,8 +1241,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=47",
+        "label": "CH-TN"
       }
     ]
   },
@@ -1538,7 +1542,7 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
@@ -1741,6 +1745,10 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
         "url": "https://multi.govoet.my.id/?envivo=160",
         "label": "CH-US"
       }
@@ -1761,6 +1769,10 @@
     "match_time": "01:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=7",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=161",
         "label": "CH-US"
@@ -1783,8 +1795,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=48",
+        "label": "CH-DZ"
       }
     ]
   },
@@ -2101,7 +2113,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       }
     ]
   },
@@ -2304,6 +2316,10 @@
     "match_time": "05:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=163",
         "label": "CH-US"
@@ -2827,6 +2843,51 @@
     ]
   },
   {
+    "id": "formula1-GrandPrixdeF1deLasVegas",
+    "league": "formula 1",
+    "team1": {
+      "name": "Grand Prix de F1 de Las Vegas"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-23",
+    "kickoff_time": "10:55",
+    "match_date": "2025-11-23",
+    "match_time": "10:55",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=134",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=121",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=60",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=78",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
     "id": "CoupeDuPortugal-LusitaniaFC-Torreense",
     "league": "Coupe Du Portugal",
     "team1": {
@@ -2964,7 +3025,7 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=78",
@@ -3228,27 +3289,6 @@
     ]
   },
   {
-    "id": "D1F\u00e9minin-Saint-\u00c9tienneF-PSGF",
-    "league": "D1 F\u00e9minin",
-    "team1": {
-      "name": "Saint-\u00c9tienne F"
-    },
-    "team2": {
-      "name": "PSG F"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "21:00",
-    "match_date": "2025-11-23",
-    "match_time": "21:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
     "id": "Ligue1-Auxerre-Lyon",
     "league": "Ligue 1",
     "team1": {
@@ -3298,7 +3338,7 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
@@ -3394,6 +3434,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=151",
         "label": "CH-TR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
       }
     ]
   },
@@ -3484,7 +3528,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=159",
+        "url": "https://multi.govoet.my.id/?envivo=158",
         "label": "CH-ES"
       }
     ]
@@ -3506,7 +3550,7 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=128",
-        "label": "CH-US"
+        "label": "CH-GB"
       }
     ]
   },
@@ -3786,7 +3830,7 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
@@ -3895,6 +3939,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=151",
         "label": "CH-TR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=92",
+        "label": "CH-ES"
       }
     ]
   },
@@ -4121,6 +4169,14 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=162",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=93",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=102",
+        "label": "CH-ES"
       }
     ]
   },
@@ -4205,6 +4261,14 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=166",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=101",
+        "label": "CH-ES"
       }
     ]
   },
@@ -4333,8 +4397,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=48",
+        "label": "CH-DZ"
       }
     ]
   },
@@ -4629,7 +4693,7 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=159",
+        "url": "https://multi.govoet.my.id/?envivo=158",
         "label": "CH-ES"
       }
     ]
@@ -4715,6 +4779,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=170",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=159",
+        "label": "CH-ES"
       }
     ]
   },
@@ -4736,6 +4804,14 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=171",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=93",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=102",
+        "label": "CH-ES"
       }
     ]
   },
@@ -4755,8 +4831,24 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
         "url": "https://multi.govoet.my.id/?envivo=172",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=80",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=101",
+        "label": "CH-ES"
       }
     ]
   },
@@ -4972,6 +5064,10 @@
     "match_time": "06:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=179",
         "label": "CH-US"
@@ -5208,8 +5304,24 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
         "url": "https://multi.govoet.my.id/?envivo=187",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=72",
+        "label": "CH-ES"
       }
     ]
   },
@@ -5250,8 +5362,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-QA"
       }
     ]
   },
@@ -5271,8 +5383,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=47",
+        "label": "CH-QA"
       }
     ]
   },
@@ -5292,8 +5404,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=48",
+        "label": "CH-QA"
       }
     ]
   },
@@ -5336,6 +5448,10 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=151",
         "label": "CH-TR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=91",
+        "label": "CH-ES"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=69",
@@ -5442,8 +5558,8 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=00",
-        "label": "CH-US"
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-QA"
       }
     ]
   },
@@ -5584,7 +5700,7 @@
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-US"
+        "label": "CH-GB"
       },
       {
         "url": "https://multi.govoet.my.id/?envivo=56",
@@ -5770,6 +5886,10 @@
     "match_time": "07:00",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
       {
         "url": "https://multi.govoet.my.id/?envivo=164",
         "label": "CH-US"
@@ -5960,8 +6080,24 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
         "url": "https://multi.govoet.my.id/?envivo=172",
         "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=97",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
       }
     ]
   },
