@@ -359,27 +359,6 @@
     ]
   },
   {
-    "id": "LigaMx-Juarez-Pachuca",
-    "league": "Liga Mx",
-    "team1": {
-      "name": "Juarez"
-    },
-    "team2": {
-      "name": "Pachuca"
-    },
-    "kickoff_date": "2025-11-24",
-    "kickoff_time": "04:00",
-    "match_date": "2025-11-24",
-    "match_time": "04:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=108",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
     "id": "NHL-WinnipegJets-MinnesotaWild",
     "league": "NHL",
     "team1": {
@@ -860,6 +839,27 @@
     "servers": [
       {
         "url": "https://multi.govoet.my.id/?envivo=81",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
+    "id": "LigaMx-Juarez-Pachuca",
+    "league": "Liga Mx",
+    "team1": {
+      "name": "Juarez"
+    },
+    "team2": {
+      "name": "Pachuca"
+    },
+    "kickoff_date": "2025-11-24",
+    "kickoff_time": "08:00",
+    "match_date": "2025-11-24",
+    "match_time": "08:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=108",
         "label": "CH-ES"
       }
     ]
