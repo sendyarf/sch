@@ -263,12 +263,7 @@
     "match_date": "2025-11-23",
     "match_time": "22:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=142",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-Rennes-Monaco",
@@ -838,24 +833,7 @@
     "match_date": "2025-11-23",
     "match_time": "22:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=95",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Getafe-Atl.Madrid",
@@ -1311,161 +1289,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "BetfredSuperLeague-Panserraikos-Panathinaikos",
-    "league": "Betfred Super League",
-    "team1": {
-      "name": "Panserraikos"
-    },
-    "team2": {
-      "name": "Panathinaikos"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-23",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=148",
-        "label": "CH-GR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd11",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "CampeonatoItaúChile-Antofagasta-Dep.Concepcion",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "Antofagasta"
-    },
-    "team2": {
-      "name": "Dep. Concepcion"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-23",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "CampeonatoItaúChile-Arica-Rangers",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "Arica"
-    },
-    "team2": {
-      "name": "Rangers"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-23",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=158",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Premiership-Aberdeen-Hearts",
-    "league": "Premiership",
-    "team1": {
-      "name": "Aberdeen"
-    },
-    "team2": {
-      "name": "Hearts"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-23",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=128",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "ProLeague-Antwerp-Dender",
-    "league": "Pro League",
-    "team1": {
-      "name": "Antwerp"
-    },
-    "team2": {
-      "name": "Dender"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-23",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-CadixCF-CulturalLeonesa",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Cadix CF"
-    },
-    "team2": {
-      "name": "Cultural Leonesa"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:15",
-    "match_date": "2025-11-23",
-    "match_time": "22:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=54",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Huesca-Gijon",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Huesca"
-    },
-    "team2": {
-      "name": "Gijon"
-    },
-    "kickoff_date": "2025-11-23",
-    "kickoff_time": "22:15",
-    "match_date": "2025-11-23",
-    "match_time": "22:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "TournéeAutomne-Angleterre-Argentine",
