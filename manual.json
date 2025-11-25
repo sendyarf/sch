@@ -1,118 +1,181 @@
 [
 
-  {
-    "id": "Indonesia-SuperLeague-Persebaya-AremaFC",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persebaya"
-    },
-    "team2": {
-      "name": "Arema FC"
-    },
-    "kickoff_date": "2025-11-22",
-    "kickoff_time": "15:30",
-    "match_date": "2025-11-22",
-    "match_time": "15:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81NDczNDUubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-SuperLeague-PSIMYogyakarta-FCBhayangkara",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "PSIM Yogyakarta"
-    },
-    "team2": {
-      "name": "FC Bhayangkara"
-    },
-    "kickoff_date": "2025-11-22",
-    "kickoff_time": "15:30",
-    "match_date": "2025-11-22",
-    "match_time": "15:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zMjE0NDMubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
-  },
-   {
-    "id": "PremierLeague-Burnley-Chelsea",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Burnley"
-    },
-    "team2": {
-      "name": "Chelsea"
-    },
-    "kickoff_date": "2025-11-22",
-    "kickoff_time": "19:30",
-    "match_date": "2025-11-22",
-    "match_time": "19:20",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-Liverpool-Nottingham",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Liverpool"
-    },
-    "team2": {
-      "name": "Nottingham"
-    },
-    "kickoff_date": "2025-11-22",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-22",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-EN"
-      }
-    ]
-  },
 {
-    "id": "LaLiga-Barcelona-AthBilbao",
-    "league": "Spain - La Liga",
+    "id": "ChampionsLeague-Ajax-Benfica",
+    "league": "UEFA Champions League",
     "team1": {
-      "name": "Barcelona"
+      "name": "Ajax"
     },
     "team2": {
-      "name": "Ath Bilbao"
+      "name": "Benfica"
     },
-    "kickoff_date": "2025-11-22",
-    "kickoff_time": "22:15",
-    "match_date": "2025-11-22",
-    "match_time": "22:05",
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "00:45",
+    "match_date": "2025-11-26",
+    "match_time": "00:35",
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
+        "url": "https://multi.govoet.my.id/?shaka=cbssports",
+        "label": "CH-EN"
       },
       {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
+        "url": "https://multi.govoet.my.id/?shaka=tnt3",
+        "label": "CH-EN"
       },
       {
         "url": "https://multi.govoet.my.id/?shaka=ziggosp",
         "label": "CH-NL"
       }
     ]
+  },
+  {
+    "id": "ChampionsLeague-Galatasaray-RoyaleUnionSG",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Galatasaray"
+    },
+    "team2": {
+      "name": "Royale Union SG"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "00:45",
+    "match_date": "2025-11-26",
+    "match_time": "00:35",
+    "duration": "3.5",
+    "servers": [
+      
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
+      }
+    ]
+  },
+
+  {
+    "id": "ChampionsLeague-Chelsea-Barcelona",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Chelsea"
+    },
+    "team2": {
+      "name": "Barcelona"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-26",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+       {
+        "url": "https://multi.govoet.my.id/?shaka=ziggoSP",
+        "label": "CH-NL"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Dortmund-Villarreal",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Dortmund"
+    },
+    "team2": {
+      "name": "Villarreal"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-26",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt4",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-ManchesterCity-BayerLeverkusen",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Manchester City"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-26",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Marseille-Newcastle",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Marseille"
+    },
+    "team2": {
+      "name": "Newcastle"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-26",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt2",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "ChampionsLeague-Napoli-Qarabag",
+    "league": "UEFA Champions League",
+    "team1": {
+      "name": "Napoli"
+    },
+    "team2": {
+      "name": "Qarabag"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-26",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=cbssports",
+        "label": "CH-EN"
+      }
+    ]
   }
-  
- 
+
 ]
