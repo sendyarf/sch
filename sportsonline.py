@@ -73,7 +73,7 @@ def extract_channel_from_url(url):
     return None
 
 def scrape_sportsonline():
-    url = "https://sportsonline.sn/prog.txt"
+    url = "https://sportsonline.cx/prog.txt"
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
