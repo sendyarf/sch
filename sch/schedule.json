@@ -841,35 +841,6 @@
     "servers": []
   },
   {
-    "id": "NBA-Philadelphia76ers-OrlandoMagic",
-    "league": "NBA",
-    "team1": {
-      "name": "Philadelphia 76ers"
-    },
-    "team2": {
-      "name": "Orlando Magic"
-    },
-    "kickoff_date": "2025-11-26",
-    "kickoff_time": "08:00",
-    "match_date": "2025-11-26",
-    "match_time": "07:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=181",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=75",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
     "id": "NHL-EdmontonOilers-DallasStars",
     "league": "NHL",
     "team1": {
@@ -927,6 +898,10 @@
       },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjgucGhw",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjkucGhw",
         "label": "CH-EN"
       }
     ]
