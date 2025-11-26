@@ -301,20 +301,7 @@
     "match_date": "2025-11-26",
     "match_time": "00:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Galatasaray-RoyaleUnionSG",
@@ -330,16 +317,7 @@
     "match_date": "2025-11-26",
     "match_time": "00:35",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt4",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Bodo/Glimt-Juventus",
@@ -371,16 +349,7 @@
     "match_date": "2025-11-26",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggoSP",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo2",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Dortmund-Villarreal",
@@ -396,16 +365,7 @@
     "match_date": "2025-11-26",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt4",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo6",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-ManchesterCity-BayerLeverkusen",
@@ -421,16 +381,7 @@
     "match_date": "2025-11-26",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo3",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Marseille-Newcastle",
@@ -446,16 +397,7 @@
     "match_date": "2025-11-26",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-Napoli-Qarabag",
@@ -471,12 +413,7 @@
     "match_date": "2025-11-26",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=cbssports",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "ChampionsLeague-SlaviaPrague-AthBilbao",
@@ -1100,6 +1037,34 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
         "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Lion-City-Sgp-Persib-Bandung-Ina",
+    "league": "Tournament info not found",
+    "team1": {
+      "name": "Lion City (Sgp)",
+      "logo": "https://static.flashscore.com/res/image/data/67RQUJjl-xtTU8gYe.png"
+    },
+    "team2": {
+      "name": "Persib Bandung (Ina)",
+      "logo": "https://static.flashscore.com/res/image/data/QuGrSijl-fXN2TGqm.png"
+    },
+    "kickoff_date": "2025-11-26",
+    "kickoff_time": "19:15",
+    "match_date": "2025-11-26",
+    "match_time": "19:05",
+    "duration": "3.5",
+    "icon": "https://via.placeholder.com/30.png?text=Soccer",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=mewatch5",
+        "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8zNzU1MDMubTN1OA==",
+        "label": "CH-VN"
       }
     ]
   }
