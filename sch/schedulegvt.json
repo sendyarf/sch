@@ -1134,6 +1134,76 @@
     "servers": []
   },
   {
+    "id": "ConferenceLeague-Strasbourg-CrystalPalace",
+    "league": "Conference League",
+    "team1": {
+      "name": "Strasbourg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/strasbourg.png"
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/crystal-palace.png"
+    },
+    "kickoff_date": "2025-11-28",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-28",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=11",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=172",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMi5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "LigueEuropa-Betis-Utrecht",
+    "league": "Europa League",
+    "team1": {
+      "name": "Betis",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/betis.png"
+    },
+    "team2": {
+      "name": "Utrecht",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utrecht.png"
+    },
+    "kickoff_date": "2025-11-28",
+    "kickoff_time": "03:00",
+    "match_date": "2025-11-28",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=35",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      }
+    ]
+  },
+  {
     "id": "ChampionsLeague-Liverpool-PSV",
     "league": "UEFA Champions League",
     "team1": {
