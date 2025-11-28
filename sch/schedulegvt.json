@@ -248,7 +248,12 @@
     "match_date": "2025-11-29",
     "match_time": "01:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=142",
+        "label": "CH-NL"
+      }
+    ]
   },
   {
     "id": "Eredivisie-Excelsior-NACBreda",
@@ -393,6 +398,18 @@
     "match_time": "02:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=20",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=69",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -591,6 +608,18 @@
     "match_time": "02:20",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd3",
         "label": "CH-1"
@@ -797,6 +826,18 @@
     "match_time": "02:35",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=137",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=155",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd7",
         "label": "CH-1"
@@ -1007,6 +1048,22 @@
     "match_time": "02:50",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=6",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=51",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=96",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd6",
         "label": "CH-1"
@@ -1330,5 +1387,302 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "NBA-AtlantaHawks-ClevelandCavaliers",
+    "league": "NBA",
+    "team1": {
+      "name": "Atlanta Hawks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atlanta-hawks.png"
+    },
+    "team2": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cleveland-cavaliers.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-29",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-BrooklynNets-Philadelphia76ers",
+    "league": "NBA",
+    "team1": {
+      "name": "Brooklyn Nets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brooklyn-nets.png"
+    },
+    "team2": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/philadelphia-76ers.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-29",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-CharlotteHornets-ChicagoBulls",
+    "league": "NBA",
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/charlotte-hornets.png"
+    },
+    "team2": {
+      "name": "Chicago Bulls",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chicago-bulls.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-29",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-DetroitPistons-OrlandoMagic",
+    "league": "NBA",
+    "team1": {
+      "name": "Detroit Pistons",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/detroit-pistons.png"
+    },
+    "team2": {
+      "name": "Orlando Magic",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orlando-magic.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-29",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjgucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-IndianaPacers-WashingtonWizards",
+    "league": "NBA",
+    "team1": {
+      "name": "Indiana Pacers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/indiana-pacers.png"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/washington-wizards.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-29",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewYorkKnicks-MilwaukeeBucks",
+    "league": "NBA",
+    "team1": {
+      "name": "New York Knicks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-knicks.png"
+    },
+    "team2": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/milwaukee-bucks.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "07:30",
+    "match_date": "2025-11-29",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzAucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-DenverNuggets-SanAntonioSpurs",
+    "league": "NBA",
+    "team1": {
+      "name": "Denver Nuggets",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/denver-nuggets.png"
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-antonio-spurs.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-29",
+    "match_time": "09:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=166",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzIucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-OklahomaCityThunder-PhoenixSuns",
+    "league": "NBA",
+    "team1": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/oklahoma-city-thunder.png"
+    },
+    "team2": {
+      "name": "Phoenix Suns",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/phoenix-suns.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-29",
+    "match_time": "09:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=167",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzEucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-UtahJazz-SacramentoKings",
+    "league": "NBA",
+    "team1": {
+      "name": "Utah Jazz",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utah-jazz.png"
+    },
+    "team2": {
+      "name": "Sacramento Kings",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sacramento-kings.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "09:30",
+    "match_date": "2025-11-29",
+    "match_time": "09:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=168",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzMucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-LosAngelesClippers-MemphisGrizzlies",
+    "league": "NBA",
+    "team1": {
+      "name": "Los Angeles Clippers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-clippers.png"
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/memphis-grizzlies.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-29",
+    "match_time": "09:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=169",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzUucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-LosAngelesLakers-DallasMavericks",
+    "league": "NBA",
+    "team1": {
+      "name": "Los Angeles Lakers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-lakers.png"
+    },
+    "team2": {
+      "name": "Dallas Mavericks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dallas-mavericks.png"
+    },
+    "kickoff_date": "2025-11-29",
+    "kickoff_time": "10:00",
+    "match_date": "2025-11-29",
+    "match_time": "09:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=170",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzQucGhw",
+        "label": "CH-EN"
+      }
+    ]
   }
 ]
