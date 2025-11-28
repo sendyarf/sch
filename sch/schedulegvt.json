@@ -1234,7 +1234,12 @@
     "match_date": "2025-11-28",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-MalutUnited-AremaFC",
@@ -1325,101 +1330,5 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Liverpool-PSV",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Liverpool",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/liverpool.png"
-    },
-    "team2": {
-      "name": "PSV",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
-    },
-    "kickoff_date": "2025-11-27",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-27",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt2",
-        "label": "CH-EN"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggosp",
-        "label": "CH-NL"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-Arsenal-BayernMunich",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Arsenal",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
-    },
-    "team2": {
-      "name": "Bayern Munich",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
-    },
-    "kickoff_date": "2025-11-27",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-27",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-PSG-Tottenham",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "PSG",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psg.png"
-    },
-    "team2": {
-      "name": "Tottenham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
-    },
-    "kickoff_date": "2025-11-27",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-27",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt3",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "ChampionsLeague-OlympiacosPiraeus-RealMadrid",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Olympiacos Piraeus",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/olympiacos-piraeus.png"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/real-madrid.png"
-    },
-    "kickoff_date": "2025-11-27",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-27",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=ziggo5",
-        "label": "CH-NL"
-      }
-    ]
   }
 ]
