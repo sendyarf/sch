@@ -1197,6 +1197,24 @@
     ]
   },
   {
+    "id": "SerieA-Bologna-Cremonese",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Bologna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bologna.png"
+    },
+    "team2": {
+      "name": "Cremonese",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cremonese.png"
+    },
+    "kickoff_date": "2025-12-02",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-02",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "LaLiga-Getafe-Elche",
     "league": "Spain - La Liga",
     "team1": {
@@ -1470,45 +1488,22 @@
     ]
   },
   {
-    "id": "Indonesia-SuperLeague-FCBhayangkara-Persebaya",
-    "league": "Indonesia - Super League",
+    "id": "LaLiga-RayoVallecano-Valencia",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "FC Bhayangkara",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-bhayangkara.png"
+      "name": "Rayo Vallecano",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/rayo-vallecano.png"
     },
     "team2": {
-      "name": "Persebaya",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persebaya.png"
+      "name": "Valencia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/valencia.png"
     },
-    "kickoff_date": "2025-11-28",
-    "kickoff_time": "15:30",
-    "match_date": "2025-11-28",
-    "match_time": "15:20",
+    "kickoff_date": "2025-12-02",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-02",
+    "match_time": "02:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Indonesia-SuperLeague-PersijaJakarta-PSIMYogyakarta",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persija Jakarta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persija-jakarta.png"
-    },
-    "team2": {
-      "name": "PSIM Yogyakarta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psim-yogyakarta.png"
-    },
-    "kickoff_date": "2025-11-28",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-28",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
-      }
-    ]
   },
   {
     "id": "Indonesia-SuperLeague-MalutUnited-AremaFC",
@@ -1894,6 +1889,29 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzQucGhw",
         "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "Indonesia-SuperLeague-PersijaJakarta-PSIMYogyakarta",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Persija Jakarta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persija-jakarta.png"
+    },
+    "team2": {
+      "name": "PSIM Yogyakarta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psim-yogyakarta.png"
+    },
+    "kickoff_date": "2025-11-28",
+    "kickoff_time": "19:00",
+    "match_date": "2025-11-28",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
+        "label": "CH-VN"
       }
     ]
   }
