@@ -13,24 +13,7 @@
     "match_date": "2025-11-29",
     "match_time": "21:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=40",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=129",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=58",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "PremierLeague-ManchesterCity-Leeds",
@@ -47,22 +30,6 @@
     "match_time": "21:50",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=38",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=130",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?shaka=fubo",
         "label": "CH-EN"
@@ -83,20 +50,7 @@
     "match_date": "2025-11-29",
     "match_time": "21:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=39",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=131",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=57",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "PremierLeague-Everton-Newcastle",
@@ -1572,26 +1526,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?shaka=skylaliga",
         "label": "CH-ES"
       },
@@ -1988,287 +1922,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "CampeonatoItaúChile-Huachipato-U.Catolica",
-    "league": "Campeonato Itaú Chile",
-    "team1": {
-      "name": "Huachipato"
-    },
-    "team2": {
-      "name": "U. Catolica"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=83",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Coventry-Charlton",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Coventry"
-    },
-    "team2": {
-      "name": "Charlton"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=190",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Middlesbrough-Derby",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Middlesbrough"
-    },
-    "team2": {
-      "name": "Derby"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=191",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Millwall-Southampton",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Millwall"
-    },
-    "team2": {
-      "name": "Southampton"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=192",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Norwich-QPR",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Norwich"
-    },
-    "team2": {
-      "name": "QPR"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=193",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-SheffieldWed-Preston",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Sheffield Wed"
-    },
-    "team2": {
-      "name": "Preston"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=194",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Championship-WestBrom-Swansea",
-    "league": "England - Championship",
-    "team1": {
-      "name": "West Brom"
-    },
-    "team2": {
-      "name": "Swansea"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=8",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=195",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=80",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Championship-Wrexham-Blackburn",
-    "league": "England - Championship",
-    "team1": {
-      "name": "Wrexham"
-    },
-    "team2": {
-      "name": "Blackburn"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=196",
-        "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "CoupeDeFrance-Saint-Malo-Bastia",
-    "league": "Coupe De France",
-    "team1": {
-      "name": "Saint-Malo"
-    },
-    "team2": {
-      "name": "Bastia"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=46",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-MultiplexPremierLeague",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Multiplex Premier League"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "ProLeague-Dender-Westerlo",
-    "league": "Pro League",
-    "team1": {
-      "name": "Dender"
-    },
-    "team2": {
-      "name": "Westerlo"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:00",
-    "match_date": "2025-11-29",
-    "match_time": "21:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=153",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "TournéeAutomne-PaysdeGalles-AfriqueduSud",
-    "league": "Tournée Automne",
-    "team1": {
-      "name": "Wales"
-    },
-    "team2": {
-      "name": "South Africa"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:10",
-    "match_date": "2025-11-29",
-    "match_time": "22:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=3",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-CulturalLeonesa-Grenade",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Cultural Leonesa"
-    },
-    "team2": {
-      "name": "Grenade"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "22:15",
-    "match_date": "2025-11-29",
-    "match_time": "22:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "BetfredSuperLeague-OFICrete-Volos",
@@ -3936,6 +3589,27 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=151",
         "label": "CH-TR"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-MultiplexPremierLeague",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Multiplex Premier League"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-30",
+    "kickoff_time": "21:05",
+    "match_date": "2025-11-30",
+    "match_time": "20:55",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
       }
     ]
   },
