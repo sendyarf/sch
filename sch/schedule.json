@@ -2177,98 +2177,6 @@
     "servers": []
   },
   {
-    "id": "Bundesliga2-bundesliga2konferenz",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "bundesliga 2 konferenz"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-29",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=111",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Bundesliga2-Braunschweig-Kaiserslautern",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Braunschweig"
-    },
-    "team2": {
-      "name": "Kaiserslautern"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-29",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=113",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Bundesliga2-GreutherFürth-Bochum",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Greuther Fürth"
-    },
-    "team2": {
-      "name": "Bochum"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-29",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=115",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
-    "id": "Bundesliga2-HolsteinKiel-HerthaBerlin",
-    "league": "Bundesliga 2",
-    "team1": {
-      "name": "Holstein Kiel"
-    },
-    "team2": {
-      "name": "Hertha Berlin"
-    },
-    "kickoff_date": "2025-11-29",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-29",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=114",
-        "label": "CH-DE"
-      }
-    ]
-  },
-  {
     "id": "Championship-Leicester-SheffieldUtd",
     "league": "England - Championship",
     "team1": {
@@ -4268,6 +4176,27 @@
       {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Bundesliga2-bundesliga2konferenz",
+    "league": "Bundesliga 2",
+    "team1": {
+      "name": "bundesliga 2 konferenz"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "2025-11-30",
+    "kickoff_time": "19:30",
+    "match_date": "2025-11-30",
+    "match_time": "19:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=111",
+        "label": "CH-DE"
       }
     ]
   },
