@@ -2105,7 +2105,12 @@
     "match_date": "2025-11-29",
     "match_time": "13:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8yOTEyNzcubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-DewaUnited-Persita",
@@ -2121,7 +2126,12 @@
     "match_date": "2025-11-29",
     "match_time": "15:20",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS8xNzA0MzAubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-PersisSolo-PSMMakassar",
@@ -2137,7 +2147,12 @@
     "match_date": "2025-11-29",
     "match_time": "18:50",
     "duration": "3.5",
-    "servers": []
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS81MzQyMTkubTN1OA==",
+        "label": "CH-VN"
+      }
+    ]
   },
   {
     "id": "Indonesia-SuperLeague-Borneo-BaliUnited",
@@ -6364,27 +6379,6 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=174",
         "label": "CH-US"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-SuperLeague-PersijaJakarta-PSIMYogyakarta",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Persija Jakarta"
-    },
-    "team2": {
-      "name": "PSIM Yogyakarta"
-    },
-    "kickoff_date": "2025-11-28",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-28",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MzQ5ODIubTN1OA==",
-        "label": "CH-VN"
       }
     ]
   }
