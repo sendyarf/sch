@@ -97,26 +97,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=127",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=56",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=72",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
       },
@@ -449,12 +429,7 @@
     "match_date": "2025-11-30",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-PSV-FCVolendam",
@@ -678,10 +653,6 @@
     "match_time": "02:55",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -1520,28 +1491,7 @@
     "match_date": "2025-11-30",
     "match_time": "02:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-RealSociedad-Villarreal",
@@ -1860,77 +1810,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "Laliga2-Valladolid-Malaga",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Valladolid"
-    },
-    "team2": {
-      "name": "Malaga"
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-30",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NHL-ColoradoAvalanche-MontrealCanadiens",
-    "league": "NHL",
-    "team1": {
-      "name": "Colorado Avalanche"
-    },
-    "team2": {
-      "name": "Montreal Canadiens"
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-30",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=161",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNTEucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Top14-StadeToulousain-Racing92",
-    "league": "Top 14",
-    "team1": {
-      "name": "Stade Toulousain"
-    },
-    "team2": {
-      "name": "Racing 92"
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "03:00",
-    "match_date": "2025-11-30",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      }
-    ]
   },
   {
     "id": "LigaPortugal-GilVicente-Tondela",
