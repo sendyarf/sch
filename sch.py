@@ -367,6 +367,80 @@ def strict_match_streamcenter(schedule: List[Dict[str, Any]], item: Dict[str, An
     
     return -1
 
+# soco.json
+# Function for fuzzy matching (soco.json)
+def find_match_soco(schedule: List[Dict[str, Any]], item: Dict[str, Any], threshold: float = 0.8) -> int:
+    """
+    Mencari pertandingan yang cocok di jadwal untuk data dari soco.json.
+    
+    Args:
+        schedule: Daftar jadwal yang sudah ada
+        item: Item dari soco.json yang akan dicocokkan
+        threshold: Ambang batas kecocokan (0-1)
+        
+    Returns:
+        int: Indeks pertandingan yang cocok di schedule, atau -1 jika tidak ditemukan
+    """
+    # Cek pencocokan ketat terlebih dahulu
+    strict_idx = strict_match_soco(schedule, item)
+    if strict_idx != -1:
+        return strict_idx
+    
+    # Jika tidak ada yang cocok secara ketat, lakukan fuzzy matching
+    item_team1 = normalize_name(item['team1']['name'])
+    item_team2 = normalize_name(item['team2']['name'])
+    item_date = item.get('kickoff_date', '')
+    item_time = item.get('kickoff_time', '')
+    
+    best_score = 0
+    best_idx = -1
+    
+    for idx, match in enumerate(schedule):
+        # Skip jika tanggal tidak cocok
+        match_date = match.get('kickoff_date', '')
+        if item_date and match_date and item_date != match_date:
+            continue
+            
+        # Hitung skor kecocokan tim
+        match_team1 = normalize_name(match['team1']['name'])
+        match_team2 = normalize_name(match['team2']['name'])
+        
+        # Hitung skor untuk kedua kemungkinan urutan tim
+        score1 = (fuzz.ratio(item_team1, match_team1) + fuzz.ratio(item_team2, match_team2)) / 2
+        score2 = (fuzz.ratio(item_team1, match_team2) + fuzz.ratio(item_team2, match_team1)) / 2
+        score = max(score1, score2)
+        
+        # Periksa kecocokan waktu jika tersedia
+        if item_time and 'kickoff_time' in match:
+            time_diff = time_difference(item_time, match['kickoff_time'], item_date, match_date)
+            if time_diff <= 180:  # Maksimal selisih 3 jam
+                score = score * 0.7 + 30  # Beri bobot lebih jika waktu cocok
+        
+        if score > best_score and score >= threshold * 100:
+            best_score = score
+            best_idx = idx
+    
+    return best_idx
+
+def strict_match_soco(schedule: List[Dict[str, Any]], item: Dict[str, Any]) -> int:
+    """
+    Mencocokkan pertandingan dari soco.json dengan ketat berdasarkan nama tim.
+    """
+    item_team1 = normalize_name(item['team1']['name'])
+    item_team2 = normalize_name(item['team2']['name'])
+    
+    for idx, match in enumerate(schedule):
+        match_team1 = normalize_name(match['team1']['name'])
+        match_team2 = normalize_name(match['team2']['name'])
+        
+        # Cek kedua kemungkinan urutan tim
+        if (item_team1 == match_team1 and item_team2 == match_team2) or \
+           (item_team1 == match_team2 and item_team2 == match_team1):
+            return idx
+    
+    return -1
+
+
 # --- BAGIAN UTAMA SCRIPT ---
 
 # Load translation dict
@@ -434,6 +508,15 @@ except FileNotFoundError:
     logging.warning("File 'streamcenter.json' not found")
     streamcenter_data = []
 
+try:
+    with open('soco.json', 'r', encoding='utf-8') as f:
+        soco_data = json.load(f)
+    soco_data = translate_data(soco_data, trans_dict)
+    logging.info(f"Loaded {len(soco_data)} entries from soco.json")
+except FileNotFoundError:
+    logging.warning("File 'soco.json' not found")
+    streamcenter_data = []
+
 # Initialize schedule with event.json
 schedule: List[Dict[str, Any]] = event_data.copy()
 logging.info(f"Initialized schedule with {len(schedule)} entries from event.json")
@@ -475,6 +558,15 @@ for item in streamcenter_data:
         logging.info(f"Merged servers for {item['id']} from streamcenter.json")
     else:
         logging.info(f"Skipped {item['id']} from streamcenter.json (no match)")
+
+# Process soco.json
+for item in soco_data:
+    match_idx = find_match_soco(schedule, item, threshold=0.8)
+    if match_idx != -1:
+        schedule[match_idx]['servers'] = remove_duplicate_servers(schedule[match_idx].get('servers', []), item.get('servers', []))
+        logging.info(f"Merged servers for {item['id']} from soco.json")
+    else:
+        logging.info(f"Skipped {item['id']} from soco.json (no match)")
 
 # Process manual.json
 for item in manual_data:
