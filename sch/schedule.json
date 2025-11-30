@@ -407,12 +407,7 @@
     "match_date": "2025-11-30",
     "match_time": "20:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=141",
-        "label": "CH-NL"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Telstar-Feyenoord",
@@ -428,16 +423,7 @@
     "match_date": "2025-11-30",
     "match_time": "20:20",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=143",
-        "label": "CH-NL"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Eredivisie-Twente-AZAlkmaar",
@@ -1330,26 +1316,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=90",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=107",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
@@ -1670,27 +1636,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1ZM0VrdnBxdFpjbGhZcTB3ZnJvTjhHZFVOMjAyYTNCS1pFTmpWV1J3ZUc5cWRHTjBZazlyY2t0elNXZGlkU3RxTDFCRWIwRlRibG94ZEd4dk1uTmxWR2RxTWxwWVNGZEpiM05hYkRaclFtUklhVGQ2UVRCQ1IyZGljR1pyZEd0SlVHc3JMdw==",
         "label": "CH-ID"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Saragosse-Leganes",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Saragosse"
-    },
-    "team2": {
-      "name": "Leganes"
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "20:00",
-    "match_date": "2025-11-30",
-    "match_time": "19:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
       }
     ]
   },
