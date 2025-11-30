@@ -524,14 +524,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=21",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=69",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
         "label": "CH-EN"
       }
@@ -552,10 +544,6 @@
     "match_time": "23:05",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=40",
-        "label": "CH-FR"
-      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd4",
         "label": "CH-1"
@@ -581,10 +569,6 @@
     "match_time": "23:05",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=22",
-        "label": "CH-FR"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNS5waHA=",
         "label": "CH-EN"
@@ -1227,12 +1211,7 @@
     "match_date": "2025-11-30",
     "match_time": "22:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-CeltaVigo-Espanyol",
@@ -1496,64 +1475,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1ZM0VrdnBxdFpjbGhZcTB3ZnJvTjhHZFVOMjAyYTNCS1pFTmpWV1J3ZUc5cWRHTjBZazlyY2t0elNXZGlkU3RxTDFCRWIwRlRibG94ZEd4dk1uTmxWR2RxTWxwWVNGZEpiM05hYkRaclFtUklhVGQ2UVRCQ1IyZGljR1pyZEd0SlVHc3JMdw==",
         "label": "CH-ID"
-      }
-    ]
-  },
-  {
-    "id": "formula1-GrandPrixduQatar",
-    "league": "formula 1",
-    "team1": {
-      "name": "Grand Prix du Qatar"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "23:00",
-    "match_date": "2025-11-30",
-    "match_time": "22:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=60",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=134",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=121",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=78",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "Ligue1-MultiplexLigue1",
-    "league": "France - Ligue 1",
-    "team1": {
-      "name": "Multiplex Ligue 1"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "23:15",
-    "match_date": "2025-11-30",
-    "match_time": "23:05",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=20",
-        "label": "CH-FR"
       }
     ]
   },
