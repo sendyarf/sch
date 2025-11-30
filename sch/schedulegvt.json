@@ -33,12 +33,7 @@
     "match_date": "2025-11-29",
     "match_time": "21:50",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=fubo",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "PremierLeague-Sunderland-Bournemouth",
@@ -150,6 +145,10 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMS5waHA=",
         "label": "CH-EN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-FR"
       }
     ]
   },
@@ -1418,16 +1417,7 @@
     "match_date": "2025-11-29",
     "match_time": "22:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=skylaliga",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?shaka=laliga",
-        "label": "CH-ES"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "LaLiga-Levante-AthBilbao",
@@ -1806,6 +1796,10 @@
       {
         "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLmlucGx5ci5jb20vcm9vbS80MDY4NjUubTN1OA==",
         "label": "CH-VN"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvc2QtMS00Mzc5NDA2Lm0zdTg/dHhTZWNyZXQ9YzQzYTk2ZWYzYTg4MTQxMDhlYTE0Zjc4ZjdlYWEwNzImdHhUaW1lPTY5MkM0NkY0",
+        "label": "CH-ID"
       }
     ]
   },
