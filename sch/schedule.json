@@ -1128,22 +1128,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=1",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=88",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
@@ -1325,77 +1309,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1ZM0VrdnBxdFpjbGhZcTB3ZnJvTjhHZFVOMjAyYTNCS1pFTmpWV1J3ZUc5cWRHTjBZazlyY2t0elNXZGlkU3RxTDFCRWIwRlRibG94ZEd4dk1uTmxWR2RxTWxwWVNGZEpiM05hYkRaclFtUklhVGQ2UVRCQ1IyZGljR1pyZEd0SlVHc3JMdw==",
         "label": "CH-ID"
-      }
-    ]
-  },
-  {
-    "id": "Laliga2-Castellon-LasPalmas",
-    "league": "Laliga 2",
-    "team1": {
-      "name": "Castellon"
-    },
-    "team2": {
-      "name": "Las Palmas"
-    },
-    "kickoff_date": "2025-12-01",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-01",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=53",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "NBA-UtahJazz-HoustonRockets",
-    "league": "NBA",
-    "team1": {
-      "name": "Utah Jazz"
-    },
-    "team2": {
-      "name": "Houston Rockets"
-    },
-    "kickoff_date": "2025-12-01",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-01",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=168",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=172",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "Top14-SectionPaloise-StadeRochelais",
-    "league": "Top 14",
-    "team1": {
-      "name": "Section Paloise"
-    },
-    "team2": {
-      "name": "Stade Rochelais"
-    },
-    "kickoff_date": "2025-12-01",
-    "kickoff_time": "03:05",
-    "match_date": "2025-12-01",
-    "match_time": "02:55",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=11",
-        "label": "CH-FR"
       }
     ]
   },
@@ -2588,6 +2501,31 @@
       {
         "url": "https://multi.govoet.my.id/?envivo=171",
         "label": "CH-US"
+      }
+    ]
+  },
+  {
+    "id": "NBA-UtahJazz-HoustonRockets",
+    "league": "NBA",
+    "team1": {
+      "name": "Utah Jazz"
+    },
+    "team2": {
+      "name": "Houston Rockets"
+    },
+    "kickoff_date": "2025-12-02",
+    "kickoff_time": "09:00",
+    "match_date": "2025-12-02",
+    "match_time": "08:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=172",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
+        "label": "CH-EN"
       }
     ]
   },
