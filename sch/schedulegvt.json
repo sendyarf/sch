@@ -17,6 +17,26 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=33",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=129",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=58",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=117",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=88",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd5",
         "label": "CH-1"
       },
@@ -43,6 +63,26 @@
     "match_time": "02:20",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=14",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=127",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=56",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=116",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=87",
+        "label": "CH-ES"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd1",
         "label": "CH-1"
@@ -78,6 +118,22 @@
     "match_time": "03:05",
     "duration": "3.5",
     "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=12",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=128",
+        "label": "CH-GB"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=57",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=120",
+        "label": "CH-DE"
+      },
       {
         "url": "https://multi.govoet.my.id/?ss=hd11",
         "label": "CH-1"
@@ -322,6 +378,26 @@
     "duration": "3.5",
     "servers": [
       {
+        "url": "https://multi.govoet.my.id/?envivo=2",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=49",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=124",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=71",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=94",
+        "label": "CH-ES"
+      },
+      {
         "url": "https://multi.govoet.my.id/?ss=hd2",
         "label": "CH-1"
       },
@@ -411,6 +487,406 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
+  },
+  {
+    "id": "CoupeArabe-Maroc-Comores",
+    "league": "Coupe Arabe",
+    "team1": {
+      "name": "Morocco",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/morocco.png"
+    },
+    "team2": {
+      "name": "Comoros",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/comoros.png"
+    },
+    "kickoff_date": "2025-12-02",
+    "kickoff_time": "19:00",
+    "match_date": "2025-12-02",
+    "match_time": "18:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-AE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Eredivisie-Ajax-Groningen",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Ajax",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ajax.png"
+    },
+    "team2": {
+      "name": "Groningen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/groningen.png"
+    },
+    "kickoff_date": "2025-12-02",
+    "kickoff_time": "20:30",
+    "match_date": "2025-12-02",
+    "match_time": "20:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=141",
+        "label": "CH-NL"
+      }
+    ]
+  },
+  {
+    "id": "CoupeArabe-ArabieSaoudite-Oman",
+    "league": "Coupe Arabe",
+    "team1": {
+      "name": "Saudi Arabia",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/saudi-arabia.png"
+    },
+    "team2": {
+      "name": "Oman",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/oman.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-02",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=46",
+        "label": "CH-AE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "DFBPokal-B.Monchengladbach-St.Pauli",
+    "league": "DFB Pokal",
+    "team1": {
+      "name": "B. Monchengladbach",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/b-monchengladbach.png"
+    },
+    "team2": {
+      "name": "St. Pauli",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/st-pauli.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-02",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=5",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=114",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "CoppaItalia-Juventus-Udinese",
+    "league": "Coppa Italia",
+    "team1": {
+      "name": "Juventus",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/juventus.png"
+    },
+    "team2": {
+      "name": "Udinese",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/udinese.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-03",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=139",
+        "label": "CH-IT"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=123",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=82",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br4",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "DFBPokal-Dortmund-BayerLeverkusen",
+    "league": "DFB Pokal",
+    "team1": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "team2": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayer-leverkusen.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-03",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=4",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=19",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=112",
+        "label": "CH-DE"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=89",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=98",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven3",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOC5waHA=",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-Philadelphia76ers-WashingtonWizards",
+    "league": "NBA",
+    "team1": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/philadelphia-76ers.png"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/washington-wizards.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "07:00",
+    "match_date": "2025-12-03",
+    "match_time": "06:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=160",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-TorontoRaptors-PortlandTrailBlazers",
+    "league": "NBA",
+    "team1": {
+      "name": "Toronto Raptors",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/toronto-raptors.png"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/portland-trail-blazers.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "07:30",
+    "match_date": "2025-12-03",
+    "match_time": "07:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=161",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-BostonCeltics-NewYorkKnicks",
+    "league": "NBA",
+    "team1": {
+      "name": "Boston Celtics",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/boston-celtics.png"
+    },
+    "team2": {
+      "name": "New York Knicks",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-knicks.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-03",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=162",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjcucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-NewOrleansPelicans-MinnesotaTimberwolves",
+    "league": "NBA",
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-orleans-pelicans.png"
+    },
+    "team2": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/minnesota-timberwolves.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-03",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=163",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjgucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-SanAntonioSpurs-MemphisGrizzlies",
+    "league": "NBA",
+    "team1": {
+      "name": "San Antonio Spurs",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/san-antonio-spurs.png"
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/memphis-grizzlies.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "08:00",
+    "match_date": "2025-12-03",
+    "match_time": "07:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=164",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjkucGhw",
+        "label": "CH-EN"
+      }
+    ]
+  },
+  {
+    "id": "NBA-GoldenStateWarriors-OklahomaCityThunder",
+    "league": "NBA",
+    "team1": {
+      "name": "Golden State Warriors",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/golden-state-warriors.png"
+    },
+    "team2": {
+      "name": "Oklahoma City Thunder",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/oklahoma-city-thunder.png"
+    },
+    "kickoff_date": "2025-12-03",
+    "kickoff_time": "11:00",
+    "match_date": "2025-12-03",
+    "match_time": "10:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?envivo=1",
+        "label": "CH-FR"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=165",
+        "label": "CH-US"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?envivo=75",
+        "label": "CH-ES"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNzAucGhw",
+        "label": "CH-EN"
+      }
+    ]
   },
   {
     "id": "PremierLeague-CrystalPalace-ManchesterUtd",
