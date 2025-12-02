@@ -57,22 +57,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=12",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=128",
-        "label": "CH-GB"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=57",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=120",
-        "label": "CH-DE"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMi5waHA=",
         "label": "CH-EN"
       }
@@ -544,26 +528,6 @@
     "duration": "3.5",
     "servers": [
       {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=49",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=124",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=71",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=94",
-        "label": "CH-ES"
-      },
-      {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNi5waHA=",
         "label": "CH-EN"
       },
@@ -693,126 +657,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "CoppaItalia-Juventus-Udinese",
-    "league": "Coppa Italia",
-    "team1": {
-      "name": "Juventus"
-    },
-    "team2": {
-      "name": "Udinese"
-    },
-    "kickoff_date": "2025-12-03",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-03",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=139",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=123",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=82",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "CoupeDuRoi-Navalcarnero-Getafe",
-    "league": "Coupe Du Roi",
-    "team1": {
-      "name": "Navalcarnero"
-    },
-    "team2": {
-      "name": "Getafe"
-    },
-    "kickoff_date": "2025-12-03",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-03",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=51",
-        "label": "CH-ES"
-      }
-    ]
-  },
-  {
-    "id": "DFBPokal-Dortmund-BayerLeverkusen",
-    "league": "DFB Pokal",
-    "team1": {
-      "name": "Dortmund"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen"
-    },
-    "kickoff_date": "2025-12-03",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-03",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=4",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=19",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=112",
-        "label": "CH-DE"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=89",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=98",
-        "label": "CH-ES"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOC5waHA=",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "DFBPokal-RBLeipzig-Magdeburg",
-    "league": "DFB Pokal",
-    "team1": {
-      "name": "RB Leipzig"
-    },
-    "team2": {
-      "name": "Magdeburg"
-    },
-    "kickoff_date": "2025-12-03",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-03",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=5",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=115",
-        "label": "CH-DE"
-      }
-    ]
   },
   {
     "id": "CampeonatoItaúChile-U.DeChile-Coquimbo",
