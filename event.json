@@ -1,101 +1,5 @@
 [
   {
-    "id": "PremierLeague-Arsenal-Brentford",
-    "league": "Premier League",
-    "team1": {
-      "name": "Arsenal"
-    },
-    "team2": {
-      "name": "Brentford"
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-04",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Brighton-AstonVilla",
-    "league": "Premier League",
-    "team1": {
-      "name": "Brighton"
-    },
-    "team2": {
-      "name": "Aston Villa"
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-04",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Burnley-CrystalPalace",
-    "league": "Premier League",
-    "team1": {
-      "name": "Burnley"
-    },
-    "team2": {
-      "name": "Crystal Palace"
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-04",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Wolves-Nottingham",
-    "league": "Premier League",
-    "team1": {
-      "name": "Wolves"
-    },
-    "team2": {
-      "name": "Nottingham"
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "02:30",
-    "match_date": "2025-12-04",
-    "match_time": "02:30",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Leeds-Chelsea",
-    "league": "Premier League",
-    "team1": {
-      "name": "Leeds"
-    },
-    "team2": {
-      "name": "Chelsea"
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "03:15",
-    "match_date": "2025-12-04",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "PremierLeague-Liverpool-Sunderland",
-    "league": "Premier League",
-    "team1": {
-      "name": "Liverpool"
-    },
-    "team2": {
-      "name": "Sunderland"
-    },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "03:15",
-    "match_date": "2025-12-04",
-    "match_time": "03:15",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
     "id": "PremierLeague-ManchesterUtd-WestHam",
     "league": "Premier League",
     "team1": {
@@ -528,6 +432,22 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Lorient-Lyon",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Lorient"
+    },
+    "team2": {
+      "name": "Lyon"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-08",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-Mainz-B.Monchengladbach",
     "league": "Bundesliga",
     "team1": {
@@ -752,18 +672,50 @@
     "servers": []
   },
   {
-    "id": "LaLiga-AthBilbao-RealMadrid",
-    "league": "LaLiga",
+    "id": "SerieA-Lazio-Bologna",
+    "league": "Serie A",
     "team1": {
-      "name": "Ath Bilbao"
+      "name": "Lazio"
     },
     "team2": {
-      "name": "Real Madrid"
+      "name": "Bologna"
     },
-    "kickoff_date": "2025-12-04",
-    "kickoff_time": "01:00",
-    "match_date": "2025-12-04",
-    "match_time": "01:00",
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-08",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Napoli-Juventus",
+    "league": "Serie A",
+    "team1": {
+      "name": "Napoli"
+    },
+    "team2": {
+      "name": "Juventus"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-08",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Pisa-Parma",
+    "league": "Serie A",
+    "team1": {
+      "name": "Pisa"
+    },
+    "team2": {
+      "name": "Parma"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-08",
+    "match_time": "21:00",
     "duration": "3.5",
     "servers": []
   },
@@ -876,6 +828,38 @@
     "kickoff_time": "22:15",
     "match_date": "2025-12-07",
     "match_time": "22:15",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Espanyol-RayoVallecano",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Espanyol"
+    },
+    "team2": {
+      "name": "Rayo Vallecano"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-08",
+    "match_time": "00:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-RealMadrid-CeltaVigo",
+    "league": "LaLiga",
+    "team1": {
+      "name": "Real Madrid"
+    },
+    "team2": {
+      "name": "Celta Vigo"
+    },
+    "kickoff_date": "2025-12-08",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-08",
+    "match_time": "03:00",
     "duration": "3.5",
     "servers": []
   },
