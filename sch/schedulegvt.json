@@ -796,6 +796,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br4",
         "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOC5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -841,6 +845,10 @@
       {
         "url": "https://multi.govoet.my.id/?ss=br1",
         "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOC5waHA=",
+        "label": "CH-EN"
       }
     ]
   },
@@ -1518,60 +1526,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "NBA-BostonCeltics-LosAngelesLakers",
-    "league": "NBA",
-    "team1": {
-      "name": "Boston Celtics",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/boston-celtics.png"
-    },
-    "team2": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/los-angeles-lakers.png"
-    },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-06",
-    "match_time": "06:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "NBA-OrlandoMagic-MiamiHeat",
-    "league": "NBA",
-    "team1": {
-      "name": "Orlando Magic",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orlando-magic.png"
-    },
-    "team2": {
-      "name": "Miami Heat",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/miami-heat.png"
-    },
-    "kickoff_date": "2025-12-06",
-    "kickoff_time": "07:00",
-    "match_date": "2025-12-06",
-    "match_time": "06:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=161",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjYucGhw",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "NBA-AtlantaHawks-DenverNuggets",
