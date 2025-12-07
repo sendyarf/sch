@@ -1,109 +1,5 @@
 [
   {
-    "id": "NBA-GoldenStateWarriors@ClevelandCavaliers",
-    "league": "",
-    "team1": {
-      "name": "NBA: Golden State Warriors @ Cleveland Cavaliers"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "07:30",
-    "match_date": "",
-    "match_time": "07:30",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd5",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv2",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br3",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
-    "id": "Boxing-IsaacCruzvsLamontRoach",
-    "league": "",
-    "team1": {
-      "name": "Boxing: Isaac Cruz vs Lamont Roach"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "08:00",
-    "match_date": "",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=br6",
-        "label": "CH-1"
-      }
-    ]
-  },
-  {
-    "id": "UFC323-Prelims",
-    "league": "",
-    "team1": {
-      "name": "UFC 323: Prelims"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "08:00",
-    "match_date": "",
-    "match_time": "08:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br4",
-        "label": "CH-2"
-      }
-    ]
-  },
-  {
-    "id": "UFC323-MerabDvalishvilivsPetrYan",
-    "league": "",
-    "team1": {
-      "name": "UFC 323: Merab Dvalishvili vs Petr Yan"
-    },
-    "team2": {
-      "name": ""
-    },
-    "kickoff_date": "",
-    "kickoff_time": "10:00",
-    "match_date": "",
-    "match_time": "10:00",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?ss=hd2",
-        "label": "CH-1"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=sporttv1",
-        "label": "CH-2"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?ss=br4",
-        "label": "CH-3"
-      }
-    ]
-  },
-  {
     "id": "Judo-Tokyo-GrandSlam",
     "league": "",
     "team1": {
@@ -1282,6 +1178,470 @@
     "kickoff_time": "08:10",
     "match_date": "",
     "match_time": "08:10",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Modena-Catanzaro",
+    "league": "",
+    "team1": {
+      "name": "Modena"
+    },
+    "team2": {
+      "name": "Catanzaro"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "18:30",
+    "match_date": "",
+    "match_time": "18:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Pisa-Parma",
+    "league": "",
+    "team1": {
+      "name": "Pisa"
+    },
+    "team2": {
+      "name": "Parma"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "21:00",
+    "match_date": "",
+    "match_time": "21:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Farense-Vizela",
+    "league": "",
+    "team1": {
+      "name": "Farense"
+    },
+    "team2": {
+      "name": "Vizela"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "22:30",
+    "match_date": "",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "UTAArad-Petrolul52",
+    "league": "",
+    "team1": {
+      "name": "UTA Arad"
+    },
+    "team2": {
+      "name": "Petrolul 52"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "22:30",
+    "match_date": "",
+    "match_time": "22:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Bari1908-Pescara",
+    "league": "",
+    "team1": {
+      "name": "Bari 1908"
+    },
+    "team2": {
+      "name": "Pescara"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "23:15",
+    "match_date": "",
+    "match_time": "23:15",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "HamburgerSVW-KölnW",
+    "league": "",
+    "team1": {
+      "name": "Hamburger SV W"
+    },
+    "team2": {
+      "name": "Köln W"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Udinese-Genoa",
+    "league": "",
+    "team1": {
+      "name": "Udinese"
+    },
+    "team2": {
+      "name": "Genoa"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Beşiktaş-GaziantepFK",
+    "league": "",
+    "team1": {
+      "name": "Beşiktaş"
+    },
+    "team2": {
+      "name": "Gaziantep FK"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "00:00",
+    "match_date": "",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd11",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "KoronaKielce-WisłaPłock",
+    "league": "",
+    "team1": {
+      "name": "Korona Kielce"
+    },
+    "team2": {
+      "name": "Wisła Płock"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "01:00",
+    "match_date": "",
+    "match_time": "01:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd9",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Botoşani-RapidBucureşti",
+    "league": "",
+    "team1": {
+      "name": "Botoşani"
+    },
+    "team2": {
+      "name": "Rapid Bucureşti"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "01:30",
+    "match_date": "",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd10",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "VirtusEntella-Spezia",
+    "league": "",
+    "team1": {
+      "name": "Virtus Entella"
+    },
+    "team2": {
+      "name": "Spezia"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "01:30",
+    "match_date": "",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd8",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "BrackleyTown-BurtonAlbion",
+    "league": "",
+    "team1": {
+      "name": "Brackley Town"
+    },
+    "team2": {
+      "name": "Burton Albion"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:30",
+    "match_date": "",
+    "match_time": "02:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd5",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "Torino-Milan",
+    "league": "",
+    "team1": {
+      "name": "Torino"
+    },
+    "team2": {
+      "name": "Milan"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:45",
+    "match_date": "",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd7",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv2",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "Reims-Laval",
+    "league": "",
+    "team1": {
+      "name": "Reims"
+    },
+    "team2": {
+      "name": "Laval"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "02:45",
+    "match_date": "",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd4",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "WolverhamptonWanderers-ManchesterUnited",
+    "league": "",
+    "team1": {
+      "name": "Wolverhampton Wanderers"
+    },
+    "team2": {
+      "name": "Manchester United"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "03:00",
+    "match_date": "",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd1",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven1",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br2",
+        "label": "CH-3"
+      }
+    ]
+  },
+  {
+    "id": "Osasuna-Levante",
+    "league": "",
+    "team1": {
+      "name": "Osasuna"
+    },
+    "team2": {
+      "name": "Levante"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "03:00",
+    "match_date": "",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd2",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd6",
+        "label": "CH-2"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=hd3",
+        "label": "CH-3"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=eleven2",
+        "label": "CH-4"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br3",
+        "label": "CH-5"
+      }
+    ]
+  },
+  {
+    "id": "GimnasiaLaPlata-Estudiantes",
+    "league": "",
+    "team1": {
+      "name": "Gimnasia La Plata"
+    },
+    "team2": {
+      "name": "Estudiantes"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "03:00",
+    "match_date": "",
+    "match_time": "03:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv3",
+        "label": "CH-1"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?ss=br6",
+        "label": "CH-2"
+      }
+    ]
+  },
+  {
+    "id": "VitóriaGuimarães-GilVicente",
+    "league": "",
+    "team1": {
+      "name": "Vitória Guimarães"
+    },
+    "team2": {
+      "name": "Gil Vicente"
+    },
+    "kickoff_date": "",
+    "kickoff_time": "03:30",
+    "match_date": "",
+    "match_time": "03:30",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "NBA-GoldenStateWarriors@ChicagoBulls",
+    "league": "",
+    "team1": {
+      "name": "NBA: Golden State Warriors @ Chicago Bulls"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "07:00",
+    "match_date": "",
+    "match_time": "07:00",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?ss=sporttv1",
+        "label": "CH-1"
+      }
+    ]
+  },
+  {
+    "id": "NFL-LosAngelesChargersvPhiladelphiaEagles",
+    "league": "",
+    "team1": {
+      "name": "NFL: Los Angeles Chargers v Philadelphia Eagles"
+    },
+    "team2": {
+      "name": ""
+    },
+    "kickoff_date": "",
+    "kickoff_time": "08:00",
+    "match_date": "",
+    "match_time": "08:00",
     "duration": "3.5",
     "servers": [
       {
