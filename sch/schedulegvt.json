@@ -485,12 +485,7 @@
     "match_date": "2025-12-07",
     "match_time": "23:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoMi5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-LeHavre-ParisFC",
@@ -508,12 +503,7 @@
     "match_date": "2025-12-07",
     "match_time": "23:05",
     "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNy5waHA=",
-        "label": "CH-EN"
-      }
-    ]
+    "servers": []
   },
   {
     "id": "Ligue1-Lorient-Lyon",
@@ -815,14 +805,6 @@
     "match_time": "23:50",
     "duration": "3.5",
     "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=138",
-        "label": "CH-IT"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=97",
-        "label": "CH-ES"
-      },
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoOS5waHA=",
         "label": "CH-EN"
@@ -1352,87 +1334,6 @@
     "match_time": "18:50",
     "duration": "3.5",
     "servers": []
-  },
-  {
-    "id": "FifaArabCup-Qatar-Tunisie",
-    "league": "Fifa Arab Cup",
-    "team1": {
-      "name": "Qatar",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/qatar.png"
-    },
-    "team2": {
-      "name": "Tunisia",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tunisia.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-07",
-    "match_time": "23:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=7",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=46",
-        "label": "CH-AE"
-      }
-    ]
-  },
-  {
-    "id": "FifaArabCup-Syrie-Palestine",
-    "league": "Fifa Arab Cup",
-    "team1": {
-      "name": "Syria",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/syria.png"
-    },
-    "team2": {
-      "name": "Palestine",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/palestine.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-07",
-    "match_time": "23:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=47",
-        "label": "CH-AE"
-      }
-    ]
-  },
-  {
-    "id": "NBA-NewYorkKnicks-OrlandoMagic",
-    "league": "NBA",
-    "team1": {
-      "name": "New York Knicks",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/new-york-knicks.png"
-    },
-    "team2": {
-      "name": "Orlando Magic",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/orlando-magic.png"
-    },
-    "kickoff_date": "2025-12-08",
-    "kickoff_time": "00:00",
-    "match_date": "2025-12-07",
-    "match_time": "23:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?envivo=2",
-        "label": "CH-FR"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?envivo=160",
-        "label": "CH-US"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1jZW50ZXIueHl6L2VtYmVkL2NoNjUucGhw",
-        "label": "CH-EN"
-      }
-    ]
   },
   {
     "id": "NBA-TorontoRaptors-BostonCeltics",
