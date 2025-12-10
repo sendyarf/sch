@@ -36,6 +36,137 @@
     "servers": []
   },
   {
+    "id": "PremierLeague-Burnley-Fulham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/burnley.png"
+    },
+    "team2": {
+      "name": "Fulham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fulham.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-14",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Arsenal-Wolves",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Arsenal",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/arsenal.png"
+    },
+    "team2": {
+      "name": "Wolves",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/wolves.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-14",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-CrystalPalace-ManchesterCity",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Crystal Palace",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/crystal-palace.png"
+    },
+    "team2": {
+      "name": "Manchester City",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-city.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?shaka=tnt1",
+        "label": "CH-FR"
+      }
+    ]
+  },
+  {
+    "id": "PremierLeague-Nottingham-Tottenham",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Nottingham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nottingham.png"
+    },
+    "team2": {
+      "name": "Tottenham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Sunderland-Newcastle",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Sunderland",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sunderland.png"
+    },
+    "team2": {
+      "name": "Newcastle",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/newcastle.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-WestHam-AstonVilla",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "West Ham",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/west-ham.png"
+    },
+    "team2": {
+      "name": "Aston Villa",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/aston-villa.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "PremierLeague-Brentford-Leeds",
+    "league": "England - Premier League",
+    "team1": {
+      "name": "Brentford",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/brentford.png"
+    },
+    "team2": {
+      "name": "Leeds",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/leeds.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "23:30",
+    "match_date": "2025-12-14",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Eredivisie-Telstar-Nijmegen",
     "league": "Netherlands - Eredivisie",
     "team1": {
@@ -50,6 +181,132 @@
     "kickoff_time": "22:30",
     "match_date": "2025-12-13",
     "match_time": "22:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Groningen-FCVolendam",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Groningen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/groningen.png"
+    },
+    "team2": {
+      "name": "FC Volendam",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-volendam.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "00:45",
+    "match_date": "2025-12-14",
+    "match_time": "00:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-PSV-Heracles",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "PSV",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
+    },
+    "team2": {
+      "name": "Heracles",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/heracles.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "02:00",
+    "match_date": "2025-12-14",
+    "match_time": "01:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Zwolle-Sittard",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Zwolle",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/zwolle.png"
+    },
+    "team2": {
+      "name": "Sittard",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sittard.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "03:00",
+    "match_date": "2025-12-14",
+    "match_time": "02:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-SpartaRotterdam-Heerenveen",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Sparta Rotterdam",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sparta-rotterdam.png"
+    },
+    "team2": {
+      "name": "Heerenveen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/heerenveen.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "18:15",
+    "match_date": "2025-12-14",
+    "match_time": "18:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-Ajax-Feyenoord",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "Ajax",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ajax.png"
+    },
+    "team2": {
+      "name": "Feyenoord",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/feyenoord.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "20:30",
+    "match_date": "2025-12-14",
+    "match_time": "20:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-AZAlkmaar-Excelsior",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "AZ Alkmaar",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/az-alkmaar.png"
+    },
+    "team2": {
+      "name": "Excelsior",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/excelsior.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "14.12.",
+    "match_date": "2025-12-14",
+    "match_time": "14.12.",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Eredivisie-NACBreda-Utrecht",
+    "league": "Netherlands - Eredivisie",
+    "team1": {
+      "name": "NAC Breda",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nac-breda.png"
+    },
+    "team2": {
+      "name": "Utrecht",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/utrecht.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "22:45",
+    "match_date": "2025-12-14",
+    "match_time": "22:35",
     "duration": "3.5",
     "servers": []
   },
@@ -86,6 +343,114 @@
     "kickoff_time": "23:00",
     "match_date": "2025-12-13",
     "match_time": "22:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Metz-PSG",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Metz",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/metz.png"
+    },
+    "team2": {
+      "name": "PSG",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psg.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "01:00",
+    "match_date": "2025-12-14",
+    "match_time": "00:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-ParisFC-Toulouse",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Paris FC",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/paris-fc.png"
+    },
+    "team2": {
+      "name": "Toulouse",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/toulouse.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "03:05",
+    "match_date": "2025-12-14",
+    "match_time": "02:55",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Lyon-LeHavre",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Lyon",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lyon.png"
+    },
+    "team2": {
+      "name": "Le Havre",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/le-havre.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Auxerre-Lille",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Auxerre",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/auxerre.png"
+    },
+    "team2": {
+      "name": "Lille",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lille.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "23:15",
+    "match_date": "2025-12-14",
+    "match_time": "23:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Lens-Nice",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Lens",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lens.png"
+    },
+    "team2": {
+      "name": "Nice",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/nice.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "23:15",
+    "match_date": "2025-12-14",
+    "match_time": "23:05",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Ligue1-Strasbourg-Lorient",
+    "league": "France - Ligue 1",
+    "team1": {
+      "name": "Strasbourg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/strasbourg.png"
+    },
+    "team2": {
+      "name": "Lorient",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lorient.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "23:15",
+    "match_date": "2025-12-14",
+    "match_time": "23:05",
     "duration": "3.5",
     "servers": []
   },
@@ -180,6 +545,60 @@
     "servers": []
   },
   {
+    "id": "Bundesliga-BayerLeverkusen-FCKoln",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayer-leverkusen.png"
+    },
+    "team2": {
+      "name": "FC Koln",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fc-koln.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-14",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-Freiburg-Dortmund",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Freiburg",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/freiburg.png"
+    },
+    "team2": {
+      "name": "Dortmund",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/dortmund.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:30",
+    "match_date": "2025-12-14",
+    "match_time": "21:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "Bundesliga-BayernMunich-Mainz",
+    "league": "Germany - Bundesliga",
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
+    },
+    "team2": {
+      "name": "Mainz",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/mainz.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "23:30",
+    "match_date": "2025-12-14",
+    "match_time": "23:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "SerieA-Lecce-Pisa",
     "league": "Italy - Serie A",
     "team1": {
@@ -211,6 +630,96 @@
     "kickoff_date": "2025-12-13",
     "kickoff_time": "21:00",
     "match_date": "2025-12-13",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Parma-Lazio",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Parma",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/parma.png"
+    },
+    "team2": {
+      "name": "Lazio",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/lazio.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-13",
+    "match_time": "23:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Atalanta-Cagliari",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Atalanta",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atalanta.png"
+    },
+    "team2": {
+      "name": "Cagliari",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/cagliari.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-14",
+    "match_time": "02:35",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-ACMilan-Sassuolo",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "AC Milan",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ac-milan.png"
+    },
+    "team2": {
+      "name": "Sassuolo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sassuolo.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "18:30",
+    "match_date": "2025-12-14",
+    "match_time": "18:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Fiorentina-Verona",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Fiorentina",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/fiorentina.png"
+    },
+    "team2": {
+      "name": "Verona",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/verona.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
+    "match_time": "20:50",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Udinese-Napoli",
+    "league": "Italy - Serie A",
+    "team1": {
+      "name": "Udinese",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/udinese.png"
+    },
+    "team2": {
+      "name": "Napoli",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/napoli.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "21:00",
+    "match_date": "2025-12-14",
     "match_time": "20:50",
     "duration": "3.5",
     "servers": []
@@ -270,146 +779,74 @@
     "servers": []
   },
   {
-    "id": "ChampionsLeague-BayernMunich-SportingCP",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Bayern Munich",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/bayern-munich.png"
-    },
-    "team2": {
-      "name": "Sporting CP",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sporting-cp.png"
-    },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "00:45",
-    "match_date": "2025-12-10",
-    "match_time": "00:35",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Atalanta-Chelsea",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Atalanta",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atalanta.png"
-    },
-    "team2": {
-      "name": "Chelsea",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/chelsea.png"
-    },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Barcelona-EintrachtFrankfurt",
-    "league": "UEFA Champions League",
+    "id": "LaLiga-Barcelona-Osasuna",
+    "league": "Spain - La Liga",
     "team1": {
       "name": "Barcelona",
       "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/barcelona.png"
     },
     "team2": {
-      "name": "Eintracht Frankfurt",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/eintracht-frankfurt.png"
+      "name": "Osasuna",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/osasuna.png"
     },
-    "kickoff_date": "2025-12-10",
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-14",
+    "match_time": "00:20",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "LaLiga-Getafe-Espanyol",
+    "league": "Spain - La Liga",
+    "team1": {
+      "name": "Getafe",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/getafe.png"
+    },
+    "team2": {
+      "name": "Espanyol",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/espanyol.png"
+    },
+    "kickoff_date": "2025-12-14",
     "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
+    "match_date": "2025-12-14",
     "match_time": "02:50",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ChampionsLeague-Inter-Liverpool",
-    "league": "UEFA Champions League",
+    "id": "LaLiga-Sevilla-Oviedo",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "Inter",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/inter.png"
+      "name": "Sevilla",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/sevilla.png"
     },
     "team2": {
-      "name": "Liverpool",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/liverpool.png"
+      "name": "Oviedo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/r-oviedo.png"
     },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
-    "match_time": "02:50",
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "20:00",
+    "match_date": "2025-12-14",
+    "match_time": "19:50",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ChampionsLeague-Monaco-Galatasaray",
-    "league": "UEFA Champions League",
+    "id": "LaLiga-CeltaVigo-AthBilbao",
+    "league": "Spain - La Liga",
     "team1": {
-      "name": "Monaco",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/monaco.png"
+      "name": "Celta Vigo",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/celta-vigo.png"
     },
     "team2": {
-      "name": "Galatasaray",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/galatasaray.png"
+      "name": "Ath Bilbao",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/ath-bilbao.png"
     },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-PSV-Atl.Madrid",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "PSV",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/psv.png"
-    },
-    "team2": {
-      "name": "Atl. Madrid",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/atl-madrid.png"
-    },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-RoyaleUnionSG-Marseille",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Royale Union SG",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/royale-union-sg.png"
-    },
-    "team2": {
-      "name": "Marseille",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/marseille.png"
-    },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
-    "match_time": "02:50",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Tottenham-SlaviaPrague",
-    "league": "UEFA Champions League",
-    "team1": {
-      "name": "Tottenham",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/tottenham.png"
-    },
-    "team2": {
-      "name": "Slavia Prague",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/slavia-prague.png"
-    },
-    "kickoff_date": "2025-12-10",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-10",
-    "match_time": "02:50",
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "22:15",
+    "match_date": "2025-12-14",
+    "match_time": "22:05",
     "duration": "3.5",
     "servers": []
   },
@@ -921,6 +1358,41 @@
     ]
   },
   {
+    "id": "Indonesia-SuperLeague-MalutUnited-PersibBandung",
+    "league": "Indonesia - Super League",
+    "team1": {
+      "name": "Malut United",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/malut-united.png"
+    },
+    "team2": {
+      "name": "Persib Bandung",
+      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persib-bandung.png"
+    },
+    "kickoff_date": "2025-12-14",
+    "kickoff_time": "13:30",
+    "match_date": "2025-12-14",
+    "match_time": "13:20",
+    "duration": "3.5",
+    "servers": [
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvc2QtMS00Mzc5MzQ4Lm0zdTg/dHhTZWNyZXQ9YmM2ZjBjZGM3YWZiYjVmZTc1MjRlM2FiYzI4MTZlY2MmdHhUaW1lPTY5MkM3ODE5",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly8wNzEzNTQ2NTAxZWVmYzFhZmNiMGI1NGQ2NGRjYjViOC52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlL2QxYmNlMDJkZjJjZGM1NzJkMjA1MjY1ODVhYmRkZDYzLm0zdTg/dHhTZWNyZXQ9MjhkZjZkYTNkM2U5MWY2ODdjMmY0YzY3ZTA5YzgyMmMmdHhUaW1lPTY5MmMzMTNk",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1LemVQaE5Ia0RrZG1LbTZBbWFsbGlEZE1PVzVQTDJWTFdVdzFXR0ZuZG5WM1ZGcFVObU42TWpWRFFrRndXa2RrTUhOTFpHcDNTVE50TjI0cldVUTVUMFY1VkZNM2FqZG9WWFJNY25SaGRYQm9lREZZZUhoTU9XSnZhVzQ=",
+        "label": "CH-ID"
+      },
+      {
+        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1ZM0VrdnBxdFpjbGhZcTB3ZnJvTjhHZFVOMjAyYTNCS1pFTmpWV1J3ZUc5cWRHTjBZazlyY2t0elNXZGlkU3RxTDFCRWIwRlRibG94ZEd4dk1uTmxWR2RxTWxwWVNGZEpiM05hYkRaclFtUklhVGQ2UVRCQ1IyZGljR1pyZEd0SlVHc3JMdw==",
+        "label": "CH-ID"
+      }
+    ]
+  },
+  {
     "id": "YouthLeague-RealMadrid-19-ManchesterCity-19",
     "league": "Youth League",
     "team1": {
@@ -1006,64 +1478,6 @@
       {
         "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly9zdHJlYW1zLmNlbnRlci9lbWJlZC9jaDY4LnBocA==",
         "label": "CH-EN"
-      }
-    ]
-  },
-  {
-    "id": "PremierLeague-CrystalPalace-ManchesterUtd",
-    "league": "England - Premier League",
-    "team1": {
-      "name": "Crystal Palace",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/crystal-palace.png"
-    },
-    "team2": {
-      "name": "Manchester Utd",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/manchester-utd.png"
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-30",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?shaka=tnt1",
-        "label": "CH-FR"
-      }
-    ]
-  },
-  {
-    "id": "Indonesia-SuperLeague-MaduraUnited-PersibBandung",
-    "league": "Indonesia - Super League",
-    "team1": {
-      "name": "Madura United",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/madura-united.png"
-    },
-    "team2": {
-      "name": "Persib Bandung",
-      "logo": "https://raw.githubusercontent.com/sendyarf/logos/main/Logos/persib-bandung.png"
-    },
-    "kickoff_date": "2025-11-30",
-    "kickoff_time": "19:00",
-    "match_date": "2025-11-30",
-    "match_time": "18:50",
-    "duration": "3.5",
-    "servers": [
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly9saXZlLnZpdm8yMDAuY29tL2xpdmUvc2QtMS00Mzc5MzQ4Lm0zdTg/dHhTZWNyZXQ9YmM2ZjBjZGM3YWZiYjVmZTc1MjRlM2FiYzI4MTZlY2MmdHhUaW1lPTY5MkM3ODE5",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?hls=aHR0cHM6Ly8wNzEzNTQ2NTAxZWVmYzFhZmNiMGI1NGQ2NGRjYjViOC52LnNtdGNkbnMubmV0L3BsYXkxbm0uaG55b25nc2h1bi5jbi9saXZlL2QxYmNlMDJkZjJjZGM1NzJkMjA1MjY1ODVhYmRkZDYzLm0zdTg/dHhTZWNyZXQ9MjhkZjZkYTNkM2U5MWY2ODdjMmY0YzY3ZTA5YzgyMmMmdHhUaW1lPTY5MmMzMTNk",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1LemVQaE5Ia0RrZG1LbTZBbWFsbGlEZE1PVzVQTDJWTFdVdzFXR0ZuZG5WM1ZGcFVObU42TWpWRFFrRndXa2RrTUhOTFpHcDNTVE50TjI0cldVUTVUMFY1VkZNM2FqZG9WWFJNY25SaGRYQm9lREZZZUhoTU9XSnZhVzQ=",
-        "label": "CH-ID"
-      },
-      {
-        "url": "https://multi.govoet.my.id/?iframe=aHR0cHM6Ly93aWtpc3BvcnQuY2MvcGxheT90b2tlbj1ZM0VrdnBxdFpjbGhZcTB3ZnJvTjhHZFVOMjAyYTNCS1pFTmpWV1J3ZUc5cWRHTjBZazlyY2t0elNXZGlkU3RxTDFCRWIwRlRibG94ZEd4dk1uTmxWR2RxTWxwWVNGZEpiM05hYkRaclFtUklhVGQ2UVRCQ1IyZGljR1pyZEd0SlVHc3JMdw==",
-        "label": "CH-ID"
       }
     ]
   }
