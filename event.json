@@ -416,6 +416,22 @@
     "servers": []
   },
   {
+    "id": "Ligue1-Marseille-Monaco",
+    "league": "Ligue 1",
+    "team1": {
+      "name": "Marseille"
+    },
+    "team2": {
+      "name": "Monaco"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-15",
+    "match_time": "02:45",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "Bundesliga-UnionBerlin-RBLeipzig",
     "league": "Bundesliga",
     "team1": {
@@ -544,6 +560,22 @@
     "servers": []
   },
   {
+    "id": "Bundesliga-WerderBremen-Stuttgart",
+    "league": "Bundesliga",
+    "team1": {
+      "name": "Werder Bremen"
+    },
+    "team2": {
+      "name": "Stuttgart"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "01:30",
+    "match_date": "2025-12-15",
+    "match_time": "01:30",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
     "id": "SerieA-Lecce-Pisa",
     "league": "Serie A",
     "team1": {
@@ -652,6 +684,38 @@
     "kickoff_time": "21:00",
     "match_date": "2025-12-14",
     "match_time": "21:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Genoa-Inter",
+    "league": "Serie A",
+    "team1": {
+      "name": "Genoa"
+    },
+    "team2": {
+      "name": "Inter"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "00:00",
+    "match_date": "2025-12-15",
+    "match_time": "00:00",
+    "duration": "3.5",
+    "servers": []
+  },
+  {
+    "id": "SerieA-Bologna-Juventus",
+    "league": "Serie A",
+    "team1": {
+      "name": "Bologna"
+    },
+    "team2": {
+      "name": "Juventus"
+    },
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "02:45",
+    "match_date": "2025-12-15",
+    "match_time": "02:45",
     "duration": "3.5",
     "servers": []
   },
@@ -768,145 +832,33 @@
     "servers": []
   },
   {
-    "id": "ChampionsLeague-Qarabag-Ajax",
-    "league": "Champions League",
+    "id": "LaLiga-Levante-Villarreal",
+    "league": "LaLiga",
     "team1": {
-      "name": "Qarabag"
+      "name": "Levante"
     },
     "team2": {
-      "name": "Ajax"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "00:45",
-    "match_date": "2025-12-11",
-    "match_time": "00:45",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Villarreal-FCCopenhagen",
-    "league": "Champions League",
-    "team1": {
       "name": "Villarreal"
     },
-    "team2": {
-      "name": "FC Copenhagen"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "00:45",
-    "match_date": "2025-12-11",
-    "match_time": "00:45",
+    "kickoff_date": "2025-12-15",
+    "kickoff_time": "00:30",
+    "match_date": "2025-12-15",
+    "match_time": "00:30",
     "duration": "3.5",
     "servers": []
   },
   {
-    "id": "ChampionsLeague-AthBilbao-PSG",
-    "league": "Champions League",
+    "id": "LaLiga-Alaves-RealMadrid",
+    "league": "LaLiga",
     "team1": {
-      "name": "Ath Bilbao"
+      "name": "Alaves"
     },
     "team2": {
-      "name": "PSG"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-BayerLeverkusen-Newcastle",
-    "league": "Champions League",
-    "team1": {
-      "name": "Bayer Leverkusen"
-    },
-    "team2": {
-      "name": "Newcastle"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Benfica-Napoli",
-    "league": "Champions League",
-    "team1": {
-      "name": "Benfica"
-    },
-    "team2": {
-      "name": "Napoli"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-ClubBruggeKV-Arsenal",
-    "league": "Champions League",
-    "team1": {
-      "name": "Club Brugge KV"
-    },
-    "team2": {
-      "name": "Arsenal"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Dortmund-Bodo/Glimt",
-    "league": "Champions League",
-    "team1": {
-      "name": "Dortmund"
-    },
-    "team2": {
-      "name": "Bodo/Glimt"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-Juventus-Pafos",
-    "league": "Champions League",
-    "team1": {
-      "name": "Juventus"
-    },
-    "team2": {
-      "name": "Pafos"
-    },
-    "kickoff_date": "2025-12-11",
-    "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
-    "match_time": "03:00",
-    "duration": "3.5",
-    "servers": []
-  },
-  {
-    "id": "ChampionsLeague-RealMadrid-ManchesterCity",
-    "league": "Champions League",
-    "team1": {
       "name": "Real Madrid"
     },
-    "team2": {
-      "name": "Manchester City"
-    },
-    "kickoff_date": "2025-12-11",
+    "kickoff_date": "2025-12-15",
     "kickoff_time": "03:00",
-    "match_date": "2025-12-11",
+    "match_date": "2025-12-15",
     "match_time": "03:00",
     "duration": "3.5",
     "servers": []
